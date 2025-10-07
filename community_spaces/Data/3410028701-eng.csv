@@ -1,0 +1,75 @@
+﻿"Inventory of core public infrastructure assets 1 2 3"
+"Frequency: Every 2 years"
+"Table: 34-10-0287-01"
+"Release date: 2025-02-04"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,,,
+"Public organizations","All public organizations 4","Federal government organizations","Provincial and territorial organizations","Local and regional organizations","All municipalities","All urban municipalities","All rural municipalities"
+"Core public infrastructure assets","2022","2022","2022","2022","2022","2022","2022"
+,"Number",,,,,,
+"Total buses","18,330A","8A","1,470A","16,852A","13,633A","13,489A","144B"
+"Total other rolling stock assets","6,645A","0A","1,512A","5,133A","3,840A","3,730A","110B"
+"Total other permanent public transit assets","31,402A","0A","914A","30,488A","26,334A","26,058A","276B"
+"Total other integrated assets of public transit","21,331A","0A","1,118A","20,213A","17,034A","16,768A","266B"
+"Maintenance and storage facilities 5","420A","0A","127A","293A","213A","187A","26C"
+"Total transit-exclusive bridges and tunnels","814A","0A","394A","420A","403A","403A","0A"
+,"Kilometres",,,,,,
+"Total bikeways or cycleways","28,122A","317A","2,261A","25,544A","22,989A","19,797A","3,192A"
+"Paved pathways (excludes bikeways)","11,735A","47A","191A","11,498A","10,847A","8,774A","2,074A"
+"Non-paved trails","43,754A","1,365A","20,118A","22,271B","17,859A","9,818B","8,042A"
+"Sidewalks","145,783A","25A","26,565A","119,193A","118,031A","103,198A","14,833A"
+,"Number",,,,,,
+"Footbridges","6,345A","660A","862A","4,823A","4,084A","3,525A","559A"
+"Pedestrian tunnels","379A","0A","107A","272A","260A","243A","17B"
+"Total non-linear potable water assets","13,775A","100A","138A","13,537A","10,882A","3,723A","7,160A"
+,"Kilometres",,,,,,
+"Total linear potable water assets","221,532A","8A","726A","220,798A","181,384A","119,236A","62,148A"
+,"Number",,,,,,
+"Total non-linear wastewater facilities","19,371A","71A","288A","19,012A","16,964A","7,245A","9,719A"
+,"Kilometres",,,,,,
+"Total linear wastewater assets","164,048A","21A","357A","163,670A","140,380A","103,454A","36,926A"
+,"Number",,,,,,
+"Total non-linear stormwater facilities","17,455A","60A","1,391A","16,004A","14,499A","10,821A","3,678A"
+,"Kilometres",,,,,,
+"Total linear stormwater assets","526,628A","207A","72,091A","454,330A","416,212A","125,111A","291,101A"
+,"Number",,,,,,
+"Transfer station assets 3","1,787A","41A","32A","1,714A","1,273A","175A","1,098A"
+"Total waste diversion assets","805A","0A","9A","796A","617A","219A","398A"
+"Total waste disposal assets","2,689A","12A","215A","2,462A","1,996A","685A","1,310A"
+"Culture, recreation and sports facilities 6","..","..","..","..","..","..",".."
+"Total Buildings","18,807A","2,478A","710A","15,619A","14,989A","7,617A","7,372A"
+"Total Ice facilities","2,867A","15A","18A","2,834A","2,769A","1,374A","1,396A"
+"Indoor pools","748A","0A","30A","718A","685A","542A","143B"
+"Total multi-purpose buildings","5,018A","2,408A","224A","2,386A","2,316A","1,501A","815A"
+"Total Arts and culture facilities","5,376A","55A","410A","4,911A","4,571A","2,097A","2,474A"
+"Community centres (senior and youth centres)","4,798A","0A","28A","4,770A","4,647A","2,103A","2,544A"
+"Total outdoor facilities","58,415A","1,862A","1,572A","54,981A","54,065A","42,649A","11,417A"
+"Shelters and homeless services, Total beds","..","..","..","..","..","..",".."
+"Shelters and homeless services, Total structures","..","..","..","..","..","..",".."
+"Social and affordable housing,  Total structures","..","..","..","..","..","..",".."
+"Social and affordable housing, Total units","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+
+
+
+
+Footnotes:
+1,"Figures may not add to totals due to rounding."
+2,"Estimates for 2022 may not be comparable to those for 2020 due to improved coverage and definitions as well as changes in survey methodology."
+3,"The totals where the assets are measured both in terms of kilometers and in terms of number of units are not available."
+4,"All public organizations refers to federal departments and agencies; provincial and territorial departments and agencies; regional governments; municipalities; and selected federal and provincial Crown corporations and public transit authorities. Prior to 2022, federal government departments, agencies and Crown corporations were excluded."
+5,"Maintenance/storage facility: Maintenance/storage facilities provide support and upkeep of the transit vehicle fleet, including light and/or heavy maintenance of transit vehicles. This type of building is usually joined to a vehicle storage building or yard, which provides parking for transit vehicles during downtime. Includes maintenance/storage facilities owned by an organization, as well as all maintenance/storage facilities leased by an organization through a capital lease agreement."
+6,"As of 2022, the inventory count of culture, recreation and sports facilities includes buildings (ice facilities, indoor pools, multi-purpose buildings, arts and culture facilities, and other facilities), and outdoor facilities (parks, other).  For the years 2020 and earlier, the inventory count represented any culture, recreation or sports dedicated amenities, except for arenas. Please see table 34-10-0065 for the inventory of culture, recreation, and sports amenities for years 2020 and prior."
+
+
+
+"How to cite: Statistics Canada. Table 34-10-0287-01  Inventory of core public infrastructure assets"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410028701
