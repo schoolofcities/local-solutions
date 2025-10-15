@@ -1,0 +1,28 @@
+﻿"Canadian Business Counts, with employees, June 2025 1 2 3"
+"Frequency: Semi-annual"
+"Table: 33-10-1014-01"
+"Release date: 2025-08-15"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Employment size 4","Total, with employees","1 to 4 employees","5 to 9 employees","10 to 19 employees","20 to 49 employees","50 to 99 employees","100 to 199 employees","200 to 499 employees","500 plus employees"
+"North American Industry Classification System (NAICS) 5","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]","Total, all industries  [1]"
+"Geography","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025","Period 1 -  2025"
+,"Number",,,,,,,,
+"Canada","1,375,351","780,110","248,006","168,124","112,522","38,901","16,371","7,861","3,456"
+
+
+
+
+Footnotes:
+1,"Businesses are counted according to the number of "statistical locations" they have. For example, a retail business with 10 stores and a head office is counted 11 times in the Canadian business counts. Please consult our <a href="https://www.statcan.gc.ca/eng/statistical-programs/document/1105_D16_V4"" rel="external noopener noreferrer" target="_blank">guide (opens new window)</a> for more information."
+2,"The data includes all active Canadian locations with employees."
+3,"Fluctuations in these figures from one reference period to another can come from methodological changes (for example, changes to the method for identifying inactive units or in business industrial classification strategies). As a result, these data do not only represent changes in the business population over time. Statistics Canada advises users not to use these data as a time series."
+4,"The employment size ranges provided should not be used to calculate total number of employees."
+5,"The 2022 version of the <a href="https://www.statcan.gc.ca/en/subjects/standard/naics/2022/v1/index"" rel="external noopener noreferrer" target="_blank">North American Industry Classification System (NAICS) (opens new window)</a> is used for this table."
+
+
+
+"How to cite: Statistics Canada. Table 33-10-1014-01  Canadian Business Counts, with employees, June 2025"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310101401
