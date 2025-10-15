@@ -1,0 +1,43 @@
+﻿"Structural type of dwelling and household size: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+"Frequency: Occasional"
+"Table: 98-10-0040-01"
+"Release date: 2022-04-27"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+"Universe: Private households in occupied private dwellings, 2021 Census — 100% data"
+"Variable List: Structural type of dwelling (9), Household size (8)"
+
+"Geography","Canada i1",,,,,,,
+"Household size (8) 2","Total - Household size","1 person","2 persons","3 persons","4 persons","5 or more persons","Number of persons in private households","Average household size"
+"Structural type of dwelling (9) 1"
+"Total - Structural type of dwelling","14,978,940","4,396,015","5,124,800","2,194,825","2,002,455","1,260,850","36,328,475","2.4"
+"Single-detached house","7,872,310","1,437,020","2,901,770","1,298,820","1,364,315","870,380","21,496,250","2.7"
+"Semi-detached house","746,560","164,040","240,420","136,975","125,860","79,255","2,004,855","2.7"
+"Row house","980,105","243,660","307,010","185,135","150,495","93,810","2,539,830","2.6"
+"Apartment or flat in a duplex","821,490","259,510","253,045","125,240","104,930","78,770","2,012,905","2.5"
+"Apartment in a building that has fewer than five storeys","2,738,020","1,405,530","826,020","268,085","154,710","83,670","4,942,490","1.8"
+"Apartment in a building that has five or more storeys","1,596,155","801,550","510,035","154,485","85,290","44,795","2,871,345","1.8"
+"Other single-attached house","34,880","13,565","11,635","4,390","3,235","2,060","74,700","2.1"
+"Movable dwelling 3","189,420","71,140","74,865","21,690","13,615","8,105","386,105","2.0"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i1,"Geography name: Canada; Geographic area type: Country; Geographic area type abbreviation: Country; Geographic level: Country; Province or territory abbreviation: ...; Dissemination Geography Unique Identifier (DGUID): 2021A000011124; Alternative geographic code: 01; Province or territory geocode: 01; Short-form total non-response rate: 3.1; Data quality flag: 20000; Data quality note: Excludes census data for one or more incompletely enumerated reserves or settlements."
+
+
+
+Footnotes:
+1,"Structural type of dwelling    'Structural type' refers to the structural characteristics and/or dwelling configuration, that is, whether the dwelling is a single-detached house, an apartment in a high-rise building, a row house, a mobile home, etc."
+2,"Household size    'Household size' refers to the number of persons in a private household."
+3,"The category 'Movable dwelling' includes mobile homes and other movable dwellings such as houseboats, recreational vehicles and railroad cars."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0040-01  Structural type of dwelling and household size: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810004001

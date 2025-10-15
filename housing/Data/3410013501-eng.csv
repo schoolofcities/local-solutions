@@ -1,0 +1,50 @@
+﻿"Canada Mortgage and Housing Corporation, housing starts, under construction and completions, all areas, quarterly c 1 2 3"
+"Frequency: Quarterly"
+"Table: 34-10-0135-01 (formerly CANSIM 027-0008)"
+"Release date: 2025-04-28"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+,"Geography","Canada",,,,
+,"Seasonal adjustment","Unadjusted",,,,
+"Housing estimates","Type of unit","Q2 2024","Q3 2024","Q4 2024","Q1 2025","Q2 2025"
+,,"Units",,,,
+"Housing starts","Total units","65,739","62,135","64,634","47,309","74,657"
+,"Single-detached","14,198","15,112","15,957","8,527","15,454"
+,"Multiples","51,541","47,023","48,677","38,782","59,203"
+,"Semi-detached","2,897","2,616","2,858","2,054","3,391"
+,"Row","6,909","6,915","7,167","5,068","7,084"
+,"Apartment and other unit type","41,735","37,492","38,652","31,660","48,728"
+"Housing under construction","Total units","..","..","..","..",".."
+,"Single-detached","..","..","..","..",".."
+,"Multiples","..","..","..","..",".."
+,"Semi-detached","..","..","..","..",".."
+,"Row","..","..","..","..",".."
+,"Apartment and other unit type","..","..","..","..",".."
+"Housing completions","Total units","..","..","..","..",".."
+,"Single-detached","..","..","..","..",".."
+,"Multiples","..","..","..","..",".."
+,"Semi-detached","..","..","..","..",".."
+,"Row","..","..","..","..",".."
+,"Apartment and other unit type","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+"Table Corrections:"
+Date,Note
+"2023-11-20","Time series groups from CMHC's Starts and Completions Survey and Market Absorption Survey were temporarily removed due to a data error which impacted September 2023 and Q3 2023 series values. Impacted series have been corrected and reissued."
+
+
+
+Footnotes:
+1,"Geographical areas modified every 5 years to reflect most recent census definitions, therefore, data are not strictly comparable historically."
+2,"These data are obtained from Canada Mortgage and Housing Corporation (CMHC) and are provided subject to <a href="https://www.cmhc-schl.gc.ca/about-us/terms-conditions/hmip-terms-conditions" rel="external noopener noreferrer" target="_blank">CMHC Licence Agreement for the Use of Data (opens new window)</a>."
+3,"For additional information and definitions, refer to <a href="https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-research/surveys/methods/methodology-rental-market-survey" rel="external noopener noreferrer" target="_blank">CMHC Rental Market Survey Methodology and Definitions (opens new window)</a>."
+
+
+
+"How to cite: Statistics Canada. Table 34-10-0135-01  Canada Mortgage and Housing Corporation, housing starts, under construction and completions, all areas, quarterly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410013501
