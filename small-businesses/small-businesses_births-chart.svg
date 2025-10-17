@@ -3,16 +3,27 @@
   <g id="Layer_4" data-name="Layer 4">
     <g>
       <line x1="86.4" y1="68.4" x2="86.4" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line x1="123.5" y1="67.21" x2="123.5" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="123.5" y1="68.4" x2="123.5" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
       <line x1="160.6" y1="68.4" x2="160.6" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line x1="197.7" y1="67.21" x2="197.7" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="197.7" y1="68.4" x2="197.7" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
       <line x1="234.8" y1="68.4" x2="234.8" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line x1="271.9" y1="67.21" x2="271.9" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="271.9" y1="68.4" x2="271.9" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
       <line x1="309.01" y1="68.4" x2="309.01" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line x1="346.11" y1="67.21" x2="346.11" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="346.11" y1="68.4" x2="346.11" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
       <line x1="383.21" y1="68.4" x2="383.21" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line x1="420.31" y1="67.21" x2="420.31" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="420.31" y1="68.4" x2="420.31" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
       <line x1="457.41" y1="68.4" x2="457.41" y2="61.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="67.79" y1="67.21" x2="67.79" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="104.89" y1="67.21" x2="104.89" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="141.99" y1="67.21" x2="141.99" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="179.09" y1="67.21" x2="179.09" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="216.19" y1="67.21" x2="216.19" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="253.29" y1="67.21" x2="253.29" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="290.39" y1="67.21" x2="290.39" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="327.49" y1="67.21" x2="327.49" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="364.59" y1="67.21" x2="364.59" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="401.7" y1="67.21" x2="401.7" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+      <line x1="438.8" y1="67.21" x2="438.8" y2="62.39" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
     </g>
     <text transform="translate(72.57 56.5)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">2002</tspan></text>
     <text transform="translate(146.79 56.5)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">2006</tspan></text>
@@ -64,15 +75,15 @@
       <rect x="450.73" y="89.95" width="13.36" height="103.24" fill="#00a28a" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
     </g>
     <line x1="28.8" y1="193.19" x2="475.2" y2="193.19" fill="none" stroke="#000" stroke-miterlimit="10"/>
-    <rect x="213.62" y="99.47" width="122.13" height="30.54" fill="#fff"/>
-    <rect x="283.72" y="221.62" width="120.4" height="30.54" fill="#fff"/>
+    <rect x="211.97" y="99.47" width="125.42" height="30.54" fill="#fff"/>
+    <rect x="281.69" y="221.62" width="124.48" height="30.54" fill="#fff"/>
     <polygon points="422.4 194.98 420.3 196.03 418.19 194.98 420.3 200.22 422.4 194.98" fill="#fff"/>
     <path id="path37" d="M0,295.2h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
     <text transform="translate(7.37 304.45)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Longitudinal Employment Analysis Program (2024)</tspan></text>
-    <text transform="translate(217.05 110.91)" fill="#00a28a" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="700"><tspan x="0" y="0">More small business</tspan><tspan x="5.04" y="14.4">births than deaths</tspan></text>
-    <text transform="translate(286.3 233.06)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="700"><tspan x="0" y="0">More small business</tspan><tspan x="5.04" y="14.4">deaths than births</tspan></text>
+    <text transform="translate(217.05 110.91)" fill="#00a28a" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="700"><tspan x="0" y="0">More small business</tspan><tspan x="-1.14" y="14.4">opening than closing</tspan></text>
+    <text transform="translate(286.3 233.06)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="700"><tspan x="0" y="0">More small business</tspan><tspan x="-1.14" y="14.4">closing than opening</tspan></text>
   </g>
   <g id="Layer_7" data-name="Layer 7">
-    <text transform="translate(14.4 28.8)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Net Small Business Births Across Canada</tspan></text>
+    <text transform="translate(14.4 28.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Net change in small businesses across Canada</tspan></text>
   </g>
 </svg>

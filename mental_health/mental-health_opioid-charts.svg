@@ -100,7 +100,7 @@
   <line x1="131.29" y1="143.41" x2="131.29" y2="180.88" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
   <path id="path37" d="M0,273.6h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
   <text transform="translate(7.37 282.85)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Public Health Agency of Canada (2025)</tspan></text>
-  <text transform="translate(14.4 28.8)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Opioid Deaths and Hospitalizations in Canada</tspan></text>
+  <text transform="translate(14.4 28.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Opioid deaths and hospitalizations in Canada</tspan></text>
   <g>
     <line x1="283.54" y1="174.31" x2="261.79" y2="196.27" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
     <line x1="305.29" y1="160.97" x2="283.54" y2="174.31" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>

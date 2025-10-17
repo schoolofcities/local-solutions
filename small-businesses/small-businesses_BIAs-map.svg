@@ -86,12 +86,12 @@
     <text transform="translate(380.41 300.51)" fill="#fff" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700"><tspan x="0" y="0">2</tspan></text>
   </g>
   <g id="Layer_4" data-name="Layer 4">
-    <text transform="translate(131.51 180)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="59.54" font-weight="700"><tspan x="0" y="0">343</tspan></text>
-    <text transform="translate(243.44 160.12)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16.57" font-weight="700"><tspan x="0" y="0" fill="#d3d3d3" stroke="#d3d3d3" stroke-miterlimit="10">Business Im</tspan><tspan x="98.53" y="0" fill="#fff">provement</tspan><tspan x="0" y="19.88" fill="#d3d3d3" stroke="#d3d3d3" stroke-miterlimit="10">Areas across</tspan><tspan x="104.08" y="19.88"> </tspan><tspan x="108.38" y="19.88" fill="#fff">Canada</tspan></text>
-    <text transform="translate(243.44 160.12)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16.57" font-weight="700"><tspan x="0" y="0">Business Improvement</tspan><tspan x="0" y="19.88">Areas across Canada</tspan></text>
+    <text transform="translate(98.36 177.35)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="59.54" font-weight="700"><tspan x="0" y="0">343</tspan></text>
+    <text transform="translate(210.3 157.47)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16.57" font-weight="700"><tspan x="0" y="0" fill="#d3d3d3" stroke="#d3d3d3" stroke-miterlimit="10">Business Impro</tspan><tspan x="126.8" y="0" fill="#fff">vement</tspan><tspan x="0" y="19.88" fill="#d3d3d3" stroke="#d3d3d3" stroke-miterlimit="10">Areas (BIAs) ac</tspan><tspan x="121.65" y="19.88" fill="#fff">ross</tspan><tspan x="155.9" y="19.88" letter-spacing="0em"> </tspan><tspan x="160.21" y="19.88" fill="#fff">Canada</tspan></text>
+    <text transform="translate(210.3 157.47)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16.57" font-weight="700"><tspan x="0" y="0">Business Improvement</tspan><tspan x="0" y="19.88">Areas (BIAs) across Canada*</tspan></text>
   </g>
   <g id="Layer_7" data-name="Layer 7">
     <path id="path37" d="M0,360h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
-    <text transform="translate(7.37 369.25)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Canada Business Grants</tspan></text>
+    <text transform="translate(7.37 369.25)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">*Based on data from Canada Business Grants; may not be a comprehensive count of all BIAs.</tspan></text>
   </g>
 </svg>
