@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489.6 352.8">
+  <g id="Layer_6" data-name="Layer 6">
+    <path d="M38.42,321.61h206.37c1.19,0,2.16-.97,2.16-2.16V53.91c0-1.19-.97-2.16-2.16-2.16H38.42c-1.19,0-2.16.97-2.16,2.16v265.54c0,1.19.97,2.16,2.16,2.16Z" fill="#ab2069" isolation="isolate" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M249.11,120.88h162.44c1.19,0,2.16-.97,2.16-2.16V53.91c0-1.19-.97-2.16-2.16-2.16h-162.44c-1.19,0-2.16.97-2.16,2.16v64.81c0,1.19.97,2.16,2.16,2.16Z" fill="#045872" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M249.11,321.61h77.92c1.19,0,2.16-.97,2.16-2.16v-61.25c0-1.19-.97-2.16-2.16-2.16h-77.92c-1.19,0-2.16.97-2.16,2.16v61.25c0,1.19.97,2.16,2.16,2.16Z" fill="#dc4732" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M331.34,321.61h103.64c1.19,0,2.16-.97,2.16-2.16v-61.25c0-1.19-.97-2.16-2.16-2.16h-103.64c-1.19,0-2.16.97-2.16,2.16v61.25c0,1.19.97,2.16,2.16,2.16Z" fill="#00a28a" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M249.11,256.04h185.88c1.19,0,2.16-.97,2.16-2.16v-26.87c0-1.19-.97-2.16-2.16-2.16h-185.88c-1.19,0-2.16.97-2.16,2.16v26.87c0,1.19.97,2.16,2.16,2.16Z" fill="#50a5be" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M249.11,224.85h185.88c1.19,0,2.16-.97,2.16-2.16v-99.65c0-1.19-.97-2.16-2.16-2.16h-185.88c-1.19,0-2.16.97-2.16,2.16v99.65c0,1.19.97,2.16,2.16,2.16Z" fill="#067fa3" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M415.87,120.88h19.11c1.19,0,2.16-.97,2.16-2.16v-6.43c0-1.19-.97-2.16-2.16-2.16h-19.11c-1.19,0-2.16.97-2.16,2.16v6.43c0,1.19.97,2.16,2.16,2.16Z" fill="#efc419" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+    <path d="M415.87,110.13h19.11c1.19,0,2.16-.97,2.16-2.16v-54.06c0-1.19-.97-2.16-2.16-2.16h-19.11c-1.19,0-2.16.97-2.16,2.16v54.06c0,1.19.97,2.16,2.16,2.16Z" fill="#999" isolation="isolate" opacity=".9" stroke="#fff" stroke-miterlimit="10"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="DejaVuSans-Bold-65" d="M445.68,112.29v.28h-2.33c.02.23.11.41.25.53s.35.18.61.18c.21,0,.42-.03.64-.09.22-.06.45-.16.68-.28v.77c-.24.09-.47.16-.71.2-.24.05-.47.07-.71.07-.56,0-1-.14-1.32-.43-.31-.29-.47-.69-.47-1.21s.15-.91.46-1.2c.31-.29.73-.44,1.27-.44.49,0,.88.15,1.18.44.29.29.44.69.44,1.18ZM444.66,111.96c0-.19-.06-.34-.17-.46-.11-.12-.25-.17-.43-.17-.19,0-.35.05-.47.16s-.2.27-.23.47h1.29Z" fill="#fff"/>
+    <path id="DejaVuSans-Bold-64" d="M448.56,111.2v-1.67h1v4.33h-1v-.45c-.14.18-.29.32-.45.4-.17.09-.36.13-.57.13-.38,0-.7-.15-.95-.46-.25-.31-.37-.7-.37-1.18s.12-.87.37-1.18c.25-.31.56-.46.95-.46.21,0,.41.04.57.13s.32.22.46.4ZM447.9,113.22c.21,0,.38-.08.49-.23.11-.16.17-.38.17-.68s-.06-.52-.17-.68c-.11-.16-.28-.23-.49-.23s-.37.08-.49.23c-.11.16-.17.38-.17.68s.06.52.17.68c.11.16.27.23.49.23Z" fill="#fff"/>
+    <text transform="translate(14.4 28.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Housing Typologies of Canada</tspan></text>
+    <text transform="translate(84.36 168.59)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">Single-Detached House</tspan></text>
+    <text transform="translate(294.33 65.6)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12.55" font-weight="700"><tspan x="0" y="0">Apartment </tspan></text>
+    <text transform="translate(452.5 51.07) rotate(90)" fill="#999" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700" isolation="isolate" opacity=".9"><tspan x="0" y="0">Movable</tspan><tspan x="-.31" y="12">Dwelling</tspan></text>
+    <text transform="translate(261.92 238.38)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">Apartment or Flat</tspan><tspan x="33.74" y="12">in a Duplex</tspan></text>
+    <text transform="translate(250.49 273.6)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">Semi-Detached</tspan><tspan x="21.93" y="12">House</tspan></text>
+    <text transform="translate(85.71 204.76)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="38.53" font-weight="700"><tspan x="0" y="0">52.6%</tspan></text>
+    <text transform="translate(294.33 111.6)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="35.22" font-weight="700"><tspan x="0" y="0">11%</tspan></text>
+    <text transform="translate(414.63 60.66)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9.27" font-weight="700"><tspan x="0" y="0">1.3%</tspan></text>
+    <text transform="translate(270.61 309.6)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="23.71" font-weight="700"><tspan x="0" y="0">5%</tspan></text>
+    <text transform="translate(358.38 250.28)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="27.19" font-weight="700"><tspan x="0" y="0">5.5%</tspan></text>
+    <text transform="translate(355.54 280.8)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">Row House</tspan></text>
+    <text transform="translate(355.54 301.87)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="23.71" font-weight="700"><tspan x="0" y="0">6.5%</tspan></text>
+    <text transform="translate(440.5 109.53) rotate(90)" fill="#efc419" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">Other</tspan></text>
+    <text transform="translate(414.63 118.93)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9.27" font-weight="700"><tspan x="0" y="0">0.2%</tspan></text>
+    <text transform="translate(260.42 77.6)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">in a building with ≥5 storeys</tspan></text>
+    <text transform="translate(307.99 161.56)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12.55" font-weight="700"><tspan x="0" y="0">Apartment </tspan></text>
+    <text transform="translate(307.99 207.56)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="35.22" font-weight="700"><tspan x="0" y="0">18%</tspan></text>
+    <text transform="translate(274.07 173.56)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">in a building with &lt;5 storeys</tspan></text>
+    <path id="path37" d="M0,338.49h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
+    <text transform="translate(7.37 347.74)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Canadian Census (2021)</tspan></text>
+  </g>
+</svg>

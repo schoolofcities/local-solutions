@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489.6 244.8">
+  <g id="Layer_6" data-name="Layer 6">
+    <rect x="396.86" y="144.68" width="42.34" height="28.8" rx="1.44" ry="1.44" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="431.5" y="87.08" width="7.7" height="28.8" rx="1.44" ry="1.44" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="419.95" y="87.08" width="11.55" height="28.8" rx="1.44" ry="1.44" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="331.41" y="144.68" width="65.44" height="28.8" rx="1.44" ry="1.44" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="389.16" y="87.08" width="30.8" height="28.8" rx="1.44" ry="1.44" fill="#efc419" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="204.38" y="144.68" width="127.03" height="28.8" rx="1.44" ry="1.44" fill="#efc419" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="339.11" y="87.08" width="50.04" height="28.8" rx="1.44" ry="1.44" fill="#00a28a" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="123.54" y="144.68" width="80.84" height="28.8" rx="1.44" ry="1.44" fill="#00a28a" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="50.4" y="87.08" width="288.71" height="28.8" rx="1.44" ry="1.44" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="50.4" y="144.68" width="73.14" height="28.8" rx="1.44" ry="1.44" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text transform="translate(6.59 213.33)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">Factors that impact travel burden include patients living in a different census subdivision than the hospital, greater travel </tspan><tspan x="0" y="9.6">distance required, no road available, patient is a senior or child, and hospitalization is urgent or unscheduled. </tspan></text>
+    <text transform="translate(14.4 25.2)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Hospital travel burden for urban and </tspan><tspan x="0" y="24">rural regions</tspan></text>
+    <text transform="translate(50.06 83.48)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="15" font-weight="700"><tspan x="0" y="0">Urban</tspan></text>
+    <text transform="translate(61.87 187.88)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">Very Low</tspan></text>
+    <text transform="translate(75.73 162.62)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">19%</tspan></text>
+    <text transform="translate(183.51 104.62)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">75%</tspan></text>
+    <text transform="translate(152.72 162.62)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">21%</tspan></text>
+    <text transform="translate(352.89 104.74)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">13%</tspan></text>
+    <text transform="translate(396.46 104.74)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">8%</tspan></text>
+    <text transform="translate(421.48 128.5)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">4%</tspan></text>
+    <text transform="translate(256.65 162.62)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">33%</tspan></text>
+    <text transform="translate(352.89 162.62)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">17%</tspan></text>
+    <text transform="translate(408.71 162.62)" fill="#fff" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">11%</tspan></text>
+    <text transform="translate(152.74 187.88)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">Low</tspan></text>
+    <text transform="translate(241.12 187.88)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">Moderate</tspan></text>
+    <text transform="translate(351.53 187.88)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">High</tspan></text>
+    <text transform="translate(391.54 187.88)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700"><tspan x="0" y="0">Very High</tspan></text>
+    <text transform="translate(50.56 141.08)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="15" font-weight="700"><tspan x="0" y="0">Rural</tspan></text>
+    <path id="path37" d="M0,230.4h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
+    <text transform="translate(7.37 239.65)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Hospital Morbidity Database (CIHI, 2018-2023), Statistics Canada (2024)</tspan></text>
+    <polyline points="419.95 116.6 419.95 118.24 439.2 118.24 439.2 116.6" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+</svg>
