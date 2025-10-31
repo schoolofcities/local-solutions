@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489.6 129.6">
+  <text transform="translate(75.27 61.92)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">median urban</tspan><tspan x="0" y="16.8">wait times</tspan></text>
+  <text transform="translate(336.94 61.92)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">median rural</tspan><tspan x="0" y="16.8">wait times</tspan></text>
+  <g>
+    <rect x="36.19" y="17.79" width="10.24" height="61.23"/>
+    <rect x="47.1" y="43.55" width="10.24" height="35.47"/>
+    <rect x="58" y="28.79" width="10.24" height="50.23"/>
+    <rect x="38.34" y="20.8" width="1.68" height="5.33" fill="#fff"/>
+    <rect x="43.5" y="31.16" width="1.68" height="5.33" fill="#fff"/>
+    <rect x="41.31" y="37.19" width="1.68" height="5.33" fill="#fff"/>
+    <rect x="47.78" y="45.41" width="2.16" height="3.54" fill="#fff"/>
+    <rect x="51.14" y="45.41" width="2.16" height="3.54" fill="#fff"/>
+    <rect x="54.53" y="54.74" width="2.16" height="3.54" fill="#fff"/>
+    <rect x="51.14" y="61.25" width="2.16" height="3.54" fill="#fff"/>
+    <rect x="59.25" y="71.64" width="1.42" height="5.46" fill="#fff"/>
+    <rect x="65.43" y="63.97" width="1.42" height="5.46" fill="#fff"/>
+    <rect x="63.43" y="63.97" width="1.42" height="5.46" fill="#fff"/>
+    <rect x="58.92" y="49.67" width="1.42" height="5.46" fill="#fff"/>
+    <rect x="61.7" y="42.68" width="1.42" height="5.46" fill="#fff"/>
+  </g>
+  <text transform="translate(75.27 43.37)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">32 min</tspan></text>
+  <text transform="translate(335.57 43.37)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">20 min</tspan></text>
+  <g>
+    <polygon points="319.45 40.43 298.83 32.19 278.25 40.43 278.25 78.86 319.45 78.86 319.45 40.43"/>
+    <g>
+      <polygon points="324.6 58.49 318.02 42.27 298.84 33.09 279.69 42.27 272.78 57.15 270.13 57.15 277.93 40.83 298.84 31.28 319.76 40.83 326.88 58.49 324.6 58.49" fill="#fff"/>
+      <path d="M298.84,31.83l20.53,9.37,6.77,16.79h-1.2l-6.38-15.72-.15-.36-.35-.17-18.8-8.99-.43-.21-.43.21-18.77,8.99-.32.16-.15.33-6.7,14.43h-1.54l7.38-15.44,20.53-9.38M298.84,30.73l-21.28,9.72-8.22,17.2h3.77l6.97-15.01,18.77-8.99,18.8,8.99,6.63,16.35h3.35l-7.47-18.54-21.31-9.72h0Z" fill="#fff"/>
+    </g>
+    <rect x="295.41" y="43.58" width="6.89" height="6.89" fill="#fff"/>
+    <polyline points="309.15 57.26 288.55 80.07 288.55 57.26 309.15 57.26 309.15 80.07 288.55 57.26" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <polygon points="328.42 58.25 320.46 39.66 298.84 29.8 277.25 39.66 268.84 57.26 272.66 57.26 279.79 41.88 298.84 32.76 317.91 41.88 324.6 58.25 328.42 58.25"/>
+  </g>
+  <path id="path37" d="M0,115.2h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
+  <text transform="translate(7.37 124.45)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Canadian Institute for Health and Information (2024)</tspan></text>
+  <text transform="translate(36.19 100.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20.14" font-weight="700"><tspan x="0" y="0">for community mental health counselling</tspan></text>
+</svg>
