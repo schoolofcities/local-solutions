@@ -1,52 +1,505 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244.8 237.6">
-  <g id="Layer_4" data-name="Layer 4">
-    <polyline points="233.4 150.84 189.21 150.84 189.21 164.36" fill="none" stroke="#7d2f8e" stroke-miterlimit="10" stroke-width=".5"/>
-    <polyline points="226.48 134.33 185.07 134.33 185.07 153.64" fill="none" stroke="#6c297b" stroke-miterlimit="10" stroke-width=".5"/>
-    <g>
-      <path d="M187.97,149.72c-.68-1.98-1.44-3.94-2.33-5.94l-.57.25v9.61-9.61l-15.29,6.81c1.83,4.09,3.15,8.46,3.86,13.03l15.56-2.46v-7.61c-.37-1.37-.77-2.73-1.23-4.08Z" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-      <path d="M189.21,153.8v7.61l1.58-.25c-.4-2.55-.94-4.98-1.58-7.36Z" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    </g>
-    <polyline points="237.6 184.34 189.52 184.34 189.52 170.89" fill="none" stroke="#8cbf3f" stroke-miterlimit="10" stroke-width=".5"/>
-    <line x1="189.43" y1="168.54" x2="237.86" y2="168.54" fill="none" stroke="#00a28a" stroke-miterlimit="10" stroke-width=".5"/>
-    <path d="M189.43,168.54h2.13c-.02-.44-.05-.87-.08-1.37l-17.33,1.21c.04.6.07,1.21.09,1.81l17.36-.61c-.01-.38-.03-.72-.04-1.05h-2.13Z" fill="#00a28a" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <polyline points="178.54 101.51 152.15 101.51 152.15 116.45" fill="none" stroke="#4a1c55" stroke-miterlimit="10" stroke-width=".5"/>
-    <text transform="translate(185.57 108.42)" fill="#5b2368" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="0" y="0">10 to 19</tspan></tspan><tspan font-size="5"><tspan x="3.99" y="6">employees</tspan></tspan></text>
-    <text transform="translate(195.6 126.63)" fill="#6c297b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="0" y="0">20 to 49</tspan></tspan><tspan font-size="5"><tspan x="3.99" y="6">employees</tspan></tspan></text>
-    <text transform="translate(202.52 143.07)" fill="#7d2f8e" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="0" y="0">50 to 99</tspan></tspan><tspan font-size="5"><tspan x="3.99" y="6">employees</tspan></tspan></text>
-    <text transform="translate(219.3 176.7)" fill="#8cbf3f" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="0" y="0">200+</tspan></tspan><tspan font-size="5"><tspan x="-8.59" y="6">employees</tspan></tspan></text>
-    <text transform="translate(60.17 100.3)" fill="#3a1642" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="0" y="0">1 to 4</tspan></tspan><tspan font-size="5"><tspan x="-5.16" y="6">employees</tspan></tspan></text>
-    <polyline points="55.24 107.97 81.9 107.97 81.9 122.72" fill="none" stroke="#3a1642" stroke-miterlimit="10" stroke-width=".5"/>
-    <path d="M122.22,102.6c-15.04,0-28.96,4.78-40.32,12.91v7.21-7.21c-17.62,12.58-29.09,33.2-29.09,56.51h17.35c0-28.75,23.31-52.06,52.06-52.06,3.71,0,7.34.39,10.83,1.13l3.61-16.97c-5.03-1.07-9.3-1.52-14.44-1.52Z" fill="#3a1642" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <circle cx="81.9" cy="122.72" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <text transform="translate(156.81 93.8)" fill="#4a1c55" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="0" y="0">5 to 9</tspan></tspan><tspan font-size="5"><tspan x="-5.16" y="6">employees</tspan></tspan></text>
-    <path d="M152.15,109.22v7.24-7.24c-4.75-2.23-9.85-3.9-15.5-5.11l-3.61,16.97c9.72,2.06,18.44,6.83,25.33,13.49l12.07-12.49c-5.77-5.57-11.7-9.76-18.29-12.86Z" fill="#4a1c55" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <circle cx="152.15" cy="116.45" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <path d="M190.79,161.15l-1.58.25v2.95-2.95l-15.56,2.46c.23,1.48.39,2.99.5,4.51l17.33-1.21c-.11-1.6-.25-2.99-.46-4.47-.07-.5-.14-1.01-.23-1.55Z" fill="#7d2f8e" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <path d="M191.63,170.8c0-.42-.02-.79-.03-1.21l-17.36.61c.01.3.02.6.02.91,0,.3.02.6.02.91h15.23v-1.12,1.12h2.12c0-.19,0-1.02-.01-1.21Z" fill="#8cbf3f" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <circle cx="185.07" cy="153.64" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <circle cx="189.21" cy="164.36" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <circle cx="189.43" cy="168.54" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <circle cx="189.52" cy="170.87" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <polyline points="216.45 116.11 174.48 116.11 174.48 136.9" fill="none" stroke="#5b2368" stroke-miterlimit="10" stroke-width=".5"/>
-    <g>
-      <path d="M185.07,142.57v1.46l.57-.25c-.18-.41-.38-.81-.57-1.21Z" fill="#5b2368" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-      <path d="M179.54,132.75c-.6-.87-1.22-1.72-1.86-2.57-1.01-1.32-2.07-2.62-3.2-3.89v10.61-10.61c-1.26-1.42-2.59-2.82-4.03-4.21l-12.07,12.49c4.77,4.61,8.66,10.12,11.4,16.27l15.29-6.81v-1.46c-1.65-3.55-3.46-6.79-5.53-9.82Z" fill="#5b2368" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    </g>
-    <circle cx="174.48" cy="136.9" r=".41" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
-    <text fill="#00a28a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700"><tspan font-size="8"><tspan x="198.02" y="160.8">100 to 199</tspan></tspan><tspan font-size="5"><tspan x="211.16" y="166.8">employees</tspan></tspan></text>
-    <text transform="translate(52.81 194.01)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.5" font-weight="700"><tspan x="0" y="0">are </tspan><tspan x="25.77" y="0" fill="#6c297b" letter-spacing="0em">small businesses</tspan></text>
-    <text transform="translate(84.58 171.68)" fill="#6c297b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="37" font-weight="700"><tspan x="0" y="0">98%</tspan></text>
-    <g>
-      <path d="M171.73,168.84c-1.46-26.04-23.04-46.71-49.44-46.71s-49.52,22.17-49.52,49.52" fill="none" stroke="#6c297b" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".5"/>
-      <path d="M172.67,168.79c.03.52-.37.96-.89.99-.52.03-.96-.37-.99-.89-.03-.52.37-.96.89-.99.52-.03.96.37.99.89Z" fill="#6c297b"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 326.4 326.40001"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="small-businesses_size-stat.svg"
+   width="3.4000001in"
+   height="3.4000001in"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="277"
+     inkscape:cy="137"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43"
+     inkscape:document-units="in">
+    <inkscape:grid
+       id="grid43"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="9.6000001"
+       spacingy="9.6000001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.2;paint-order:markers fill stroke"
+     id="rect44"
+     width="326.40002"
+     height="325.73334"
+     x="0"
+     y="0" />
+  <polyline
+     points="233.4 150.84 189.21 150.84 189.21 164.36"
+     fill="none"
+     stroke="#7d2f8e"
+     stroke-miterlimit="10"
+     stroke-width="0.5"
+     id="polyline1"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)" />
+  <polyline
+     points="226.48 134.33 185.07 134.33 185.07 153.64"
+     fill="none"
+     stroke="#6c297b"
+     stroke-miterlimit="10"
+     stroke-width="0.5"
+     id="polyline2"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)" />
+  <g
+     id="g3"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)">
+    <path
+       d="m 187.97,149.72 c -0.68,-1.98 -1.44,-3.94 -2.33,-5.94 l -0.57,0.25 v 9.61 -9.61 l -15.29,6.81 c 1.83,4.09 3.15,8.46 3.86,13.03 l 15.56,-2.46 v -7.61 c -0.37,-1.37 -0.77,-2.73 -1.23,-4.08 z"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="path2" />
+    <path
+       d="m 189.21,153.8 v 7.61 l 1.58,-0.25 c -0.4,-2.55 -0.94,-4.98 -1.58,-7.36 z"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="path3" />
   </g>
-  <g id="Layer_7" data-name="Layer 7">
-    <text transform="translate(7.2 220.91)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">Data sources: Statistics Canada (2025) Business Register, </tspan><tspan x="0" y="9.6">Business Counts in Rural and Small Town Canada</tspan></text>
-    <text transform="translate(21.6 36)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">There are 1.37 million</tspan><tspan x="0" y="24">businesses in Canada</tspan></text>
-    <rect x="0" y="21.6" width="14.4" height="14.4"/>
-    <path id="path37" d="M0,237.6h244.8" fill="none" stroke="#231f20" stroke-miterlimit="3"/>
-    <path id="path37-2" data-name="path37" d="M0,0h244.8" fill="none" stroke="#231f20" stroke-miterlimit="3"/>
+  <polyline
+     points="237.6 184.34 189.52 184.34 189.52 170.89"
+     fill="none"
+     stroke="#8cbf3f"
+     stroke-miterlimit="10"
+     stroke-width="0.5"
+     id="polyline3"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)" />
+  <line
+     x1="234.35027"
+     y1="220.51144"
+     x2="307.20001"
+     y2="220.51144"
+     fill="none"
+     stroke="#00a28a"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="line3" />
+  <path
+     d="m 234.35028,220.51147 h 3.204 c -0.0301,-0.66186 -0.0752,-1.30868 -0.12034,-2.06079 l -26.06825,1.82011 c 0.0601,0.90254 0.10526,1.82011 0.13538,2.72265 l 26.11338,-0.91757 c -0.015,-0.57161 -0.0451,-1.08305 -0.0601,-1.57944 h -3.20401 z"
+     fill="#00a28a"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="path4" />
+  <polyline
+     points="178.54 101.51 152.15 101.51 152.15 116.45"
+     fill="none"
+     stroke="#4a1c55"
+     stroke-miterlimit="10"
+     stroke-width="0.5"
+     id="polyline4"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)" />
+  <text
+     fill="#5b2368"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text7"
+     x="228.54398"
+     y="130.07732"
+     style="font-size:18.0507px;stroke-width:1.50422"><tspan
+       font-size="12.0339px"
+       id="tspan5"
+       style="stroke-width:1.50422"><tspan
+         x="228.54398"
+         y="130.07732"
+         id="tspan4"
+         style="stroke-width:1.50422">10 to 19</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan7"
+       style="stroke-width:1.50422"><tspan
+         x="234.54582"
+         y="139.10268"
+         id="tspan6"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <text
+     fill="#6c297b"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text11"
+     x="243.63138"
+     y="157.46928"
+     style="font-size:18.0507px;stroke-width:1.50422"><tspan
+       font-size="12.0339px"
+       id="tspan9"
+       style="stroke-width:1.50422"><tspan
+         x="243.63138"
+         y="157.46928"
+         id="tspan8"
+         style="stroke-width:1.50422">20 to 49</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan11"
+       style="stroke-width:1.50422"><tspan
+         x="249.63321"
+         y="166.49467"
+         id="tspan10"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <text
+     fill="#7d2f8e"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text15"
+     x="254.04062"
+     y="182.19881"
+     style="font-size:18.0507px;stroke-width:1.50422"><tspan
+       font-size="12.0339px"
+       id="tspan13"
+       style="stroke-width:1.50422"><tspan
+         x="254.04062"
+         y="182.19881"
+         id="tspan12"
+         style="stroke-width:1.50422">50 to 99</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan15"
+       style="stroke-width:1.50422"><tspan
+         x="260.04248"
+         y="191.22417"
+         id="tspan14"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <text
+     fill="#8cbf3f"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text19"
+     x="279.28159"
+     y="232.78595"
+     style="font-size:18.0507px;stroke-width:1.50422"><tspan
+       font-size="12.0339px"
+       id="tspan17"
+       style="stroke-width:1.50422"><tspan
+         x="279.28159"
+         y="232.78595"
+         id="tspan16"
+         style="stroke-width:1.50422">200+</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan19"
+       style="stroke-width:1.50422"><tspan
+         x="266.36026"
+         y="241.81133"
+         id="tspan18"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <text
+     fill="#3a1642"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text23"
+     x="39.913837"
+     y="117.86299"
+     style="font-size:18.0507px;stroke-width:1.50422"><tspan
+       font-size="12.0339px"
+       id="tspan21"
+       style="stroke-width:1.50422"><tspan
+         x="39.913837"
+         y="117.86299"
+         id="tspan20"
+         style="stroke-width:1.50422">1 to 4</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan23"
+       style="stroke-width:1.50422"><tspan
+         x="32.15202"
+         y="126.88835"
+         id="tspan22"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <polyline
+     points="55.24 107.97 81.9 107.97 81.9 122.72"
+     fill="none"
+     stroke="#3a1642"
+     stroke-miterlimit="10"
+     stroke-width="0.5"
+     id="polyline23"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)" />
+  <path
+     d="m 133.25114,121.32271 c -22.62357,0 -43.562413,7.1902 -60.65044,19.41957 v 10.84549 -10.84549 c -26.504486,18.92319 -43.757975,49.94035 -43.757975,85.0039 h 26.098347 c 0,-43.24654 35.063543,-78.31008 78.310068,-78.31008 5.58069,0 11.04104,0.58665 16.29079,1.69977 l 5.43027,-25.52673 c -7.56627,-1.60953 -13.98932,-2.28643 -21.72106,-2.28643 z"
+     fill="#3a1642"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="path23" />
+  <circle
+     cx="72.6007"
+     cy="151.58777"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle23" />
+  <text
+     fill="#4a1c55"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text27"
+     x="185.28238"
+     y="108.0855"
+     style="font-size:18.0507px;stroke-width:1.50422"><tspan
+       font-size="12.0339px"
+       id="tspan25"
+       style="stroke-width:1.50422"><tspan
+         x="185.28238"
+         y="108.0855"
+         id="tspan24"
+         style="stroke-width:1.50422">5 to 9</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan27"
+       style="stroke-width:1.50422"><tspan
+         x="177.52055"
+         y="117.11087"
+         id="tspan26"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <path
+     d="m 178.27268,131.2807 v 10.8906 -10.8906 c -7.14508,-3.35444 -14.81664,-5.86649 -23.31552,-7.68661 l -5.43027,25.52674 c 14.62109,3.09871 27.73796,10.27388 38.10209,20.29203 L 205.785,150.62505 c -8.67939,-8.37854 -17.59946,-14.68125 -27.51232,-19.34435 z"
+     fill="#4a1c55"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="path27" />
+  <circle
+     cx="178.27267"
+     cy="142.15625"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle27" />
+  <path
+     d="m 236.39603,209.39523 -2.37668,0.37605 v 4.43748 -4.43748 l -23.40578,3.7004 c 0.34598,2.22626 0.58665,4.49764 0.75212,6.78407 l 26.06825,-1.82012 c -0.16546,-2.40676 -0.37605,-4.49763 -0.69194,-6.7239 -0.10526,-0.7521 -0.21059,-1.51926 -0.34597,-2.33154 z"
+     fill="#7d2f8e"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="path28" />
+  <path
+     d="m 237.65958,223.91103 c 0,-0.63178 -0.0301,-1.18835 -0.0451,-1.82013 l -26.11338,0.91759 c 0.015,0.45127 0.0301,0.90254 0.0301,1.36884 0,0.45127 0.0301,0.90254 0.0301,1.36885 h 22.90939 v -1.68473 1.68473 h 3.18896 c 0,-0.2858 0,-1.53432 -0.015,-1.82011 z"
+     fill="#8cbf3f"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="path29" />
+  <circle
+     cx="227.79185"
+     cy="198.09848"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle29" />
+  <circle
+     cx="234.01935"
+     cy="214.2238"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle30" />
+  <circle
+     cx="234.35027"
+     cy="220.51144"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle31" />
+  <circle
+     cx="234.48566"
+     cy="224.01631"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle32" />
+  <polyline
+     points="216.45 116.11 174.48 116.11 174.48 136.9"
+     fill="none"
+     stroke="#5b2368"
+     stroke-miterlimit="10"
+     stroke-width="0.5"
+     id="polyline32"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)" />
+  <g
+     id="g33"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)">
+    <path
+       d="m 185.07,142.57 v 1.46 l 0.57,-0.25 c -0.18,-0.41 -0.38,-0.81 -0.57,-1.21 z"
+       fill="#5b2368"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="path32" />
+    <path
+       d="m 179.54,132.75 c -0.6,-0.87 -1.22,-1.72 -1.86,-2.57 -1.01,-1.32 -2.07,-2.62 -3.2,-3.89 v 10.61 -10.61 c -1.26,-1.42 -2.59,-2.82 -4.03,-4.21 l -12.07,12.49 c 4.77,4.61 8.66,10.12 11.4,16.27 l 15.29,-6.81 v -1.46 c -1.65,-3.55 -3.46,-6.79 -5.53,-9.82 z"
+       fill="#5b2368"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="path33" />
   </g>
+  <circle
+     cx="211.86208"
+     cy="172.91769"
+     r="0.61673325"
+     fill="#ffffff"
+     stroke="#ffffff"
+     stroke-miterlimit="10"
+     stroke-width="0.752114"
+     id="circle33" />
+  <text
+     fill="#00a28a"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-weight="700"
+     id="text36"
+     y="-33.011036"
+     style="font-size:18.0507px;stroke-width:1.50422"
+     x="-50.595531"><tspan
+       font-size="12.0339px"
+       id="tspan34"
+       style="stroke-width:1.50422"><tspan
+         x="247.27159"
+         y="208.86876"
+         id="tspan33"
+         style="stroke-width:1.50422">100 to 199</tspan></tspan><tspan
+       font-size="7.52114px"
+       id="tspan36"
+       style="stroke-width:1.50422"><tspan
+         x="267.03717"
+         y="217.89412"
+         id="tspan35"
+         style="stroke-width:1.50422">employees</tspan></tspan></text>
+  <text
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-size="20.3071px"
+     font-weight="700"
+     id="text38"
+     x="28.842728"
+     y="258.82416"
+     style="stroke-width:1.50422"><tspan
+       x="28.842728"
+       y="258.82416"
+       id="tspan37"
+       style="stroke-width:1.50422">are</tspan><tspan
+       x="67.606667"
+       y="258.82416"
+       fill="#6c297b"
+       letter-spacing="0em"
+       id="tspan38"
+       style="stroke-width:1.50422">small businesses</tspan></text>
+  <text
+     fill="#6c297b"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-size="55.6564px"
+     font-weight="700"
+     id="text39"
+     x="76.632042"
+     y="225.23474"
+     style="stroke-width:1.50422"><tspan
+       x="76.632042"
+       y="225.23474"
+       id="tspan39"
+       style="stroke-width:1.50422">98%</tspan></text>
+  <g
+     id="g40"
+     transform="matrix(1.5042275,0,0,1.5042275,-50.59553,-33.011035)">
+    <path
+       d="m 171.73,168.84 c -1.46,-26.04 -23.04,-46.71 -49.44,-46.71 -26.4,0 -49.52,22.17 -49.52,49.52"
+       fill="none"
+       stroke="#6c297b"
+       stroke-linecap="square"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="path39" />
+    <path
+       d="m 172.67,168.79 c 0.03,0.52 -0.37,0.96 -0.89,0.99 -0.52,0.03 -0.96,-0.37 -0.99,-0.89 -0.03,-0.52 0.37,-0.96 0.89,-0.99 0.52,-0.03 0.96,0.37 0.99,0.89 z"
+       fill="#6c297b"
+       id="path40" />
+  </g>
+  <text
+     fill="#999999"
+     font-family="OpenSans, 'Open Sans'"
+     font-size="10.6667px"
+     id="text41"
+     x="27.753124"
+     y="294.71335"
+     style="stroke-width:1.33333"><tspan
+       x="27.753124"
+       y="294.71335"
+       id="tspan40"
+       style="stroke-width:1.33333">Data sources: Statistics Canada (2025) Business Register,</tspan><tspan
+       x="27.753124"
+       y="307.51334"
+       id="tspan41"
+       style="stroke-width:1.33333">Business Counts in Rural and Small Town Canada</tspan></text>
+  <text
+     font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+     font-size="26.6667px"
+     font-weight="700"
+     id="text43"
+     x="28.800001"
+     y="38.400002"
+     style="stroke-width:1.33333"><tspan
+       x="28.800001"
+       y="38.400002"
+       id="tspan42"
+       style="stroke-width:1.33333">There are 1.37 million</tspan><tspan
+       x="28.800001"
+       y="70.400009"
+       id="tspan43"
+       style="stroke-width:1.33333">businesses in Canada</tspan></text>
+  <rect
+     x="0"
+     y="19.200001"
+     width="19.200001"
+     height="19.200001"
+     id="rect43"
+     style="stroke-width:1.33333" />
+  <path
+     id="path37"
+     d="M 0,325.73334 H 326.40001"
+     fill="none"
+     stroke="#231f20"
+     stroke-miterlimit="3"
+     style="stroke-width:1.33333" />
+  <path
+     id="path37-2"
+     data-name="path37"
+     d="M 0,0.66666502 H 326.40001"
+     fill="none"
+     stroke="#231f20"
+     stroke-miterlimit="3"
+     style="stroke-width:1.33333" />
 </svg>
