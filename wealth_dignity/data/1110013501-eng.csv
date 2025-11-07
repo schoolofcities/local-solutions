@@ -1,0 +1,55 @@
+﻿"Low income statistics by age, sex and economic family type c 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 11-10-0135-01 (formerly CANSIM 206-0041)"
+"Release date: 2025-11-07"
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area"
+""
+""
+
+"Geography","Canada 6",,,,,,,,,,,,,,,,,
+"Low income lines","Market basket measure, 2023 base 7 8",,,,,,,,,"Market basket measure, 2018 base 7",,,,,,,,
+"Statistics","Percentage of persons in low income",,,,,,,,,"Percentage of persons in low income",,,,,,,,
+"Persons in low income","2015","2016","2017","2018","2019","2020","2021","2022","2023","2015","2016","2017","2018","2019","2020","2021","2022","2023"
+"All persons","..","..","..","..","..","6.8B","7.9B","10.3A","10.9A","14.5B","12.9B","11.9A","11.2B","10.3B","6.4B","7.4B","9.9A","10.2A"
+"Persons under 18 years","..","..","..","..","..","5.1C","6.8C","10.4B","11.8B","16.3C","13.9C","11.7C","10.6C","9.4C","4.7C","6.4C","9.9B","10.7B"
+"Persons 18 to 64 years","..","..","..","..","..","8.2B","8.7B","11.5A","12.2A","15.7B","14.0B","13.4A","12.8B","11.8B","7.8B","8.2B","11.1A","11.6A"
+"Persons 65 years and over","..","..","..","..","..","3.7C","6.3C","6.3B","5.5B","7.1C","7.1C","6.1C","6.0C","5.7C","3.1C","5.6C","6.0B","5.0B"
+"Seniors in economic families 9","..","..","..","..","..","1.5D","2.6D","3.5C","3.0C","3.3D","3.5D","3.3D","2.7D","3.0D","1.3D","2.4D","3.3C","2.7C"
+"Persons under 18 years in economic families","..","..","..","..","..","4.9C","6.5C","10.2B","11.7B","16.1C","13.8C","11.6C","10.4C","9.2C","4.6C","6.1C","9.8B","10.6B"
+"Persons under 18 years in couple families with children 10","..","..","..","..","..","3.4D","4.4D","7.1C","8.7B","13.2C","10.1C","8.8C","7.8C","7.0D","3.0D","4.2D","6.8C","7.5C"
+"Persons under 18 years in female lone-parent families 11","..","..","..","..","..","17.4D","19.9D","28.5B","30.4B","39.2C","41.7C","33.1C","31.0C","28.6D","16.9D","18.4D","26.9B","29.3B"
+"Seniors not in an economic family 9","..","..","..","..","..","8.7C","14.9C","14.4B","12.5B","16.9C","16.3C","13.0C","13.7C","12.0C","7.4C","13.0C","13.8B","11.5B"
+"Non-seniors not in an economic family 12","..","..","..","..","..","28.3B","27.2B","31.7A","32.2A","38.9B","36.4B","35.5B","35.8B","33.8B","27.3B","26.2B","31.0A","31.4A"
+
+Symbol legend:
+.., not available for a specific reference period
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+"Table Corrections:"
+Date,Note
+"","On February 24, 2020, estimates of Quebec and Canada after-tax income for 2017 were corrected, leading to a revison of the low income measure (LIM) after-tax thresholds for 2017.  As a result, LIM estimates were revised for all geographies, while Market Basket Measure (MBM) and after-tax low income cut-off (LICO) estimates were revised for Quebec, Canada and Quebec census metropolitan areas."
+
+
+
+Footnotes:
+1,"Source: Centre for Housing and Income Statistics, Statistics Canada."
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (CV between 16% and 33.3%)."
+3,"Estimates are based on data from the following surveys: the Survey of Consumer Finances (SCF) from 1976 to 1992, a combination of the SCF and the Survey of Labour and Income Dynamics (SLID) from 1993 to 1997, the SLID from 1998 to 2011 and the Canadian Income Survey (CIS) beginning in 2012. For more information, see Statistics Canada, 2015, "Revisions to 2006 to 2011 income data", Income Research Paper Series, Cat. no. 75F0002MIE - No. 003. Also, two previous revisions of income data are described in Cotton, Cathy, 2000, "Bridging Two Surveys: An Integrated Series of Income Data from SCF and SLID 1989-1997", Statistics Canada, Cat. No. 75F0002MIE - No. 002, and Lathe, Heather, 2005, "Survey of Labour and Income Dynamics: 2003 Historical Revision", Statistics Canada, Cat. No. 75F0002MIE - No. 009."
+4,"Income estimates from the Survey of Consumer Finances and the Canadian Income Survey for the 2022 reference year and onwards include income for persons aged 15 years and over. Income estimates from the Survey of Labour and Income Dynamics and the Canadian Income Survey for reference years prior to 2022 include income data for persons aged 16 years and over."
+5,"In recent years, the Canadian Income Survey (CIS) has introduced improvements to the methods and sources used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. CIS estimates for previous years were produced using T1 tax returns only. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2021 Reference Year (opens new window)</a> for more information. More improvements were introduced with the 2022 reference year. Foremost among these improvements is a significant increase in the sample size for a large subset of the CIS content. The weighting methodology was also improved and the target population for income data was changed from persons aged 16 years and over to persons aged 15 years and over. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+6,"Estimates for Canada do not include the territories."
+7,"The Market Basket Measure (MBM) is based on the cost of a specific basket of goods and services representing a modest, basic standard of living. It includes the costs of food, clothing, shelter, transportation and other items for a reference family. These costs are compared to the disposable income of families to determine whether or not they fall below the poverty line."
+8,"For more information on the 2023-base Market Basket Measure, please consult the document <a href="https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2025003-eng.htm" rel="external noopener noreferrer" target="_blank"> The proposed methodology for the 2023-base Market Basket Measure of poverty (opens new window)</a>."
+9,"A "senior" is a person 65 years or older."
+10,"Children under 18 in families where the major income earner is less than 65 years old and part of a couple with at least one child (natural, adopted, step, or foster) under 18 years of age. Other relatives may also be in the family."
+11,"Children under 18 in families where the major income earner is a female less than 65 years old who is not part of a couple and has at least one child (natural, adopted, step, or foster) under 18 years of age. Other relatives may also be part of the family."
+12,"A "non-senior" is a person less than 65 years old."
+
+
+
+"How to cite: Statistics Canada. Table 11-10-0135-01  Low income statistics by age, sex and economic family type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013501

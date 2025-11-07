@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3.4in" height="6.7in" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 244.8 482.4">
+  <defs>
+    <linearGradient id="linear-gradient" x1="50.398" y1="249.897" x2="50.398" y2="249.897" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dc4732"/>
+      <stop offset=".5" stop-color="#efc419"/>
+      <stop offset="1" stop-color="#00a28a"/>
+    </linearGradient>
+  </defs>
+  <g id="basemaps">
+    <text transform="translate(34.199 383.159)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">NL</tspan></text>
+    <text transform="translate(33.901 361.259)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">NS</tspan></text>
+    <text transform="translate(34.121 207.958)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">AB</tspan></text>
+    <text transform="translate(34.141 186.058)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">BC</tspan></text>
+    <text transform="translate(31.421 251.758)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">MB</tspan></text>
+    <text transform="translate(32.91 317.459)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">NB</tspan></text>
+    <text transform="translate(24.6 164.158)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">NWT</tspan></text>
+    <text transform="translate(32.109 142.258)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">NU</tspan></text>
+    <text transform="translate(31.601 273.659)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">ON</tspan></text>
+    <text transform="translate(32.558 339.359)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">PEI</tspan></text>
+    <text transform="translate(32.832 295.559)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">QC</tspan></text>
+    <text transform="translate(35.3 229.858)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">SK</tspan></text>
+    <text transform="translate(35.793 120.358)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">YT</tspan></text>
+    <text transform="translate(72.38 88.073)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">provincial</tspan><tspan x="-19.852" y="9.6">minimum wage</tspan></text>
+    <text transform="translate(21.181 62.476)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Living wage assumes two parents with two children, </tspan><tspan x="0" y="10.8">and represents the hourly wage each parent must earn.</tspan></text>
+    <text transform="translate(142.225 89.986)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">local living wage</tspan></text>
+    <text transform="translate(120.712 139.823)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">no living wage data</tspan></text>
+    <text transform="translate(79.311 405.827)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">10</tspan></text>
+    <text transform="translate(112.803 405.827)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">20</tspan></text>
+    <text transform="translate(146.294 405.827)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">$30 per hour</tspan></text>
+    <g>
+      <line x1="67.144" y1="102.473" x2="67.144" y2="397.183" fill="none" stroke="#58595b" stroke-dasharray=".367 1.469" stroke-miterlimit="10" stroke-width=".184"/>
+      <line x1="83.89" y1="102.473" x2="83.89" y2="397.183" fill="none" stroke="#58595b" stroke-dasharray=".367 1.469" stroke-miterlimit="10" stroke-width=".184"/>
+      <line x1="100.635" y1="102.473" x2="100.635" y2="397.183" fill="none" stroke="#58595b" stroke-dasharray=".367 1.469" stroke-miterlimit="10" stroke-width=".184"/>
+      <line x1="117.381" y1="102.473" x2="117.381" y2="397.183" fill="none" stroke="#58595b" stroke-dasharray=".367 1.469" stroke-miterlimit="10" stroke-width=".184"/>
+      <line x1="134.126" y1="102.473" x2="134.126" y2="397.183" fill="none" stroke="#58595b" stroke-dasharray=".367 1.469" stroke-miterlimit="10" stroke-width=".184"/>
+      <line x1="150.872" y1="102.473" x2="150.872" y2="397.183" fill="none" stroke="#58595b" stroke-dasharray=".367 1.469" stroke-miterlimit="10" stroke-width=".184"/>
+    </g>
+    <text transform="translate(48.111 405.827)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">0</tspan></text>
+    <g>
+      <path d="M107.515,98.077c.488-.044,1.236-.027,1.856.422.951.689,1.048,1.996,1.109,3.232.072,1.461.119,3.365.056,5.66" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M110.481,108.899c-.249-.715-.68-1.605-1.144-2.161l1.18.455,1.198-.405c-.487.536-.955,1.407-1.233,2.112Z"/>
+    </g>
+    <g>
+      <path d="M141.391,90.014c-.675-.077-1.709-.048-2.566.736-1.314,1.202-1.449,3.483-1.533,5.641-.108,2.784-.176,6.492-.049,11" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M137.292,108.899c-.275-.706-.739-1.579-1.224-2.117l1.196.41,1.181-.45c-.467.554-.902,1.442-1.153,2.156Z"/>
+    </g>
+    <g>
+      <g>
+        <text transform="translate(147.521 383.867)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Eastern</tspan></text>
+        <text transform="translate(159.751 361.967)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Halifax</tspan></text>
+        <text transform="translate(146.684 209.227)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Calgary</tspan></text>
+        <text transform="translate(155.392 186.978)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Vancouver</tspan></text>
+        <text transform="translate(127.594 252.466)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Winnipeg</tspan></text>
+        <text transform="translate(145.411 318.167)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Moncton</tspan></text>
+        <text transform="translate(142.765 164.867)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Yellowknife</tspan></text>
+        <text transform="translate(151.579 274.367)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">GTA</tspan></text>
+        <text transform="translate(142.765 340.067)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Charlottetown</tspan></text>
+        <text transform="translate(158.573 296.267)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Montreal*</tspan></text>
+        <text transform="translate(124.881 230.687)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Regina</tspan></text>
+        <text transform="translate(151.875 121.066)" fill="#fff" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="3"><tspan x="0" y="0">Whitehorse</tspan></text>
+      </g>
+      <text transform="translate(124.881 230.687)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Regina</tspan></text>
+      <g>
+        <text transform="translate(147.521 383.867)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Eastern</tspan></text>
+        <text transform="translate(159.751 361.967)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Halifax</tspan></text>
+        <text transform="translate(146.684 209.227)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Calgary</tspan></text>
+        <text transform="translate(155.392 186.978)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Vancouver</tspan></text>
+        <text transform="translate(127.594 252.466)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Winnipeg</tspan></text>
+        <text transform="translate(145.411 318.167)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Moncton</tspan></text>
+        <text transform="translate(142.765 164.867)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Yellowknife</tspan></text>
+        <text transform="translate(151.579 274.367)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">GTA</tspan></text>
+        <text transform="translate(142.765 340.067)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Charlottetown</tspan></text>
+        <text transform="translate(158.573 296.267)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Montreal*</tspan></text>
+        <text transform="translate(151.875 121.066)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Whitehorse</tspan></text>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="155.067" width="77.968" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="127.991 155.067 128.366 155.067 128.366 155.442" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="128.366" y1="158.233" x2="128.366" y2="164.096" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="128.366 165.492 128.366 165.867 127.991 165.867" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="125.492" y1="165.867" x2="52.023" y2="165.867" fill="none" stroke="#000" stroke-dasharray=".75 2.499" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 165.867 50.398 165.867 50.398 165.492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="162.7" x2="50.398" y2="156.837" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 155.442 50.398 155.067 50.773 155.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.272" y1="155.067" x2="126.741" y2="155.067" fill="none" stroke="#000" stroke-dasharray=".75 2.499" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="155.067" width="56.767" height="10.8" fill="#eaa41e"/>
+      <g>
+        <polyline points="127.991 155.067 128.366 155.067 128.366 155.442" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="128.366" y1="158.233" x2="128.366" y2="164.096" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="128.366 165.492 128.366 165.867 127.991 165.867" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="125.492" y1="165.867" x2="52.023" y2="165.867" fill="none" stroke="#000" stroke-dasharray=".75 2.499" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 165.867 50.398 165.867 50.398 165.492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="162.7" x2="50.398" y2="156.837" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 155.442 50.398 155.067 50.773 155.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.272" y1="155.067" x2="126.741" y2="155.067" fill="none" stroke="#000" stroke-dasharray=".75 2.499" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="374.067" width="82.723" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="132.747 374.067 133.122 374.067 133.122 374.442" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="133.122" y1="377.233" x2="133.122" y2="383.096" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="133.122 384.492 133.122 384.867 132.747 384.867" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="130.201" y1="384.867" x2="52.046" y2="384.867" fill="none" stroke="#000" stroke-dasharray=".764 2.546" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 384.867 50.398 384.867 50.398 384.492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="381.7" x2="50.398" y2="375.838" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 374.442 50.398 374.067 50.773 374.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.319" y1="374.067" x2="131.474" y2="374.067" fill="none" stroke="#000" stroke-dasharray=".764 2.546" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="374.067" width="53.585" height="10.8" fill="#e68725"/>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="352.167" width="94.78" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="144.803 352.167 145.178 352.167 145.178 352.542" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="145.178" y1="355.333" x2="145.178" y2="361.196" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="145.178 362.592 145.178 362.967 144.803 362.967" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="142.289" y1="362.967" x2="52.03" y2="362.967" fill="none" stroke="#000" stroke-dasharray=".754 2.514" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 362.967 50.398 362.967 50.398 362.592" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="359.8" x2="50.398" y2="353.937" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 352.542 50.398 352.167 50.773 352.167" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.287" y1="352.167" x2="143.546" y2="352.167" fill="none" stroke="#000" stroke-dasharray=".754 2.514" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="352.167" width="55.26" height="10.8" fill="#e79723"/>
+      <g>
+        <polyline points="144.803 352.167 145.178 352.167 145.178 352.542" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="145.178" y1="355.333" x2="145.178" y2="361.196" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="145.178 362.592 145.178 362.967 144.803 362.967" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="142.289" y1="362.967" x2="52.03" y2="362.967" fill="none" stroke="#000" stroke-dasharray=".754 2.514" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 362.967 50.398 362.967 50.398 362.592" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="359.8" x2="50.398" y2="353.937" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 352.542 50.398 352.167 50.773 352.167" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.287" y1="352.167" x2="143.546" y2="352.167" fill="none" stroke="#000" stroke-dasharray=".754 2.514" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="198.867" width="81.886" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="131.909 198.867 132.284 198.867 132.284 199.242" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="132.284" y1="202.033" x2="132.284" y2="207.896" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="132.284 209.292 132.284 209.667 131.909 209.667" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="129.39" y1="209.667" x2="52.033" y2="209.667" fill="none" stroke="#000" stroke-dasharray=".756 2.52" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 209.667 50.398 209.667 50.398 209.292" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="206.5" x2="50.398" y2="200.637" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 199.242 50.398 198.867 50.773 198.867" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.293" y1="198.867" x2="130.649" y2="198.867" fill="none" stroke="#000" stroke-dasharray=".756 2.52" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="198.867" width="50.236" height="10.8" fill="#e1682b"/>
+      <g>
+        <polyline points="131.909 198.867 132.284 198.867 132.284 199.242" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="132.284" y1="202.033" x2="132.284" y2="207.896" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="132.284 209.292 132.284 209.667 131.909 209.667" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="129.39" y1="209.667" x2="52.033" y2="209.667" fill="none" stroke="#000" stroke-dasharray=".756 2.52" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 209.667 50.398 209.667 50.398 209.292" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="206.5" x2="50.398" y2="200.637" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 199.242 50.398 198.867 50.773 198.867" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.293" y1="198.867" x2="130.649" y2="198.867" fill="none" stroke="#000" stroke-dasharray=".756 2.52" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="176.967" width="90.594" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="140.617 176.967 140.992 176.967 140.992 177.342" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="140.992" y1="180.133" x2="140.992" y2="185.996" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="140.992 187.392 140.992 187.767 140.617 187.767" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="138.128" y1="187.767" x2="52.018" y2="187.767" fill="none" stroke="#000" stroke-dasharray=".747 2.489" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 187.767 50.398 187.767 50.398 187.392" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="184.6" x2="50.398" y2="178.737" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 177.342 50.398 176.967 50.773 176.967" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.262" y1="176.967" x2="139.373" y2="176.967" fill="none" stroke="#000" stroke-dasharray=".747 2.489" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="176.967" width="59.781" height="10.8" fill="#eec018"/>
+      <g>
+        <polyline points="140.617 176.967 140.992 176.967 140.992 177.342" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="140.992" y1="180.133" x2="140.992" y2="185.996" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="140.992 187.392 140.992 187.767 140.617 187.767" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="138.128" y1="187.767" x2="52.018" y2="187.767" fill="none" stroke="#000" stroke-dasharray=".747 2.489" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 187.767 50.398 187.767 50.398 187.392" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="184.6" x2="50.398" y2="178.737" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 177.342 50.398 176.967 50.773 176.967" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.262" y1="176.967" x2="139.373" y2="176.967" fill="none" stroke="#000" stroke-dasharray=".747 2.489" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <rect x="50.398" y="242.667" width="53.585" height="10.8" fill="#e68725"/>
+      <g>
+        <polyline points="112.819 242.667 113.194 242.667 113.194 243.042" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="113.194" y1="245.833" x2="113.194" y2="251.696" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="113.194 253.092 113.194 253.467 112.819 253.467" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="110.276" y1="253.467" x2="52.045" y2="253.467" fill="none" stroke="#000" stroke-dasharray=".763 2.543" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 253.467 50.398 253.467 50.398 253.092" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="250.3" x2="50.398" y2="244.437" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 243.042 50.398 242.667 50.773 242.667" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.316" y1="242.667" x2="111.548" y2="242.667" fill="none" stroke="#000" stroke-dasharray=".763 2.543" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="308.367" width="80.613" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="130.637 308.367 131.012 308.367 131.012 308.742" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="131.012" y1="311.533" x2="131.012" y2="317.396" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="131.012 318.792 131.012 319.167 130.637 319.167" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="128.156" y1="319.167" x2="52.013" y2="319.167" fill="none" stroke="#000" stroke-dasharray=".744 2.48" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 319.167 50.398 319.167 50.398 318.792" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="316" x2="50.398" y2="310.137" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 308.742 50.398 308.367 50.773 308.367" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.253" y1="308.367" x2="129.397" y2="308.367" fill="none" stroke="#000" stroke-dasharray=".744 2.48" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="308.367" width="52.413" height="10.8" fill="#e47c28"/>
+      <g>
+        <polyline points="130.637 308.367 131.012 308.367 131.012 308.742" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="131.012" y1="311.533" x2="131.012" y2="317.396" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="131.012 318.792 131.012 319.167 130.637 319.167" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="128.156" y1="319.167" x2="52.013" y2="319.167" fill="none" stroke="#000" stroke-dasharray=".744 2.48" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 319.167 50.398 319.167 50.398 318.792" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="316" x2="50.398" y2="310.137" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 308.742 50.398 308.367 50.773 308.367" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.253" y1="308.367" x2="129.397" y2="308.367" fill="none" stroke="#000" stroke-dasharray=".744 2.48" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="264.567" width="87.077" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="137.1 264.567 137.475 264.567 137.475 264.942" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="137.475" y1="267.733" x2="137.475" y2="273.596" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="137.475 274.992 137.475 275.367 137.1 275.367" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="134.62" y1="275.367" x2="52.013" y2="275.367" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 275.367 50.398 275.367 50.398 274.992" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="272.2" x2="50.398" y2="266.338" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 264.942 50.398 264.567 50.773 264.567" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.254" y1="264.567" x2="135.86" y2="264.567" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="264.567" width="58.944" height="10.8" fill="#edb81c"/>
+      <g>
+        <polyline points="137.1 264.567 137.475 264.567 137.475 264.942" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="137.475" y1="267.733" x2="137.475" y2="273.596" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="137.475 274.992 137.475 275.367 137.1 275.367" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="134.62" y1="275.367" x2="52.013" y2="275.367" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 275.367 50.398 275.367 50.398 274.992" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="272.2" x2="50.398" y2="266.338" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 264.942 50.398 264.567 50.773 264.567" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.254" y1="264.567" x2="135.86" y2="264.567" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="330.267" width="78.035" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="128.058 330.267 128.433 330.267 128.433 330.642" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="128.433" y1="333.433" x2="128.433" y2="339.296" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="128.433 340.692 128.433 341.067 128.058 341.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="125.557" y1="341.067" x2="52.024" y2="341.067" fill="none" stroke="#000" stroke-dasharray=".75 2.501" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 341.067 50.398 341.067 50.398 340.692" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="337.9" x2="50.398" y2="332.037" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 330.642 50.398 330.267 50.773 330.267" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.274" y1="330.267" x2="126.807" y2="330.267" fill="none" stroke="#000" stroke-dasharray=".75 2.501" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="330.267" width="55.26" height="10.8" fill="#e79723"/>
+      <g>
+        <polyline points="128.058 330.267 128.433 330.267 128.433 330.642" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="128.433" y1="333.433" x2="128.433" y2="339.296" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="128.433 340.692 128.433 341.067 128.058 341.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="125.557" y1="341.067" x2="52.024" y2="341.067" fill="none" stroke="#000" stroke-dasharray=".75 2.501" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 341.067 50.398 341.067 50.398 340.692" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="337.9" x2="50.398" y2="332.037" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 330.642 50.398 330.267 50.773 330.267" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.274" y1="330.267" x2="126.807" y2="330.267" fill="none" stroke="#000" stroke-dasharray=".75 2.501" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="286.467" width="93.775" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="143.799 286.467 144.174 286.467 144.174 286.842" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="144.174" y1="289.633" x2="144.174" y2="295.496" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="144.174 296.892 144.174 297.267 143.799 297.267" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="141.311" y1="297.267" x2="52.017" y2="297.267" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 297.267 50.398 297.267 50.398 296.892" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="294.1" x2="50.398" y2="288.237" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 286.842 50.398 286.467 50.773 286.467" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.261" y1="286.467" x2="142.555" y2="286.467" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="286.467" width="53.92" height="10.8" fill="#e68b24"/>
+      <g>
+        <polyline points="143.799 286.467 144.174 286.467 144.174 286.842" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="144.174" y1="289.633" x2="144.174" y2="295.496" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="144.174 296.892 144.174 297.267 143.799 297.267" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="141.311" y1="297.267" x2="52.017" y2="297.267" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 297.267 50.398 297.267 50.398 296.892" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="294.1" x2="50.398" y2="288.237" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 286.842 50.398 286.467 50.773 286.467" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.261" y1="286.467" x2="142.555" y2="286.467" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <rect x="50.398" y="220.767" width="51.408" height="10.8" fill="#e37428"/>
+      <g>
+        <polyline points="109.638 220.767 110.013 220.767 110.013 221.142" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="110.013" y1="223.933" x2="110.013" y2="229.796" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="110.013 231.192 110.013 231.567 109.638 231.567" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="107.089" y1="231.567" x2="52.047" y2="231.567" fill="none" stroke="#000" stroke-dasharray=".764 2.548" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 231.567 50.398 231.567 50.398 231.192" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="228.4" x2="50.398" y2="222.537" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 221.142 50.398 220.767 50.773 220.767" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.321" y1="220.767" x2="108.363" y2="220.767" fill="none" stroke="#000" stroke-dasharray=".764 2.548" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect x="50.398" y="111.267" width="86.776" height="10.8" fill="#fff"/>
+        <g>
+          <polyline points="136.799 111.267 137.174 111.267 137.174 111.642" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="137.174" y1="114.433" x2="137.174" y2="120.296" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="137.174 121.692 137.174 122.067 136.799 122.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="134.327" y1="122.067" x2="52.009" y2="122.067" fill="none" stroke="#000" stroke-dasharray=".742 2.472" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.773 122.067 50.398 122.067 50.398 121.692" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="50.398" y1="118.9" x2="50.398" y2="113.037" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="50.398 111.642 50.398 111.267 50.773 111.267" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="53.245" y1="111.267" x2="135.563" y2="111.267" fill="none" stroke="#000" stroke-dasharray=".742 2.472" stroke-miterlimit="10" stroke-width=".75"/>
+        </g>
+      </g>
+      <rect x="50.398" y="111.267" width="60.082" height="10.8" fill="#efc319"/>
+      <g>
+        <polyline points="136.799 111.267 137.174 111.267 137.174 111.642" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="137.174" y1="114.433" x2="137.174" y2="120.296" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="137.174 121.692 137.174 122.067 136.799 122.067" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="134.327" y1="122.067" x2="52.009" y2="122.067" fill="none" stroke="#000" stroke-dasharray=".742 2.472" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.773 122.067 50.398 122.067 50.398 121.692" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="50.398" y1="118.9" x2="50.398" y2="113.037" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="50.398 111.642 50.398 111.267 50.773 111.267" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="53.245" y1="111.267" x2="135.563" y2="111.267" fill="none" stroke="#000" stroke-dasharray=".742 2.472" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <rect x="50.398" y="133.167" width="66.144" height="10.8" fill="#87b54a"/>
+    <line x1="50.398" y1="102.473" x2="50.398" y2="397.321" fill="url(#linear-gradient)" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="path37-2" d="M0,.125h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0">Comparing provincial minimum </tspan><tspan x="0" y="20.4">wages to local living wages</tspan></text>
+    <g id="text64" isolation="isolate">
+      <text transform="translate(21.6 429.728)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Government of Canada Minimum Wage </tspan><tspan x="0" y="9.6">Database (2025), Living Wage Canada (2025), Alternatives </tspan><tspan x="0" y="19.2">North (2022), Institut de recherche et d’informations</tspan><tspan x="0" y="28.8">socioéconomiques (2025) Living Income report, Yukon </tspan><tspan x="0" y="38.4">News (2025). *Montreal reflects a single adult household.</tspan></text>
+    </g>
+    <path id="path37" d="M0,482.278h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  </g>
+</svg>

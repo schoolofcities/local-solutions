@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3.4in" height="4.9in" viewBox="0 0 244.8 352.8">
+  <g id="Layer_1" data-name="Layer 1">
+    <text transform="translate(21.6 39.6)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Comparing median after-tax income across </tspan><tspan x="0" y="10.8">demographic groups </tspan></text>
+    <text transform="translate(138.237 312.402)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">$20K</tspan></text>
+    <text transform="translate(199.392 312.402)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">$40K</tspan></text>
+    <g>
+      <path d="M198.925,66.241v7.92c0,.795-.645,1.44-1.44,1.44h-111.085v-10.8h111.085c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M211.156,116.641v7.92c0,.795-.645,1.44-1.44,1.44h-123.316v-10.8h123.316c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M189.14,134.641v7.92c0,.795-.645,1.44-1.44,1.44h-101.3v-10.8h101.3c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M185.471,167.041v7.92c0,.795-.645,1.44-1.44,1.44h-97.631v-10.8h97.631c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M200.148,185.041v7.92c0,.795-.645,1.44-1.44,1.44h-112.308v-10.8h112.308c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M185.471,217.441v7.92c0,.795-.645,1.44-1.44,1.44h-97.631v-10.8h97.631c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M203.817,235.441v7.92c0,.795-.645,1.44-1.44,1.44h-115.977v-10.8h115.977c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M205.071,267.841v7.92c0,.795-.645,1.44-1.44,1.44h-117.231v-10.8h117.231c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M227.301,285.48v7.92c0,.795-.645,1.44-1.44,1.44H86.4v-10.8h139.461c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+      <path d="M181.19,84.241v7.92c0,.795-.645,1.44-1.44,1.44h-93.35v-10.8h93.35c.795,0,1.44.645,1.44,1.44Z" fill="#067fa3"/>
+    </g>
+    <text transform="translate(48.665 72)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">All ages</tspan></text>
+    <text transform="translate(61.673 122.4)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Men</tspan></text>
+    <text transform="translate(48.673 141.253)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Women</tspan></text>
+    <text transform="translate(35.098 167.817)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Indigenous</tspan><tspan x="12.469" y="9.6">Identity</tspan></text>
+    <text transform="translate(52.911 218.466)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Visible</tspan><tspan x="-8.004" y="9.6">Minority</tspan></text>
+    <text transform="translate(28.993 237.682)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Not a Visible</tspan><tspan x="15.914" y="9.6">Minority</tspan></text>
+    <text transform="translate(27.555 268.837)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Persons with</tspan><tspan x="8.328" y="9.6">disabilities</tspan></text>
+    <text transform="translate(13.872 288)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Persons without</tspan><tspan x="22.012" y="9.6">disabilities</tspan></text>
+    <text transform="translate(15.809 187.2)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Non-Indigenous</tspan><tspan x="31.758" y="9.6">Identity</tspan></text>
+    <text transform="translate(53.782 90.853)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">Senior</tspan></text>
+    <g>
+      <line x1="198.925" y1="79.2" x2="184.207" y2="79.2" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M181.19,79.2c1.42-.527,3.182-1.426,4.274-2.378l-.86,2.378.86,2.377c-1.092-.952-2.854-1.851-4.274-2.377Z" fill="#ab2069"/>
+    </g>
+    <text transform="translate(182.604 93.409)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="7" font-weight="700"><tspan x="0" y="0">-$6K</tspan></text>
+    <text transform="translate(189.696 138.601)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="7" font-weight="700"><tspan x="0" y="0">-$7.2K</tspan></text>
+    <text transform="translate(185.47 176.4)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="7" font-weight="700"><tspan x="0" y="0">-$5K</tspan></text>
+    <text transform="translate(187.379 226.8)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="7" font-weight="700"><tspan x="0" y="0">-$6K</tspan></text>
+    <text transform="translate(205.734 277.2)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="7" font-weight="700"><tspan x="0" y="0">-$7.3K</tspan></text>
+    <g>
+      <line x1="211.156" y1="129.6" x2="192.158" y2="129.6" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M189.14,129.6c1.42-.527,3.182-1.426,4.274-2.378l-.86,2.378.86,2.377c-1.092-.952-2.854-1.851-4.274-2.377Z" fill="#ab2069"/>
+    </g>
+    <g>
+      <line x1="200.16" y1="180" x2="188.488" y2="180" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M185.471,180c1.42-.527,3.182-1.426,4.274-2.378l-.86,2.378.86,2.377c-1.092-.952-2.854-1.851-4.274-2.377Z" fill="#ab2069"/>
+    </g>
+    <g>
+      <line x1="204.192" y1="230.4" x2="188.488" y2="230.4" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M185.471,230.4c1.42-.527,3.182-1.426,4.274-2.378l-.86,2.378.86,2.377c-1.092-.952-2.854-1.851-4.274-2.377Z" fill="#ab2069"/>
+    </g>
+    <g>
+      <line x1="227.301" y1="280.8" x2="208.089" y2="280.8" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M205.071,280.8c1.42-.527,3.182-1.426,4.274-2.378l-.86,2.378.86,2.377c-1.092-.952-2.854-1.851-4.274-2.377Z" fill="#ab2069"/>
+    </g>
+    <g id="text64" isolation="isolate">
+      <text transform="translate(21.6 328.725)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2021) Census; </tspan><tspan x="0" y="9.6">Statistics Canada (2022) Canadian Survey on Disability</tspan></text>
+    </g>
+    <line x1="86.4" y1="61.2" x2="86.4" y2="306.002" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <g>
+      <line x1="116.977" y1="63.499" x2="116.977" y2="301.098" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="147.555" y1="63.499" x2="147.555" y2="301.098" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="178.132" y1="63.499" x2="178.132" y2="301.098" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="208.71" y1="63.499" x2="208.71" y2="301.098" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0">Income inequalities in Canada</tspan></text>
+    <rect id="rect75-2" data-name="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72-2" data-name="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  </g>
+</svg>

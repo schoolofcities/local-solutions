@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.3in" viewBox="0 0 489.6 309.6">
+  <g id="basemaps">
+    <line x1="152.356" y1="104.402" x2="156.959" y2="104.402" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="118.802" x2="156.959" y2="118.802" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="133.202" x2="156.959" y2="133.202" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="147.602" x2="156.959" y2="147.602" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="162.002" x2="156.959" y2="162.002" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="176.402" x2="156.959" y2="176.402" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="190.802" x2="156.959" y2="190.802" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="205.202" x2="156.959" y2="205.202" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="219.602" x2="156.959" y2="219.602" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="152.356" y1="234.002" x2="156.959" y2="234.002" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <path id="path37-2" d="M0,.125h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0">Food insecurity among families in Canada (2021)</tspan></text>
+    <g id="text64" isolation="isolate">
+      <text transform="translate(21.6 295.2)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2021) Canadian Income Survey</tspan></text>
+    </g>
+    <path id="path37" d="M0,309.494h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect id="rect75-2" data-name="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <path id="path37-2-2" data-name="path37-2" d="M0,.125h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <rect id="rect72-2" data-name="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <text transform="translate(233.743 68.986)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">18% of families in Canada </tspan><tspan x="0" y="12">experienced food insecurity in 2021</tspan></text>
+    <text transform="translate(97.895 151.202)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">All families</tspan></text>
+    <text transform="translate(70.492 180.002)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Full time student</tspan></text>
+    <text transform="translate(67.861 122.403)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Employed all year</tspan></text>
+    <text transform="translate(91.831 208.802)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Lone-parent</tspan></text>
+    <text transform="translate(97.631 223.202)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Indigenous</tspan></text>
+    <text transform="translate(34.012 165.602)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">All racial minority groups</tspan></text>
+    <text transform="translate(122.53 237.602)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Black</tspan></text>
+    <text transform="translate(31.138 194.402)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Immigrated (in 2013-2021)</tspan></text>
+    <text transform="translate(81.244 136.802)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">Canadian-born</tspan></text>
+    <text transform="translate(89.163 108.003)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0">65+ years old</tspan></text>
+    <text transform="translate(32.4 50.4)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Male primary earner</tspan></text>
+    <text transform="translate(133.2 50.4)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Female primary earner</tspan></text>
+    <text transform="translate(151.97 266.402)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">0</tspan></text>
+    <text transform="translate(189.449 266.402)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">10</tspan></text>
+    <text transform="translate(229.483 266.402)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">20</tspan></text>
+    <text transform="translate(269.072 266.402)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">30</tspan></text>
+    <text transform="translate(308.997 266.402)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">40</tspan></text>
+    <g>
+      <line x1="154.543" y1="86.459" x2="154.543" y2="252.001" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="194.355" y1="86.459" x2="194.355" y2="252.001" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="234.167" y1="86.459" x2="234.167" y2="252.002" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="273.979" y1="86.46" x2="273.979" y2="252.002" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="313.791" y1="86.46" x2="313.791" y2="252.002" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="353.602" y1="86.46" x2="353.602" y2="252.002" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <g>
+      <line x1="235.759" y1="162.002" x2="256.063" y2="162.002" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="235.759" cy="162.002" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="256.063" cy="162.002" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="294.681" y1="234.002" x2="314.189" y2="234.002" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="294.681" cy="234.002" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="314.189" cy="234.002" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="235.361" y1="190.802" x2="283.533" y2="190.802" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="235.361" cy="190.802" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="283.533" cy="190.802" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="214.261" y1="133.202" x2="229.787" y2="133.202" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="214.261" cy="133.202" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="229.787" cy="133.202" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="217.844" y1="147.602" x2="236.157" y2="147.602" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="217.844" cy="147.602" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="236.157" cy="147.602" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="190.772" y1="104.402" x2="200.725" y2="104.402" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="190.772" cy="104.402" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="200.725" cy="104.402" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="208.687" y1="118.802" x2="220.631" y2="118.802" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="208.687" cy="118.802" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="220.631" cy="118.802" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="233.57" y1="176.402" x2="269.201" y2="176.402" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="233.57" cy="176.402" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="269.201" cy="176.402" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="272.386" y1="219.602" x2="312.596" y2="219.602" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="272.386" cy="219.602" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="312.596" cy="219.602" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <line x1="251.684" y1="205.202" x2="319.364" y2="205.202" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".75"/>
+      <circle cx="251.684" cy="205.202" r="3.6" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="319.364" cy="205.202" r="3.6" fill="#6c297b" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <circle cx="25.2" cy="46.8" r="3.6" fill="#067fa3"/>
+    <circle cx="126" cy="46.8" r="3.6" fill="#6c297b"/>
+    <text transform="translate(348.363 266.402)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">50% food insecure</tspan></text>
+    <g>
+      <path d="M234.097,70.122s-9.343-3.091-8.555,10.996" fill="none" stroke="#ab2069" stroke-miterlimit="10" stroke-width=".75"/>
+      <path d="M225.74,83.373c-.477-1.031-1.253-2.295-2.029-3.056l1.828.503,1.727-.783c-.648.873-1.216,2.243-1.527,3.335Z" fill="#ab2069"/>
+    </g>
+    <line x1="225.806" y1="86.46" x2="225.806" y2="252.001" fill="none" stroke="#ab2069" stroke-dasharray="3 3" stroke-miterlimit="10"/>
+  </g>
+</svg>
