@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.1in" viewBox="0 0 489.6 295.2">
+  <g id="text64" isolation="isolate">
+    <text transform="translate(21.6 261.657)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Election Canada (2021); Statistics Canada (2018, 2023) Survey on Giving, </tspan><tspan x="0" y="9.6">Volunteering and Participating; Statistics Canada (2025) Canadian Social Survey. </tspan><tspan x="0" y="19.2">*Overall rate of volunteering includes formal (via charitable or non-profit organizations) and informal volunteering.</tspan></text>
+  </g>
+  <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <path id="path37" d="M-.069,294.993h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <path id="path37-2" d="M0,.125h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0">Metrics of social engagement</tspan></text>
+  <text transform="translate(23.282 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">2021</tspan></text>
+  <text transform="translate(24.484 64.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Voter turnout (2021)</tspan></text>
+  <g>
+    <rect x="23.083" y="148.753" width="124.547" height="7.2" fill="#e6e7e8"/>
+    <rect x="23.083" y="148.753" width="79.337" height="7.2" fill="#1e3864"/>
+  </g>
+  <g>
+    <rect x="23.083" y="161.929" width="124.547" height="7.2" fill="#e6e7e8"/>
+    <rect x="23.083" y="161.929" width="88.055" height="7.2" fill="#1e3864"/>
+  </g>
+  <g>
+    <rect x="23.083" y="135.576" width="124.547" height="7.2" fill="#e6e7e8"/>
+    <rect x="23.083" y="135.576" width="62.523" height="7.2" fill="#dc4732"/>
+  </g>
+  <g>
+    <rect x="23.083" y="122.4" width="124.547" height="7.2" fill="#e6e7e8"/>
+    <rect x="23.083" y="122.4" width="77.967" height="7.2" fill="#1e3864"/>
+  </g>
+  <g>
+    <text transform="translate(31.489 93.804)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700"><tspan x="0" y="0">62.6%</tspan></text>
+    <g>
+      <text transform="translate(110.287 86.598)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">4.6%</tspan></text>
+      <polygon points="105.903 84.98 109.345 80.635 102.461 80.635 105.903 84.98" fill="#ab2069"/>
+    </g>
+    <text transform="translate(102.389 94.046)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">from 2019</tspan></text>
+  </g>
+  <g>
+    <text transform="translate(138.594 128.989)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">all</tspan></text>
+    <text transform="translate(126.042 142.165)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">18-34</tspan></text>
+    <text transform="translate(126.042 155.341)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">35-65</tspan></text>
+    <text transform="translate(133.19 168.518)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">65+</tspan></text>
+  </g>
+  <text transform="translate(22.282 185.265)" font-size="10" font-style="italic"><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Voter participation among </tspan></tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="12">Canadians aged 18–34 was </tspan></tspan><tspan x="0" y="24" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">50%</tspan><tspan x="19.575" y="24" xml:space="preserve" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"> in 2021, the lowest </tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="36">turnout among all age </tspan></tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="48">demographics.</tspan></tspan></text>
+  <rect x="16.956" y="43.2" width="136.8" height="57.6" rx="2.16" ry="2.16" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+  <text transform="translate(204.827 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Rate of overall</tspan><tspan x="-14.203" y="14.4">volunteering (2023)</tspan></text>
+  <text transform="translate(200.33 93.804)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700"><tspan x="0" y="0">73%</tspan></text>
+  <g>
+    <text transform="translate(269.784 84.717)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">8.0%</tspan></text>
+    <polygon points="265.4 83.099 268.842 78.754 261.958 78.754 265.4 83.099" fill="#ab2069"/>
+  </g>
+  <text transform="translate(261.999 93.804)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">from 2018</tspan></text>
+  <g>
+    <text transform="translate(191.084 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">2018 - formal volunteering only*</tspan></text>
+    <text transform="translate(190.516 149.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">2023</tspan></text>
+  </g>
+  <text transform="translate(190.8 185.265)" font-size="10" font-style="italic"><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Formal volunteer rate among </tspan></tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="12">Canadians aged 25–34 </tspan></tspan><tspan x="0" y="24" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">decreased by 24%</tspan><tspan x="84.224" y="24" xml:space="preserve" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"> from </tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="36">2018, the biggest decline </tspan></tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="48">among age groups.</tspan></tspan></text>
+  <g>
+    <rect x="190.8" y="132.462" width="116.045" height="7.2" fill="#e6e7e8"/>
+    <rect x="190.8" y="132.462" width="42.705" height="7.2" fill="#dc4732"/>
+  </g>
+  <g>
+    <rect x="190.8" y="161.929" width="116.045" height="7.2" fill="#e6e7e8"/>
+    <rect x="191.035" y="161.929" width="14.854" height="7.2" fill="#dc4732"/>
+  </g>
+  <g>
+    <rect x="190.8" y="122.4" width="116.045" height="7.2" fill="#e6e7e8"/>
+    <rect x="190.8" y="122.4" width="47.695" height="7.2" fill="#1e3864"/>
+  </g>
+  <g>
+    <rect x="190.8" y="151.129" width="116.045" height="7.2" fill="#e6e7e8"/>
+    <rect x="190.8" y="151.129" width="37.135" height="7.2" fill="#1e3864"/>
+  </g>
+  <text transform="translate(297.504 128.989)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">all</tspan></text>
+  <text transform="translate(297.504 157.909)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">all</tspan></text>
+  <text transform="translate(285.129 139.242)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">24-34</tspan></text>
+  <text transform="translate(285.129 168.709)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">24-34</tspan></text>
+  <rect x="183.6" y="43.2" width="129.6" height="57.6" rx="2.16" ry="2.16" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+  <text transform="translate(357.757 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Sense of meaning</tspan><tspan x="-4.131" y="14.4">and purpose (2025)</tspan></text>
+  <g>
+    <text transform="translate(361.634 93.572)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700"><tspan x="0" y="0">56%</tspan></text>
+    <text transform="translate(410.731 84.172)" font-size="8" font-style="italic"><tspan x="0" y="0" fill="#1e3864" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">high</tspan><tspan x="16.367" y="0" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"> </tspan><tspan x="18.445" y="0" fill="#1e3864" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">rating </tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="9.6">across ages 15+ </tspan></tspan></text>
+  </g>
+  <text transform="translate(350.93 185.265)" font-size="10" font-style="italic"><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Canadians aged 15–34 </tspan></tspan><tspan x="0" y="12" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100">have the </tspan><tspan x="40.234" y="12" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">highest share of </tspan><tspan fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700"><tspan x="0" y="24">low meaning and purpose </tspan></tspan><tspan x="0" y="36" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">ratings </tspan><tspan x="36.001" y="36" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100">and the lowest share </tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="48">of high ratings compared to </tspan></tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="60">other age groups.</tspan></tspan></text>
+  <text transform="translate(412.568 128.661)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">volunteer rate</tspan></text>
+  <g>
+    <rect x="350.93" y="122.4" width="116.117" height="7.2" fill="#e6e7e8"/>
+    <rect x="350.93" y="122.4" width="19.972" height="7.2" fill="#1e3864"/>
+  </g>
+  <g>
+    <rect x="350.93" y="151.2" width="116.117" height="7.2" fill="#e6e7e8"/>
+    <rect x="350.93" y="151.2" width="64.677" height="7.2" fill="#1e3864"/>
+  </g>
+  <g>
+    <rect x="350.93" y="133.2" width="116.117" height="7.2" fill="#e6e7e8"/>
+    <rect x="350.93" y="133.2" width="47.492" height="7.2" fill="#dc4732"/>
+  </g>
+  <g>
+    <rect x="350.93" y="162" width="116.117" height="7.2" fill="#e6e7e8"/>
+    <rect x="351.046" y="162" width="31.119" height="7.2" fill="#dc4732"/>
+  </g>
+  <text transform="translate(350.93 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">low rating</tspan></text>
+  <text transform="translate(350.93 149.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">high rating</tspan></text>
+  <text transform="translate(458.133 129.116)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">all</tspan></text>
+  <text transform="translate(445.758 139.916)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">15-34</tspan></text>
+  <text transform="translate(458.133 157.917)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">all</tspan></text>
+  <text transform="translate(445.758 168.717)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">15-34</tspan></text>
+  <rect x="345.6" y="43.2" width="129.6" height="57.6" rx="2.16" ry="2.16" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+</svg>

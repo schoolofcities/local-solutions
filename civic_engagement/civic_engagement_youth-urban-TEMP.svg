@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="4.2in" viewBox="0 0 244.8 302.4">
+  <path id="path37-2" d="M0,.125h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <text transform="translate(21.6 223.023)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">0</tspan></text>
+  <text transform="translate(21.6 186.167)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">20</tspan></text>
+  <text transform="translate(21.6 149.31)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">40</tspan></text>
+  <text transform="translate(21.6 112.455)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">60</tspan></text>
+  <text transform="translate(42.925 235.439)" font-family="OpenSans, &apos;Open Sans&apos;"><tspan font-size="9"><tspan x="0" y="0">Major urban</tspan></tspan><tspan font-size="9"><tspan x="10.523" y="10.8">centres</tspan></tspan><tspan font-size="7"><tspan x="3.771" y="19.2">&gt;100K people</tspan></tspan></text>
+  <text transform="translate(105.857 235.439)" font-family="OpenSans, &apos;Open Sans&apos;"><tspan font-size="9"><tspan x="0" y="0">Smaller urban</tspan></tspan><tspan font-size="9"><tspan x="14.061" y="10.8">centres</tspan></tspan><tspan font-size="7"><tspan x=".214" y="19.2">10K - 100K people</tspan></tspan></text>
+  <text transform="translate(193.604 235.439)" font-family="OpenSans, &apos;Open Sans&apos;"><tspan font-size="9"><tspan x="0" y="0">Rural</tspan></tspan><tspan font-size="7"><tspan x="-19.291" y="8.4">Outside CMAs/CAs</tspan></tspan></text>
+  <text transform="translate(21.6 75.599)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">80%</tspan></text>
+  <g>
+    <rect x="43.2" y="88.402" width="24.417" height="134.797" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+    <rect x="70.33" y="77.074" width="24.417" height="146.125" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+  </g>
+  <g>
+    <rect x="138.157" y="207.16" width="24.417" height="16.039" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+    <rect x="111.026" y="204.266" width="24.417" height="18.933" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+  </g>
+  <g>
+    <rect x="205.983" y="201.08" width="24.417" height="22.118" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+    <rect x="178.852" y="192.647" width="24.417" height="30.552" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+  </g>
+  <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0">Canadian youth population </tspan><tspan x="0" y="20.4">living in major urban centres</tspan></text>
+  <g>
+    <line x1="21.6" y1="223.199" x2="244.8" y2="223.199" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="21.6" y1="204.77" x2="244.8" y2="204.77" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="186.342" x2="244.8" y2="186.342" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="167.914" x2="244.8" y2="167.914" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="149.486" x2="244.8" y2="149.486" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="131.058" x2="244.8" y2="131.058" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="112.63" x2="244.8" y2="112.63" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="94.201" x2="244.8" y2="94.201" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="21.6" y1="75.773" x2="244.8" y2="75.773" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+  </g>
+  <rect x="96.752" y="91.03" width="126.029" height="8.73" fill="#fff"/>
+  <text transform="translate(98.35 85.003)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700"><tspan x="0" y="0" fill="#dc4732">79% </tspan><tspan x="20.738" y="0">of Canadians aged 15-34</tspan><tspan x="0" y="10.8">live in major urban centres</tspan></text>
+  <g id="text64" isolation="isolate">
+    <text transform="translate(21.751 278.158)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Annual </tspan><tspan x="0" y="9.6">Demographic Estimates</tspan></text>
+  </g>
+  <path id="path37" d="M0,302.198h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+</svg>
