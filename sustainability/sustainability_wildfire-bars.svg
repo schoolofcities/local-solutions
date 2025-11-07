@@ -1,394 +1,1285 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.7in" viewBox="0 0 489.6 338.4">
-  <g id="Layer_5" data-name="Layer 5">
-    <rect width="489.6" height="338.4" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="6.8in"
+   height="4.7in"
+   viewBox="0 0 489.6 338.4"
+   version="1.1"
+   sodipodi:docname="sustainability_wildfire-bars.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:export-filename="sustainability_wildfire-bars.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs119" />
+  <sodipodi:namedview
+     id="namedview119"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="1.2051532"
+     inkscape:cx="336.88662"
+     inkscape:cy="241.04819"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1">
+    <inkscape:grid
+       id="grid119"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="7.1999999"
+       spacingy="7.1999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <g
+     id="Layer_5"
+     data-name="Layer 5">
+    <rect
+       width="489.6"
+       height="338.4"
+       fill="#fff"
+       id="rect1" />
   </g>
-  <g>
-    <g id="g80">
-      <path id="path80" d="M0,213.06h489.6" fill="#fff" stroke="#ebebeb" stroke-linejoin="round" stroke-width="1.13"/>
+  <g
+     id="g1">
+    <g
+       id="g80">
+      <path
+         id="path80"
+         d="M0,213.06h489.6"
+         fill="#fff"
+         stroke="#ebebeb"
+         stroke-linejoin="round"
+         stroke-width="1.13" />
     </g>
-    <g id="g80-8">
-      <path id="path80-1" d="M0,253.17h489.6" fill="#fff" stroke="#ebebeb" stroke-linejoin="round" stroke-width="1.13"/>
+    <g
+       id="g80-8">
+      <path
+         id="path80-1"
+         d="M0,253.17h489.6"
+         fill="#fff"
+         stroke="#ebebeb"
+         stroke-linejoin="round"
+         stroke-width="1.13" />
     </g>
-    <g id="g79">
-      <path id="path79" d="M0,293.08h489.6" fill="none" stroke="#ebebeb" stroke-linejoin="round" stroke-width="1.13"/>
+    <g
+       id="g79">
+      <path
+         id="path79"
+         d="M0,293.08h489.6"
+         fill="none"
+         stroke="#ebebeb"
+         stroke-linejoin="round"
+         stroke-width="1.13" />
     </g>
   </g>
-  <g id="g76">
-    <path id="path76" d="M81.36,253.07h310.36" fill="#fff" stroke="#f6f5f4" stroke-linejoin="round" stroke-width=".5"/>
+  <g
+     id="g76">
+    <path
+       id="path76"
+       d="M81.36,253.07h310.36"
+       fill="#fff"
+       stroke="#f6f5f4"
+       stroke-linejoin="round"
+       stroke-width=".5" />
   </g>
-  <g>
-    <path id="path108" d="M424.94,293.08h13.53V14.54h-13.53v278.54h0Z" fill="#dc4533"/>
-    <path id="path200-2-0" d="M424.94,14.54h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g3">
+    <path
+       id="path109"
+       d="M408.69,293.08h13.53v-23.34h-13.53v23.34Z"
+       fill="#f0ba0c" />
+    <path
+       id="path200-2-7"
+       d="M408.69,269.74h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path109" d="M408.69,293.08h13.53v-23.34h-13.53v23.34Z" fill="#f0ba0c"/>
-    <path id="path200-2-7" d="M408.69,269.74h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g4">
+    <path
+       id="path110"
+       d="M392.44,293.08h13.53v-62.68h-13.53v62.68Z"
+       fill="#eea61c" />
+    <path
+       id="path200-2-04"
+       d="M392.44,230.4h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path110" d="M392.44,293.08h13.53v-62.68h-13.53v62.68Z" fill="#eea61c"/>
-    <path id="path200-2-04" d="M392.44,230.4h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g5">
+    <path
+       id="path110-2"
+       d="M441.2,293.08h13.53v-84.82h-13.53v84.82Z"
+       fill="#e29823" />
+    <path
+       id="path200-2-04-2"
+       d="M441.2,208.26h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path110-2" d="M441.2,293.08h13.53v-84.82h-13.53v84.82Z" fill="#e29823"/>
-    <path id="path200-2-04-2" d="M441.2,208.26h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g6">
+    <path
+       id="path111"
+       d="M377.31,293.08h11.28v-3.43h-11.28v3.43Z"
+       fill="#f0c500" />
+    <path
+       id="path200-2-1"
+       d="M377.31,289.65h11.28"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path111" d="M377.31,293.08h11.28v-3.43h-11.28v3.43Z" fill="#f0c500"/>
-    <path id="path200-2-1" d="M377.31,289.65h11.28" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g7">
+    <path
+       id="path112"
+       d="M359.93,293.08h13.53v-25.63h-13.53v25.63Z"
+       fill="#f0b80f" />
+    <path
+       id="path200-2-2"
+       d="M359.93,267.45h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path112" d="M359.93,293.08h13.53v-25.63h-13.53v25.63Z" fill="#f0b80f"/>
-    <path id="path200-2-2" d="M359.93,267.45h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g8">
+    <path
+       id="path113"
+       d="M343.68,293.08h13.53v-29.82h-13.53v29.82Z"
+       fill="#f0b811" />
+    <path
+       id="path200-2-5"
+       d="M343.68,263.07h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path113" d="M343.68,293.08h13.53v-29.82h-13.53v29.82Z" fill="#f0b811"/>
-    <path id="path200-2-5" d="M343.68,263.07h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g9">
+    <path
+       id="path114"
+       d="M327.43,293.08h13.53v-48.77h-13.53v48.77Z"
+       fill="#eeae17" />
+    <path
+       id="path200-2-28"
+       d="M327.43,244.31h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path114" d="M327.43,293.08h13.53v-48.77h-13.53v48.77Z" fill="#eeae17"/>
-    <path id="path200-2-28" d="M327.43,244.31h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g10">
+    <path
+       id="path115"
+       d="M311.17,293.08h13.53v-19.43h-13.53v19.43Z"
+       fill="#f0bd0a" />
+    <path
+       id="path200-2-4"
+       d="M311.17,273.65h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path115" d="M311.17,293.08h13.53v-19.43h-13.53v19.43Z" fill="#f0bd0a"/>
-    <path id="path200-2-4" d="M311.17,273.65h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g11">
+    <path
+       id="path116"
+       d="M294.92,293.08h13.53v-53.63h-13.53v53.63Z"
+       fill="#eeab19" />
+    <path
+       id="path200-2-9"
+       d="M294.92,239.45h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path116" d="M294.92,293.08h13.53v-53.63h-13.53v53.63Z" fill="#eeab19"/>
-    <path id="path200-2-9" d="M294.92,239.45h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g12">
+    <path
+       id="path117"
+       d="M278.67,293.08h13.53v-61.73h-13.53v61.73Z"
+       fill="#eea61c" />
+    <path
+       id="path200-2-44"
+       d="M278.67,231.35h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path117" d="M278.67,293.08h13.53v-61.73h-13.53v61.73Z" fill="#eea61c"/>
-    <path id="path200-2-44" d="M278.67,231.35h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g13">
+    <path
+       id="path118"
+       d="M262.41,293.08h13.53v-66.3h-13.53v66.3Z"
+       fill="#eba31c" />
+    <path
+       id="path200-2-6"
+       d="M262.41,226.78h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path118" d="M262.41,293.08h13.53v-66.3h-13.53v66.3Z" fill="#eba31c"/>
-    <path id="path200-2-6" d="M262.41,226.78h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g14">
+    <path
+       id="path119"
+       d="M246.16,293.08h13.53v-26.2h-13.53v26.2Z"
+       fill="#f0b80f" />
+    <path
+       id="path200-2-29"
+       d="M246.16,266.88h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path119" d="M246.16,293.08h13.53v-26.2h-13.53v26.2Z" fill="#f0b80f"/>
-    <path id="path200-2-29" d="M246.16,266.88h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g15">
+    <path
+       id="path120"
+       d="M229.91,293.08h13.53v-30.86h-13.53v30.86h0Z"
+       fill="#f0b511" />
+    <path
+       id="path200-2-17"
+       d="M229.91,262.22h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path120" d="M229.91,293.08h13.53v-30.86h-13.53v30.86h0Z" fill="#f0b511"/>
-    <path id="path200-2-17" d="M229.91,262.22h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g16">
+    <path
+       id="path121"
+       d="M213.65,293.08h13.53v-45.92h-13.53v45.92Z"
+       fill="#eeb017" />
+    <path
+       id="path200-2-46"
+       d="M213.65,247.16h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path121" d="M213.65,293.08h13.53v-45.92h-13.53v45.92Z" fill="#eeb017"/>
-    <path id="path200-2-46" d="M213.65,247.16h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g17">
+    <path
+       id="path122"
+       d="M197.4,293.08h13.53v-12.38h-13.53v12.38Z"
+       fill="#f0bf05" />
+    <path
+       id="path200-2-26"
+       d="M197.4,280.7h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path122" d="M197.4,293.08h13.53v-12.38h-13.53v12.38Z" fill="#f0bf05"/>
-    <path id="path200-2-26" d="M197.4,280.7h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g18">
+    <path
+       id="path123"
+       d="M181.15,293.08h13.53v-22.29h-13.53v22.29Z"
+       fill="#f0ba0c" />
+    <path
+       id="path200-2-8"
+       d="M181.15,270.79h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path123" d="M181.15,293.08h13.53v-22.29h-13.53v22.29Z" fill="#f0ba0c"/>
-    <path id="path200-2-8" d="M181.15,270.79h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g19">
+    <path
+       id="path124"
+       d="M164.9,293.08h13.53v-24.77h-13.53v24.77Z"
+       fill="#f0b80c" />
+    <path
+       id="path200-2-88"
+       d="M164.9,268.31h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path124" d="M164.9,293.08h13.53v-24.77h-13.53v24.77Z" fill="#f0b80c"/>
-    <path id="path200-2-88" d="M164.9,268.31h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g20">
+    <path
+       id="path125"
+       d="M148.64,293.08h13.53v-30.1h-13.53v30.1Z"
+       fill="#f0b811" />
+    <path
+       id="path200-2-3"
+       d="M148.64,262.98h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path125" d="M148.64,293.08h13.53v-30.1h-13.53v30.1Z" fill="#f0b811"/>
-    <path id="path200-2-3" d="M148.64,262.98h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g21">
+    <path
+       id="path126"
+       d="M132.39,293.08h13.53v-26.01h-13.53v26.01Z"
+       fill="#f0b80f" />
+    <path
+       id="path200-2-38"
+       d="M132.39,267.07h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path126" d="M132.39,293.08h13.53v-26.01h-13.53v26.01Z" fill="#f0b80f"/>
-    <path id="path200-2-38" d="M132.39,267.07h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g22">
+    <path
+       id="path127"
+       d="M116.14,293.08h13.53v-45.53h-13.53v45.53Z"
+       fill="#eeb017" />
+    <path
+       id="path200-2-68"
+       d="M116.14,247.54h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path127" d="M116.14,293.08h13.53v-45.53h-13.53v45.53Z" fill="#eeb017"/>
-    <path id="path200-2-68" d="M116.14,247.54h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g23">
+    <path
+       id="path128"
+       d="M99.88,293.08h13.53v-28.67h-13.53v28.67Z"
+       fill="#f0b80f" />
+    <path
+       id="path200-2-87"
+       d="M99.88,264.41h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path128" d="M99.88,293.08h13.53v-28.67h-13.53v28.67Z" fill="#f0b80f"/>
-    <path id="path200-2-87" d="M99.88,264.41h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g24">
+    <path
+       id="path129"
+       d="M83.63,293.08h13.53v-43.15h-13.53v43.15Z"
+       fill="#eeb017" />
+    <path
+       id="path200-2-33"
+       d="M83.63,250.12h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path129" d="M83.63,293.08h13.53v-43.15h-13.53v43.15Z" fill="#eeb017"/>
-    <path id="path200-2-33" d="M83.63,250.12h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g25">
+    <path
+       id="path130"
+       d="M67.38,293.08h13.53v-8.95h-13.53v8.95Z"
+       fill="#f0c202" />
+    <path
+       id="path200-2-65"
+       d="M67.38,284.13h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path130" d="M67.38,293.08h13.53v-8.95h-13.53v8.95Z" fill="#f0c202"/>
-    <path id="path200-2-65" d="M67.38,284.13h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g26">
+    <path
+       id="path131"
+       d="M51.13,293.08h13.53v-9.91h-13.53s0,9.91,0,9.91Z"
+       fill="#f0c202" />
+    <path
+       id="path200-2-879"
+       d="M51.13,283.17h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path131" d="M51.13,293.08h13.53v-9.91h-13.53s0,9.91,0,9.91Z" fill="#f0c202"/>
-    <path id="path200-2-879" d="M51.13,283.17h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
+  <g
+     id="g27">
+    <path
+       id="path132"
+       d="M34.87,293.08h13.53v-26.29h-13.53v26.29Z"
+       fill="#f0b80f" />
+    <path
+       id="path200-2-10"
+       d="M34.87,267.07h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
-  <g>
-    <path id="path132" d="M34.87,293.08h13.53v-26.29h-13.53v26.29Z" fill="#f0b80f"/>
-    <path id="path200-2-10" d="M34.87,267.07h13.53" fill="none" stroke="#241f31" stroke-miterlimit="11.3" stroke-width=".7"/>
-  </g>
-  <g id="text1-2-5-4-7-0-1-6" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(22.24 210.83)" fill="#5e5c64" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">5,000,000 Hectares</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g30">
+      <g
+         isolation="isolate"
+         id="g29">
+        <g
+           isolation="isolate"
+           id="g28">
+          <text
+             transform="translate(22.24 210.83)"
+             fill="#5e5c64"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="9"
+             isolation="isolate"
+             id="text27"><tspan
+               x="0"
+               y="0"
+               id="tspan27">5,000,000 Hectares</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(22.24 250.55)" fill="#5e5c64" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">2,500,000</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g33">
+      <g
+         isolation="isolate"
+         id="g32">
+        <g
+           isolation="isolate"
+           id="g31">
+          <text
+             transform="translate(22.24 250.55)"
+             fill="#5e5c64"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="9"
+             isolation="isolate"
+             id="text30"><tspan
+               x="0"
+               y="0"
+               id="tspan30">2,500,000</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(38.37 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">99</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g36">
+      <g
+         isolation="isolate"
+         id="g35">
+        <g
+           isolation="isolate"
+           id="g34">
+          <text
+             transform="translate(38.37 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text33"><tspan
+               x="0"
+               y="0"
+               id="tspan33">99</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(70.87 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">01</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g39">
+      <g
+         isolation="isolate"
+         id="g38">
+        <g
+           isolation="isolate"
+           id="g37">
+          <text
+             transform="translate(70.87 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text36"><tspan
+               x="0"
+               y="0"
+               id="tspan36">01</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(87.13 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">02</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g42">
+      <g
+         isolation="isolate"
+         id="g41">
+        <g
+           isolation="isolate"
+           id="g40">
+          <text
+             transform="translate(87.13 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text39"><tspan
+               x="0"
+               y="0"
+               id="tspan39">02</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-5" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(103.38 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">03</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-5"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g45">
+      <g
+         isolation="isolate"
+         id="g44">
+        <g
+           isolation="isolate"
+           id="g43">
+          <text
+             transform="translate(103.38 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text42"><tspan
+               x="0"
+               y="0"
+               id="tspan42">03</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-6" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(119.63 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">04</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-6"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g48">
+      <g
+         isolation="isolate"
+         id="g47">
+        <g
+           isolation="isolate"
+           id="g46">
+          <text
+             transform="translate(119.63 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text45"><tspan
+               x="0"
+               y="0"
+               id="tspan45">04</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-5" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(135.89 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">05</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-5"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g51">
+      <g
+         isolation="isolate"
+         id="g50">
+        <g
+           isolation="isolate"
+           id="g49">
+          <text
+             transform="translate(135.89 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text48"><tspan
+               x="0"
+               y="0"
+               id="tspan48">05</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-5-4" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(152.14 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">06</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-5-4"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g54">
+      <g
+         isolation="isolate"
+         id="g53">
+        <g
+           isolation="isolate"
+           id="g52">
+          <text
+             transform="translate(152.14 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text51"><tspan
+               x="0"
+               y="0"
+               id="tspan51">06</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(168.39 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">07</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g57">
+      <g
+         isolation="isolate"
+         id="g56">
+        <g
+           isolation="isolate"
+           id="g55">
+          <text
+             transform="translate(168.39 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text54"><tspan
+               x="0"
+               y="0"
+               id="tspan54">07</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-5-4-3" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(184.65 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">08</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-5-4-3"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g60">
+      <g
+         isolation="isolate"
+         id="g59">
+        <g
+           isolation="isolate"
+           id="g58">
+          <text
+             transform="translate(184.65 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text57"><tspan
+               x="0"
+               y="0"
+               id="tspan57">08</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-8" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(200.9 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">09</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-8"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g63">
+      <g
+         isolation="isolate"
+         id="g62">
+        <g
+           isolation="isolate"
+           id="g61">
+          <text
+             transform="translate(200.9 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text60"><tspan
+               x="0"
+               y="0"
+               id="tspan60">09</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-6" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(233.4 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">11</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-6"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g66">
+      <g
+         isolation="isolate"
+         id="g65">
+        <g
+           isolation="isolate"
+           id="g64">
+          <text
+             transform="translate(233.4 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text63"><tspan
+               x="0"
+               y="0"
+               id="tspan63">11</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-4" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(249.66 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">12</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-4"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g69">
+      <g
+         isolation="isolate"
+         id="g68">
+        <g
+           isolation="isolate"
+           id="g67">
+          <text
+             transform="translate(249.66 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text66"><tspan
+               x="0"
+               y="0"
+               id="tspan66">12</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-6-4" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(395.93 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">21</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-6-4"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g72">
+      <g
+         isolation="isolate"
+         id="g71">
+        <g
+           isolation="isolate"
+           id="g70">
+          <text
+             transform="translate(395.93 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text69"><tspan
+               x="0"
+               y="0"
+               id="tspan69">21</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-4-7" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(412.19 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">22</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-4-7"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g75">
+      <g
+         isolation="isolate"
+         id="g74">
+        <g
+           isolation="isolate"
+           id="g73">
+          <text
+             transform="translate(412.19 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text72"><tspan
+               x="0"
+               y="0"
+               id="tspan72">22</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-5-8" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(265.91 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">13</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-5-8"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g81">
+      <g
+         isolation="isolate"
+         id="g78">
+        <g
+           isolation="isolate"
+           id="g77">
+          <text
+             transform="translate(265.91 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text75"><tspan
+               x="0"
+               y="0"
+               id="tspan75">13</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-6-9" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(282.16 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">14</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-6-9"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g84">
+      <g
+         isolation="isolate"
+         id="g83">
+        <g
+           isolation="isolate"
+           id="g82">
+          <text
+             transform="translate(282.16 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text81"><tspan
+               x="0"
+               y="0"
+               id="tspan81">14</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-5-7" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(298.42 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">15</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-5-7"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g87">
+      <g
+         isolation="isolate"
+         id="g86">
+        <g
+           isolation="isolate"
+           id="g85">
+          <text
+             transform="translate(298.42 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text84"><tspan
+               x="0"
+               y="0"
+               id="tspan84">15</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-5-4-4" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(314.67 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">16</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-5-4-4"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g90">
+      <g
+         isolation="isolate"
+         id="g89">
+        <g
+           isolation="isolate"
+           id="g88">
+          <text
+             transform="translate(314.67 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text87"><tspan
+               x="0"
+               y="0"
+               id="tspan87">16</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-0" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(330.92 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">17</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-0"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g93">
+      <g
+         isolation="isolate"
+         id="g92">
+        <g
+           isolation="isolate"
+           id="g91">
+          <text
+             transform="translate(330.92 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text90"><tspan
+               x="0"
+               y="0"
+               id="tspan90">17</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-5-4-3-9" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(347.17 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">18</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-5-4-3-9"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g96">
+      <g
+         isolation="isolate"
+         id="g95">
+        <g
+           isolation="isolate"
+           id="g94">
+          <text
+             transform="translate(347.17 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text93"><tspan
+               x="0"
+               y="0"
+               id="tspan93">18</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-8-5" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(363.43 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">19</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-8-5"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g99">
+      <g
+         isolation="isolate"
+         id="g98">
+        <g
+           isolation="isolate"
+           id="g97">
+          <text
+             transform="translate(363.43 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text96"><tspan
+               x="0"
+               y="0"
+               id="tspan96">19</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-1" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(51.35 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">2000</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-1"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g102">
+      <g
+         isolation="isolate"
+         id="g101">
+        <g
+           isolation="isolate"
+           id="g100">
+          <text
+             transform="translate(51.35 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text99"><tspan
+               x="0"
+               y="0"
+               id="tspan99">2000</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-1-6" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(213.88 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">2010</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-1-6"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g105">
+      <g
+         isolation="isolate"
+         id="g104">
+        <g
+           isolation="isolate"
+           id="g103">
+          <text
+             transform="translate(213.88 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text102"><tspan
+               x="0"
+               y="0"
+               id="tspan102">2010</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-1-0">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(428.44 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">23</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-1-0">
+    <g
+       isolation="isolate"
+       id="g108">
+      <g
+         isolation="isolate"
+         id="g107">
+        <g
+           isolation="isolate"
+           id="g106">
+          <text
+             transform="translate(428.44 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text105"><tspan
+               x="0"
+               y="0"
+               id="tspan105">23</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-1-0-4" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(376.41 299.18)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">2020</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-1-0-4"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g111">
+      <g
+         isolation="isolate"
+         id="g110">
+        <g
+           isolation="isolate"
+           id="g109">
+          <text
+             transform="translate(376.41 299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text108"><tspan
+               x="0"
+               y="0"
+               id="tspan108">2020</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text1-2-5-4-7-0-1-6-8-6-1-0-2" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(441.43 299.18)" fill="#231f20" font-family="OpenSans, &apos;Open Sans&apos;" font-size="5.72" isolation="isolate"><tspan x="0" y="0">2024</tspan></text>
+  <g
+     id="text1-2-5-4-7-0-1-6-8-6-1-0-2"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g114">
+      <g
+         isolation="isolate"
+         id="g113">
+        <g
+           isolation="isolate"
+           id="g112">
+          <text
+             transform="translate(441.43 299.18)"
+             fill="#231f20"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72"
+             isolation="isolate"
+             id="text111"><tspan
+               x="0"
+               y="0"
+               id="tspan111">2024</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g isolation="isolate">
-    <g isolation="isolate">
-      <text transform="translate(21.6 324)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Canadian Interagency Forest Fire Centre (2023), Canadian National Fire Database (1999-2022), Wikipedia</tspan></text>
+  <g
+     isolation="isolate"
+     id="g116">
+    <g
+       isolation="isolate"
+       id="g115">
+      <text
+         transform="translate(21.6 324)"
+         fill="#999"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="8"
+         isolation="isolate"
+         id="text114"><tspan
+           x="0"
+           y="0"
+           id="tspan114">Data source: Canadian Interagency Forest Fire Centre (2023), Canadian National Fire Database (1999-2022), Wikipedia</tspan></text>
     </g>
   </g>
-  <path id="path37-2" d="M0,.5h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3"/>
-  <g isolation="isolate">
-    <g isolation="isolate">
-      <text transform="translate(22.34 164.507)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate" letter-spacing="-.055em"><tspan x="0" y="0">T</tspan></text>
-      <text transform="translate(29.905 164.507)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">otal area burned by wildfire in Canada</tspan></text>
+  <g
+     isolation="isolate"
+     id="g118"
+     transform="translate(0,21.602984)">
+    <g
+       isolation="isolate"
+       id="g117">
+      <text
+         transform="translate(22.34,164.507)"
+         font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+         font-size="17px"
+         font-weight="700"
+         isolation="isolate"
+         letter-spacing="-0.055em"
+         id="text116"><tspan
+           x="0"
+           y="0"
+           id="tspan116">T</tspan></text>
+      <text
+         transform="translate(29.905,164.507)"
+         font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+         font-size="17px"
+         font-weight="700"
+         isolation="isolate"
+         id="text117"><tspan
+           x="0"
+           y="0"
+           id="tspan117">otal area burned by wildfires in Canada</tspan></text>
     </g>
   </g>
-  <path id="path467" d="M0,337.92h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <rect id="rect72" y="151.197" width="14.4" height="14.4" fill="#f1c500"/>
-  <path id="path37-2-2" d="M0,.5h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <g isolation="isolate">
-    <text transform="translate(310.527 25.02)" fill="#dc4533" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="11" font-weight="700" isolation="isolate"><tspan x="0" y="0">17,203,625 hectares</tspan><tspan x="25.878" y="13.2">burned in 2023</tspan></text>
+  <path
+     id="path467"
+     d="M0,337.92h489.6"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width=".5" />
+  <rect
+     id="rect72"
+     y="172.79999"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500"
+     x="-1.3322676e-15" />
+  <path
+     id="path37-2-2"
+     d="M 0,158.72778 H 489.6"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
+  <g
+     isolation="isolate"
+     id="g119">
+    <text
+       transform="translate(310.527 25.02)"
+       fill="#dc4533"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="11"
+       font-weight="700"
+       isolation="isolate"
+       id="text119"><tspan
+         x="0"
+         y="0"
+         id="tspan118">17,203,625 hectares</tspan><tspan
+         x="25.878"
+         y="13.2"
+         id="tspan119">burned in 2023</tspan></text>
+  </g>
+  <g
+     id="g2">
+    <path
+       id="path108"
+       d="M424.94,293.08h13.53V14.54h-13.53v278.54h0Z"
+       fill="#dc4533" />
+    <path
+       id="path200-2-0"
+       d="M424.94,14.54h13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width=".7" />
   </g>
 </svg>
