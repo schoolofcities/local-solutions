@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244.8 86.4">
-  <text transform="translate(86.4 27.47)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.14" font-weight="700"><tspan x="0" y="0">of Canadians surveyed </tspan><tspan x="0" y="15.76">rated their </tspan><tspan x="74.56" y="15.76" fill="#231f20" letter-spacing="0em">mental</tspan></text>
-  <text transform="translate(10 43.2)" fill="#067fa3" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">26%</tspan></text>
-  <path id="path37" d="M0,72h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
-  <text transform="translate(7.37 81.25)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Canadian Mental Health Association (2024)</tspan></text>
-  <text transform="translate(10.8 58.99)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.14" font-weight="700"><tspan x="0" y="0" fill="#231f20">health as</tspan><tspan x="60.54" y="0"> </tspan><tspan x="63.96" y="0" fill="#067fa3" letter-spacing="0em">poor or fair</tspan><tspan x="138.41" y="0" xml:space="preserve"> in 2021</tspan></text>
+<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="1.5in" viewBox="0 0 244.8 108">
+  <path id="path37" d="M0,107.496h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <g id="text49" isolation="isolate">
+    <text transform="translate(21.06 27.711) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">26% of Canadians surveyed</tspan><tspan x="0" y="20.4">rated their mental health as</tspan><tspan x="0" y="40.8">poor or fair in 2021.</tspan></text>
+  </g>
+  <g id="text51">
+    <text transform="translate(21.6 93.313)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Canadian Mental Health Association (2024)</tspan></text>
+  </g>
+  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <path id="path37-2" d="M0,.5h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
 </svg>

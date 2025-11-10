@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489.6 288">
+  <line x1="14.32" y1="244.92" x2="475.2" y2="244.92" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+  <g>
+    <line x1="44.28" y1="247.37" x2="44.28" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="66.03" y1="246.53" x2="66.03" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="87.79" y1="247.37" x2="87.79" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="109.54" y1="246.53" x2="109.54" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="131.29" y1="247.37" x2="131.29" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="153.04" y1="246.53" x2="153.04" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="174.79" y1="247.37" x2="174.79" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="196.54" y1="246.53" x2="196.54" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="218.29" y1="247.37" x2="218.29" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  <g>
+    <line x1="14.32" y1="205.69" x2="475.2" y2="205.69" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="14.32" y1="166.46" x2="475.2" y2="166.46" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="14.32" y1="127.23" x2="475.2" y2="127.23" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="14.32" y1="88.01" x2="475.2" y2="88.01" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+  </g>
+  <g>
+    <g>
+      <line x1="66.04" y1="128.8" x2="44.28" y2="142.92" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="87.79" y1="131.16" x2="66.04" y2="128.8" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="109.54" y1="138.22" x2="87.79" y2="131.16" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="131.29" y1="136.65" x2="109.54" y2="138.22" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="153.04" y1="116.25" x2="131.29" y2="136.65" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="174.79" y1="140.57" x2="153.04" y2="116.25" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="196.54" y1="134.29" x2="174.79" y2="140.57" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="218.29" y1="143.71" x2="196.54" y2="134.29" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <line x1="66.04" y1="102.91" x2="44.28" y2="115.47" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="87.79" y1="107.62" x2="66.04" y2="102.91" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="109.54" y1="123.31" x2="87.79" y2="107.62" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="131.29" y1="106.05" x2="109.54" y2="123.31" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="153.04" y1="79.38" x2="131.29" y2="106.05" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="174.79" y1="104.48" x2="153.04" y2="79.38" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="196.54" y1="82.51" x2="174.79" y2="104.48" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="218.29" y1="107.62" x2="196.54" y2="82.51" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect x="41.44" y="140.08" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="63.19" y="125.96" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="84.94" y="128.31" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="106.69" y="135.37" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="128.44" y="133.81" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="150.19" y="113.41" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="171.95" y="137.73" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="193.7" y="131.45" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="215.45" y="140.87" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <g>
+      <rect x="41.44" y="112.62" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="63.19" y="100.07" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="84.94" y="104.78" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="106.69" y="120.47" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="128.44" y="103.21" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="150.19" y="76.53" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="171.95" y="101.64" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="193.7" y="79.67" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+      <rect x="215.45" y="104.78" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+  </g>
+  <text transform="translate(327.65 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Deaths</tspan></text>
+  <text transform="translate(32.85 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2016</tspan></text>
+  <text transform="translate(76.35 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2018</tspan></text>
+  <text transform="translate(119.85 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2020</tspan></text>
+  <text transform="translate(101.49 191.23)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Start of Covid</tspan><tspan x="8" y="12">Pandemic</tspan></text>
+  <text transform="translate(163.35 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2022</tspan></text>
+  <text transform="translate(206.85 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2024</tspan></text>
+  <g>
+    <text transform="translate(14.32 86.06)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">20 per 100K cases</tspan></text>
+    <text transform="translate(14.32 125.28)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">15</tspan></text>
+    <text transform="translate(14.32 164.51)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">10</tspan></text>
+    <text transform="translate(14.32 203.74)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">5</tspan></text>
+    <text transform="translate(14.32 242.97)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g>
+    <line x1="261.79" y1="247.37" x2="261.79" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="283.54" y1="246.53" x2="283.54" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="305.29" y1="247.37" x2="305.29" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="327.04" y1="246.53" x2="327.04" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="348.79" y1="247.37" x2="348.79" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="370.54" y1="246.53" x2="370.54" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="392.29" y1="247.37" x2="392.29" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="414.05" y1="246.53" x2="414.05" y2="243.3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="435.8" y1="247.37" x2="435.8" y2="242.47" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  <text transform="translate(250.36 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2016</tspan></text>
+  <text transform="translate(293.86 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2018</tspan></text>
+  <text transform="translate(337.36 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2020</tspan></text>
+  <text transform="translate(380.86 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2022</tspan></text>
+  <text transform="translate(432.52 100.14)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Canada</tspan></text>
+  <text transform="translate(430.97 150.67)" fill="#067fa3" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Ontario</tspan></text>
+  <text transform="translate(424.36 260.5)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2024</tspan></text>
+  <rect x="235.32" y="82.17" width="9.44" height="165.2" fill="#fff"/>
+  <line x1="131.29" y1="143.41" x2="131.29" y2="180.88" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+  <path id="path37" d="M0,273.6h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
+  <text transform="translate(7.37 282.85)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Public Health Agency of Canada (2025)</tspan></text>
+  <text transform="translate(14.4 28.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20" font-weight="700"><tspan x="0" y="0">Opioid deaths and hospitalizations in Canada</tspan></text>
+  <g>
+    <line x1="283.54" y1="174.31" x2="261.79" y2="196.27" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="305.29" y1="160.97" x2="283.54" y2="174.31" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="327.04" y1="159.4" x2="305.29" y2="160.97" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="348.79" y1="110.76" x2="327.04" y2="159.4" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="370.54" y1="88.79" x2="348.79" y2="110.76" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="392.3" y1="113.9" x2="370.54" y2="88.79" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="414.05" y1="112.33" x2="392.3" y2="113.9" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="435.8" y1="135.86" x2="414.05" y2="112.33" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <line x1="283.54" y1="160.97" x2="261.79" y2="183.72" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="305.29" y1="154.69" x2="283.54" y2="160.97" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="327.04" y1="166.46" x2="305.29" y2="154.69" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="348.79" y1="111.54" x2="327.04" y2="166.46" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="370.54" y1="80.94" x2="348.79" y2="111.54" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="392.3" y1="92.71" x2="370.54" y2="80.94" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="414.05" y1="80.16" x2="392.3" y2="92.71" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="435.8" y1="106.84" x2="414.05" y2="80.16" fill="none" stroke="#ab2069" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <rect x="258.95" y="193.43" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="280.7" y="171.46" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="302.45" y="158.13" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="324.2" y="156.56" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="345.95" y="107.91" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="367.7" y="85.95" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="389.45" y="111.05" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="411.2" y="109.48" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="432.95" y="133.02" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#067fa3" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g>
+    <rect x="258.95" y="180.88" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="280.7" y="158.13" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="302.45" y="151.85" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="324.2" y="163.62" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="345.95" y="108.7" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="367.7" y="78.1" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="389.45" y="89.87" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="411.2" y="77.32" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+    <rect x="432.95" y="103.99" width="5.69" height="5.69" rx="2.84" ry="2.84" fill="#ab2069" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <text transform="translate(319 191.23)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Start of Covid</tspan><tspan x="8" y="12">Pandemic</tspan></text>
+  <line x1="348.79" y1="120.47" x2="348.79" y2="180.88" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+  <text transform="translate(71.98 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Hospitalizations</tspan></text>
+</svg>
