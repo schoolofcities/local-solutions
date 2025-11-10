@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 489.6 129.6">
-  <text transform="translate(43.24 93)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="17.25" font-weight="700"><tspan x="0" y="0">their needs were either unmet or partially met</tspan></text>
-  <text transform="translate(43.24 43.16)" fill="#067fa3" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">2.34 million Canadians</tspan></text>
-  <path id="path37" d="M0,115.2h489.6" fill="none" stroke="#231f20" stroke-miterlimit="3" stroke-width=".57"/>
-  <text transform="translate(7.37 124.45)" font-size="8"><tspan x="0" y="0" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-weight="700">Data Sources:</tspan><tspan x="54.48" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;"> Canadian Mental Health Association (2024)</tspan></text>
-  <text transform="translate(43.24 72.35)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="20.98" font-weight="700"><tspan x="0" y="0">needed mental health care in 2023 but</tspan></text>
+<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="1.8in" viewBox="0 0 244.8 129.6">
+  <path id="path37" d="M0,129.096h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <g id="text49" isolation="isolate">
+    <text transform="translate(21.06 27.711) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">2.34 million Canadians needed </tspan><tspan x="0" y="20.4">mental health care in 2023 but</tspan><tspan x="0" y="40.8">their needs were either unmet </tspan><tspan x="0" y="61.2">or patially met.</tspan></text>
+  </g>
+  <g id="text51">
+    <text transform="translate(21.6 114.913)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Canadian Mental Health Association (2024)</tspan></text>
+  </g>
+  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <path id="path37-2" d="M0,.5h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
 </svg>
