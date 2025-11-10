@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.9in" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 489.6 352.8">
+<svg xmlns="http://www.w3.org/2000/svg" width="6.8in" height="5in" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 489.6 360">
   <defs>
     <linearGradient id="linear-gradient" x1="-268.044" y1="795.344" x2="-268.044" y2="795.344" gradientTransform="translate(-558.179 13.957) rotate(-90)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#dc4732"/>
@@ -9,7 +9,7 @@
   </defs>
   <g id="basemaps">
     <rect width="489.6" height="352.8" fill="#fff"/>
-    <text transform="translate(21.181 62.476)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Living wage assumes two parents with </tspan><tspan x="0" y="10.8">two children, and represents the hourly </tspan><tspan x="0" y="21.6">wage each parent must earn.</tspan></text>
+    <text transform="translate(21.181 62.476)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Living wage assumes two parents with </tspan><tspan x="0" y="10.8">two children, and represents the hourly </tspan><tspan x="0" y="21.6">wage each parent must earn</tspan></text>
     <g id="g76">
       <path id="CA-PE" d="M353.595,174.122c-.046-.046-.67-.109-1.374-.143-.715-.029-1.688-.172-2.152-.315-1.047-.315-1.265-.361-1.562-.372-.641-.029-.704-.263-.315-1.093.2-.435.469-.796.578-.796s.515.315.904.67c.561.544.733.641.876.469.109-.126.486-.2.95-.2.424,0,.887-.063,1.03-.143.498-.263,1.889-.624,1.969-.498.046.063-.029.315-.143.544-.126.235-.235.733-.252,1.11-.046.624-.298,1.002-.515.767h.006Z" fill="#eaeaea"/>
       <g id="g2031">
@@ -91,8 +91,7 @@
     <text transform="translate(125.435 295.183)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">AB</tspan></text>
     <text transform="translate(232.63 295.184)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">MB</tspan></text>
     <text transform="translate(314.782 295.184)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">NB</tspan></text>
-    <text transform="translate(259.856 295.183)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">ON</tspan></text>
-    <text transform="translate(284.848 295.184)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">QC*</tspan></text>
+    <text transform="translate(258.393 295.184)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">QC*</tspan></text>
     <text transform="translate(180.297 295.184)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">SK</tspan></text>
     <text transform="translate(72 295.183)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">YT</tspan></text>
     <text transform="translate(21.893 246.748)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">$10</tspan></text>
@@ -226,42 +225,28 @@
     </g>
     <g>
       <g>
-        <rect x="262.8" y="194.924" width="10.8" height="87.077" fill="#fff"/>
+        <rect x="289.796" y="194.924" width="10.8" height="87.077" fill="#fff"/>
         <g>
-          <polyline points="262.8 195.298 262.8 194.923 263.175 194.923" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-          <line x1="265.967" y1="194.923" x2="271.829" y2="194.923" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
-          <polyline points="273.225 194.923 273.6 194.923 273.6 195.298" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-          <line x1="273.6" y1="197.779" x2="273.6" y2="280.385" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
-          <polyline points="273.6 281.626 273.6 282.001 273.225 282.001" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-          <line x1="270.433" y1="282.001" x2="264.571" y2="282.001" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
-          <polyline points="263.175 282.001 262.8 282.001 262.8 281.626" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-          <line x1="262.8" y1="279.145" x2="262.8" y2="196.539" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="289.796 195.298 289.796 194.923 290.171 194.923" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="292.963" y1="194.923" x2="298.825" y2="194.923" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="300.221 194.923 300.596 194.923 300.596 195.298" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="300.596" y1="197.779" x2="300.596" y2="280.385" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="300.596 281.626 300.596 282.001 300.221 282.001" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="297.429" y1="282.001" x2="291.567" y2="282.001" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+          <polyline points="290.171 282.001 289.796 282.001 289.796 281.626" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+          <line x1="289.796" y1="279.145" x2="289.796" y2="196.539" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
         </g>
       </g>
-      <rect x="262.8" y="223.057" width="10.8" height="58.944" fill="#edb81c"/>
+      <rect x="289.796" y="223.057" width="10.8" height="58.944" fill="#edb81c"/>
       <g>
-        <polyline points="262.8 195.298 262.8 194.923 263.175 194.923" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="265.967" y1="194.923" x2="271.829" y2="194.923" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
-        <polyline points="273.225 194.923 273.6 194.923 273.6 195.298" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="273.6" y1="197.779" x2="273.6" y2="280.385" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
-        <polyline points="273.6 281.626 273.6 282.001 273.225 282.001" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="270.433" y1="282.001" x2="264.571" y2="282.001" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
-        <polyline points="263.175 282.001 262.8 282.001 262.8 281.626" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="262.8" y1="279.145" x2="262.8" y2="196.539" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
-      </g>
-    </g>
-    <g>
-      <rect x="289.8" y="197.25" width="10.8" height="84.751" fill="#fff"/>
-      <rect x="289.8" y="228.081" width="10.8" height="53.92" fill="#e68b24"/>
-      <g>
-        <polyline points="289.8 188.6 289.8 188.225 290.175 188.225" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="292.967" y1="188.225" x2="298.829" y2="188.225" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
-        <polyline points="300.225 188.225 300.6 188.225 300.6 188.6" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="300.6" y1="191.088" x2="300.6" y2="280.382" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
-        <polyline points="300.6 281.626 300.6 282.001 300.225 282.001" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="297.433" y1="282.001" x2="291.571" y2="282.001" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
-        <polyline points="290.175 282.001 289.8 282.001 289.8 281.626" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-        <line x1="289.8" y1="279.138" x2="289.8" y2="189.844" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="289.796 195.298 289.796 194.923 290.171 194.923" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="292.963" y1="194.923" x2="298.825" y2="194.923" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="300.221 194.923 300.596 194.923 300.596 195.298" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="300.596" y1="197.779" x2="300.596" y2="280.385" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="300.596 281.626 300.596 282.001 300.221 282.001" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="297.429" y1="282.001" x2="291.567" y2="282.001" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="290.171 282.001 289.796 282.001 289.796 281.626" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="289.796" y1="279.145" x2="289.796" y2="196.539" fill="none" stroke="#000" stroke-dasharray=".744 2.481" stroke-miterlimit="10" stroke-width=".75"/>
       </g>
     </g>
     <g>
@@ -387,6 +372,7 @@
       </g>
     </g>
     <text transform="translate(409.119 47.99)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">provincial</tspan><tspan x="-19.852" y="9.6">minimum wage</tspan></text>
+    <text transform="translate(396.796 93.488)" fill="#87b54a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">highest provincial</tspan><tspan x="-23.039" y="9.6">minimum wage [$19.75]</tspan></text>
     <text transform="translate(388.08 29.044)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">local living wage</tspan></text>
     <g>
       <line x1="453.821" y1="47.99" x2="446.932" y2="47.99" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
@@ -410,63 +396,97 @@
       </g>
     </g>
     <g>
-      <g>
-        <polyline points="79.2 193.425 79.2 132.978 186.527 132.978 186.527 97.743" fill="none" stroke="#efc319" stroke-miterlimit="10" stroke-width=".5"/>
-        <path d="M188.406,97.837c0-1.038-.842-1.88-1.88-1.88s-1.88.842-1.88,1.88.842,1.88,1.88,1.88,1.88-.842,1.88-1.88Z" fill="#efc319"/>
-      </g>
-      <g>
-        <polyline points="268.2 193.124 268.2 178.689 309.995 178.689 309.995 192.642" fill="none" stroke="#edb81c" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="309.995" cy="192.642" r="1.88" fill="#edb81c"/>
-      </g>
-      <g>
-        <polyline points="160.2 202.233 160.2 176.434 230.791 176.434 230.791 111.77" fill="none" stroke="#eaa41e" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="230.791" cy="111.864" r="1.88" fill="#eaa41e"/>
-      </g>
-      <g>
-        <polyline points="375.932 202.035 375.932 173.601 350.848 173.601" fill="none" stroke="#e79723" stroke-miterlimit="10" stroke-width=".5"/>
-        <path d="M350.848,171.721c-1.038,0-1.88.842-1.88,1.88s.842,1.88,1.88,1.88,1.88-.842,1.88-1.88-.842-1.88-1.88-1.88Z" fill="#e79723"/>
-      </g>
-      <g>
-        <polyline points="295.196 186.425 295.196 183.24 323.967 183.548" fill="none" stroke="#e68b24" stroke-miterlimit="10" stroke-width=".5"/>
-        <path d="M323.947,185.428c1.038.011,1.889-.822,1.9-1.86.011-1.038-.822-1.889-1.86-1.9-1.038-.011-1.889.822-1.9,1.86-.011,1.038.822,1.889,1.86,1.9Z" fill="#e68b24"/>
-      </g>
-      <g>
-        <polyline points="403.2 197.477 403.2 167.992 368.557 167.992 368.557 157.452" fill="none" stroke="#e68725" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="368.557" cy="157.452" r="1.88" fill="#e68725"/>
-      </g>
-      <g>
-        <polyline points="346.686 175.714 330.935 175.714 330.935 190.995 322.2 190.995 322.2 199.587" fill="none" stroke="#e47c28" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="346.686" cy="175.714" r="1.88" fill="#e47c28"/>
-      </g>
-      <g>
-        <polyline points="133.2 198.315 133.2 170.432 217.902 170.432 217.902 157.614" fill="none" stroke="#e1682b" stroke-miterlimit="10" stroke-width=".5"/>
-        <path d="M219.782,157.708c0-1.038-.842-1.88-1.88-1.88s-1.88.842-1.88,1.88.842,1.88,1.88,1.88,1.88-.842,1.88-1.88Z" fill="#e1682b"/>
-      </g>
-      <g>
-        <polyline points="106.2 189.607 106.2 162.945 192.721 162.945 192.721 156.896" fill="none" stroke="#eec018" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="192.721" cy="156.896" r="1.88" fill="#eec018"/>
-      </g>
-      <g>
-        <polyline points="187.2 220.586 187.2 183.618 238.755 183.618 238.755 165.108" fill="none" stroke="#e37428" stroke-miterlimit="10" stroke-width=".5"/>
-        <path d="M240.635,165.108c0-1.038-.842-1.88-1.88-1.88s-1.88.842-1.88,1.88.842,1.88,1.88,1.88,1.88-.842,1.88-1.88Z" fill="#e37428"/>
-      </g>
-      <g>
-        <polyline points="262.335 110.717 262.335 131.101 249.094 131.101 249.094 186.46 214.2 186.46 214.2 214.057" fill="none" stroke="#87b54a" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="262.335" cy="110.811" r="1.88" fill="#87b54a"/>
-      </g>
-      <g>
-        <polyline points="258.797 169.335 258.797 193.033 241.2 193.033 241.2 217.405" fill="none" stroke="#e68725" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="258.797" cy="169.335" r="1.88" fill="#e68725"/>
-      </g>
-      <g>
-        <polyline points="349.2 185.272 349.2 181.027 352.88 181.027" fill="none" stroke="#e79723" stroke-miterlimit="10" stroke-width=".5"/>
-        <circle cx="352.88" cy="181.027" r="1.88" fill="#e79723"/>
-      </g>
+      <polyline points="79.2 193.425 79.2 132.978 186.527 132.978 186.527 97.743" fill="none" stroke="#efc319" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M188.406,97.837c0-1.038-.842-1.88-1.88-1.88s-1.88.842-1.88,1.88.842,1.88,1.88,1.88,1.88-.842,1.88-1.88Z" fill="#efc319"/>
+    </g>
+    <g>
+      <polyline points="295.196 193.124 295.196 188.225 309.995 188.225 309.995 192.96" fill="none" stroke="#edb81c" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="309.995" cy="192.96" r="1.88" fill="#edb81c"/>
+    </g>
+    <g>
+      <polyline points="160.2 202.233 160.2 176.434 230.791 176.434 230.791 111.77" fill="none" stroke="#eaa41e" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="230.791" cy="111.864" r="1.88" fill="#eaa41e"/>
+    </g>
+    <g>
+      <polyline points="375.932 202.035 375.932 173.601 350.848 173.601" fill="none" stroke="#e79723" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M350.848,171.721c-1.038,0-1.88.842-1.88,1.88s.842,1.88,1.88,1.88,1.88-.842,1.88-1.88-.842-1.88-1.88-1.88Z" fill="#e79723"/>
+    </g>
+    <g>
+      <polyline points="268.2 186.425 268.2 183.24 323.967 183.548" fill="none" stroke="#e68b24" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M323.956,185.428c1.038.006,1.885-.831,1.89-1.869.006-1.038-.831-1.885-1.869-1.89s-1.885.831-1.89,1.869c-.006,1.038.831,1.885,1.869,1.89Z" fill="#e68b24"/>
+    </g>
+    <g>
+      <polyline points="403.2 197.477 403.2 166.188 368.557 166.188 368.557 157.452" fill="none" stroke="#e68725" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="368.557" cy="157.452" r="1.88" fill="#e68725"/>
+    </g>
+    <g>
+      <polyline points="346.686 175.714 330.935 175.714 330.935 190.995 322.2 190.995 322.2 199.587" fill="none" stroke="#e47c28" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="346.686" cy="175.714" r="1.88" fill="#e47c28"/>
+    </g>
+    <g>
+      <polyline points="133.2 198.315 133.2 170.432 217.902 170.432 217.902 157.614" fill="none" stroke="#e1682b" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M219.782,157.708c0-1.038-.842-1.88-1.88-1.88s-1.88.842-1.88,1.88.842,1.88,1.88,1.88,1.88-.842,1.88-1.88Z" fill="#e1682b"/>
+    </g>
+    <g>
+      <polyline points="106.2 189.607 106.2 162.945 192.721 162.945 192.721 156.896" fill="none" stroke="#eec018" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="192.721" cy="156.896" r="1.88" fill="#eec018"/>
+    </g>
+    <g>
+      <polyline points="187.2 220.586 187.2 183.618 238.755 183.618 238.755 165.108" fill="none" stroke="#e37428" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M240.635,165.108c0-1.038-.842-1.88-1.88-1.88s-1.88.842-1.88,1.88.842,1.88,1.88,1.88,1.88-.842,1.88-1.88Z" fill="#e37428"/>
+    </g>
+    <g>
+      <polyline points="262.335 110.717 262.335 131.101 249.094 131.101 249.094 186.46 214.2 186.46 214.2 214.057" fill="none" stroke="#87b54a" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="262.335" cy="110.811" r="1.88" fill="#87b54a"/>
+    </g>
+    <g>
+      <polyline points="258.797 169.335 258.797 193.033 241.2 193.033 241.2 217.405" fill="none" stroke="#e68725" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="258.797" cy="169.335" r="1.88" fill="#e68725"/>
     </g>
     <g id="text64" isolation="isolate">
-      <text transform="translate(21.6 319.236)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Government of Canada Minimum Wage Database (2025), Living Wage Canada (2025), Alternatives North (2022), </tspan><tspan x="0" y="9.6">Institut de recherche et d’informations socioéconomiques (2025) Living Income report, Yukon News (2025). </tspan><tspan x="0" y="19.2">*Montreal reflects a single adult household.</tspan></text>
+      <text transform="translate(21.6 316.801)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Government of Canada Minimum Wage Database (2025), Living Wage Canada (2025), Alternatives North (2022), </tspan><tspan x="0" y="9.6">Institut de recherche et d’informations socioéconomiques (2025) Living Income report, Yukon News (2025). </tspan><tspan x="0" y="19.2">*Montreal reflects a single adult household. Largest cities of each province were chosen for local living wage where data was </tspan><tspan x="0" y="28.8">available. No local living wage available in Nunavut. </tspan></text>
     </g>
-    <path id="path37" d="M-.007,352.584h489.607" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <path id="path37" d="M-.007,359.785h489.607" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
     <line x1="21.835" y1="282.001" x2="452.494" y2="282.001" fill="url(#linear-gradient)" stroke="#000" stroke-miterlimit="10"/>
+    <text transform="translate(400.03 115.312)" fill="#e1682b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">lowest provincial</tspan><tspan x="-26.273" y="9.6">minimum wage [$15.00]</tspan></text>
+    <circle cx="474.733" cy="95.648" r="2.16" fill="#87b54a"/>
+    <circle cx="474.733" cy="117" r="2.16" fill="#e1682b"/>
+    <g>
+      <rect x="262.8" y="197.25" width="10.8" height="84.751" fill="#fff"/>
+      <rect x="262.8" y="228.081" width="10.8" height="53.92" fill="#e68b24"/>
+      <g>
+        <polyline points="262.8 188.6 262.8 188.225 263.175 188.225" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="265.967" y1="188.225" x2="271.829" y2="188.225" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="273.225 188.225 273.6 188.225 273.6 188.6" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="273.6" y1="191.088" x2="273.6" y2="280.382" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="273.6 281.626 273.6 282.001 273.225 282.001" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="270.433" y1="282.001" x2="264.571" y2="282.001" fill="none" stroke="#000" stroke-dasharray=".837 2.792" stroke-miterlimit="10" stroke-width=".75"/>
+        <polyline points="263.175 282.001 262.8 282.001 262.8 281.626" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+        <line x1="262.8" y1="279.138" x2="262.8" y2="189.844" fill="none" stroke="#000" stroke-dasharray=".746 2.487" stroke-miterlimit="10" stroke-width=".75"/>
+      </g>
+    </g>
+    <text transform="translate(287.533 295.183)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">ON</tspan></text>
+    <g>
+      <polyline points="349.2 185.272 349.2 181.027 352.88 181.027" fill="none" stroke="#e79723" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="352.88" cy="181.027" r="1.88" fill="#e79723"/>
+    </g>
+    <g>
+      <text transform="translate(240.553 163.307)" fill="#eaeaea" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" stroke="#eaeaea" stroke-miterlimit="10"><tspan x="0" y="0">Regina</tspan></text>
+      <g>
+        <text transform="translate(199.194 117.414)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Yellowknife</tspan></text>
+        <text transform="translate(196.751 155.92)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Calgary</tspan></text>
+        <text transform="translate(260.595 167.534)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Winnipeg</tspan></text>
+        <text transform="translate(354.513 186.105)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" stroke="#fff" stroke-miterlimit="10"><tspan x="0" y="0">Halifax</tspan></text>
+        <text transform="translate(352.645 171.8)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Charlottetown</tspan></text>
+        <text transform="translate(322.221 173.913)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Moncton</tspan></text>
+        <text transform="translate(370.354 155.651)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Eastern region</tspan></text>
+        <text transform="translate(163.821 155.154)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Vancouver</tspan></text>
+        <text transform="translate(188.324 95.919)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Whitehorse</tspan></text>
+        <text transform="translate(240.553 163.307)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Regina</tspan></text>
+        <text transform="translate(354.513 186.105)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Halifax</tspan></text>
+        <text transform="translate(304.364 200.836)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">GTA</tspan></text>
+        <text transform="translate(298.79 181.438)" fill="#6d6e71" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="6" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Montreal</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
