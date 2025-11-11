@@ -1,12 +1,138 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="1.5in" viewBox="0 0 244.8 108">
-  <path id="path37" d="M0,107.496h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <g id="text49" isolation="isolate">
-    <text transform="translate(21.06 27.711) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">26% of Canadians surveyed</tspan><tspan x="0" y="20.4">rated their mental health as</tspan><tspan x="0" y="40.8">poor or fair in 2021.</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_6"
+   data-name="Layer 6"
+   width="3.4000001in"
+   height="1.2in"
+   viewBox="0 0 244.8 86.400003"
+   version="1.1"
+   sodipodi:docname="mental-health_poor-mental-stat.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:export-filename="mental-health_poor-mental-stat.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#fdfdfd"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="2.6873956"
+     inkscape:cx="164.28545"
+     inkscape:cy="59.537196"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_6">
+    <inkscape:grid
+       id="grid5"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="7.1999997"
+       spacingy="7.1999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;paint-order:markers fill stroke"
+     id="rect5"
+     width="244.79999"
+     height="128.59601"
+     x="1.7410704e-05"
+     y="-13.654108" />
+  <path
+     id="path37"
+     d="M 0,86.149994 H 244.8"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
+  <g
+     id="text49"
+     isolation="isolate">
+    <text
+       transform="rotate(0.17)"
+       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+       font-size="17px"
+       font-weight="700"
+       isolation="isolate"
+       id="text3"
+       style="font-size:34px"
+       x="21.181477"
+       y="40.910049">26%</text>
+    <text
+       transform="rotate(0.17,-23287.255,39004.536)"
+       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+       font-size="17px"
+       font-weight="700"
+       isolation="isolate"
+       id="text3-4"
+       x="-20.311975"
+       y="-44.456978"
+       style="font-weight:700;font-size:12px;line-height:1.1;font-family:TradeGothicLT-Bold, 'TradeGothic LT Bold';white-space:pre;inline-size:172.363;display:inline;isolation:isolate"
+       xml:space="preserve"><tspan
+         x="-20.311975"
+         y="-44.456978"
+         id="tspan2"><tspan
+           style="font-weight:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal'"
+           id="tspan1">Canadians surveyed rated </tspan></tspan><tspan
+         x="-20.311975"
+         y="-30.910354"
+         id="tspan5"><tspan
+           style="font-weight:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal'"
+           id="tspan3">their mental health 
+</tspan></tspan><tspan
+         x="-20.311975"
+         y="-17.363731"
+         id="tspan7"><tspan
+           style="font-weight:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal'"
+           id="tspan6">as poor or fair in 2021.</tspan></tspan></text>
   </g>
-  <g id="text51">
-    <text transform="translate(21.6 93.313)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Canadian Mental Health Association (2024)</tspan></text>
+  <g
+     id="text51"
+     transform="translate(0.19733978,-22.063003)">
+    <text
+       transform="translate(21.6,93.313)"
+       fill="#999999"
+       font-family="OpenSans, 'Open Sans'"
+       font-size="8px"
+       isolation="isolate"
+       id="text4"><tspan
+         x="0"
+         y="0"
+         id="tspan4">Data source: Canadian Mental Health Association (2024)</tspan></text>
   </g>
-  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <path id="path37-2" d="M0,.5h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <rect
+     id="rect72"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <path
+     id="path37-2"
+     d="M 0,0.5 H 244.8"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
 </svg>
