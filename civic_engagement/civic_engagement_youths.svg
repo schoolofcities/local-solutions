@@ -1,72 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="5in" viewBox="0 0 244.8 360">
-  <g>
-    <rect x="59.335" y="49.455" width="77.36" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="61.351" width="88.405" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="73.247" width="93.089" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="85.143" width="95.89" height="8.565" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="97.039" width="111.782" height="8.565" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="108.935" width="123.848" height="8.565" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="120.831" width="131.293" height="8.565" fill="#dc4732" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="132.727" width="125.373" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="144.623" width="118.225" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="156.519" width="107.217" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="168.415" width="101.179" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="180.311" width="101.143" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="192.207" width="111.965" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="204.103" width="103.121" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="215.999" width="84.527" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="227.895" width="66.543" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="239.791" width="41.685" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="251.687" width="23.97" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="263.583" width="11.397" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="275.479" width="3.476" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
-    <rect x="59.335" y="287.375" width=".508" height="8.565" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="3.4in" height="5in" viewBox="0 0 244.8 360">
+  <g id="white">
+    <rect width="245.096" height="360" fill="#fff"/>
   </g>
-  <text transform="translate(33.872 56.5)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">0 to 4</tspan></text>
-  <text transform="translate(33.872 68.396)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">5 to 9</tspan></text>
-  <text transform="translate(24.723 80.292)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">10 to 14</tspan></text>
-  <text transform="translate(24.723 92.188)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">15 to 19</tspan></text>
-  <text transform="translate(24.723 104.084)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">20 to 24</tspan></text>
-  <text transform="translate(24.723 115.98)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">25 to 29</tspan></text>
-  <text transform="translate(24.723 127.876)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">30 to 34</tspan></text>
-  <text transform="translate(24.723 139.772)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">35 to 39</tspan></text>
-  <text transform="translate(24.723 151.668)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">40 to 44</tspan></text>
-  <text transform="translate(24.723 163.564)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">45 to 49</tspan></text>
-  <text transform="translate(24.723 175.46)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">50 to 54</tspan></text>
-  <text transform="translate(24.723 187.356)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">55 to 59</tspan></text>
-  <text transform="translate(24.723 199.252)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">60 to 64</tspan></text>
-  <text transform="translate(24.723 211.148)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">65 to 69</tspan></text>
-  <text transform="translate(24.723 223.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">70 to 74</tspan></text>
-  <text transform="translate(24.723 234.94)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">75 to 79</tspan></text>
-  <text transform="translate(24.723 246.836)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">80 to 84</tspan></text>
-  <text transform="translate(24.723 258.732)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">85 to 89</tspan></text>
-  <text transform="translate(24.723 270.627)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">90 to 94</tspan></text>
-  <text transform="translate(24.723 282.524)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">95 to 99</tspan></text>
-  <text transform="translate(34.458 294.42)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">100 +</tspan></text>
-  <text transform="translate(135.677 314.825)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">2.0</tspan></text>
-  <text transform="translate(94.334 314.825)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">1.0</tspan></text>
-  <text transform="translate(56.762 314.825)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">0</tspan></text>
-  <g>
-    <line x1="80.006" y1="42.883" x2="80.006" y2="302.505" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
-    <line x1="100.677" y1="42.884" x2="100.678" y2="302.505" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
-    <line x1="121.349" y1="42.884" x2="121.349" y2="302.505" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
-    <line x1="142.02" y1="42.884" x2="142.02" y2="302.505" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
-    <line x1="162.692" y1="42.884" x2="162.692" y2="302.506" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
-    <line x1="183.363" y1="42.884" x2="183.363" y2="302.506" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <rect x="59.335" y="287.369" width="77.36" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="275.473" width="88.405" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="263.577" width="93.089" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="251.681" width="95.89" height="8.565" fill="#dc4732" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".25"/>
+      <rect x="59.335" y="239.785" width="111.782" height="8.565" fill="#dc4732" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".25"/>
+      <rect x="59.335" y="227.889" width="123.848" height="8.565" fill="#dc4732" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".25"/>
+      <rect x="59.335" y="215.993" width="131.293" height="8.565" fill="#dc4732" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".25"/>
+      <rect x="59.335" y="204.097" width="125.373" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="192.201" width="118.225" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="180.305" width="107.217" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="168.409" width="101.179" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="156.513" width="101.143" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="144.617" width="111.965" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="132.721" width="103.121" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="120.825" width="84.527" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="108.929" width="66.543" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="97.033" width="41.685" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="85.137" width="23.97" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="73.241" width="11.397" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="61.345" width="3.476" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+      <rect x="59.335" y="49.449" width=".508" height="8.565" fill="#1e3864" stroke="#1e3864" stroke-miterlimit="10"/>
+    </g>
+    <text transform="translate(33.872 293.576)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">0 to 4</tspan></text>
+    <text transform="translate(33.872 281.681)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">5 to 9</tspan></text>
+    <text transform="translate(24.723 269.784)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">10 to 14</tspan></text>
+    <text transform="translate(24.723 257.889)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">15 to 19</tspan></text>
+    <text transform="translate(24.723 245.993)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">20 to 24</tspan></text>
+    <text transform="translate(24.723 234.097)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">25 to 29</tspan></text>
+    <text transform="translate(24.723 222.2)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">30 to 34</tspan></text>
+    <text transform="translate(24.723 210.305)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">35 to 39</tspan></text>
+    <text transform="translate(24.723 198.409)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">40 to 44</tspan></text>
+    <text transform="translate(24.723 186.513)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">45 to 49</tspan></text>
+    <text transform="translate(24.723 174.617)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">50 to 54</tspan></text>
+    <text transform="translate(24.723 162.721)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">55 to 59</tspan></text>
+    <text transform="translate(24.723 150.825)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">60 to 64</tspan></text>
+    <text transform="translate(24.723 138.929)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">65 to 69</tspan></text>
+    <text transform="translate(24.723 127.032)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">70 to 74</tspan></text>
+    <text transform="translate(24.723 115.137)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">75 to 79</tspan></text>
+    <text transform="translate(24.723 103.24)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">80 to 84</tspan></text>
+    <text transform="translate(24.723 91.344)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">85 to 89</tspan></text>
+    <text transform="translate(24.723 79.449)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">90 to 94</tspan></text>
+    <text transform="translate(24.723 67.553)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">95 to 99</tspan></text>
+    <text transform="translate(34.458 55.657)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">100 +</tspan></text>
+    <text transform="translate(135.677 314.825)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">2.0</tspan></text>
+    <text transform="translate(94.334 314.825)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">1.0</tspan></text>
+    <text transform="translate(56.762 314.825)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">0</tspan></text>
+    <g>
+      <line x1="80.006" y1="302.506" x2="80.006" y2="42.884" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="100.677" y1="302.505" x2="100.678" y2="42.884" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="121.349" y1="302.505" x2="121.349" y2="42.884" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="142.02" y1="302.505" x2="142.02" y2="42.884" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="162.692" y1="302.505" x2="162.692" y2="42.883" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="183.363" y1="302.505" x2="183.363" y2="42.883" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0" letter-spacing="-.055em">Y</tspan><tspan x="8.517" y="0">outh population in Canada</tspan></text>
+    <rect id="rect75-2" data-name="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72-2" data-name="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <text transform="translate(177.02 314.924)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">3.0 million</tspan></text>
+    <line x1="59.335" y1="302.506" x2="59.335" y2="42.884" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <g id="text64" isolation="isolate">
+      <text transform="translate(21.751 335.783)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Annual </tspan><tspan x="0" y="9.6">Demographic Estimates</tspan></text>
+    </g>
+    <path id="path37" d="M0,359.824h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <path id="path37-2" data-name="path37" d="M0,.258h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <text transform="translate(213.606 240.564) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700"><tspan x="0" y="0">youth</tspan><tspan x="-20.072" y="9.854">population</tspan><tspan x="-28.091" y="19.708">ages 15 to 35</tspan></text>
   </g>
-  <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700"><tspan x="0" y="0" letter-spacing="-.055em">Y</tspan><tspan x="8.517" y="0">outh population in Canada</tspan></text>
-  <rect id="rect75-2" data-name="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <rect id="rect72-2" data-name="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <text transform="translate(177.02 314.924)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9"><tspan x="0" y="0">3.0 million</tspan></text>
-  <line x1="59.335" y1="42.883" x2="59.335" y2="302.505" fill="none" stroke="#000" stroke-miterlimit="10"/>
-  <text transform="translate(165.526 73.247) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700"><tspan x="0" y="0">youth population</tspan><tspan x="16.467" y="9.854">ages 15 to 35</tspan></text>
-  <text transform="translate(161.439 93.9)" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-weight="700"><tspan x="0" y="0" fill="#231f20">accounts for more</tspan><tspan x="13.39" y="10.8" fill="#231f20">than </tspan><tspan x="35.64" y="10.8" fill="#dc4732">11 million</tspan><tspan x="32.722" y="21.6" fill="#dc4732">Canadians</tspan><tspan x="47.149" y="32.4" fill="#231f20">in 2025</tspan></text>
-  <g id="text64" isolation="isolate">
-    <text transform="translate(21.751 335.783)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Annual </tspan><tspan x="0" y="9.6">Demographic Estimates</tspan></text>
-  </g>
-  <path id="path37" d="M0,359.824h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <path id="path37-2" data-name="path37" d="M0,.258h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
 </svg>

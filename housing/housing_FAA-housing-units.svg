@@ -106,10 +106,10 @@
   <line x1="346.745" y1="287.705" x2="346.745" y2="289.589" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
   <line x1="402.702" y1="287.705" x2="402.702" y2="289.589" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
   <g id="text49" isolation="isolate">
-    <text transform="translate(21.06 27.711) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Federally assisted affordable housing units</tspan></text>
+    <text transform="translate(21.036 27.734) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Federally assisted affordable housing units</tspan></text>
   </g>
   <g id="text51" isolation="isolate">
-    <text transform="translate(21.6 316.52)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Adapted from “Why Can’t We Build Like It’s the 1970s?” by Jen St. Denis</tspan></text>
+    <text transform="translate(21.6 316.52)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Adapted from chart by Brian Clifford, data from CMHC’s Canadian Housing Statistics, multiple years</tspan></text>
   </g>
   <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
   <path id="path37" d="M0,330.703h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
