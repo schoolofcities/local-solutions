@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.1in" viewBox="0 0 489.6 295.2">
+  <g>
+    <line x1="78.304" y1="47.722" x2="78.304" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="134.598" y1="47.722" x2="134.598" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="190.893" y1="47.722" x2="190.893" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="247.187" y1="47.722" x2="247.187" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="303.482" y1="47.722" x2="303.482" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="359.776" y1="47.722" x2="359.776" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="416.071" y1="47.722" x2="416.071" y2="219.048" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+  </g>
+  <g id="text49" isolation="isolate">
+    <text transform="translate(21.034 27.73) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Housing starts in Canada from 1955 to 2024 </tspan></text>
+  </g>
+  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <path id="path37-2" d="M0,.5h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <g>
+    <text transform="translate(21.024 214.002)" fill="#58595b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">0</tspan></text>
+    <text transform="translate(21.024 173.382)" fill="#58595b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">100K</tspan></text>
+    <text transform="translate(21.024 132.762)" fill="#58595b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">200K</tspan></text>
+    <text transform="translate(21.024 92.142)" fill="#58595b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">300K</tspan></text>
+    <text transform="translate(21.024 51.521)" fill="#58595b" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="8" font-weight="700"><tspan x="0" y="0">400K</tspan></text>
+  </g>
+  <g>
+    <line x1="21.6" y1="215.991" x2="489.6" y2="215.991" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="21.6" y1="175.371" x2="489.6" y2="175.371" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="21.6" y1="134.75" x2="489.6" y2="134.75" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="21.6" y1="94.13" x2="489.6" y2="94.13" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+    <line x1="21.6" y1="53.51" x2="489.6" y2="53.51" fill="none" stroke="#231f20" stroke-dasharray=".25 2" stroke-width=".25"/>
+  </g>
+  <line x1="78.304" y1="213.798" x2="78.304" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="134.598" y1="213.798" x2="134.598" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="190.893" y1="213.798" x2="190.893" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="247.187" y1="213.798" x2="247.187" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="303.482" y1="213.798" x2="303.482" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="359.776" y1="213.798" x2="359.776" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="416.071" y1="213.798" x2="416.071" y2="219.048" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <text transform="translate(66.866 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">1960</tspan></text>
+  <text transform="translate(123.16 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">1970</tspan></text>
+  <text transform="translate(179.455 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">1980</tspan></text>
+  <text transform="translate(235.749 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">1990</tspan></text>
+  <text transform="translate(292.044 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">2000</tspan></text>
+  <text transform="translate(348.338 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">2010</tspan></text>
+  <text transform="translate(404.634 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="10" font-weight="700"><tspan x="0" y="0">2020</tspan></text>
+  <text transform="translate(441.826 64.795)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700"><tspan x="0" y="0">new</tspan><tspan x="0" y="9.6">households</tspan></text>
+  <text transform="translate(441.826 115.195)" fill="#067fa3" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700"><tspan x="0" y="0">housing</tspan><tspan x="0" y="9.6">starts</tspan></text>
+  <g id="text51" isolation="isolate">
+    <text transform="translate(21.598 261.032)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Canada Mortgage and Housing Corporation; Statistics Canda (2025)</tspan><tspan x="0" y="9.6">Note: Estimated household counts (non-census years) were calculated via weighted linear interpolation using census </tspan><tspan x="0" y="19.2" xml:space="preserve">counts and annual population.   </tspan></text>
+  </g>
+  <path id="path37" d="M0,294.7h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <text transform="translate(155.028 70.675)" fill="#dc4732" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">more new households</tspan><tspan x="4.555" y="9.6">than housing starts</tspan></text>
+  <text transform="translate(349.197 70.675)" fill="#067fa3" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">more housing starts</tspan><tspan x="-2.312" y="9.6">than new households</tspan></text>
+  <g opacity=".5">
+    <g>
+      <polygon points="58.37 165.21 55.79 175.39 50.16 176.53 50.16 159.82 55.79 164.28 58.37 165.21" fill="#067fa3"/>
+      <polygon points="77.91 170.85 72.67 169.84 67.04 168.56 63.69 159.37 67.04 149.12 72.67 158.58 77.91 170.85" fill="#067fa3"/>
+      <polygon points="111.6 160.25 106.45 161.97 100.82 162.4 95.19 163.63 89.56 177.68 85.11 164.6 89.56 163.15 95.19 155.62 100.82 148.7 106.45 148.33 111.6 160.25" fill="#067fa3"/>
+      <polygon points="138.77 125.62 134.6 155.11 128.97 155.05 123.34 155.02 117.71 149.8 116.17 152.61 117.71 149.32 123.34 136.02 128.97 130.52 134.6 138.6 138.77 125.62" fill="#067fa3"/>
+      <polygon points="155.96 121.88 151.49 128.19 145.86 133.21 141.56 119.53 145.86 114.48 151.49 106.91 155.96 121.88" fill="#067fa3"/>
+      <polygon points="182.87 130.68 179.63 133.48 174 129.07 168.37 122.37 163.56 119.53 168.37 105.02 174 116.18 179.63 123.51 182.87 130.68" fill="#067fa3"/>
+      <polygon points="212.7 159.77 207.78 160.5 204.64 158.27 207.78 149.92 212.7 159.77" fill="#067fa3"/>
+      <polygon points="238.73 127.04 235.93 133.1 230.3 138.87 224.67 154.71 219.04 160.12 214.07 159.72 219.04 148.63 224.67 134.84 230.3 116.07 235.93 125.59 238.73 127.04" fill="#067fa3"/>
+      <polygon points="303.21 154.42 297.85 159.2 292.22 163.02 287.16 156.65 292.22 160.16 297.85 155.07 303.21 154.42" fill="#067fa3"/>
+      <polygon points="351.84 145.12 348.52 134.7 342.89 144.19 339.41 123.48 342.89 123.24 348.52 130.26 351.84 145.12" fill="#067fa3"/>
+      <polygon points="365.06 137.31 359.78 154.28 355.09 152.67 359.78 138.84 365.06 137.31" fill="#067fa3"/>
+      <polygon points="400.97 127.61 399.18 136.75 393.55 155.7 387.92 169.15 382.29 155.6 376.66 147.7 371.04 163.52 365.57 136.97 371.04 128.73 376.66 139.66 382.29 139.08 387.92 136.56 393.55 135.6 399.18 126.72 400.97 127.61" fill="#067fa3"/>
+      <polygon points="426.7 109.2 421.7 162.79 416.07 130.65 415.62 127.79 416.07 127.49 421.7 105.83 426.7 109.2" fill="#067fa3"/>
+    </g>
+  </g>
+  <g opacity=".5">
+    <g>
+      <polygon points="63.69 159.37 61.42 166.3 58.37 165.21 61.42 153.17 63.69 159.37" fill="#dc4732"/>
+      <polygon points="85.11 164.6 83.93 164.98 78.3 171.77 77.91 170.85 78.3 170.93 83.93 161.11 85.11 164.6" fill="#dc4732"/>
+      <polygon points="116.17 152.61 112.08 161.37 111.6 160.25 112.08 160.09 116.17 152.61" fill="#dc4732"/>
+      <polygon points="141.56 119.53 140.23 121.08 138.77 125.62 140.23 115.31 141.56 119.53" fill="#dc4732"/>
+      <polygon points="163.56 119.53 162.75 121.97 157.12 125.76 155.96 121.88 157.12 120.24 162.75 119.05 163.56 119.53" fill="#dc4732"/>
+      <polygon points="204.64 158.27 202.15 164.87 196.52 143.7 190.89 151.57 185.26 135.95 182.87 130.68 185.26 128.61 190.89 118.05 196.52 117.65 202.15 156.5 204.64 158.27" fill="#dc4732"/>
+      <polygon points="214.07 159.72 213.41 161.19 212.7 159.77 213.41 159.67 214.07 159.72" fill="#dc4732"/>
+      <polygon points="287.16 156.65 286.59 156.26 280.96 165.33 275.33 170.93 269.71 153.41 264.08 152.85 258.45 147.64 252.82 152.54 247.19 142.21 241.56 128.5 238.73 127.04 241.56 120.91 247.19 129.29 252.82 140.77 258.45 147.22 264.08 151.79 269.71 151.78 275.33 152.82 280.96 150.65 286.59 155.94 287.16 156.65" fill="#dc4732"/>
+      <polygon points="339.41 123.48 337.26 123.62 331.63 124.4 326 121.17 320.37 127.27 314.74 132.71 309.11 149.89 303.48 154.39 303.21 154.42 303.48 154.18 309.11 145.83 314.74 115.75 320.37 120.29 326 116.77 331.63 113.72 337.26 110.71 339.41 123.48" fill="#dc4732"/>
+      <polygon points="355.09 152.67 354.15 155.43 351.84 145.12 354.15 152.35 355.09 152.67" fill="#dc4732"/>
+      <polygon points="365.57 136.97 365.41 137.21 365.06 137.31 365.41 136.19 365.57 136.97" fill="#dc4732"/>
+      <polygon points="415.62 127.79 410.44 131.22 404.81 129.53 400.97 127.61 404.81 107.98 410.44 94.9 415.62 127.79" fill="#dc4732"/>
+      <polygon points="438.59 63.94 438.59 116.32 432.96 118.39 427.33 109.63 426.7 109.2 427.33 102.41 432.96 53.15 438.59 63.94" fill="#dc4732"/>
+    </g>
+  </g>
+  <polyline points="438.589 116.322 432.959 118.394 427.33 109.627 421.7 105.83 416.071 127.487 410.442 131.223 404.812 129.534 399.183 126.723 393.553 135.597 387.924 136.564 382.294 139.085 376.665 139.656 371.035 128.728 365.406 137.208 359.776 138.841 354.147 155.434 348.518 130.259 342.888 123.237 337.259 123.622 331.629 124.4 326 121.171 320.37 127.266 314.741 132.706 309.111 149.888 303.482 154.389 297.852 155.073 292.223 160.163 286.594 156.263 280.964 165.332 275.335 170.93 269.705 153.413 264.076 152.85 258.446 147.639 252.817 152.543 247.187 142.212 241.558 128.502 235.928 125.586 230.299 116.071 224.67 134.838 219.04 148.632 213.411 161.194 207.781 149.924 202.152 164.866 196.522 143.698 190.893 151.567 185.263 135.949 179.634 123.512 174.004 116.177 168.375 105.015 162.745 121.973 157.116 125.764 151.487 106.914 145.857 114.475 140.228 121.08 134.598 138.598 128.969 130.52 123.339 136.019 117.71 149.324 112.08 161.367 106.451 148.332 100.821 148.7 95.192 155.619 89.563 163.146 83.933 164.981 78.304 171.772 72.674 158.576 67.045 149.117 61.415 166.296 55.786 164.277 50.156 159.823" fill="none" stroke="#067fa3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <polyline points="438.589 63.942 432.959 53.146 427.33 102.412 421.7 162.786 416.071 130.655 410.442 94.898 404.812 107.982 399.183 136.748 393.553 155.703 387.924 169.151 382.294 155.6 376.665 147.699 371.035 163.521 365.406 136.194 359.776 154.283 354.147 152.345 348.518 134.695 342.888 144.188 337.259 110.708 331.629 113.72 326 116.766 320.37 120.291 314.741 115.746 309.111 145.833 303.482 154.179 297.852 159.205 292.223 163.019 286.594 155.94 280.964 150.653 275.335 152.824 269.705 151.778 264.076 151.791 258.446 147.221 252.817 140.77 247.187 129.292 241.558 120.914 235.928 133.1 230.299 138.872 224.67 154.71 219.04 160.116 213.411 159.667 207.781 160.499 202.152 156.501 196.522 117.653 190.893 118.052 185.263 128.608 179.634 133.482 174.004 129.067 168.375 122.374 162.745 119.045 157.116 120.242 151.487 128.19 145.857 133.21 140.228 115.312 134.598 155.107 128.969 155.046 123.339 155.018 117.71 149.801 112.08 160.094 106.451 161.974 100.821 162.397 95.192 163.633 89.563 177.681 83.933 161.11 78.304 170.928 72.674 169.835 67.045 168.561 61.415 153.169 55.786 175.389 50.156 176.53" fill="none" stroke="#dc4732" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line x1="191.012" y1="83.015" x2="191.012" y2="130.282" fill="none" stroke="#dc4732" stroke-miterlimit="10" stroke-width=".5"/>
+  <line x1="384.489" y1="83.015" x2="384.489" y2="145.12" fill="none" stroke="#067fa3" stroke-miterlimit="10" stroke-width=".5"/>
+  <line x1="438.589" y1="64.134" x2="438.589" y2="116.823" fill="none" stroke="#231f20" stroke-dasharray=".5 2.5" stroke-linecap="square" stroke-linejoin="round" stroke-width=".75"/>
+  <circle cx="438.59" cy="64.134" r="2.106" fill="#fff" stroke="#dc4732" stroke-miterlimit="10"/>
+  <circle cx="438.59" cy="116.284" r="2.106" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
+</svg>
