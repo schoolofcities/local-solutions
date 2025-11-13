@@ -1,196 +1,408 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.1in" viewBox="0 0 489.6 295.2">
-  <g>
-    <rect x="187.2" y="133.2" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect x="187.2" y="133.2" width="50.306" height="7.2" fill="#dc4732"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.1in" viewBox="0 0 489.6 295.2">
+  <g id="white">
+    <rect width="489.6" height="295.2" fill="#fff"/>
   </g>
-  <g>
-    <rect x="187.2" y="162" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect x="187.2" y="162" width="39.168" height="7.2" fill="#dc4732"/>
-  </g>
-  <g>
-    <rect x="187.2" y="122.4" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect x="187.2" y="122.4" width="90.086" height="7.2" fill="#1e3864"/>
-  </g>
-  <g>
-    <rect x="187.2" y="151.2" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect x="187.2" y="151.2" width="80.784" height="7.2" fill="#1e3864"/>
-  </g>
-  <rect id="rect90" x="180" y="43.2" width="136.8" height="57.725" fill="rgba(30, 55, 101, .102)"/>
-  <rect id="rect90-3" x="338.4" y="43.2" width="136.8" height="57.725" fill="rgba(30, 55, 101, .102)"/>
-  <rect id="rect90-7" x="21.6" y="43.2" width="136.8" height="57.725" fill="rgba(30, 55, 101, .102)"/>
-  <g id="text64" isolation="isolate">
-    <g id="text3" isolation="isolate">
-      <text transform="translate(21.6 261.657)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Election Canada (2021); Statistics Canada (2018, 2023) Survey on Giving, </tspan></text>
-      <text transform="translate(21.6 271.257)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Volunteering and Participating; Statistics Canada (2025) Canadian Social Survey. </tspan></text>
-      <text transform="translate(21.6 280.857)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">*Overall rate of volunteering includes formal (via charitable or non-profit organizations) and informal volunteering.</tspan></text>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <rect x="345.6" y="133.2" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="345.6" y="133.2" width="26.816" height="7.2" fill="#dc4732"/>
     </g>
-  </g>
-  <rect id="rect75" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <path id="path37" d="M-.069,294.993h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <path id="path37-2" d="M0,.125h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <g id="text4" isolation="isolate">
-    <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Metrics of social engagement</tspan></text>
-  </g>
-  <g id="text5" isolation="isolate">
-    <text transform="translate(28.999 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2021</tspan></text>
-  </g>
-  <g id="text6" isolation="isolate">
-    <text transform="translate(29.127 64.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">Voter turnout (2021)</tspan></text>
-  </g>
-  <g id="g7">
-    <rect id="rect6" x="28.8" y="148.753" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect7" x="28.8" y="148.753" width="77.969" height="7.2" fill="#1e3864"/>
-  </g>
-  <g id="g9">
-    <rect id="rect8" x="28.8" y="161.929" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect9" x="28.8" y="161.929" width="86.537" height="7.2" fill="#1e3864"/>
-  </g>
-  <g id="g11">
-    <rect id="rect10" x="28.8" y="135.576" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect11" x="28.8" y="135.576" width="61.445" height="7.2" fill="#dc4732"/>
-  </g>
-  <g id="g13">
-    <rect id="rect12" x="28.8" y="122.4" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect13" x="28.8" y="122.4" width="76.623" height="7.2" fill="#1e3864"/>
-  </g>
-  <g id="g15">
-    <g id="text13" isolation="isolate">
-      <text transform="translate(36.132 93.804)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700" isolation="isolate"><tspan x="0" y="0">62.6%</tspan></text>
+    <g>
+      <rect x="345.6" y="162" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="345.6" y="162" width="56.756" height="7.2" fill="#dc4732"/>
     </g>
-    <g id="g14">
-      <g id="text14" isolation="isolate">
-        <text transform="translate(114.93 86.598)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">4.6%</tspan></text>
+    <g>
+      <rect x="345.6" y="122.4" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="345.6" y="122.4" width="21.099" height="7.2" fill="#1e3864"/>
+    </g>
+    <g>
+      <rect x="345.6" y="151.2" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="345.6" y="151.2" width="68.224" height="7.2" fill="#1e3864"/>
+    </g>
+    <g>
+      <rect x="187.2" y="133.2" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="187.2" y="133.2" width="50.306" height="7.2" fill="#dc4732"/>
+    </g>
+    <g>
+      <rect x="187.2" y="162" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="187.2" y="162" width="39.168" height="7.2" fill="#dc4732"/>
+    </g>
+    <g>
+      <rect x="187.2" y="122.4" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="187.2" y="122.4" width="90.086" height="7.2" fill="#1e3864"/>
+    </g>
+    <g>
+      <rect x="187.2" y="151.2" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect x="187.2" y="151.2" width="80.784" height="7.2" fill="#1e3864"/>
+    </g>
+    <rect id="rect90" x="180" y="43.2" width="136.8" height="57.725" fill="rgba(30, 55, 101, .102)"/>
+    <rect id="rect90-3" x="338.4" y="43.2" width="136.8" height="57.725" fill="rgba(30, 55, 101, .102)"/>
+    <rect id="rect90-7" x="21.6" y="43.2" width="136.8" height="57.725" fill="rgba(30, 55, 101, .102)"/>
+    <g id="text64" isolation="isolate">
+      <g id="text3" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(21.6 261.657)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Election Canada (2021); Statistics Canada (2018, 2023) Survey on Giving,</tspan></text>
+          </g>
+        </g>
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(21.6 271.257)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Volunteering and Participating; Statistics Canada (2025) Canadian Social Survey.</tspan></text>
+          </g>
+        </g>
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(21.6 280.857)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">*Overall rate of volunteering includes formal (via charitable or non-profit organizations) and informal volunteering.</tspan></text>
+          </g>
+        </g>
       </g>
-      <polygon id="polygon14" points="110.546 84.98 113.988 80.635 107.104 80.635 110.546 84.98" fill="#ab2069"/>
     </g>
-    <g id="text15" isolation="isolate">
-      <text transform="translate(107.032 94.046)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">from 2019</tspan></text>
-    </g>
-  </g>
-  <g id="text29" isolation="isolate">
-    <text transform="translate(28.668 185.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Voter participation among</tspan></text>
-    <text transform="translate(28.668 197.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Canadians aged 18–34 was</tspan></text>
-    <text transform="translate(28.668 209.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">50%</tspan></text>
-    <text transform="translate(48.243 209.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0" xml:space="preserve"> in 2021, the lowest </tspan></text>
-    <text transform="translate(28.668 221.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">turnout among all age</tspan></text>
-    <text transform="translate(28.668 233.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">demographics.</tspan></text>
-  </g>
-  <g id="text31" isolation="isolate">
-    <text transform="translate(199.626 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">Rate of informal</tspan></text>
-    <text transform="translate(190.624 70.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">volunteering (2023)</tspan></text>
-  </g>
-  <g>
-    <g id="text32" isolation="isolate">
-      <text transform="translate(204.041 95.428)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700" isolation="isolate"><tspan x="0" y="0">66%</tspan></text>
-    </g>
-    <g id="g33">
-      <g id="text33" isolation="isolate">
-        <text transform="translate(262.849 87.965)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">8.0%</tspan></text>
+    <rect id="rect75" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <path id="path37" d="M-.069,294.993h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <path id="path37-2" d="M0,.26h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <g id="text4" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Metrics of social engagement</tspan></text>
+        </g>
       </g>
-      <polygon id="polygon33" points="258.465 85.806 261.907 81.461 255.023 81.461 258.465 85.806" fill="#ab2069"/>
     </g>
-    <g id="text34" isolation="isolate">
-      <text transform="translate(255.923 96.724)" fill="#5e5c64" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">from 2018</tspan></text>
+    <g id="text5" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(28.999 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2021</tspan></text>
+        </g>
+      </g>
     </g>
-  </g>
-  <g id="g36">
-    <g id="text35" isolation="isolate">
-      <text transform="translate(187.295 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2018 - volunteering by type</tspan></text>
+    <g id="text6" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(29.127 64.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">Voter turnout (2021)</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text36" isolation="isolate">
-      <text transform="translate(186.727 149.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2023</tspan></text>
+    <g id="g7">
+      <rect id="rect6" x="28.8" y="148.753" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect id="rect7" x="28.8" y="148.753" width="77.969" height="7.2" fill="#1e3864"/>
     </g>
-  </g>
-  <g id="text46" isolation="isolate">
-    <text transform="translate(187.011 185.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">The overall volunteer rate </tspan><tspan x="0" y="12">among Canadians declined</tspan><tspan x="0" y="24">6% from 2018 to 2023.</tspan></text>
-  </g>
-  <g id="text58" isolation="isolate">
-    <text transform="translate(354.157 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">Sense of meaning</tspan></text>
-    <text transform="translate(350.026 72)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">and purpose (2025)</tspan></text>
-  </g>
-  <g id="g65">
-    <g id="text59" isolation="isolate">
-      <text transform="translate(354.07 93.572)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700" isolation="isolate"><tspan x="0" y="0">56%</tspan></text>
+    <g id="g9">
+      <rect id="rect8" x="28.8" y="161.929" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect id="rect9" x="28.8" y="161.929" width="86.537" height="7.2" fill="#1e3864"/>
     </g>
-    <g id="text65" isolation="isolate">
-      <text transform="translate(403.167 84.172)" fill="#1e3864" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">high</tspan></text>
-      <text transform="translate(421.612 84.172)" fill="#1e3864" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">rating</tspan></text>
-      <text transform="translate(403.167 93.772)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">across ages 15+</tspan></text>
+    <g id="g11">
+      <rect id="rect10" x="28.8" y="135.576" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect id="rect11" x="28.8" y="135.576" width="61.445" height="7.2" fill="#dc4732"/>
     </g>
-  </g>
-  <g id="text76" isolation="isolate">
-    <text transform="translate(343.73 185.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Canadians aged 15–34</tspan></text>
-    <text transform="translate(343.73 197.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">have the</tspan></text>
-    <text transform="translate(383.964 197.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">highest share of</tspan></text>
-    <text transform="translate(343.73 209.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">low meaning and purpose</tspan></text>
-    <text transform="translate(343.73 221.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">ratings</tspan></text>
-    <text transform="translate(379.731 221.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">and the lowest share</tspan></text>
-    <text transform="translate(343.73 233.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">of high ratings compared to</tspan></text>
-    <text transform="translate(343.73 245.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">other age groups.</tspan></text>
-  </g>
-  <g id="text77" isolation="isolate">
-    <text transform="translate(407.238 128.661)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">volunteer rate</tspan></text>
-  </g>
-  <g id="g78">
-    <rect id="rect77" x="345.6" y="122.4" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect78" x="345.6" y="122.4" width="21.053" height="7.2" fill="#1e3864"/>
-  </g>
-  <g id="g80">
-    <rect id="rect79" x="345.6" y="151.2" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect80" x="345.6" y="151.2" width="68.177" height="7.2" fill="#1e3864"/>
-  </g>
-  <g id="g82">
-    <rect id="rect81" x="345.6" y="133.2" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect82" x="345.6" y="133.2" width="50.062" height="7.2" fill="#dc4732"/>
-  </g>
-  <g id="g84">
-    <rect id="rect83" x="345.6" y="162" width="122.4" height="7.2" fill="#e6e7e8"/>
-    <rect id="rect84" x="345.722" y="162" width="32.803" height="7.2" fill="#dc4732"/>
-  </g>
-  <g id="text84" isolation="isolate">
-    <text transform="translate(345.6 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">low rating</tspan></text>
-  </g>
-  <g id="text85" isolation="isolate">
-    <text transform="translate(345.6 149.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">high rating</tspan></text>
-  </g>
-  <g>
-    <g id="text16" isolation="isolate">
-      <text transform="translate(141.984 128.884)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+    <g id="g13">
+      <rect id="rect12" x="28.8" y="122.4" width="122.4" height="7.2" fill="#e6e7e8"/>
+      <rect id="rect13" x="28.8" y="122.4" width="76.623" height="7.2" fill="#1e3864"/>
     </g>
-    <g id="text17" isolation="isolate">
-      <text transform="translate(129.609 142.06)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">18-34</tspan></text>
+    <g id="g15">
+      <g id="text13" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(36.132 93.804)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700" isolation="isolate"><tspan x="0" y="0">62.6%</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="g14">
+        <g id="text14" isolation="isolate">
+          <g isolation="isolate">
+            <g isolation="isolate">
+              <text transform="translate(114.93 86.598)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">4.6%</tspan></text>
+            </g>
+          </g>
+        </g>
+        <polygon id="polygon14" points="110.546 84.98 113.988 80.635 107.104 80.635 110.546 84.98" fill="#ab2069"/>
+      </g>
+      <g id="text15" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(107.032 94.046)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">from 2019</tspan></text>
+          </g>
+        </g>
+      </g>
     </g>
-    <g id="text18" isolation="isolate">
-      <text transform="translate(129.609 155.236)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">35-65</tspan></text>
+    <g id="text29" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(28.668 185.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Voter participation among</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(28.668 197.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Canadians aged 18–34 was</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(28.668 209.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">50%</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(48.243 209.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0" xml:space="preserve"> in 2021, the lowest </tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(28.668 221.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">turnout among all age</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(28.668 233.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">demographics.</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text19" isolation="isolate">
-      <text transform="translate(136.757 168.413)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">65+</tspan></text>
+    <g id="text31" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(204.827 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">Rate of overall</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(190.624 70.8)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">volunteering (2023)</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text54" isolation="isolate">
-      <text transform="translate(277.224 157.683)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">informal</tspan></text>
+    <g>
+      <g id="text32" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(204.041 95.428)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700" isolation="isolate"><tspan x="0" y="0">71%</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="g33">
+        <g id="text33" isolation="isolate">
+          <g isolation="isolate">
+            <g isolation="isolate">
+              <text transform="translate(262.849 87.965)" fill="#ab2069" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">8.0%</tspan></text>
+            </g>
+          </g>
+        </g>
+        <polygon id="polygon33" points="258.465 85.806 261.907 81.461 255.023 81.461 258.465 85.806" fill="#ab2069"/>
+      </g>
+      <g id="text34" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(255.923 96.724)" fill="#5e5c64" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">from 2018</tspan></text>
+          </g>
+        </g>
+      </g>
     </g>
-    <g id="text55" isolation="isolate">
-      <text transform="translate(284.157 139.683)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">formal</tspan></text>
+    <g id="g36">
+      <g id="text35" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(187.295 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2018 - volunteering by type</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text36" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(186.727 149.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2023</tspan></text>
+          </g>
+        </g>
+      </g>
     </g>
-    <g id="text56" isolation="isolate">
-      <text transform="translate(284.158 168.483)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">formal</tspan></text>
+    <g id="text46" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(187.011 185.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">The overall volunteer rate</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(187.011 197.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">among Canadians declined</tspan></text>
+        </g>
+        <g isolation="isolate">
+          <text transform="translate(187.011 209.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">8% from 2018 to 2023.</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text86" isolation="isolate">
-      <text transform="translate(458.784 128.883)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+    <g id="text58" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(354.157 57.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">Sense of meaning</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(350.026 72)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" isolation="isolate"><tspan x="0" y="0">and purpose (2025)</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text87" isolation="isolate">
-      <text transform="translate(446.409 139.683)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">15-34</tspan></text>
+    <g id="g65">
+      <g id="text59" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(354.07 93.572)" fill="#1e3864" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="22" font-weight="700" isolation="isolate"><tspan x="0" y="0">56%</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text65" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(403.167 84.172)" fill="#1e3864" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">high</tspan></text>
+          </g>
+        </g>
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(421.612 84.172)" fill="#1e3864" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">rating</tspan></text>
+          </g>
+        </g>
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(403.167 93.772)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">across ages 15+</tspan></text>
+          </g>
+        </g>
+      </g>
     </g>
-    <g id="text88" isolation="isolate">
-      <text transform="translate(458.784 157.684)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+    <g id="text76" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(343.73 185.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Canadians aged 15–34</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(343.73 197.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">have the</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(383.964 197.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">highest share of</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(343.73 209.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">low meaning and purpose</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(343.73 221.265)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">ratings</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(379.731 221.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">and the lowest share</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(343.73 233.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">of high ratings compared to</tspan></text>
+        </g>
+      </g>
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(343.73 245.265)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">other age groups.</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text89" isolation="isolate">
-      <text transform="translate(446.409 168.484)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">15-34</tspan></text>
+    <g id="text84" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(345.6 120.244)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">low rating</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="text53">
-      <text transform="translate(277.224 128.884)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">informal</tspan></text>
+    <g id="text85" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <text transform="translate(345.6 149.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">high rating</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="text16" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(142.34 128.884)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text17" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(129.965 142.06)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">18-34</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text18" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(129.965 155.236)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">35-65</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text19" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(137.113 168.413)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">65+</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text54" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(277.58 157.683)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">informal</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text55" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(284.513 139.683)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">formal</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text56" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(284.514 168.483)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">formal</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text86" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(459.14 128.883)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text87" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(446.765 139.683)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">15-34</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text88" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(459.14 157.684)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text89" isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(446.765 168.484)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">15-34</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="text53">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(277.58 128.884)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">informal</tspan></text>
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
