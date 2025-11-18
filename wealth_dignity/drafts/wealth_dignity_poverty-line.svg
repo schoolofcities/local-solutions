@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="3.9in" viewBox="0 0 244.8 280.8">
-  <polyline points="30.22 102.6 54.165 116.028 78.11 124.42 102.055 130.295 126 137.849 150.722 170.58 173.89 162.187 197.835 141.206 221.78 138.688" fill="none" stroke="#808285" stroke-miterlimit="10"/>
+  <path d="M23.609,101.508h13.223c1.585,0,2.871,1.168,2.871,2.61v119.083h-18.964v-119.083c0-1.441,1.285-2.61,2.871-2.61Z" fill="#dc4731"/>
+  <path d="M47.553,114.936h13.223c1.585,0,2.871,1.168,2.871,2.61v105.654h-18.964v-105.654c0-1.441,1.285-2.61,2.871-2.61Z" fill="#dc4a31"/>
+  <path d="M71.498,123.329h13.223c1.585,0,2.871,1.168,2.871,2.61v97.262h-18.964v-97.262c0-1.441,1.285-2.61,2.871-2.61Z" fill="#df602d"/>
+  <path d="M95.443,129.203h13.223c1.585,0,2.871,1.168,2.871,2.61v91.387h-18.964v-91.387c0-1.441,1.285-2.61,2.871-2.61Z" fill="#e26f2a"/>
+  <path d="M119.388,136.757h13.223c1.585,0,2.871,1.168,2.871,2.61v83.834h-18.964v-83.834c0-1.441,1.285-2.61,2.871-2.61Z" fill="#e58225"/>
+  <path d="M144.111,169.488h13.223c1.585,0,2.871,1.168,2.871,2.61v51.103h-18.964v-51.103c0-1.441,1.285-2.61,2.871-2.61Z" fill="#cabf2c"/>
+  <path d="M167.278,161.095h13.223c1.585,0,2.871,1.168,2.871,2.61v59.495h-18.964v-59.495c0-1.441,1.285-2.61,2.871-2.61Z" fill="#efc219"/>
+  <path d="M191.223,140.114h13.223c1.585,0,2.871,1.168,2.871,2.61v80.477h-18.964v-80.477c0-1.441,1.285-2.61,2.871-2.61Z" fill="#e78c23"/>
+  <path d="M215.168,137.596h13.223c1.585,0,2.871,1.168,2.871,2.61v82.995h-18.964v-82.995c0-1.441,1.285-2.61,2.871-2.61Z" fill="#e58526"/>
   <g>
     <g>
       <line x1="0" y1="223.2" x2=".184" y2="223.2" fill="none" stroke="#808285" stroke-miterlimit="10" stroke-width=".184"/>
@@ -28,11 +36,11 @@
   <text transform="translate(0 178.778)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">5</tspan></text>
   <text transform="translate(0 220.741)" fill="#a7a9ac" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8"><tspan x="0" y="0">0</tspan></text>
   <text transform="translate(18.784 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2015</tspan></text>
-  <text transform="translate(66.674 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2017</tspan></text>
-  <text transform="translate(114.564 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2019</tspan></text>
+  <text transform="translate(66.675 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2017</tspan></text>
+  <text transform="translate(114.565 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2019</tspan></text>
   <text transform="translate(162.454 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2021</tspan></text>
   <text transform="translate(210.344 237.477)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">2023</tspan></text>
-  <text transform="translate(165.034 94.932)" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700"><tspan x="0" y="0">~4 million</tspan><tspan x="-1.516" y="12">Canadians</tspan></text>
+  <text transform="translate(165.035 94.932)" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-weight="700"><tspan x="0" y="0">~4 million</tspan><tspan x="-1.516" y="12">Canadians</tspan></text>
   <line y1="223.2" x2="244.8" y2="223.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
   <g id="text64" isolation="isolate">
     <text transform="translate(21.238 256.864)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2023) Canadian Income </tspan><tspan x="0" y="9.6">Survey</tspan></text>
@@ -46,24 +54,18 @@
   <line x1="78.11" y1="221.038" x2="78.11" y2="225.362" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
   <line x1="126" y1="221.038" x2="126" y2="225.362" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
   <line x1="173.89" y1="221.038" x2="173.89" y2="225.362" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
-  <line x1="53.779" y1="221.701" x2="53.779" y2="224.699" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
-  <line x1="101.669" y1="221.701" x2="101.669" y2="224.699" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
-  <line x1="149.559" y1="221.701" x2="149.559" y2="224.699" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
-  <line x1="197.449" y1="221.701" x2="197.449" y2="224.699" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
   <line x1="221.78" y1="221.038" x2="221.78" y2="225.362" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".918"/>
+  <path d="M22.922,101.508h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M46.867,114.936h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M70.812,123.329h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M94.757,129.203h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M118.702,136.757h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M143.424,169.488h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M166.592,161.095h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M190.537,140.114h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
+  <path d="M214.481,137.596h14.597c1.205,0,2.184.979,2.184,2.184h-18.964c0-1.205.979-2.184,2.184-2.184Z" fill="#231f20"/>
   <g>
     <path d="M216.526,97.376s7.374-3.08,5.429,33.436" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
     <path d="M221.78,133.825c-.472-1.439-1.303-3.234-2.212-4.362l2.343.951,2.409-.768c-.993,1.055-1.959,2.781-2.54,4.179Z"/>
-  </g>
-  <g>
-    <circle cx="30.22" cy="102.6" r="4.108" fill="#dc4731" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="54.165" cy="116.028" r="4.108" fill="#dc4a31" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="78.11" cy="124.42" r="4.108" fill="#df602d" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="102.055" cy="130.295" r="4.108" fill="#e26f2a" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="126" cy="137.849" r="4.108" fill="#e58225" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="150.722" cy="170.58" r="4.108" fill="#cabf2c" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="173.89" cy="162.187" r="4.108" fill="#efc219" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="197.835" cy="141.206" r="4.108" fill="#e78c23" stroke="#fff" stroke-miterlimit="10"/>
-    <circle cx="221.78" cy="138.688" r="4.108" fill="#e58526" stroke="#fff" stroke-miterlimit="10"/>
   </g>
 </svg>
