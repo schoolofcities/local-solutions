@@ -24,18 +24,18 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
+     inkscape:deskcolor="#ffffff"
      inkscape:document-units="in"
-     inkscape:zoom="1.1941425"
-     inkscape:cx="247.87662"
-     inkscape:cy="195.5378"
+     inkscape:zoom="1.6887725"
+     inkscape:cx="325.97641"
+     inkscape:cy="201.03359"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1"
-     showgrid="false">
+     showgrid="true">
     <inkscape:grid
        id="grid260"
        units="in"
@@ -49,7 +49,7 @@
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
-       visible="false" />
+       visible="true" />
   </sodipodi:namedview>
   <g
      id="Layer_1"
@@ -328,7 +328,7 @@
       <g
          id="patch_5-3"
          data-name="patch 5"
-         transform="translate(0,-0.31403286)">
+         transform="matrix(0.97083053,0,0,1,7.6817002,-0.31403286)">
         <path
            d="M 14.4,426.199 H 473.818"
            fill="none"
@@ -376,7 +376,7 @@
     <g
        id="text51"
        isolation="isolate"
-       transform="translate(0,-204.1262)">
+       transform="translate(0,-202.9589)">
       <text
          transform="translate(21.6,462.637)"
          fill="#999999"
@@ -438,7 +438,8 @@
            id="tspan103">per 10K households</tspan></text>
     </g>
     <g
-       id="g109">
+       id="g109"
+       transform="matrix(0.95374519,0,0,1,0.96626303,0)">
       <line
          x1="20.889999"
          y1="194.494"

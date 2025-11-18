@@ -29,8 +29,8 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="1.2665794"
-     inkscape:cx="346.99758"
-     inkscape:cy="177.24905"
+     inkscape:cx="328.83844"
+     inkscape:cy="197.77678"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -61,7 +61,8 @@
      y="0.5" />
   <g
      id="g8"
-     transform="translate(0,-11.105984)">
+     transform="translate(0,-11.105984)"
+     style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0">
     <line
        x1="14.4"
        y1="260.44"
@@ -71,7 +72,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line1" />
+       id="line1"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="233.20799"
@@ -81,7 +83,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line2" />
+       id="line2"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="205.97701"
@@ -91,7 +94,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line3" />
+       id="line3"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="178.745"
@@ -101,7 +105,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line4" />
+       id="line4"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="151.513"
@@ -111,7 +116,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line5" />
+       id="line5"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="124.281"
@@ -121,7 +127,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line6" />
+       id="line6"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="97.049004"
@@ -131,7 +138,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line7" />
+       id="line7"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
     <line
        x1="14.4"
        y1="69.817001"
@@ -141,7 +149,8 @@
        stroke="#231f20"
        stroke-dasharray="0.25, 2"
        stroke-width="0.25"
-       id="line8" />
+       id="line8"
+       style="stroke:#deddda;stroke-width:1.00799999;stroke-dasharray:1.00800001, 1.00800001;fill:#c0bfbc;stroke-dashoffset:0" />
   </g>
   <g
      id="g81"
