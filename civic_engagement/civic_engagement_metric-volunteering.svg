@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="2.7in" viewBox="0 0 244.8 194.4">
+  <rect x="0" width="244.8" height="194.4" fill="#fff"/>
+  <rect x="21.6" y="97.202" width="208.8" height="7.2" fill="#e6e7e8"/>
+  <rect x="21.6" y="79.202" width="208.8" height="7.2" fill="#e6e7e8"/>
+  <g id="text64" isolation="isolate">
+    <g id="text3" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(21.6 151.2)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data sources: Statistics Canada (2018, 2023) Survey on </tspan><tspan x="0" y="9.6">Giving, Volunteering and Participating. *Overall rate of </tspan><tspan x="0" y="19.2">volunteering includes formal (via charitable or non-profit </tspan><tspan x="0" y="28.8">organizations) and informal volunteering.</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="rect75" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <g>
+    <g id="text55" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(21.684 95.045)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">formal</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text53">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(21.684 77.046)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">informal</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <line x1="159.408" y1="82.802" x2="175.276" y2="82.802" fill="none" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".75"/>
+  <line x1="88.416" y1="100.802" x2="107.416" y2="100.802" fill="none" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".75"/>
+  <circle cx="107.416" cy="100.802" r="2.322" fill="#e6e7e8" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".5"/>
+  <circle cx="88.416" cy="100.802" r="2.52" fill="#1e3864" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width=".25"/>
+  <ellipse cx="175.276" cy="82.802" rx="2.322" ry="2.317" fill="#e6e7e8" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".5"/>
+  <circle cx="159.408" cy="82.802" r="2.52" fill="#1e3864" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width=".25"/>
+  <g id="text49" isolation="isolate">
+    <text id="text3-2" data-name="text3" transform="translate(21.059 40.973) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="34" font-weight="700" isolation="isolate"><tspan x="0" y="0">71%</tspan></text>
+    <g id="text3-4" isolation="isolate">
+      <text transform="translate(97.006 24.748) rotate(.17)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12" isolation="isolate"><tspan x="0" y="0">Rate of overall </tspan><tspan x="0" y="14.4">volunteering</tspan></text>
+      <text transform="translate(167.574 35.362) rotate(.17) scale(.583)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">*</tspan></text>
+      <text transform="translate(171.422 39.369) rotate(.17)"><tspan><tspan x="0" y="0" xml:space="preserve" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"> (2023)</tspan><tspan x="-74.459" y="10.8" xml:space="preserve" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100">    8% from 2018</tspan></tspan></text>
+    </g>
+  </g>
+  <polygon id="polygon14" points="101.937 48.799 105.379 44.454 98.495 44.454 101.937 48.799" fill="#ab2069"/>
+  <path id="path37-2" d="M0,194.278h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <path id="path37-2-2" data-name="path37-2" d="M0,.26h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <g>
+    <g id="text55-2" isolation="isolate">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(146.571 115.202)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2018</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text53-2">
+      <g isolation="isolate">
+        <g isolation="isolate">
+          <g isolation="isolate">
+            <text transform="translate(96.171 115.202)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">2023</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <circle cx="139.373" cy="112.538" r="1.644" fill="none" stroke="#1e3864" stroke-miterlimit="10" stroke-width=".5"/>
+    <circle cx="88.973" cy="112.538" r="1.842" fill="#1e3864" stroke="#fff" stroke-miterlimit="10" stroke-width=".25"/>
+  </g>
+</svg>
