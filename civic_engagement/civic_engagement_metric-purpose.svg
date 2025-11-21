@@ -1,99 +1,399 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="2.7in" viewBox="0 0 244.8 194.4">
-  <rect x="0" width="244.8" height="194.4" fill="#fff"/>
-  <g>
-    <rect x="21.6" y="75.6" width="208.8" height="7.2" fill="#e6e7e8"/>
-    <rect x="21.6" y="75.6" width="45.745" height="7.2" fill="#dc4732"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   width="3.4in"
+   height="2.7in"
+   viewBox="0 0 244.8 194.4"
+   version="1.1"
+   sodipodi:docname="civic_engagement_metric-purpose.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="1.5779321"
+     inkscape:cx="195.19218"
+     inkscape:cy="133.08558"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <rect
+     x="0"
+     width="244.8"
+     height="194.4"
+     fill="#fff"
+     id="rect1" />
+  <g
+     id="g3">
+    <rect
+       x="21.6"
+       y="75.6"
+       width="208.8"
+       height="7.2"
+       fill="#e6e7e8"
+       id="rect2" />
+    <rect
+       x="21.6"
+       y="75.6"
+       width="45.745"
+       height="7.2"
+       fill="#dc4732"
+       id="rect3" />
   </g>
-  <g>
-    <rect x="21.6" y="108" width="208.8" height="7.2" fill="#e6e7e8"/>
-    <rect x="21.6" y="108" width="96.819" height="7.2" fill="#dc4732"/>
+  <g
+     id="g5">
+    <rect
+       x="21.6"
+       y="108"
+       width="208.8"
+       height="7.2"
+       fill="#e6e7e8"
+       id="rect4" />
+    <rect
+       x="21.6"
+       y="108"
+       width="96.819"
+       height="7.2"
+       fill="#dc4732"
+       id="rect5" />
   </g>
-  <g>
-    <rect x="21.6" y="64.8" width="208.8" height="7.2" fill="#e6e7e8"/>
-    <rect x="21.6" y="64.8" width="35.992" height="7.2" fill="#1e3864"/>
+  <g
+     id="g7">
+    <rect
+       x="21.6"
+       y="64.8"
+       width="208.8"
+       height="7.2"
+       fill="#e6e7e8"
+       id="rect6" />
+    <rect
+       x="21.6"
+       y="64.8"
+       width="35.992"
+       height="7.2"
+       fill="#1e3864"
+       id="rect7" />
   </g>
-  <g>
-    <rect x="21.6" y="97.2" width="208.8" height="7.2" fill="#e6e7e8"/>
-    <rect x="21.6" y="97.2" width="116.382" height="7.2" fill="#1e3864"/>
+  <g
+     id="g9">
+    <rect
+       x="21.6"
+       y="97.2"
+       width="208.8"
+       height="7.2"
+       fill="#e6e7e8"
+       id="rect8" />
+    <rect
+       x="21.6"
+       y="97.2"
+       width="116.382"
+       height="7.2"
+       fill="#1e3864"
+       id="rect9" />
   </g>
-  <rect id="rect75" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-  <g id="text76" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(21.6 129.6)" font-size="10" font-style="italic" isolation="isolate"><tspan x="0" y="0" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">Fewer </tspan><tspan x="31.138" y="0" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100">Canadians aged 15–34 had a </tspan><tspan x="162.383" y="0" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">high sense </tspan><tspan x="0" y="12" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-weight="700">of meaning and purpose </tspan><tspan x="117.222" y="12" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100">compared to other age </tspan><tspan font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="24">groups. </tspan></tspan></text>
+  <rect
+     id="rect75"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <rect
+     id="rect72"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <g
+     id="text76"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g17">
+      <g
+         isolation="isolate"
+         id="g16">
+        <g
+           isolation="isolate"
+           id="g15">
+          <text
+             transform="translate(21.6,129.6)"
+             font-size="10px"
+             font-style="italic"
+             isolation="isolate"
+             id="text15"
+             style="white-space:pre;inline-size:208.183"
+             xml:space="preserve"><tspan
+               x="0"
+               y="0"
+               id="tspan7"><tspan
+   style="font-weight:700;font-family:OpenSans-BoldItalic, 'Open Sans';fill:#dc4732"
+   id="tspan1">Fewer </tspan>Canadians<tspan
+   style="font-weight:700;font-family:OpenSans-BoldItalic, 'Open Sans';fill:#dc4732"
+   id="tspan2"> </tspan><tspan
+   style="font-weight:bold;fill:#dc4633"
+   id="tspan3">aged 15–34</tspan><tspan
+   style="font-weight:700;font-family:OpenSans-BoldItalic, 'Open Sans';fill:#dc4732"
+   id="tspan4"> </tspan>had a<tspan
+   style="font-weight:700;font-family:OpenSans-BoldItalic, 'Open Sans';fill:#dc4732"
+   id="tspan5"> </tspan>h<tspan
+   style="fill:#220b07"
+   id="tspan6">igh </tspan></tspan><tspan
+               x="0"
+               y="12.512834"
+               id="tspan15"><tspan
+                 style="fill:#220b07"
+                 id="tspan8">sense of meaning and purpose </tspan><tspan
+                 style="fill:#220b07"
+                 id="tspan10">c</tspan><tspan
+                 style="font-family:OpenSans-Italic, 'Open Sans';font-variation-settings:'wdth' 100, 'wght' 400"
+                 id="tspan12">ompared to </tspan></tspan><tspan
+               x="0"
+               y="25.025669"
+               id="tspan18"><tspan
+   style="font-family:OpenSans-Italic, 'Open Sans';font-variation-settings:'wdth' 100, 'wght' 400"
+   id="tspan16">other age </tspan>groups.</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text84" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(21.599 62.643)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">low rating</tspan></text>
+  <g
+     id="text84"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g20">
+      <g
+         isolation="isolate"
+         id="g19">
+        <g
+           isolation="isolate"
+           id="g18">
+          <text
+             transform="translate(21.599 62.643)"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8"
+             isolation="isolate"
+             id="text17"><tspan
+               x="0"
+               y="0"
+               id="tspan17">low rating</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text85" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(21.599 95.044)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">high rating</tspan></text>
+  <g
+     id="text85"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g23">
+      <g
+         isolation="isolate"
+         id="g22">
+        <g
+           isolation="isolate"
+           id="g21">
+          <text
+             transform="translate(21.599 95.044)"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8"
+             isolation="isolate"
+             id="text20"><tspan
+               x="0"
+               y="0"
+               id="tspan20">high rating</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text86" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(214.704 71.284)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+  <g
+     id="text86"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g26">
+      <g
+         isolation="isolate"
+         id="g25">
+        <g
+           isolation="isolate"
+           id="g24">
+          <text
+             transform="translate(214.704 71.284)"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8"
+             isolation="isolate"
+             id="text23"><tspan
+               x="0"
+               y="0"
+               id="tspan23">all</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text87" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(183.114 82.084)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">ages 15-34</tspan></text>
+  <g
+     id="text87"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g29">
+      <g
+         isolation="isolate"
+         id="g28">
+        <g
+           isolation="isolate"
+           id="g27">
+          <text
+             transform="translate(183.114 82.084)"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8"
+             isolation="isolate"
+             id="text26"><tspan
+               x="0"
+               y="0"
+               id="tspan26">ages 15-34</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text88" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(214.704 103.684)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">all</tspan></text>
+  <g
+     id="text88"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g32">
+      <g
+         isolation="isolate"
+         id="g31">
+        <g
+           isolation="isolate"
+           id="g30">
+          <text
+             transform="translate(214.704 103.684)"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8"
+             isolation="isolate"
+             id="text29"><tspan
+               x="0"
+               y="0"
+               id="tspan29">all</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text89" isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <g isolation="isolate">
-          <text transform="translate(183.114 114.484)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">ages 15-34</tspan></text>
+  <g
+     id="text89"
+     isolation="isolate">
+    <g
+       isolation="isolate"
+       id="g35">
+      <g
+         isolation="isolate"
+         id="g34">
+        <g
+           isolation="isolate"
+           id="g33">
+          <text
+             transform="translate(183.114 114.484)"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8"
+             isolation="isolate"
+             id="text32"><tspan
+               x="0"
+               y="0"
+               id="tspan32">ages 15-34</tspan></text>
         </g>
       </g>
     </g>
   </g>
-  <g id="text49" isolation="isolate">
-    <text id="text3" transform="translate(21.059 40.973) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="34" font-weight="700" isolation="isolate"><tspan x="0" y="0">56%</tspan></text>
-    <g id="text3-4" isolation="isolate">
-      <text transform="translate(97.006 24.748) rotate(.17)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12" isolation="isolate"><tspan x="0" y="0">Canadians aged 15+ with </tspan><tspan x="0" y="14.4">a high sense of meaning </tspan><tspan x="0" y="28.8">and purpose (2025)</tspan></text>
+  <g
+     id="text49"
+     isolation="isolate">
+    <text
+       id="text3"
+       transform="translate(21.059 40.973) rotate(.17)"
+       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+       font-size="34"
+       font-weight="700"
+       isolation="isolate"><tspan
+         x="0"
+         y="0"
+         id="tspan35">56%</tspan></text>
+    <g
+       id="text3-4"
+       isolation="isolate">
+      <text
+         transform="translate(97.006 24.748) rotate(.17)"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="12"
+         isolation="isolate"
+         id="text38"><tspan
+           x="0"
+           y="0"
+           id="tspan36">Canadians aged 15+ with </tspan><tspan
+           x="0"
+           y="14.4"
+           id="tspan37">a high sense of meaning </tspan><tspan
+           x="0"
+           y="28.8"
+           id="tspan38">and purpose (2025)</tspan></text>
     </g>
   </g>
-  <path id="path37-2" d="M0,194.278h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <path id="path37-2-2" data-name="path37-2" d="M0,.26h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-  <g isolation="isolate">
-    <g isolation="isolate">
-      <g isolation="isolate">
-        <text transform="translate(21.6 170.344)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Canadian Social </tspan><tspan x="0" y="9.6">Survey</tspan></text>
+  <path
+     id="path37-2"
+     d="M0,194.278h244.8"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width=".5" />
+  <path
+     id="path37-2-2"
+     data-name="path37-2"
+     d="M0,.26h244.8"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width=".5" />
+  <g
+     isolation="isolate"
+     id="g42">
+    <g
+       isolation="isolate"
+       id="g41">
+      <g
+         isolation="isolate"
+         id="g40">
+        <text
+           transform="translate(21.6 170.344)"
+           fill="#999"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="8"
+           isolation="isolate"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan39">Data source: Statistics Canada (2025) Canadian Social </tspan><tspan
+             x="0"
+             y="9.6"
+             id="tspan40">Survey</tspan></text>
       </g>
     </g>
   </g>
