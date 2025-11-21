@@ -1,136 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="Layer_6"
-   data-name="Layer 6"
-   width="3.4in"
-   height="1.8in"
-   viewBox="0 0 244.8 129.6"
-   version="1.1"
-   sodipodi:docname="mental-health_unmet-health-stat.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
-   inkscape:export-filename="mental-health_unmet-health-stat.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs5" />
-  <sodipodi:namedview
-     id="namedview5"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="in"
-     showgrid="false"
-     inkscape:zoom="1.2051097"
-     inkscape:cx="153.9279"
-     inkscape:cy="39.830399"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="text49">
-    <inkscape:grid
-       id="grid5"
-       units="in"
-       originx="0"
-       originy="0"
-       spacingx="7.2"
-       spacingy="7.2"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="false" />
-  </sodipodi:namedview>
-  <path
-     id="path37"
-     d="M0,129.096h244.8"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width=".5" />
-  <g
-     id="text49"
-     isolation="isolate">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;paint-order:markers fill stroke"
-       id="rect5"
-       width="244.79999"
-       height="128.59601"
-       x="0"
-       y="0.5" />
-    <text
-       transform="rotate(0.17)"
-       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-       font-size="17px"
-       font-weight="700"
-       isolation="isolate"
-       id="text3"
-       style="font-size:34px"
-       x="21.141661"
-       y="39.221245">2,340,000</text>
-    <text
-       transform="rotate(0.17,-36331.361,13888.637)"
-       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-       font-size="17px"
-       font-weight="700"
-       isolation="isolate"
-       id="text3-4"
-       x="-20.311975"
-       y="-44.456978"
-       style="font-weight:700;font-size:12px;line-height:1.1;font-family:TradeGothicLT-Bold, 'TradeGothic LT Bold';white-space:pre;inline-size:221.22;display:inline;isolation:isolate"
-       xml:space="preserve"><tspan
-         x="-20.311975"
-         y="-44.456978"
-         id="tspan2"><tspan
-           style="font-weight:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal'"
-           id="tspan1">Canadians needed mental health care </tspan></tspan><tspan
-         x="-20.311975"
-         y="-30.910354"
-         id="tspan4"><tspan
-           style="font-weight:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal'"
-           id="tspan3">in 2023 but their needs were either </tspan></tspan><tspan
-         x="-20.311975"
-         y="-17.363731"
-         id="tspan8"><tspan
-           style="font-weight:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal'"
-           id="tspan7">unmet or patially met.</tspan></tspan></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="1.8in" viewBox="0 0 244.8 129.6">
+  <path id="path37" d="M0,129.096h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+  <g id="text49" isolation="isolate">
+    <rect id="rect5" x="0" y=".5" width="244.8" height="128.596" fill="#fff"/>
+    <text id="text3" transform="translate(21.025 39.284) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="34" font-weight="700" isolation="isolate"><tspan x="0" y="0">2,340,000</tspan></text>
+    <g id="text3-4" isolation="isolate">
+      <text transform="translate(20.867 63.341) rotate(.17)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12" isolation="isolate"><tspan x="0" y="0">Canadians who needed mental health</tspan></text>
+      <text transform="translate(20.827 76.888) rotate(.17)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12" isolation="isolate"><tspan x="0" y="0">care in 2023 had their needs either </tspan></text>
+      <text transform="translate(20.786 90.434) rotate(.17)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12" isolation="isolate"><tspan x="0" y="0">unmet or only patially met.</tspan></text>
+    </g>
   </g>
-  <g
-     id="text51">
-    <text
-       transform="translate(21.6 114.913)"
-       fill="#999"
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8"
-       isolation="isolate"
-       id="text5"><tspan
-         x="0"
-         y="0"
-         id="tspan5">Data source: Canadian Mental Health Association (2024)</tspan></text>
+  <g id="text51">
+    <g id="text5" isolation="isolate">
+      <text transform="translate(21.6 114.913)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Canadian Mental Health Association (2024)</tspan></text>
+    </g>
   </g>
-  <rect
-     id="rect72"
-     x="0"
-     y="14.4"
-     width="14.4"
-     height="14.4"
-     fill="#f1c500" />
-  <path
-     id="path37-2"
-     d="M0,.5h244.8"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width=".5" />
+  <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  <path id="path37-2" d="M0,.5h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
 </svg>
