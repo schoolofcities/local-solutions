@@ -1,174 +1,1032 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg59" xmlns="http://www.w3.org/2000/svg" width="6.8in" height="4.1in" viewBox="0 0 489.6 295.2">
-  <rect id="rect38-7-0" x="0" width="489.6" height="295.2" fill="#fff"/>
-  <g id="Layer_6" data-name="Layer 6">
-    <g id="text49" isolation="isolate">
-      <g id="text1" isolation="isolate">
-        <text transform="translate(21.06 27.711) rotate(.17)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Opioid hospitalizations and deaths in Canada</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg59"
+   width="6.8in"
+   height="4.1in"
+   viewBox="0 0 489.6 295.2"
+   version="1.1"
+   sodipodi:docname="mental-health_opioid-charts.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:export-filename="mental-health_opioid-charts.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     id="namedview54"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="1.4210403"
+     inkscape:cx="299.42852"
+     inkscape:cy="142.50123"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <rect
+     id="rect38-7-0"
+     x="0"
+     width="489.6"
+     height="295.2"
+     fill="#fff" />
+  <g
+     id="Layer_6"
+     data-name="Layer 6">
+    <g
+       id="text49"
+       isolation="isolate">
+      <g
+         id="g1"
+         isolation="isolate">
+        <text
+           transform="translate(21.06 27.711) rotate(.17)"
+           font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+           font-size="17"
+           font-weight="700"
+           isolation="isolate"
+           id="text1"><tspan
+             x="0"
+             y="0"
+             id="tspan1">Opioid hospitalizations and deaths in Canada</tspan></text>
       </g>
     </g>
-    <g id="text51" isolation="isolate">
-      <g id="text2" isolation="isolate">
-        <text transform="translate(21.6 280.514)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Public Health Agency of Canda (2025)</tspan></text>
+    <g
+       id="text51"
+       isolation="isolate">
+      <g
+         id="g2"
+         isolation="isolate">
+        <text
+           transform="translate(21.6 280.514)"
+           fill="#999"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="8"
+           isolation="isolate"
+           id="text2"><tspan
+             x="0"
+             y="0"
+             id="tspan2">Data source: Public Health Agency of Canda (2025)</tspan></text>
       </g>
     </g>
-    <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-    <path id="path37" d="M0,294.697h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-    <path id="path37-2" d="M0,.5h489.6" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <rect
+       id="rect72"
+       x="0"
+       y="14.4"
+       width="14.4"
+       height="14.4"
+       fill="#f1c500" />
+    <path
+       id="path37"
+       d="M0,294.697h489.6"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width=".5" />
+    <path
+       id="path37-2"
+       d="M0,.5h489.6"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width=".5" />
   </g>
-  <g id="Layer_1" data-name="Layer 1">
-    <g id="g14" opacity=".8">
-      <line id="line11" x1="21.112" y1="205.689" x2="481.992" y2="205.689" fill="none" stroke="#deddda" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line12" x1="21.112" y1="166.461" x2="481.992" y2="166.461" fill="none" stroke="#deddda" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line13" x1="21.112" y1="127.234" x2="481.992" y2="127.234" fill="none" stroke="#deddda" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line14" x1="21.112" y1="88.006" x2="481.992" y2="88.006" fill="none" stroke="#deddda" stroke-miterlimit="10" stroke-width=".75"/>
+  <g
+     id="Layer_1"
+     data-name="Layer 1">
+    <g
+       id="g14"
+       opacity=".8">
+      <line
+         id="line11"
+         x1="21.112"
+         y1="205.689"
+         x2="481.992"
+         y2="205.689"
+         fill="none"
+         stroke="#deddda"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line12"
+         x1="21.112"
+         y1="166.461"
+         x2="481.992"
+         y2="166.461"
+         fill="none"
+         stroke="#deddda"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line13"
+         x1="21.112"
+         y1="127.234"
+         x2="481.992"
+         y2="127.234"
+         fill="none"
+         stroke="#deddda"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line14"
+         x1="21.112"
+         y1="88.006"
+         x2="481.992"
+         y2="88.006"
+         fill="none"
+         stroke="#deddda"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
     </g>
-    <g id="g10">
-      <line id="line2" x1="64.841" y1="247.369" x2="64.841" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line3" x1="83.15" y1="246.535" x2="83.15" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line4" x1="101.46" y1="247.369" x2="101.46" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line5" x1="119.769" y1="246.535" x2="119.769" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line6" x1="138.079" y1="247.369" x2="138.079" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line7" x1="156.389" y1="246.535" x2="156.389" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line8" x1="174.698" y1="247.369" x2="174.698" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line9" x1="193.008" y1="246.535" x2="193.008" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line10" x1="211.317" y1="247.369" x2="211.317" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <g
+       id="g10">
+      <line
+         id="line2"
+         x1="64.841"
+         y1="247.369"
+         x2="64.841"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line3"
+         x1="83.15"
+         y1="246.535"
+         x2="83.15"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line4"
+         x1="101.46"
+         y1="247.369"
+         x2="101.46"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line5"
+         x1="119.769"
+         y1="246.535"
+         x2="119.769"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line6"
+         x1="138.079"
+         y1="247.369"
+         x2="138.079"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line7"
+         x1="156.389"
+         y1="246.535"
+         x2="156.389"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line8"
+         x1="174.698"
+         y1="247.369"
+         x2="174.698"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line9"
+         x1="193.008"
+         y1="246.535"
+         x2="193.008"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line10"
+         x1="211.317"
+         y1="247.369"
+         x2="211.317"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
     </g>
-    <g id="text14" isolation="isolate">
-      <text transform="translate(334.445 57.601)" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">Deaths</tspan></text>
+    <g
+       id="text14"
+       isolation="isolate">
+      <text
+         transform="translate(334.445 57.601)"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="12"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text3"><tspan
+           x="0"
+           y="0"
+           id="tspan3">Deaths</tspan></text>
     </g>
-    <g id="text15" isolation="isolate">
-      <text transform="translate(53.405 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2016</tspan></text>
+    <g
+       id="text15"
+       isolation="isolate">
+      <text
+         transform="translate(53.405 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text4"><tspan
+           x="0"
+           y="0"
+           id="tspan4">2016</tspan></text>
     </g>
-    <g id="text16" isolation="isolate">
-      <text transform="translate(90.024 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2018</tspan></text>
+    <g
+       id="text16"
+       isolation="isolate">
+      <text
+         transform="translate(90.024 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text5"><tspan
+           x="0"
+           y="0"
+           id="tspan5">2018</tspan></text>
     </g>
-    <g id="text17" isolation="isolate">
-      <text transform="translate(126.644 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2020</tspan></text>
+    <g
+       id="text17"
+       isolation="isolate">
+      <text
+         transform="translate(126.644 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text6"><tspan
+           x="0"
+           y="0"
+           id="tspan6">2020</tspan></text>
     </g>
-    <g id="text19" isolation="isolate">
-      <text transform="translate(106.502 189.75)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Start of COVID</tspan></text>
-      <text transform="translate(116.24 202.25)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Pandemic</tspan></text>
+    <g
+       id="text19"
+       isolation="isolate">
+      <text
+         transform="translate(106.502 189.75)"
+         font-family="OpenSans-Italic, 'Open Sans'"
+         font-size="10"
+         font-style="italic"
+         font-variation-settings="'wght' 400, 'wdth' 100"
+         isolation="isolate"
+         id="text7"><tspan
+           x="0"
+           y="0"
+           id="tspan7">Start of COVID</tspan></text>
+      <text
+         transform="translate(116.24 202.25)"
+         font-family="OpenSans-Italic, 'Open Sans'"
+         font-size="10"
+         font-style="italic"
+         font-variation-settings="'wght' 400, 'wdth' 100"
+         isolation="isolate"
+         id="text8"><tspan
+           x="0"
+           y="0"
+           id="tspan8">Pandemic</tspan></text>
     </g>
-    <g id="text20" isolation="isolate">
-      <text transform="translate(163.263 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2022</tspan></text>
+    <g
+       id="text20"
+       isolation="isolate">
+      <text
+         transform="translate(163.263 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text9"><tspan
+           x="0"
+           y="0"
+           id="tspan9">2022</tspan></text>
     </g>
-    <g id="text21" isolation="isolate">
-      <text transform="translate(199.882 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2024</tspan></text>
+    <g
+       id="text21"
+       isolation="isolate">
+      <text
+         transform="translate(199.882 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text10"><tspan
+           x="0"
+           y="0"
+           id="tspan10">2024</tspan></text>
     </g>
-    <g id="g26">
-      <g id="text22" isolation="isolate">
-        <text transform="translate(21.112 86.057)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">20 cases per 100K people</tspan></text>
+    <g
+       id="g27">
+      <g
+         id="text22"
+         isolation="isolate">
+        <text
+           transform="translate(21.112 86.057)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text11"><tspan
+             x="0"
+             y="0"
+             id="tspan11">20 cases per 100K people</tspan></text>
       </g>
-      <g id="text23" isolation="isolate">
-        <text transform="translate(21.112 125.284)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">15</tspan></text>
+      <g
+         id="text23"
+         isolation="isolate">
+        <text
+           transform="translate(21.112 125.284)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text12"><tspan
+             x="0"
+             y="0"
+             id="tspan12">15</tspan></text>
       </g>
-      <g id="text24" isolation="isolate">
-        <text transform="translate(21.112 164.512)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+      <g
+         id="text24"
+         isolation="isolate">
+        <text
+           transform="translate(21.112 164.512)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text13"><tspan
+             x="0"
+             y="0"
+             id="tspan13">10</tspan></text>
       </g>
-      <g id="text25" isolation="isolate">
-        <text transform="translate(21.112 203.741)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">5</tspan></text>
+      <g
+         id="text25"
+         isolation="isolate">
+        <text
+           transform="translate(21.112 203.741)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text18"><tspan
+             x="0"
+             y="0"
+             id="tspan14">5</tspan></text>
       </g>
-      <g id="text26" isolation="isolate">
-        <text transform="translate(21.112 242.968)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+      <g
+         id="g26"
+         isolation="isolate">
+        <text
+           transform="translate(21.112 242.968)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text26"><tspan
+             x="0"
+             y="0"
+             id="tspan18">0</tspan></text>
       </g>
     </g>
-    <g id="g26-8">
-      <g id="text22-5" isolation="isolate">
-        <text transform="translate(251.923 85.456)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">20 deaths </tspan></text>
-        <text transform="translate(251.923 97.956)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">per 100K people</tspan></text>
+    <g
+       id="g26-8">
+      <g
+         id="text22-5"
+         isolation="isolate">
+        <text
+           transform="translate(251.923 85.456)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text27"><tspan
+             x="0"
+             y="0"
+             id="tspan27">20 deaths </tspan></text>
+        <text
+           transform="translate(251.923 97.956)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text28"><tspan
+             x="0"
+             y="0"
+             id="tspan28">per 100K people</tspan></text>
       </g>
-      <g id="text23-8" isolation="isolate">
-        <text transform="translate(251.923 124.683)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">15</tspan></text>
+      <g
+         id="text23-8"
+         isolation="isolate">
+        <text
+           transform="translate(251.923 124.683)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text29"><tspan
+             x="0"
+             y="0"
+             id="tspan29">15</tspan></text>
       </g>
-      <g id="text24-6" isolation="isolate">
-        <text transform="translate(251.923 163.911)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">10</tspan></text>
+      <g
+         id="text24-6"
+         isolation="isolate">
+        <text
+           transform="translate(251.923 163.911)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text30"><tspan
+             x="0"
+             y="0"
+             id="tspan30">10</tspan></text>
       </g>
-      <g id="text25-7" isolation="isolate">
-        <text transform="translate(251.923 203.14)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">5</tspan></text>
+      <g
+         id="text25-7"
+         isolation="isolate">
+        <text
+           transform="translate(251.923 203.14)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text31"><tspan
+             x="0"
+             y="0"
+             id="tspan31">5</tspan></text>
       </g>
-      <g id="text26-5" isolation="isolate">
-        <text transform="translate(251.923 242.367)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+      <g
+         id="text26-5"
+         isolation="isolate">
+        <text
+           transform="translate(251.923 242.367)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10"
+           isolation="isolate"
+           id="text32"><tspan
+             x="0"
+             y="0"
+             id="tspan32">0</tspan></text>
       </g>
     </g>
-    <g id="g34">
-      <line id="line26" x1="282.347" y1="247.369" x2="282.347" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line27" x1="300.656" y1="246.535" x2="300.656" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line28" x1="318.966" y1="247.369" x2="318.966" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line29" x1="337.276" y1="246.535" x2="337.276" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line30" x1="355.586" y1="247.369" x2="355.586" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line31" x1="373.895" y1="246.535" x2="373.895" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line32" x1="392.205" y1="247.369" x2="392.205" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line33" x1="410.515" y1="246.535" x2="410.515" y2="243.299" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-      <line id="line34" x1="428.825" y1="247.369" x2="428.825" y2="242.465" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
+    <g
+       id="g34">
+      <line
+         id="line26"
+         x1="282.347"
+         y1="247.369"
+         x2="282.347"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line27"
+         x1="300.656"
+         y1="246.535"
+         x2="300.656"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line28"
+         x1="318.966"
+         y1="247.369"
+         x2="318.966"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line29"
+         x1="337.276"
+         y1="246.535"
+         x2="337.276"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line30"
+         x1="355.586"
+         y1="247.369"
+         x2="355.586"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line31"
+         x1="373.895"
+         y1="246.535"
+         x2="373.895"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line32"
+         x1="392.205"
+         y1="247.369"
+         x2="392.205"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line33"
+         x1="410.515"
+         y1="246.535"
+         x2="410.515"
+         y2="243.299"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
+      <line
+         id="line34"
+         x1="428.825"
+         y1="247.369"
+         x2="428.825"
+         y2="242.465"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width=".75" />
     </g>
-    <g id="text34" isolation="isolate">
-      <text transform="translate(270.912 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2016</tspan></text>
+    <g
+       id="text34"
+       isolation="isolate">
+      <text
+         transform="translate(270.912 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text33"><tspan
+           x="0"
+           y="0"
+           id="tspan33">2016</tspan></text>
     </g>
-    <g id="text35" isolation="isolate">
-      <text transform="translate(307.531 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2018</tspan></text>
+    <g
+       id="g35"
+       isolation="isolate">
+      <text
+         transform="translate(307.531 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text35"><tspan
+           x="0"
+           y="0"
+           id="tspan34">2018</tspan></text>
     </g>
-    <g id="text36" isolation="isolate">
-      <text transform="translate(344.151 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2020</tspan></text>
+    <g
+       id="g36"
+       isolation="isolate">
+      <text
+         transform="translate(344.151 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text36"><tspan
+           x="0"
+           y="0"
+           id="tspan35">2020</tspan></text>
     </g>
-    <g id="text37" isolation="isolate">
-      <text transform="translate(380.77 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2022</tspan></text>
+    <g
+       id="g37"
+       isolation="isolate">
+      <text
+         transform="translate(380.77 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text37"><tspan
+           x="0"
+           y="0"
+           id="tspan36">2022</tspan></text>
     </g>
-    <g id="text38" isolation="isolate">
-      <text transform="translate(417.389 260.499)" fill="#6d6e71" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10" isolation="isolate"><tspan x="0" y="0">2024</tspan></text>
+    <g
+       id="g38"
+       isolation="isolate">
+      <text
+         transform="translate(417.389 260.499)"
+         fill="#6d6e71"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="10"
+         isolation="isolate"
+         id="text38"><tspan
+           x="0"
+           y="0"
+           id="tspan37">2024</tspan></text>
     </g>
-    <g id="text41" isolation="isolate">
-      <text transform="translate(78.77 57.601)" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">Hospitalizations</tspan></text>
+    <g
+       id="text41"
+       isolation="isolate">
+      <text
+         transform="translate(78.77 57.601)"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="12"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text39"><tspan
+           x="0"
+           y="0"
+           id="tspan38">Hospitalizations</tspan></text>
     </g>
-    <line id="line41" x1="21.112" y1="244.917" x2="481.992" y2="244.917" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".75"/>
-    <polyline id="polyline41" points="273.192 183.722 282.347 183.722 291.502 183.722 291.502 160.97 300.657 160.97 309.812 160.97 309.811 154.693 318.966 154.693 328.121 154.693 328.121 166.461 337.276 166.461 346.431 166.461 346.431 111.543 355.586 111.543 364.741 111.543 364.845 80.945 374 80.945 383.155 80.945 383.05 92.713 392.205 92.713 401.36 92.713 401.36 80.16 410.515 80.16 419.67 80.16 419.67 106.836 428.825 106.836 437.98 106.836" fill="none" stroke="#ab2069" stroke-miterlimit="10"/>
-    <polyline id="polyline42" points="55.686 115.465 73.996 115.465 73.996 102.912 92.305 102.912 92.305 107.62 110.615 107.62 110.615 123.311 128.925 123.311 128.925 106.051 147.234 106.051 147.234 79.376 165.544 79.376 165.544 104.482 183.853 104.482 183.853 82.514 202.163 82.514 202.163 107.62 220.473 107.62" fill="none" stroke="#067fa3" stroke-miterlimit="10"/>
-    <line id="line42" x1="138.079" y1="110.754" x2="138.079" y2="177.246" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
-    <line id="line43" x1="355.586" y1="134.513" x2="355.586" y2="191.752" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
-    <g id="text43" isolation="isolate">
-      <text transform="translate(364.091 76.485)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">7,993</tspan></text>
+    <line
+       id="line41"
+       x1="21.112"
+       y1="244.917"
+       x2="481.992"
+       y2="244.917"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width=".75" />
+    <polyline
+       id="polyline41"
+       points="273.192 183.722 282.347 183.722 291.502 183.722 291.502 160.97 300.657 160.97 309.812 160.97 309.811 154.693 318.966 154.693 328.121 154.693 328.121 166.461 337.276 166.461 346.431 166.461 346.431 111.543 355.586 111.543 364.741 111.543 364.845 80.945 374 80.945 383.155 80.945 383.05 92.713 392.205 92.713 401.36 92.713 401.36 80.16 410.515 80.16 419.67 80.16 419.67 106.836 428.825 106.836 437.98 106.836"
+       fill="none"
+       stroke="#ab2069"
+       stroke-miterlimit="10"
+       style="stroke-width:1.49999999;stroke-dasharray:none" />
+    <polyline
+       id="polyline42"
+       points="55.686 115.465 73.996 115.465 73.996 102.912 92.305 102.912 92.305 107.62 110.615 107.62 110.615 123.311 128.925 123.311 128.925 106.051 147.234 106.051 147.234 79.376 165.544 79.376 165.544 104.482 183.853 104.482 183.853 82.514 202.163 82.514 202.163 107.62 220.473 107.62"
+       fill="none"
+       stroke="#067fa3"
+       stroke-miterlimit="10"
+       style="stroke-width:1.49999999;stroke-dasharray:none" />
+    <line
+       id="line42"
+       x1="138.079"
+       y1="110.754"
+       x2="138.079"
+       y2="177.246"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width=".25" />
+    <line
+       id="line43"
+       x1="355.586"
+       y1="134.513"
+       x2="355.586"
+       y2="191.752"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width=".25" />
+    <g
+       id="text43"
+       isolation="isolate">
+      <text
+         transform="translate(364.091 76.485)"
+         fill="#ab2069"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text40"><tspan
+           x="0"
+           y="0"
+           id="tspan39">7,993</tspan></text>
     </g>
-    <g id="text44" isolation="isolate">
-      <text transform="translate(327.471 177.246)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">3,750</tspan></text>
+    <g
+       id="text44"
+       isolation="isolate">
+      <text
+         transform="translate(327.471 177.246)"
+         fill="#ab2069"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text42"><tspan
+           x="0"
+           y="0"
+           id="tspan40">3,750</tspan></text>
     </g>
-    <g id="text48-3" isolation="isolate">
-      <text transform="translate(348.718 121.913)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">6,456 </tspan></text>
-      <text transform="translate(348.718 121.913)" fill="none" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate" stroke="#fff" stroke-width="2"><tspan x="0" y="0">6,456 </tspan></text>
-      <text transform="translate(348.718 131.913)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">total deaths</tspan></text>
-      <text transform="translate(348.718 131.913)" fill="none" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate" stroke="#fff" stroke-width="2"><tspan x="0" y="0">total deaths</tspan></text>
+    <g
+       id="text48-3"
+       isolation="isolate">
+      <text
+         transform="translate(348.718 121.913)"
+         fill="#ab2069"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text45"><tspan
+           x="0"
+           y="0"
+           id="tspan42">6,456 </tspan></text>
+      <text
+         transform="translate(348.718 121.913)"
+         fill="none"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         stroke="#fff"
+         stroke-width="2"
+         id="text46"><tspan
+           x="0"
+           y="0"
+           id="tspan45">6,456 </tspan></text>
+      <text
+         transform="translate(348.718 131.913)"
+         fill="#ab2069"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text47"><tspan
+           x="0"
+           y="0"
+           id="tspan46">total deaths</tspan></text>
+      <text
+         transform="translate(348.718 131.913)"
+         fill="none"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         stroke="#fff"
+         stroke-width="2"
+         id="text48"><tspan
+           x="0"
+           y="0"
+           id="tspan47">total deaths</tspan></text>
     </g>
-    <g id="text48" isolation="isolate">
-      <text transform="translate(348.718 121.913)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">6,456 </tspan></text>
-      <text transform="translate(348.718 131.913)" fill="#ab2069" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">total deaths</tspan></text>
+    <g
+       id="g52"
+       isolation="isolate">
+      <text
+         transform="translate(348.718 121.913)"
+         fill="#ab2069"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text50"><tspan
+           x="0"
+           y="0"
+           id="tspan48">6,456 </tspan></text>
+      <text
+         transform="translate(348.718 131.913)"
+         fill="#ab2069"
+         font-family="OpenSans-BoldItalic, 'Open Sans'"
+         font-size="8"
+         font-style="italic"
+         font-weight="700"
+         isolation="isolate"
+         id="text52"><tspan
+           x="0"
+           y="0"
+           id="tspan50">total deaths</tspan></text>
     </g>
-    <g id="g54">
-      <path id="rect48" d="M64.84,112.622h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="path48" d="M83.15,100.069h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="rect49" d="M101.459,104.777h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="path49" d="M119.77,120.468h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="rect50" d="M138.078,103.208h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="rect51" d="M156.388,76.533h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="rect52" d="M174.698,101.639h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="rect53" d="M193.007,79.671h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
-      <path id="rect54" d="M211.317,104.777h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#067fa3" stroke-miterlimit="10"/>
+    <g
+       id="g54"
+       style="stroke-width:1.49999999;stroke-dasharray:none">
+      <path
+         id="rect48"
+         d="M64.84,112.622h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path48"
+         d="M83.15,100.069h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect49"
+         d="M101.459,104.777h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path49"
+         d="M119.77,120.468h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect50"
+         d="M138.078,103.208h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect51"
+         d="M156.388,76.533h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect52"
+         d="M174.698,101.639h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect53"
+         d="M193.007,79.671h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect54"
+         d="M211.317,104.777h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#067fa3"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
     </g>
-    <g id="g59">
-      <path id="path54" d="M282.347,180.879h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="rect55" d="M300.656,158.126h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="path55" d="M318.966,151.85h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="path56" d="M337.276,163.618h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="rect56" d="M355.585,108.7h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="path57" d="M373.896,78.102h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="path58" d="M392.205,89.87h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="rect58" d="M410.514,77.317h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
-      <path id="path59" d="M428.825,103.992h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z" fill="#fff" stroke="#ab2069" stroke-miterlimit="10"/>
+    <g
+       id="g59"
+       style="stroke-width:1.49999999;stroke-dasharray:none">
+      <path
+         id="path54"
+         d="M282.347,180.879h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect55"
+         d="M300.656,158.126h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path55"
+         d="M318.966,151.85h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path56"
+         d="M337.276,163.618h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect56"
+         d="M355.585,108.7h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path57"
+         d="M373.896,78.102h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path58"
+         d="M392.205,89.87h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="rect58"
+         d="M410.514,77.317h.002c1.57,0,2.843,1.273,2.843,2.843h0c0,1.57-1.273,2.843-2.843,2.843h-.002c-1.57,0-2.843-1.273-2.843-2.843h0c0-1.57,1.273-2.843,2.843-2.843Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
+      <path
+         id="path59"
+         d="M428.825,103.992h.002c1.569,0,2.842,1.273,2.842,2.842h0c0,1.57-1.274,2.844-2.844,2.844h-.002c-1.569,0-2.842-1.273-2.842-2.842h0c0-1.57,1.274-2.844,2.844-2.844Z"
+         fill="#fff"
+         stroke="#ab2069"
+         stroke-miterlimit="10"
+         style="stroke-width:1.49999999;stroke-dasharray:none" />
     </g>
-    <rect id="rect59" x="243.527" y="205.689" width="8.885" height="59.752" fill="#fff"/>
-    <rect id="rect38" x="225.819" y="82.17" width="25.733" height="165.199" fill="#fff"/>
-    <rect id="rect38-7" x="446.169" y="83.736" width="43.333" height="165.199" fill="#fff"/>
-    <g id="text19-0" isolation="isolate">
-      <text transform="translate(324.027 202.87)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Start of COVID</tspan></text>
-      <text transform="translate(333.766 215.37)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Pandemic</tspan></text>
+    <rect
+       id="rect59"
+       x="243.527"
+       y="205.689"
+       width="8.885"
+       height="59.752"
+       fill="#fff" />
+    <rect
+       id="rect38"
+       x="225.819"
+       y="82.17"
+       width="25.733"
+       height="165.199"
+       fill="#fff" />
+    <rect
+       id="rect38-7"
+       x="446.169"
+       y="83.736"
+       width="43.333"
+       height="165.199"
+       fill="#fff" />
+    <g
+       id="text19-0"
+       isolation="isolate">
+      <text
+         transform="translate(324.027 202.87)"
+         font-family="OpenSans-Italic, 'Open Sans'"
+         font-size="10"
+         font-style="italic"
+         font-variation-settings="'wght' 400, 'wdth' 100"
+         isolation="isolate"
+         id="text53"><tspan
+           x="0"
+           y="0"
+           id="tspan52">Start of COVID</tspan></text>
+      <text
+         transform="translate(333.766 215.37)"
+         font-family="OpenSans-Italic, 'Open Sans'"
+         font-size="10"
+         font-style="italic"
+         font-variation-settings="'wght' 400, 'wdth' 100"
+         isolation="isolate"
+         id="text54"><tspan
+           x="0"
+           y="0"
+           id="tspan53">Pandemic</tspan></text>
     </g>
   </g>
 </svg>
