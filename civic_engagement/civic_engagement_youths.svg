@@ -1,817 +1,149 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="3.4000001in"
-   height="5.5999999in"
-   viewBox="0 0 244.8 403.20001"
-   version="1.1"
-   id="svg59"
-   sodipodi:docname="civic_engagement_youths.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
-   inkscape:export-filename="civic_engagement_youths.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs59" />
-  <sodipodi:namedview
-     id="namedview59"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="in"
-     inkscape:zoom="1.5845353"
-     inkscape:cx="148.30846"
-     inkscape:cy="279.26168"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1"
-     showgrid="false">
-    <inkscape:grid
-       id="grid59"
-       units="in"
-       originx="0"
-       originy="0"
-       spacingx="7.2000001"
-       spacingy="7.2000001"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="false" />
-  </sodipodi:namedview>
-  <g
-     id="white"
-     transform="scale(1,1.0755876)">
-    <rect
-       width="245.09599"
-       height="374.39999"
-       fill="#ffffff"
-       id="rect1"
-       x="0"
-       y="0" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg59" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="5.6in" viewBox="0 0 244.8 403.2">
+  <g id="white">
+    <rect id="rect1" x="0" width="245.096" height="402.7" fill="#fff"/>
   </g>
-  <g
-     id="Layer_1"
-     data-name="Layer 1">
-    <g
-       id="g50"
-       transform="translate(0,28.725977)"
-       style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4">
-      <line
-         x1="80.005997"
-         y1="316.90601"
-         x2="80.005997"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line45"
-         style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4" />
-      <line
-         x1="100.677"
-         y1="316.905"
-         x2="100.678"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line46"
-         style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4" />
-      <line
-         x1="121.349"
-         y1="316.905"
-         x2="121.349"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line47"
-         style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4" />
-      <line
-         x1="142.02"
-         y1="316.905"
-         x2="142.02"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line48"
-         style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4" />
-      <line
-         x1="162.692"
-         y1="316.905"
-         x2="162.692"
-         y2="57.283001"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line49"
-         style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4" />
-      <line
-         x1="183.36301"
-         y1="316.905"
-         x2="183.36301"
-         y2="57.283001"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line50"
-         style="stroke-width:0.72;stroke-dasharray:none;stroke:#f6f5f4" />
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="g50">
+      <line id="line45" x1="80.006" y1="345.632" x2="80.006" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line46" x1="100.677" y1="345.631" x2="100.678" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line47" x1="121.349" y1="345.631" x2="121.349" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line48" x1="142.02" y1="345.631" x2="142.02" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line49" x1="162.692" y1="345.631" x2="162.692" y2="86.009" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line50" x1="183.363" y1="345.631" x2="183.363" y2="86.009" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
     </g>
-    <g
-       id="g50-7"
-       transform="matrix(1,0,0,0.00592335,0,345.29166)"
-       style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1">
-      <line
-         x1="80.005997"
-         y1="316.90601"
-         x2="80.005997"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line45-5"
-         style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1" />
-      <line
-         x1="100.677"
-         y1="316.905"
-         x2="100.678"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line46-3"
-         style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1" />
-      <line
-         x1="121.349"
-         y1="316.905"
-         x2="121.349"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line47-5"
-         style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1" />
-      <line
-         x1="142.02"
-         y1="316.905"
-         x2="142.02"
-         y2="57.284"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line48-6"
-         style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1" />
-      <line
-         x1="162.692"
-         y1="316.905"
-         x2="162.692"
-         y2="57.283001"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line49-2"
-         style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1" />
-      <line
-         x1="183.36301"
-         y1="316.905"
-         x2="183.36301"
-         y2="57.283001"
-         fill="none"
-         stroke="#000000"
-         stroke-dasharray="0.25, 2"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="line50-9"
-         style="stroke:#939598;stroke-width:0.72;stroke-dasharray:none;stroke-opacity:1" />
+    <g id="g50-7">
+      <line id="line45-5" x1="80.006" y1="347.169" x2="80.006" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line46-3" x1="100.677" y1="347.169" x2="100.678" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line47-5" x1="121.349" y1="347.169" x2="121.349" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line48-6" x1="142.02" y1="347.169" x2="142.02" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line49-2" x1="162.692" y1="347.169" x2="162.692" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
+      <line id="line50-9" x1="183.363" y1="347.169" x2="183.363" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
     </g>
-    <g
-       id="g22"
-       style="stroke:none"
-       transform="translate(0,28.725977)">
-      <rect
-         x="59.334999"
-         y="301.76901"
-         width="77.360001"
-         height="8.5649996"
-         fill="#e78273"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="rect2"
-         style="fill:#f1c500;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="289.87299"
-         width="88.404999"
-         height="8.5649996"
-         fill="#e78273"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="rect3"
-         style="fill:#f1c500;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="277.97699"
-         width="93.088997"
-         height="8.5649996"
-         fill="#e78273"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="rect4"
-         style="fill:#f1c500;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="266.08099"
-         width="95.889999"
-         height="8.5649996"
-         fill="#dc4732"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="rect5"
-         style="stroke:none" />
-      <rect
-         x="59.334999"
-         y="254.185"
-         width="111.782"
-         height="8.5649996"
-         fill="#dc4732"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="rect6"
-         style="stroke:none" />
-      <rect
-         x="59.334999"
-         y="242.289"
-         width="123.848"
-         height="8.5649996"
-         fill="#dc4732"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         stroke-width="0.25"
-         id="rect7"
-         style="stroke:none" />
-      <rect
-         x="59.334999"
-         y="230.39301"
-         width="131.293"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect8"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="218.49699"
-         width="125.373"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect9"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="206.601"
-         width="118.225"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect10"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="194.705"
-         width="107.217"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect11"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="182.80901"
-         width="101.179"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect12"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="170.91299"
-         width="101.143"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect13"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="159.017"
-         width="111.965"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect14"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="147.121"
-         width="103.121"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect15"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="135.22501"
-         width="84.527"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect16"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="123.329"
-         width="66.542999"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect17"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="111.433"
-         width="41.685001"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect18"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="99.537003"
-         width="23.969999"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect19"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="87.640999"
-         width="11.397"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect20"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="75.745003"
-         width="3.4760001"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect21"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
-      <rect
-         x="59.334999"
-         y="63.848999"
-         width="0.50800002"
-         height="8.5649996"
-         fill="#1e3864"
-         stroke="#1e3864"
-         stroke-miterlimit="10"
-         id="rect22"
-         style="fill:#007fa3;fill-opacity:1;stroke:none" />
+    <g id="g22">
+      <rect id="rect2" x="59.335" y="330.495" width="77.36" height="8.565" fill="#f1c500"/>
+      <rect id="rect3" x="59.335" y="318.599" width="88.405" height="8.565" fill="#f1c500"/>
+      <rect id="rect4" x="59.335" y="306.703" width="93.089" height="8.565" fill="#f1c500"/>
+      <rect id="rect5" x="59.335" y="294.807" width="95.89" height="8.565" fill="#dc4732"/>
+      <rect id="rect6" x="59.335" y="282.911" width="111.782" height="8.565" fill="#dc4732"/>
+      <rect id="rect7" x="59.335" y="271.015" width="123.848" height="8.565" fill="#dc4732"/>
+      <rect id="rect8" x="59.335" y="259.119" width="131.293" height="8.565" fill="#1e3864"/>
+      <rect id="rect9" x="59.335" y="247.223" width="125.373" height="8.565" fill="#1e3864"/>
+      <rect id="rect10" x="59.335" y="235.327" width="118.225" height="8.565" fill="#1e3864"/>
+      <rect id="rect11" x="59.335" y="223.431" width="107.217" height="8.565" fill="#1e3864"/>
+      <rect id="rect12" x="59.335" y="211.535" width="101.179" height="8.565" fill="#1e3864"/>
+      <rect id="rect13" x="59.335" y="199.639" width="101.143" height="8.565" fill="#1e3864"/>
+      <rect id="rect14" x="59.335" y="187.743" width="111.965" height="8.565" fill="#1e3864"/>
+      <rect id="rect15" x="59.335" y="175.847" width="103.121" height="8.565" fill="#1e3864"/>
+      <rect id="rect16" x="59.335" y="163.951" width="84.527" height="8.565" fill="#1e3864"/>
+      <rect id="rect17" x="59.335" y="152.055" width="66.543" height="8.565" fill="#1e3864"/>
+      <rect id="rect18" x="59.335" y="140.159" width="41.685" height="8.565" fill="#1e3864"/>
+      <rect id="rect19" x="59.335" y="128.263" width="23.97" height="8.565" fill="#1e3864"/>
+      <rect id="rect20" x="59.335" y="116.367" width="11.397" height="8.565" fill="#1e3864"/>
+      <rect id="rect21" x="59.335" y="104.471" width="3.476" height="8.565" fill="#1e3864"/>
+      <rect id="rect22" x="59.335" y="92.575" width=".508" height="8.565" fill="#1e3864"/>
     </g>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text22"
-       x="33.872002"
-       y="336.70197"><tspan
-         x="33.872002"
-         y="336.70197"
-         id="tspan22">0 to 4</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text23"
-       x="33.872002"
-       y="324.80698"><tspan
-         x="33.872002"
-         y="324.80698"
-         id="tspan23">5 to 9</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text24"
-       x="24.723"
-       y="312.90997"><tspan
-         x="24.723"
-         y="312.90997"
-         id="tspan24">10 to 14</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text25"
-       x="24.723"
-       y="301.01495"><tspan
-         x="24.723"
-         y="301.01495"
-         id="tspan25">15 to 19</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text26"
-       x="24.723"
-       y="289.11896"><tspan
-         x="24.723"
-         y="289.11896"
-         id="tspan26">20 to 24</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text27"
-       x="24.723"
-       y="277.22296"><tspan
-         x="24.723"
-         y="277.22296"
-         id="tspan27">25 to 29</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text28"
-       x="24.723"
-       y="265.32596"><tspan
-         x="24.723"
-         y="265.32596"
-         id="tspan28">30 to 34</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text29"
-       x="24.723"
-       y="253.43098"><tspan
-         x="24.723"
-         y="253.43098"
-         id="tspan29">35 to 39</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text30"
-       x="24.723"
-       y="241.53499"><tspan
-         x="24.723"
-         y="241.53499"
-         id="tspan30">40 to 44</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text31"
-       x="24.723"
-       y="229.63898"><tspan
-         x="24.723"
-         y="229.63898"
-         id="tspan31">45 to 49</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text32"
-       x="24.723"
-       y="217.74298"><tspan
-         x="24.723"
-         y="217.74298"
-         id="tspan32">50 to 54</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text33"
-       x="24.723"
-       y="205.84698"><tspan
-         x="24.723"
-         y="205.84698"
-         id="tspan33">55 to 59</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text34"
-       x="24.723"
-       y="193.95099"><tspan
-         x="24.723"
-         y="193.95099"
-         id="tspan34">60 to 64</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text35"
-       x="24.723"
-       y="182.05498"><tspan
-         x="24.723"
-         y="182.05498"
-         id="tspan35">65 to 69</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text36"
-       x="24.723"
-       y="170.15797"><tspan
-         x="24.723"
-         y="170.15797"
-         id="tspan36">70 to 74</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text37"
-       x="24.723"
-       y="158.26299"><tspan
-         x="24.723"
-         y="158.26299"
-         id="tspan37">75 to 79</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text38"
-       x="24.723"
-       y="146.36598"><tspan
-         x="24.723"
-         y="146.36598"
-         id="tspan38">80 to 84</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text39"
-       x="24.723"
-       y="134.46999"><tspan
-         x="24.723"
-         y="134.46999"
-         id="tspan39">85 to 89</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text40"
-       x="24.723"
-       y="122.57498"><tspan
-         x="24.723"
-         y="122.57498"
-         id="tspan40">90 to 94</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text41"
-       x="24.723"
-       y="110.67898"><tspan
-         x="24.723"
-         y="110.67898"
-         id="tspan41">95 to 99</tspan></text>
-    <text
-       font-family="OpenSans, 'Open Sans'"
-       font-size="8px"
-       id="text42"
-       x="34.458"
-       y="98.782967"><tspan
-         x="34.458"
-         y="98.782967"
-         id="tspan42">100 +</tspan></text>
-    <text
-       fill="#939598"
-       font-family="OpenSans, 'Open Sans'"
-       font-size="9px"
-       id="text43"
-       x="135.677"
-       y="357.95096"><tspan
-         x="135.677"
-         y="357.95096"
-         id="tspan43">2.0</tspan></text>
-    <text
-       fill="#939598"
-       font-family="OpenSans, 'Open Sans'"
-       font-size="9px"
-       id="text44"
-       x="94.334"
-       y="357.95096"><tspan
-         x="94.334"
-         y="357.95096"
-         id="tspan44">1.0</tspan></text>
-    <text
-       fill="#939598"
-       font-family="OpenSans, 'Open Sans'"
-       font-size="9px"
-       id="text45"
-       x="56.762001"
-       y="357.95096"><tspan
-         x="56.762001"
-         y="357.95096"
-         id="tspan45">0</tspan></text>
-    <rect
-       id="rect75"
-       y="14.4"
-       width="14.4"
-       height="14.4"
-       fill="#f1c500"
-       x="0" />
-    <rect
-       id="rect72"
-       y="14.4"
-       width="14.4"
-       height="14.4"
-       fill="#f1c500"
-       x="0" />
-    <text
-       transform="translate(20.96,27.675)"
-       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-       font-size="17px"
-       font-weight="700"
-       id="text51"
-       style="white-space:pre;inline-size:206.999;display:inline"
-       xml:space="preserve"><tspan
-         x="0"
-         y="0"
-         id="tspan1">More than 14 million </tspan><tspan
-         x="0"
-         y="21.25"
-         id="tspan2">children and youth live in </tspan><tspan
-         x="0"
-         y="42.500001"
-         id="tspan3">Canada in 2025</tspan></text>
-    <rect
-       id="rect75-2"
-       data-name="rect75"
-       y="14.4"
-       width="14.4"
-       height="14.4"
-       fill="#f1c500"
-       x="0" />
-    <rect
-       id="rect72-2"
-       data-name="rect72"
-       y="14.4"
-       width="14.4"
-       height="14.4"
-       fill="#f1c500"
-       x="0" />
-    <text
-       fill="#939598"
-       font-family="OpenSans, 'Open Sans'"
-       font-size="9px"
-       id="text52"
-       x="177.02"
-       y="358.04996"><tspan
-         x="177.02"
-         y="358.04996"
-         id="tspan52">3.0 million</tspan></text>
-    <line
-       x1="58.268169"
-       y1="345.63196"
-       x2="58.268169"
-       y2="86.009972"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       id="line52" />
-    <g
-       id="text64"
-       isolation="isolate"
-       transform="translate(0,28.725977)">
-      <text
-         transform="translate(21.751,350.183)"
-         fill="#999999"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="8px"
-         isolation="isolate"
-         id="text54"><tspan
-           x="0"
-           y="0"
-           id="tspan53">Data source: Statistics Canada (2025) Annual</tspan><tspan
-           x="0"
-           y="9.6000004"
-           id="tspan54">Demographic Estimates</tspan></text>
+    <g id="text22" isolation="isolate">
+      <text transform="translate(33.872 336.702)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">0 to 4</tspan></text>
     </g>
-    <path
-       id="path37"
-       d="M 0,402.94998 H 244.8"
-       fill="none"
-       stroke="#f1c500"
-       stroke-miterlimit="2.25"
-       stroke-width="0.5" />
-    <path
-       id="path37-2"
-       data-name="path37"
-       d="M 0,0.258 H 244.8"
-       fill="none"
-       stroke="#f1c500"
-       stroke-miterlimit="2.25"
-       stroke-width="0.5" />
-    <text
-       transform="matrix(1.0469002,0,0,0.95520089,-70.870352,1.4195032)"
-       fill="#dc4732"
-       font-family="OpenSans-BoldItalic, 'Open Sans'"
-       font-size="8.59714px"
-       font-style="italic"
-       font-weight="700"
-       id="text57"
-       x="222.74162"
-       y="297.73807"
-       style="white-space:pre;inline-size:74.106;display:inline;stroke-width:1.0469"
-       xml:space="preserve"><tspan
-         x="222.74162"
-         y="297.73807"
-         id="tspan5"><tspan
-   style="text-align:center;text-anchor:middle"
-   id="tspan4">Youth</tspan>
-</tspan><tspan
-         x="222.74162"
-         y="308.48449"
-         id="tspan7"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan6">population</tspan></tspan></text>
-    <text
-       transform="scale(1.0469002,0.95520089)"
-       fill="#dc4732"
-       font-family="OpenSans-BoldItalic, 'Open Sans'"
-       font-size="8.59714px"
-       font-style="italic"
-       font-weight="700"
-       id="text57-2"
-       x="169.96648"
-       y="336.58069"
-       style="fill:#f1c500;fill-opacity:1;stroke-width:1.0469"><tspan
-         sodipodi:role="line"
-         id="tspan70"
-         x="169.96648"
-         y="336.58069"
-         style="text-align:center;text-anchor:middle">Child</tspan><tspan
-         sodipodi:role="line"
-         id="tspan71"
-         x="169.96648"
-         y="347.32712"
-         style="text-align:center;text-anchor:middle">population</tspan></text>
-    <text
-       transform="scale(1.0469002,0.95520089)"
-       fill="#e78273"
-       font-family="OpenSans-BoldItalic, 'Open Sans'"
-       font-size="8.59714px"
-       font-style="italic"
-       font-weight="700"
-       id="text59"
-       style="fill:#f1c500;fill-opacity:1;stroke-width:1.0469"
-       x="152.17975"
-       y="343.02277" />
+    <g id="text23" isolation="isolate">
+      <text transform="translate(33.872 324.807)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">5 to 9</tspan></text>
+    </g>
+    <g id="text24" isolation="isolate">
+      <text transform="translate(24.723 312.91)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">10 to 14</tspan></text>
+    </g>
+    <g id="text25" isolation="isolate">
+      <text transform="translate(24.723 301.015)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">15 to 19</tspan></text>
+    </g>
+    <g id="text26" isolation="isolate">
+      <text transform="translate(24.723 289.119)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">20 to 24</tspan></text>
+    </g>
+    <g id="text27" isolation="isolate">
+      <text transform="translate(24.723 277.223)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">25 to 29</tspan></text>
+    </g>
+    <g id="text28" isolation="isolate">
+      <text transform="translate(24.723 265.326)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">30 to 34</tspan></text>
+    </g>
+    <g id="text29" isolation="isolate">
+      <text transform="translate(24.723 253.431)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">35 to 39</tspan></text>
+    </g>
+    <g id="text30" isolation="isolate">
+      <text transform="translate(24.723 241.535)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">40 to 44</tspan></text>
+    </g>
+    <g id="text31" isolation="isolate">
+      <text transform="translate(24.723 229.639)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">45 to 49</tspan></text>
+    </g>
+    <g id="text32" isolation="isolate">
+      <text transform="translate(24.723 217.743)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">50 to 54</tspan></text>
+    </g>
+    <g id="text33" isolation="isolate">
+      <text transform="translate(24.723 205.847)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">55 to 59</tspan></text>
+    </g>
+    <g id="text34" isolation="isolate">
+      <text transform="translate(24.723 193.951)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">60 to 64</tspan></text>
+    </g>
+    <g id="text35" isolation="isolate">
+      <text transform="translate(24.723 182.055)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">65 to 69</tspan></text>
+    </g>
+    <g id="text36" isolation="isolate">
+      <text transform="translate(24.723 170.158)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">70 to 74</tspan></text>
+    </g>
+    <g id="text37" isolation="isolate">
+      <text transform="translate(24.723 158.263)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">75 to 79</tspan></text>
+    </g>
+    <g id="text38" isolation="isolate">
+      <text transform="translate(24.723 146.366)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">80 to 84</tspan></text>
+    </g>
+    <g id="text39" isolation="isolate">
+      <text transform="translate(24.723 134.47)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">85 to 89</tspan></text>
+    </g>
+    <g id="text40" isolation="isolate">
+      <text transform="translate(24.723 122.575)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">90 to 94</tspan></text>
+    </g>
+    <g id="text41" isolation="isolate">
+      <text transform="translate(24.723 110.679)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">95 to 99</tspan></text>
+    </g>
+    <g id="text42" isolation="isolate">
+      <text transform="translate(34.458 98.783)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">100 +</tspan></text>
+    </g>
+    <g id="text43" isolation="isolate">
+      <text transform="translate(135.677 357.951)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">2.0</tspan></text>
+    </g>
+    <g id="text44" isolation="isolate">
+      <text transform="translate(94.334 357.951)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">1.0</tspan></text>
+    </g>
+    <g id="text45" isolation="isolate">
+      <text transform="translate(56.762 357.951)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <rect id="rect75" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <g id="text51" isolation="isolate">
+      <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">More than 14 million </tspan></text>
+      <text transform="translate(20.96 48.925)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">children and youth live in </tspan></text>
+      <text transform="translate(20.96 70.175)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Canada in 2025</tspan></text>
+    </g>
+    <rect id="rect75-2" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72-2" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <g id="text52" isolation="isolate">
+      <text transform="translate(177.02 358.05)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">3.0 million</tspan></text>
+    </g>
+    <line id="line52" x1="58.268" y1="345.632" x2="58.268" y2="86.01" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <g id="text64" isolation="isolate">
+      <g id="text54" isolation="isolate">
+        <text transform="translate(21.751 378.909)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Annual</tspan></text>
+        <text transform="translate(21.751 388.509)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Demographic Estimates</tspan></text>
+      </g>
+    </g>
+    <path id="path37" d="M0,402.95h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <path id="path37-2" d="M0,.258h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <g id="text57" isolation="isolate">
+      <text transform="translate(187.062 285.819) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">Youth</tspan></text>
+      <text transform="translate(211.966 285.819) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text transform="translate(177.433 296.084) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">population</tspan></text>
+    </g>
+    <g id="text57-2" isolation="isolate">
+      <text transform="translate(167.121 321.502) scale(1.096 1)" fill="#f1c500" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">Child</tspan></text>
+      <text transform="translate(154.688 331.767) scale(1.096 1)" fill="#f1c500" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">population</tspan></text>
+    </g>
   </g>
 </svg>
