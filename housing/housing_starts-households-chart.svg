@@ -27,15 +27,15 @@
      inkscape:deskcolor="#ffffff"
      inkscape:document-units="in"
      inkscape:zoom="1.6887725"
-     inkscape:cx="325.97641"
-     inkscape:cy="201.03359"
+     inkscape:cx="324.79212"
+     inkscape:cy="179.71633"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1"
-     showgrid="true">
+     showgrid="false">
     <inkscape:grid
        id="grid260"
        units="in"
@@ -49,7 +49,7 @@
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
-       visible="true" />
+       visible="false" />
   </sodipodi:namedview>
   <g
      id="Layer_1"
@@ -79,22 +79,23 @@
        font-weight="700"
        id="text9"
        style="fill:#ab1368;fill-opacity:1"
-       x="66.26651"
+       x="66.155479"
        y="79.195"><tspan
-         x="66.26651"
+         x="66.155479"
          y="79.195"
          id="tspan9"
-         style="fill:#ab1368;fill-opacity:1">Semi detached</tspan></text>
+         style="fill:#ab1368;fill-opacity:1">Semi-detached</tspan></text>
     <text
-       transform="translate(169.227,79.305)"
        fill="#ab2069"
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text10"
-       style="fill:#dc4732;fill-opacity:1"><tspan
-         x="0"
-         y="0"
+       style="fill:#dc4732;fill-opacity:1"
+       x="171.42523"
+       y="79.305"><tspan
+         x="171.42523"
+         y="79.305"
          id="tspan10"
          style="fill:#dc4732;fill-opacity:1">Single-detached</tspan></text>
     <text
@@ -383,17 +384,19 @@
          font-family="OpenSans, 'Open Sans'"
          font-size="8px"
          isolation="isolate"
-         id="text98"><tspan
+         id="text98"
+         style="white-space:pre;inline-size:446.4;display:inline"
+         xml:space="preserve"><tspan
            x="0"
            y="0"
-           id="tspan96">Data source: Statistics Canada (2025) Canada Mortgage and Housing Corporation; Statistics Canda (2025)</tspan><tspan
+           id="tspan4">Data source: Statistics Canada (2025) Canada Mortgage and Housing Corporation. Table: 34-10-0126-01
+</tspan><tspan
            x="0"
-           y="9.6000004"
-           id="tspan97">Note: Estimated household counts (non-census years) were calculated via weighted linear interpolation using census</tspan><tspan
+           y="10"
+           id="tspan5">Note: Estimated household counts for non-census years were calculated via weighted linear interpolation using census </tspan><tspan
            x="0"
-           y="19.200001"
-           xml:space="preserve"
-           id="tspan98">counts and annual population.   </tspan></text>
+           y="20"
+           id="tspan6">counts and annual population.</tspan></text>
     </g>
     <g
        id="g103">

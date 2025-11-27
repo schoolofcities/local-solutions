@@ -26,15 +26,31 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="1.4210403"
-     inkscape:cx="299.42852"
-     inkscape:cy="142.50123"
+     inkscape:zoom="1.0048272"
+     inkscape:cx="278.15727"
+     inkscape:cy="186.59924"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg59" />
+     inkscape:current-layer="text19"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="0.74999994"
+       spacingy="0.75000005"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
   <rect
      id="rect38-7-0"
      x="0"
@@ -69,15 +85,15 @@
          id="g2"
          isolation="isolate">
         <text
-           transform="translate(21.6 280.514)"
-           fill="#999"
+           transform="translate(21.6,280.514)"
+           fill="#999999"
            font-family="OpenSans, 'Open Sans'"
-           font-size="8"
+           font-size="8px"
            isolation="isolate"
            id="text2"><tspan
              x="0"
              y="0"
-             id="tspan2">Data source: Public Health Agency of Canda (2025)</tspan></text>
+             id="tspan2">Data source: Public Health Agency of Canada (2025)</tspan></text>
       </g>
     </g>
     <rect
@@ -303,27 +319,28 @@
        id="text19"
        isolation="isolate">
       <text
-         transform="translate(106.502 189.75)"
          font-family="OpenSans-Italic, 'Open Sans'"
-         font-size="10"
+         font-size="10px"
          font-style="italic"
-         font-variation-settings="'wght' 400, 'wdth' 100"
+         font-variation-settings="'wdth' 100, 'wght' 400"
          isolation="isolate"
-         id="text7"><tspan
-           x="0"
-           y="0"
-           id="tspan7">Start of COVID</tspan></text>
+         id="text7"
+         x="99.854385"
+         y="189.75"><tspan
+           x="99.854385"
+           y="189.75"
+           id="tspan7">Start of COVID-19</tspan></text>
       <text
-         transform="translate(116.24 202.25)"
+         transform="translate(116.24,202.25)"
          font-family="OpenSans-Italic, 'Open Sans'"
-         font-size="10"
+         font-size="10px"
          font-style="italic"
-         font-variation-settings="'wght' 400, 'wdth' 100"
+         font-variation-settings="'wdth' 100, 'wght' 400"
          isolation="isolate"
          id="text8"><tspan
            x="0"
            y="0"
-           id="tspan8">Pandemic</tspan></text>
+           id="tspan8">pandemic</tspan></text>
     </g>
     <g
        id="text20"
@@ -1006,27 +1023,28 @@
        id="text19-0"
        isolation="isolate">
       <text
-         transform="translate(324.027 202.87)"
          font-family="OpenSans-Italic, 'Open Sans'"
-         font-size="10"
+         font-size="10px"
          font-style="italic"
-         font-variation-settings="'wght' 400, 'wdth' 100"
+         font-variation-settings="'wdth' 100, 'wght' 400"
          isolation="isolate"
-         id="text53"><tspan
-           x="0"
-           y="0"
-           id="tspan52">Start of COVID</tspan></text>
+         id="text53"
+         x="317.36139"
+         y="202.87"><tspan
+           x="317.36139"
+           y="202.87"
+           id="tspan52">Start of COVID-19</tspan></text>
       <text
-         transform="translate(333.766 215.37)"
+         transform="translate(333.766,215.37)"
          font-family="OpenSans-Italic, 'Open Sans'"
-         font-size="10"
+         font-size="10px"
          font-style="italic"
-         font-variation-settings="'wght' 400, 'wdth' 100"
+         font-variation-settings="'wdth' 100, 'wght' 400"
          isolation="isolate"
          id="text54"><tspan
            x="0"
            y="0"
-           id="tspan53">Pandemic</tspan></text>
+           id="tspan53">pandemic</tspan></text>
     </g>
   </g>
 </svg>
