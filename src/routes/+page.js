@@ -1,4 +1,3 @@
-
 import Papa from 'papaparse';
 
 export async function load({ fetch }) {
@@ -13,20 +12,25 @@ export async function load({ fetch }) {
 
     function cleanData(arr) {
         return arr.reduce((groups, item) => {
-           item.Tags = item.Tags.split("; ");
-           item.Municipalities_List = item.Municipalities_List.split(", ");
-           item.Provinces_List = item.Provinces_List.split(", ");
-           item.ID_Num = parseInt(item.ID_Num, 10);
-           item.Spotlighted = item.Spotlighted == 'true';
-           item.Card_Thumbnail = item.Card_Thumbnail == 'true';
+            item.Tags = item.Tags.split("; ");
+            item.Municipalities_List = item.Municipalities_List.split(", ");
+            if (item.Municipalities_List[0] == "") {
+                item.Municipalities_List.pop();
+            }
+            item.Provinces_List = item.Provinces_List.split(", ");
+            item.ID_Num = parseInt(item.ID_Num, 10);
+            item.Spotlighted = item.Spotlighted == 'TRUE';
+            item.Card_Thumbnail = item.Card_Thumbnail == 'TRUE';
 
-           if (item.Spotlighted) {
-            item.Tags.unshift("Finalist")
-           }
+            if (item.Spotlighted) {
+                    item.Tags.unshift("Finalist")
+            }
 
-           groups.push(item);
-           return groups;
-        }, []);
+            if (item.Project) {
+                    groups.push(item);
+            }
+            return groups;
+        }, []).sort((a, b) => b.Spotlighted - a.Spotlighted);
     }
 
     return {solutions: cleanData(parsedContent.data)};

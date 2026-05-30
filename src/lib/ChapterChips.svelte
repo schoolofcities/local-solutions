@@ -1,13 +1,13 @@
 <script>
-    import { chapterColors } from "./chapterColours";
+    import { chapterColours } from "./chapterColours";
     import "../assets/global-styles.css";
 
     export let Chapter;
 </script>
 
 <div>
-    <a href="./" target="_blank" 
-        class="chip" style:background-color={chapterColors[Chapter]}>
+    <a href={`./${Chapter.toLowerCase().replace(" ", "_")}`} target="_blank" 
+        class="chip" style:background-color={chapterColours[Chapter]}>
         {Chapter}
     </a>
 </div>
