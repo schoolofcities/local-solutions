@@ -86,6 +86,20 @@
 	src: url("fonts/Inter-Italic-VariableFont_opszwght.ttf");
 }
 
+@font-face {
+	font-family: Roboto;
+	src: url("fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+	font-family: RobotoItalic;
+	src: url("fonts/Roboto-Italic.ttf");
+}
+
+@font-face {
+	font-family: RobotoBold;
+	src: url("fonts/Roboto-Bold.ttf");
+}
 
 /* brand colours */
 
@@ -101,6 +115,7 @@
 	--brandLightGreen: #8DBF2E;
 	--brandRed: #DC4633;
 	--brandYellow: #F1C500;
+	--brandYellow30: #F1C5005F;
 	--brandOrange: #EBA00F;
 	--brandBlack: #000000;
 	--brandWhite: #ffffff;
@@ -110,6 +125,7 @@
 	--brandGray70: #4d4d4d;
 	--brandGray80: #333333;
 	--brandGray90: #191919;
+	--LoSoNavyBlue: #001D4E;
 }
 
 
@@ -181,7 +197,7 @@ h4 {
 }
 
 p {
-	font-family: Inter;
+	font-family: Roboto;
 	font-weight: normal;
 	color: var(--brandGray);
 	text-align: left;
@@ -224,7 +240,7 @@ em {
 a {
 	color: var(--brandWhite);
 	text-decoration: underline;
-	font-family: Inter;
+	font-family: Roboto;
 	font-weight: normal;
 }
 
@@ -401,4 +417,30 @@ li {
 }
 .caption-source a:hover  {
 	color: var(--brandMedGreen);
+}
+
+
+.body-text p, ul {
+	max-width: 950px;
+	width: 90dvw;
+	margin-left: calc((100dvw - min(950px, 90dvw))/2);
+	color: var(--brandGray90);
+	font-family: Roboto;
+}
+
+.body-text li {
+	font-family: Roboto;
+	font-size: 18px;
+	max-width: 950px;
+	width: 90dvw;
+}
+
+.body-text b {
+	font-family: RobotoBold;
+}
+
+@media (max-width: 900px) {
+	.body-text p, li {
+		font-size: 15px;
+	}
 }
