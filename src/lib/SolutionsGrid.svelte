@@ -18,6 +18,8 @@
     .body {
         background-color: #D9D9D9;
         width: 100%;
+        padding-top: 15px;
+        padding-bottom: 15px;
     }
 
     .solutions {

@@ -5,8 +5,7 @@
     export let Thumbnail_Alt;
     export let ID_Num;
     export let Chapter;
-    export let Municipalities_List;
-    export let Provinces_List;
+    export let Display_Location;
 
     import ChapterChips from "$lib/ChapterChips.svelte";
     import LocationIcon from "$lib/assets/icons/location.svelte"
@@ -23,7 +22,7 @@
             <ChapterChips Chapter={Chapter}/>
             <div class="location">
                 <LocationIcon/>
-                <h3 id="location-text">{Municipalities_List?.length > 0 ? Municipalities_List[0] + ",": ""} {Provinces_List[0]}</h3>
+                <h3 id="location-text">{Display_Location}</h3>
             </div>
         </div>
     </div>

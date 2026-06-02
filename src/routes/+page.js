@@ -19,8 +19,8 @@ export async function load({ fetch }) {
             }
             item.Provinces_List = item.Provinces_List.split(", ");
             item.ID_Num = parseInt(item.ID_Num, 10);
-            item.Spotlighted = item.Spotlighted == 'TRUE';
-            item.Card_Thumbnail = item.Card_Thumbnail == 'TRUE';
+            item.Spotlighted = (item.Spotlighted == 'true' || item.Spotlighted == 'TRUE');
+            item.Card_Thumbnail = (item.Card_Thumbnail == 'true' || item.Card_Thumbnail == 'TRUE');
 
             if (item.Spotlighted) {
                     item.Tags.unshift("Finalist")

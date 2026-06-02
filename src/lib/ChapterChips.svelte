@@ -6,7 +6,7 @@
 </script>
 
 <div>
-    <a href={`./${Chapter.toLowerCase().replace(" ", "_")}`} target="_blank" 
+    <a href={`./category/${Chapter.toLowerCase().replace(" ", "-")}`} target="_blank" 
         class="chip" style:background-color={chapterColours[Chapter]}>
         {Chapter}
     </a>

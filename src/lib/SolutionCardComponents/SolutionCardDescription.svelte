@@ -3,6 +3,7 @@
     import { createEventDispatcher, tick } from 'svelte';
     import '../../assets/global-styles.css';
 
+    export let collapsedHeight = '10rem'; 
     export let Summary;
     export let colour;
 
@@ -25,7 +26,9 @@
         class="summary"
         class:expanded={descriptionExpanded}
         bind:this={contentEl}
-        style="--full-height: {contentEl ? contentEl.scrollHeight + 'px' : 'auto'}"
+        style="
+        --collapsed-height: {collapsedHeight};
+        --full-height: {contentEl ? contentEl.scrollHeight + 'px' : 'auto'}"
     >
         {@html marked(Summary)}
     </div>
@@ -40,17 +43,18 @@
 <style>
     .summary {
         position: relative;
-        height: 6rem;
+        height: var(--collapsed-height);
         overflow: hidden;
         transition: height 0.35s ease;
-        margin-bottom: 1rem;
-        font-family: Inter;
+        margin-bottom: 0.5rem;
+        font-family: Roboto;
     }
 
     :global(.summary p) {
-        font-family: Inter !important;
+        font-family: Roboto !important;
         font-size: 14px !important; 
         color: var(--brandBlack);
+        line-height: 24px;
     }
 
     
@@ -64,7 +68,7 @@
         bottom: 0;
         left: 0;
         width: 100%;
-        height: 2rem;
+        height: 2.5rem;
         background: linear-gradient(to bottom, transparent, white);
         opacity: 1;
         transition: opacity 0.25s ease;
@@ -84,10 +88,11 @@
         border: none;
         background-color: transparent;
         text-decoration: underline;
-        font-family: Inter;
+        font-family: Roboto;
         font-size: 14px;
         margin: 0 auto;
         display: block;
+        margin-bottom: 15px;
     }
 
     .show-more-less:hover {

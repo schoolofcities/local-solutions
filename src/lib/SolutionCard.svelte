@@ -6,8 +6,12 @@
     import Tag from './Tag.svelte';
     import '../assets/global-styles.css';
 
+    import { tick } from 'svelte';
+    import { onMount } from 'svelte';
+
     export let Organization;
     export let Project;
+    export let Display_Location;
     export let Municipalities_List;
     export let Provinces_List;
     export let Chapter;
@@ -29,23 +33,53 @@
         descriptionExpanded = !descriptionExpanded;
     }
 
-    
+
+    let containerEl;
+    let titleEl;
+    let tagsEl;
+    let collapsedHeight = '8rem'; 
+
+    function recalcHeight() {
+        if (!containerEl || !titleEl || !tagsEl) return;
+        const containerH = 400; // your min-height
+        const titleH = titleEl.getBoundingClientRect().height;
+        const tagsH = tagsEl.getBoundingClientRect().height;
+        const buttonH = 24; // approximate show more/less button
+        const padding = 40; // 20px top + bottom padding
+        collapsedHeight = `${containerH - titleH - tagsH - buttonH - padding}px`;
+    }
+
+    onMount(async () => {
+        await tick();
+        recalcHeight();
+
+		const resizeHandler = () => {
+            recalcHeight();
+		};
+		window.addEventListener('resize', resizeHandler);
+
+		return () => window.removeEventListener('resize', resizeHandler);
+	
+    });
         
 </script>
 
-<div class="container">
-    <SolutionCardTitle 
+<div class="container" bind:this={containerEl}>
+    <div bind:this={titleEl}>
+        <SolutionCardTitle
         Project={Project} 
         Organization={Organization} 
         Card_Thumbnail={Card_Thumbnail} 
         Thumbnail_Alt={Thumbnail_Alt} 
         ID_Num={ID_Num} Chapter={Chapter} 
-        Municipalities_List={Municipalities_List} 
-        Provinces_List={Provinces_List}/>
+        Display_Location={Display_Location}/>
+    </div>
 
-    <SolutionCardDescription Summary={Summary} colour={colour}/>
+    <div class="description-wrapper">
+        <SolutionCardDescription Summary={Summary} colour={colour} collapsedHeight={collapsedHeight}/>
+    </div>
 
-    <div class="tags">
+    <div class="tags" bind:this={tagsEl}>
         {#each Tags as tag}
             <Tag label={tag}/>
         {/each}
@@ -59,6 +93,17 @@
         padding: 20px;
         background-color: white;
         height: fit-content;
+        min-height: 400px;
+        display: flex;
+        flex-direction:column; 
+        justify-content:space-between;
+    }
+
+    .description-wrapper {
+        flex: 1;          
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
     }
 
     @media (min-width: 550px) {
@@ -74,7 +119,8 @@
     }
 
     .tags {
-        margin-top: 15px;
+        margin-top: auto;
+        /* margin-top: 15px; */
         display: flex;
         flex-wrap: wrap;
         gap: 5px;
