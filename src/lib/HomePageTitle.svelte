@@ -36,7 +36,6 @@
             class="node"
             style="
                 --angle: {i * angleStep}deg;
-                --orbit: {orbitRadius}dvh;
                 --numCircles: {items.length};
                 background-color: {item.colour};
             "
@@ -51,6 +50,7 @@
 <style>
     :root {
         --circle-container: 85dvh;
+        --orbit: 30dvh;
     }
 
     .container {
@@ -164,23 +164,77 @@
     }
 
     @media (max-width: 1100px) {
+        :root {
+            --circle-container: 75dvh;
+            --orbit: 27dvh;
+        }   
+
+        .left {
+            width: calc(92dvw - var(--circle-container));
+        }
+
+        .logo {
+            margin-top: 15px;
+            height: 50px;
+        }
+
+        .logo-link {
+            padding-left: 20px;
+        }
+
+        .title {
+            padding: 20px;
+            box-sizing: border-box;
+            width: 100%;
+        }
+
         .title h2 {
-            font-size: 45px;
+            font-size: 35px;
         }
 
         .title h3 {
-            font-size: 40px;
+            font-size: 30px;
+        }
+
+        .center h2 {
+            font-size: 4dvh;
+        }
+
+        .center h3 {
+            font-size: 3.5dvh;
         }
     }
 
+    @media (max-width: 850px) {
+        .title h2 {
+            font-size: 30px;
+        }
 
-    @media (max-aspect-ratio: 1) {
+        .title h3 {
+            font-size: 25px;
+        }
+
+        .logo {
+            height: 40px;
+        }
+
+    }
+
+
+    @media (max-width: 750px) {
         :root {
             --circle-container: 85dvw;
+            --orbit: 30dvw;
+        }
+
+        .left {
+            align-self: auto;
+            width: 100%;
         }
 
         .container {
             flex-direction: column;
+            justify-content: center;
         }
 
         .logo-link {
@@ -193,6 +247,7 @@
             text-align: center;
             width: 100%;
             text-wrap: wrap;
+            box-sizing: border-box;
         }
 
         .title h2 {
@@ -202,6 +257,25 @@
         .title h3 {
             font-size: 30px;
         }
-    }
 
+        .center h2, h3 {
+            text-align: center;
+            color: var(--LoSoNavyBlue);
+            font-size: 5dvw;
+            margin: 0;
+        }
+
+        .center h3 {
+            font-family: TradeGothicLTLight;
+            font-size: 4dvw;
+        }
+
+        .node {
+            font-size: 3.5dvw;
+        }
+
+        .orbit-container {
+            left: calc((100dvw - var(--circle-container))/2)
+        }
+    }
 </style>

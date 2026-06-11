@@ -1,23 +1,17 @@
 <script>
     import { marked } from 'marked';
-    import { createEventDispatcher, tick } from 'svelte';
+    import { tick } from 'svelte';
     import '../../assets/global-styles.css';
 
-    export let collapsedHeight = '10rem'; 
-    export let Summary;
-    export let colour;
+    let { collapsedHeight = '10rem', Summary, onresize } = $props();
 
-    const dispatch = createEventDispatcher();
-
-    let descriptionExpanded = false;
-    let contentEl;
+    let descriptionExpanded = $state(false);
+    let contentEl = $state(null);
 
     async function toggleExpanded() {
         descriptionExpanded = !descriptionExpanded;
-
         await tick();
-
-        dispatch('resize');
+        onresize?.();
     }
 </script>
 
@@ -34,8 +28,8 @@
     </div>
     <button 
         class="show-more-less" 
-        on:click={toggleExpanded}
-        style:color={colour}>
+        onclick={toggleExpanded}
+        style:color="black">
         {descriptionExpanded ? "Show less" : "Show more"}
     </button>
 </div>

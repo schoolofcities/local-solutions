@@ -419,11 +419,14 @@ li {
 	color: var(--brandMedGreen);
 }
 
+:root {
+	--grid-width: 1015px;
+}
 
-.body-text p, ul {
-	max-width: 950px;
+.body-text>p, ul {
+	max-width: var(--grid-width);
 	width: 90dvw;
-	margin-left: calc((100dvw - min(950px, 90dvw))/2);
+	margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
 	color: var(--brandGray90);
 	font-family: Roboto;
 }

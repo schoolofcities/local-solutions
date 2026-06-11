@@ -4,7 +4,9 @@
     import HomePageTitle from "$lib/HomePageTitle.svelte";
     import SolutionsGrid from "$lib/SolutionsGrid.svelte";
     import MethodologyCallout from "$lib/MethodologyCallout.svelte";
-    import CanadaMap from "$lib/CanadaMap.svelte";
+    import { onMount } from 'svelte';
+    import { page } from '$app/stores';
+    import Footer from "$lib/Footer.svelte";
 
     export let data;
 
@@ -25,8 +27,8 @@
         </p>
     </div>
     <MethodologyCallout/>
-    <CanadaMap/>
-    <SolutionsGrid solutionsList={data.solutions}/> 
+    <SolutionsGrid solutionsList={data.solutions} provinceCounts={data.provinceCounts} home={true}/> 
+    <Footer/>
 </div>
 
 <style>

@@ -37,7 +37,7 @@
     h2 {
         margin: 0;
         /* padding-left: calc((100dvw - min(1545px, 90dvw)) / 2); */
-        padding-left: calc((100dvw - min(950px, 90dvw))/2);
+        padding-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
         padding-top: 15px;
         padding-bottom: 15px;
         padding-right: 15px;

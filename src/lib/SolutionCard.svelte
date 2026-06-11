@@ -1,82 +1,72 @@
 <script>
-    import { marked } from 'marked'
     import SolutionCardTitle from './SolutionCardComponents/SolutionCardTitle.svelte';
     import SolutionCardDescription from './SolutionCardComponents/SolutionCardDescription.svelte';
     import { chapterColours } from './chapterColours';
     import Tag from './Tag.svelte';
     import '../assets/global-styles.css';
+    import { tick, onMount } from 'svelte';
 
-    import { tick } from 'svelte';
-    import { onMount } from 'svelte';
+    let {
+        Organization,
+        Project,
+        Display_Location,
+        Municipalities_List,
+        Provinces_List,
+        Chapter,
+        Subcategory,
+        Spotlighted,
+        Cohort,
+        Summary,
+        Tags,
+        Card_Thumbnail,
+        Thumbnail_Alt,
+        ID_Num,
+    } = $props();
 
-    export let Organization;
-    export let Project;
-    export let Display_Location;
-    export let Municipalities_List;
-    export let Provinces_List;
-    export let Chapter;
-    export let Subcategory;
-    export let Spotlighted;
-    export let Cohort;
-    export let Summary;
-    export let Tags;
-    export let Card_Thumbnail;
-    export let Thumbnail_Alt;
-    export let ID_Num;
-
-    let colour = chapterColours[Chapter];
-
-    let descriptionExpanded = false;
-    let contentEl;
-
-    async function toggleExpanded() {
-        descriptionExpanded = !descriptionExpanded;
-    }
-
-
-    let containerEl;
-    let titleEl;
-    let tagsEl;
-    let collapsedHeight = '8rem'; 
+    let containerEl = $state(null);
+    let titleEl = $state(null);
+    let tagsEl = $state(null);
+    let collapsedHeight = $state('8rem');
 
     function recalcHeight() {
         if (!containerEl || !titleEl || !tagsEl) return;
-        const containerH = 400; // your min-height
+        const containerH = 400;
         const titleH = titleEl.getBoundingClientRect().height;
         const tagsH = tagsEl.getBoundingClientRect().height;
-        const buttonH = 24; // approximate show more/less button
-        const padding = 40; // 20px top + bottom padding
+        const buttonH = 24;
+        const padding = 40;
         collapsedHeight = `${containerH - titleH - tagsH - buttonH - padding}px`;
     }
+    
+    $effect(() => {
+        Summary;
+        Tags;
+        tick().then(() => recalcHeight());
+    });
 
     onMount(async () => {
         await tick();
         recalcHeight();
 
-		const resizeHandler = () => {
-            recalcHeight();
-		};
-		window.addEventListener('resize', resizeHandler);
-
-		return () => window.removeEventListener('resize', resizeHandler);
-	
+        window.addEventListener('resize', recalcHeight);
+        return () => window.removeEventListener('resize', recalcHeight);
     });
-        
 </script>
 
 <div class="container" bind:this={containerEl}>
     <div bind:this={titleEl}>
         <SolutionCardTitle
-        Project={Project} 
-        Organization={Organization} 
-        Card_Thumbnail={Card_Thumbnail} 
-        Thumbnail_Alt={Thumbnail_Alt} 
-        ID_Num={ID_Num} Chapter={Chapter} 
-        Display_Location={Display_Location}/>
+            {Project}
+            {Organization}
+            {Card_Thumbnail}
+            {Thumbnail_Alt}
+            {ID_Num}
+            {Chapter}
+            {Display_Location}/>
     </div>
 
     <div class="description-wrapper">
-        <SolutionCardDescription Summary={Summary} colour={colour} collapsedHeight={collapsedHeight}/>
+        <SolutionCardDescription {Summary} {collapsedHeight} onresize={recalcHeight}/>
     </div>
 
     <div class="tags" bind:this={tagsEl}>

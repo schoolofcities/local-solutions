@@ -15,10 +15,10 @@
     style={Card_Thumbnail ? 
         "display: grid; grid-template-columns: 55% 45%" : 
         ""}>
-    <div class="title-section"> 
+    <div class="card-title-section"> 
         <div>
-            <h2>{Organization}</h2>
-            <h3>{Project}</h3>
+            <h2>{@html Organization}</h2>
+            <h3>{@html Project}</h3>
             <ChapterChips Chapter={Chapter}/>
             <div class="location">
                 <LocationIcon/>
@@ -29,7 +29,7 @@
     
     <div>
         {#if Card_Thumbnail}
-            <img src={`./src/assets/card_thumbnails/${ID_Num}.jpg`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
+            <img src={`/local-solutions/src/assets/card_thumbnails/${ID_Num}.jpg`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
         {/if}
     </div>
 </div>
@@ -39,18 +39,18 @@
         width: 100%;
     }
 
-    .title-section {
+    .card-title-section {
         display: flex;
     }
 
-    :global(.title-section h2) {
+    :global(.card-title-section h2) {
         font-family: SourceSerifBold;
         font-size: 16px;
         margin-top: 5px;
         margin-bottom: 5px;
     }
 
-    :global(.title-section h3) {
+    :global(.card-title-section h3) {
         font-family: SourceSerif;
         font-size: 16px;
         margin-top: 5px;

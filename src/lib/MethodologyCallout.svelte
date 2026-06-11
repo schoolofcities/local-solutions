@@ -14,10 +14,10 @@
 <style>
     .container {
         background-color: var(--brandYellow30);
-        max-width: 1000px;
+        max-width: var(--grid-width);
         width: 90vw;
         height: fit-content;
-        margin-left: calc((100dvw - min(1000px, 90dvw))/2);
+        margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
         margin-bottom: 20px;
         padding: 25px;
         box-sizing: border-box;
@@ -29,7 +29,7 @@
     p {
         margin: 0;
         color: var(--brandGray90);
-        font-style: italic;
+        font-family: RobotoItalic;
         font-size: 18px;
         margin-bottom: 10px;
     }
