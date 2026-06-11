@@ -6,6 +6,7 @@
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
+    import Password from '$lib/Password.svelte';
     
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -16,6 +17,8 @@
 </script>
 
 <div>
+    <Password/>
+    
     <TitleSection Title="Scaling social innovation IN CANADA:" 
         Subtitle="DOING MORE OF WHAT WORKS" 
         Chapter=""/>

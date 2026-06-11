@@ -7,12 +7,14 @@
     import { onMount } from 'svelte';
     import { page } from '$app/stores';
     import Footer from "$lib/Footer.svelte";
+    import Password from "$lib/Password.svelte";
 
     export let data;
 
 </script>
 
 <div>
+    <Password/>
     <HeaderBar/>
     <HomePageTitle/>
     <div class="body-text">

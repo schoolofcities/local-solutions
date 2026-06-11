@@ -1,4 +1,5 @@
 <script>
+    import Password from '$lib/Password.svelte';
     import SolutionsGrid from '$lib/SolutionsGrid.svelte';
     import TitleSection from '$lib/TitleSection.svelte';
 
@@ -11,6 +12,7 @@
 </script>
 
 <div>
+    <Password/>
     <TitleSection Title="Small businesses" {Chapter}/>
     <SolutionsGrid {Chapter} {solutionsList} {provinceCounts}/>
 </div>
