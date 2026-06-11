@@ -1,4 +1,5 @@
 <script>
+    import { base } from '$app/paths';
     export let Project;
     export let Organization;
     export let Card_Thumbnail;
@@ -29,7 +30,7 @@
     
     <div>
         {#if Card_Thumbnail}
-            <img src={`/local-solutions/src/assets/card_thumbnails/${ID_Num}.jpg`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
+            <img src={`${base}/web-assets/card_thumbnails/${ID_Num}.jpg`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
         {/if}
     </div>
 </div>

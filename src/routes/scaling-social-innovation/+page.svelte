@@ -18,7 +18,7 @@
 
 <div>
     <Password/>
-    
+
     <TitleSection Title="Scaling social innovation IN CANADA:" 
         Subtitle="DOING MORE OF WHAT WORKS" 
         Chapter=""/>

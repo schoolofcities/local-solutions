@@ -12,23 +12,63 @@
     import { tags, locations } from './mapFilterConstants';
     import { createEventDispatcher, tick } from 'svelte';
     import Page from '../routes/+page.svelte';
+    import { browser } from '$app/environment';
 
+    // const fromUrl = (list, param) => {
+    //     if (param === "category") {
+    //         let active = $page.url.searchParams.get(param)?.split('|') ?? [];
+    //         let result = {};
+    //         Object.keys(chapterColours).forEach((chapter) => {
+    //             result[chapter] = active.includes(chapter);
+    //         });
+    //         return result;
+    //     } else if (param === "search") {
+    //         return $page.url.searchParams.get(param);
+    //     } else {
+    //         return list.filter(item =>
+    //             $page.url.searchParams.get(param)?.split('|').filter(Boolean).includes(item.value)
+    //         );
+    //     }
+    // };
 
     const fromUrl = (list, param) => {
+        if (!browser) {
+            if (param === "category") {
+                return Object.fromEntries(
+                    Object.keys(chapterColours).map(c => [c, false])
+                );
+            }
+
+            if (param === "search") {
+                return "";
+            }
+
+            return [];
+        }
+
         if (param === "category") {
             let active = $page.url.searchParams.get(param)?.split('|') ?? [];
+
             let result = {};
+
             Object.keys(chapterColours).forEach((chapter) => {
                 result[chapter] = active.includes(chapter);
             });
+
             return result;
-        } else if (param === "search") {
-            return $page.url.searchParams.get(param);
-        } else {
-            return list.filter(item =>
-                $page.url.searchParams.get(param)?.split('|').filter(Boolean).includes(item.value)
-            );
         }
+
+        if (param === "search") {
+            return $page.url.searchParams.get(param) ?? "";
+        }
+
+        return list.filter(item =>
+            $page.url.searchParams
+                .get(param)
+                ?.split('|')
+                .filter(Boolean)
+                .includes(item.value)
+        );
     };
 
     const syncToUrl = (searchParams, selected, param) => {

@@ -4,6 +4,9 @@
     import { page } from '$app/stores';
     import { chapterColours } from './chapterColours';
     import { tags, locations } from "./mapFilterConstants";
+    import { browser } from '$app/environment';
+
+    const searchParams = browser ? $page.url.searchParams : new URLSearchParams();
 
     let {
         solutionsList,
@@ -14,21 +17,21 @@
 
     let selectedLocations = $state(
         locations.filter(l =>
-            $page.url.searchParams.get('province')?.split('|').filter(Boolean).includes(l.value)
+            searchParams.get('province')?.split('|').filter(Boolean).includes(l.value)
         )
     );
     let selectedTags = $state(
         tags.filter(t =>
-            $page.url.searchParams.get('tags')?.split('|').filter(Boolean).includes(t.value)
+            searchParams.get('tags')?.split('|').filter(Boolean).includes(t.value)
         )
     );
 
-    const activeCategories = $page.url.searchParams.get('category')?.split('|') ?? [];
+    const activeCategories = searchParams.get('category')?.split('|') ?? [];
     let selectedCategories = $state(
         Object.fromEntries(Object.keys(chapterColours).map(c => [c, activeCategories.includes(c)]))
     );
 
-    let searchValue = $state($page.url.searchParams.get('search')?.toLowerCase() ?? '');
+    let searchValue = $state(searchParams.get('search')?.toLowerCase() ?? '');
 
 
     const filteredSolutionsList = $derived(
