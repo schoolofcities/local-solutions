@@ -14,7 +14,7 @@
 </script>
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <HeaderBar/>
     <HomePageTitle/>
     <div class="body-text">

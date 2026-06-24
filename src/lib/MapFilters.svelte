@@ -11,25 +11,7 @@
     import ChapterChips from './ChapterChips.svelte';
     import { tags, locations } from './mapFilterConstants';
     import { createEventDispatcher, tick } from 'svelte';
-    import Page from '../routes/+page.svelte';
     import { browser } from '$app/environment';
-
-    // const fromUrl = (list, param) => {
-    //     if (param === "category") {
-    //         let active = $page.url.searchParams.get(param)?.split('|') ?? [];
-    //         let result = {};
-    //         Object.keys(chapterColours).forEach((chapter) => {
-    //             result[chapter] = active.includes(chapter);
-    //         });
-    //         return result;
-    //     } else if (param === "search") {
-    //         return $page.url.searchParams.get(param);
-    //     } else {
-    //         return list.filter(item =>
-    //             $page.url.searchParams.get(param)?.split('|').filter(Boolean).includes(item.value)
-    //         );
-    //     }
-    // };
 
     const fromUrl = (list, param) => {
         if (!browser) {
@@ -86,8 +68,10 @@
         home,
         Chapter,
         provinceCounts,
+        municipalities,
         selectedLocations = $bindable(fromUrl(locations, 'province')),
         selectedTags = $bindable(fromUrl(tags, 'tags')),
+        selectedMunicipalities = $bindable(fromUrl(municipalities, 'municipality')),
         selectedCategories = $bindable(fromUrl(null, 'category')),
         searchValue = $bindable(fromUrl(null, 'search'))
     } = $props();
@@ -117,6 +101,7 @@
 
     let pendingLocations = $state(fromUrl(locations, 'province'));
     let pendingTags = $state(fromUrl(tags, 'tags'));
+    let pendingMunicipalities = $state(fromUrl(municipalities,'municipality'));
     let pendingCategories = $state(fromUrl(null, 'category'));
     let pendingSearch = $state(fromUrl(null, 'search'));
     const dispatch = createEventDispatcher();
@@ -124,6 +109,7 @@
     const applyFilters = () => {
         selectedLocations = pendingLocations ? [...pendingLocations] : [];  
         selectedTags = pendingTags ? [...pendingTags] : [];
+        selectedMunicipalities = pendingMunicipalities ? [...pendingMunicipalities] : [];
         selectedCategories = pendingCategories ? { ...pendingCategories } : {};
         searchValue = pendingSearch;
 
@@ -134,6 +120,7 @@
         syncToUrl(searchParams, selectedLocations, 'province');
         syncToUrl(searchParams, selectedTags, 'tags');
         syncToUrl(searchParams, selectedCategories, 'category');
+        syncToUrl(searchParams, selectedMunicipalities, 'municipality');
 
         const query = searchParams.toString();
         goto($page.url.pathname + (query ? '?' + query : ''), { noScroll: true });
@@ -144,9 +131,11 @@
     const clearFilters = () => {
         pendingLocations = [];
         pendingTags = [];
+        pendingMunicipalities = [];
         pendingSearch = "";
         selectedLocations = [];
         selectedTags = [];
+        selectedMunicipalities = [];
         searchValue = "";
         Object.keys(chapterColours).forEach((c) => {
             pendingCategories[c] = false;
@@ -167,6 +156,7 @@
         syncToUrl(searchParams, selectedLocations, 'province');
         syncToUrl(searchParams, selectedTags, 'tags');
         syncToUrl(searchParams, selectedCategories, 'category');
+        syncToUrl(searchParams, selectedMunicipalities, 'municipality');
         goto($page.url.pathname + '?' + searchParams.toString(), { noScroll: true });
     };
 
@@ -174,7 +164,7 @@
         layoutWidth = document.getElementById("solutions-map").clientWidth;
         windowWidth = window.innerWidth;
         try {
-            mapData = await json(`${base}/data/ne_canada_with_centroids.geojson`);
+            mapData = $page.data.mapGeo;
             projection = geoConicConformal()
                 .rotate([106, 0, 0])
                 .parallels([49, 77])
@@ -216,24 +206,27 @@
                     {#each mapData.features as province (province.properties.name)}
                         <path
                             d={path(province)}
-                            id={province.properties.postal}
+                            id={province.properties.Postal}
                             class:province={true}
                             stroke="white"
                             stroke-width="1.5"
                         />
 
-                        {#if provinceCounts[province.properties.postal] > 0}
+                        {#if provinceCounts[province.properties.Postal] > 0}
                             {@const [cx, cy] = projection(province.properties.centroid)}
-                            <g class="org-count" id="filter-{province.properties.postal}"
+                            {@const postal = province.properties.Postal}
+                            <g class="org-count" id="filter-{postal}"
                                 role="button" tabindex=0 aria-label="Filter for solutions in {province.properties.name}"
-                                onclick={() => filterProvince(province.properties.postal)}
+                                onclick={() => filterProvince(postal)}
                                 onkeyup={(key) => {
                                     if (key.keyCode == 13 || key.keyCode == 32) {
-                                        filterProvince(province.properties.postal);
+                                        filterProvince(postal);
                                     }
                                 }}>
-                                <circle cx={cx} cy={cy} r={radius} class="org-count-circle"/>
-                                <text x={cx} y={cy} class="org-count-text">{provinceCounts[province.properties.postal]}</text>
+                                <circle cx={cx} cy={cy} 
+                                    r={(postal == "NS" || postal == "NB" || postal == "PE") ? radius - 3 : radius} 
+                                    class="org-count-circle"/>
+                                <text x={cx} y={cy} class="org-count-text">{provinceCounts[province.properties.Postal]}</text>
                             </g>
                         {/if}
                     {/each}
@@ -272,13 +265,13 @@
                 groupBy={(item) => item.group} placeholder="Province/Territory"
                 bind:value={pendingLocations}/>
         </div>
-        <!-- <div class="select-box">
-            <Select items={locations} multiple={true} showChevron={true}
+        <div class="select-box">
+            <Select items={municipalities} multiple={true} showChevron={true}
                 containerStyles="font-family: Roboto !important;"
                 inputStyles="font-family: Roboto !important;"
                 groupBy={(item) => item.group} placeholder="Municipality"
-                bind:value={pendingLocations}/>
-        </div> -->
+                bind:value={pendingMunicipalities}/>
+        </div>
         <div class="select-box">
             <Select items={tags} multiple={true} showChevron={true}
                 containerStyles="font-family: Roboto !important;"
@@ -315,6 +308,8 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
+        width: 1530px;
+        margin-left: calc((100dvw - 1530px)/2);
     }
 
     .filters {

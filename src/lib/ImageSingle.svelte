@@ -7,12 +7,15 @@
 	export let altText = '';
 	export let maxWidth = '';
 	export let link = 'Yes'; // Yes or No open link in new tab
+	export let indicatorCorner = false;
 
 </script>
 
 <div 
 	class="img-container" 
-	style="max-width: {maxWidth};"
+	style={indicatorCorner ? 
+		`max-width: ${maxWidth}; padding: 20px 0 20px 0 !important; max-height: 60dvh; margin-bottom: 0;` 
+		: `max-width: ${maxWidth}`}
 >
 
 	{#if link === 'Yes'}

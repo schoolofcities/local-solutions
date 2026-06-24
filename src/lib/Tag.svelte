@@ -3,8 +3,13 @@
     import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
     export let label = "";
+    export let showFinalist = false;
 
     function filterTag(value) {
+        if (value == "Finalist") {
+            showFinalist = true;
+            return;
+        }
         const existing = $page.url.searchParams.get('tags')?.split('|').filter(Boolean) ?? [];
         const updated = existing.includes(value)
             ? existing

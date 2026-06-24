@@ -1,10 +1,11 @@
 <script>
     import SolutionCardTitle from './SolutionCardComponents/SolutionCardTitle.svelte';
     import SolutionCardDescription from './SolutionCardComponents/SolutionCardDescription.svelte';
-    import { chapterColours } from './chapterColours';
+    import { chapterColours, slugify } from './chapterColours';
     import Tag from './Tag.svelte';
     import '../assets/global-styles.css';
     import { tick, onMount } from 'svelte';
+    import { goto } from '$app/navigation';
 
     let {
         Organization,
@@ -17,6 +18,8 @@
         Spotlighted,
         Cohort,
         Summary,
+        Description,
+        Learning_from_what_worked,
         Tags,
         Card_Thumbnail,
         Thumbnail_Alt,
@@ -27,6 +30,7 @@
     let titleEl = $state(null);
     let tagsEl = $state(null);
     let collapsedHeight = $state('8rem');
+    let showFinalist = $state(false);
 
     function recalcHeight() {
         if (!containerEl || !titleEl || !tagsEl) return;
@@ -66,6 +70,14 @@
     </div>
 
     <div class="description-wrapper">
+        {#if Tags.includes("Finalist")}
+            <div>
+                <button onclick={() => {window.open(`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`, '_blank')}} id="overlay-toggle">
+                    This is a spotlighted solution! Click here to read an in-depth profile.
+                </button>
+            </div>
+        {/if}
+
         <SolutionCardDescription {Summary} {collapsedHeight} onresize={recalcHeight}/>
     </div>
 
@@ -114,5 +126,17 @@
         display: flex;
         flex-wrap: wrap;
         gap: 5px;
+    }
+
+    #overlay-toggle {
+        background-color: var(--brandYellow);
+        color: black;
+        font-family: SourceSerif;
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+
+    #overlay-toggle:hover {
+        cursor: pointer;
     }
 </style>

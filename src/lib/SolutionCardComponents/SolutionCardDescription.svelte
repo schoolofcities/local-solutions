@@ -1,5 +1,5 @@
 <script>
-    import { marked } from 'marked';
+    import { parseMarkdown } from '$lib/markdown.js';
     import { tick } from 'svelte';
     import '../../assets/global-styles.css';
 
@@ -24,7 +24,7 @@
         --collapsed-height: {collapsedHeight};
         --full-height: {contentEl ? contentEl.scrollHeight + 'px' : 'auto'}"
     >
-        {@html marked(Summary)}
+        {@html parseMarkdown(Summary)}
     </div>
     <button 
         class="show-more-less" 

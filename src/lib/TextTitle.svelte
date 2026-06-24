@@ -23,6 +23,7 @@
 </div>
 
 <style>
+
     .container.has-link {
         display: grid;
         grid-template-columns: 75% 25%;
@@ -32,6 +33,11 @@
     .title-text {
         background-color: var(--brandYellow);
         width:fit-content;
+        margin-top: 50px;
+    }
+
+    .has-link .title-text {
+        margin-top: 0;
     }
 
     h2 {

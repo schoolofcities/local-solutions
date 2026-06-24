@@ -27,7 +27,7 @@
     <div class="orbit-container">
         <div class="center">
             <h2>A nation of place-based solutions</h2>
-            <h3>Click to learn more!</h3>
+            <h3>Click a category to learn more!</h3>
         </div>
 
         {#each items as item, i}
@@ -202,6 +202,65 @@
 
         .center h3 {
             font-size: 3.5dvh;
+        }
+    }
+
+    
+    @media (max-aspect-ratio: 1) {
+        :root {
+            --circle-container: 85dvw;
+            --orbit: 30dvw;
+        }
+
+        .left {
+            align-self: auto;
+            width: 100%;
+        }
+
+        .container {
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .logo-link {
+            display: none;
+        }
+
+        .title {
+            padding-left: 5dvw;
+            padding-right: 5dvw;
+            text-align: center;
+            width: 100%;
+            text-wrap: wrap;
+            box-sizing: border-box;
+        }
+
+        .title h2 {
+            font-size: 35px;
+        }
+
+        .title h3 {
+            font-size: 30px;
+        }
+
+        .center h2, h3 {
+            text-align: center;
+            color: var(--LoSoNavyBlue);
+            font-size: 5dvw;
+            margin: 0;
+        }
+
+        .center h3 {
+            font-family: TradeGothicLTLight;
+            font-size: 4dvw;
+        }
+
+        .node {
+            font-size: 3.5dvw;
+        }
+
+        .orbit-container {
+            left: calc((100dvw - var(--circle-container))/2)
         }
     }
 

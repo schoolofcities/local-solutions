@@ -2,8 +2,17 @@
 // export const ssr = false;
 
 import Papa from 'papaparse';
+import { base } from '$app/paths';
 
 export async function load({ fetch }) {
+    const geoRes = await fetch(`${base}/data/1981_canada_centroids.geojson`);
+    const mapGeo = await geoRes.json();
+    let provinceGeo = {};
+
+    mapGeo.features.forEach((province) => {
+        provinceGeo[province.properties.Postal] = province;
+    })
+
     const contentFile = await fetch('/data/all-solutions.csv');
     const contentText = await contentFile.text();
 
@@ -32,18 +41,13 @@ export async function load({ fetch }) {
         };
 
         let categorySolutions = {};
-
-        let municipalities = new Set();
         
-        let solutions = arr.map(item => {
+        let unsortedSolutions = arr.map(item => {
                 item.Tags = item.Tags.split("; ");
                 item.Municipalities_List = item.Municipalities_List.split(", ");
                 if (item.Municipalities_List[0] == "") {
                     item.Municipalities_List.pop();
                 }
-                item.Municipalities_List.forEach((item) => {
-                    municipalities.add({value:item, label:item, group:"Municipalities"});
-                })
                 item.Provinces_List = item.Provinces_List.split(", ");
                 item.ID_Num = parseInt(item.ID_Num, 10);
                 item.Spotlighted = (item.Spotlighted == 'true' || item.Spotlighted == 'TRUE');
@@ -54,8 +58,9 @@ export async function load({ fetch }) {
                 }
 
                 return item;
-            })
-            .sort((a, b) => b.Spotlighted - a.Spotlighted);
+            });
+        
+        let solutions = unsortedSolutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
 
         solutions.forEach(item => {
             const category = item.Chapter;
@@ -79,12 +84,27 @@ export async function load({ fetch }) {
             });
         });
 
-        return { solutions, provinceCounts, categorySolutions, municipalities };
+
+        return { solutions, 
+                provinceCounts, 
+                categorySolutions, 
+                unsortedSolutions
+            };
     }
 
-    const { solutions, provinceCounts, categorySolutions, municipalities } = cleanData(parsedContent.data);
+    const { solutions, 
+            provinceCounts, 
+            categorySolutions, 
+            unsortedSolutions
+    } = cleanData(parsedContent.data);
 
-    return { solutions, provinceCounts, categorySolutions, municipalities };
+    return { solutions, 
+            provinceCounts, 
+            categorySolutions, 
+            unsortedSolutions, 
+            mapGeo, 
+            provinceGeo
+             };
 }
 
 export const prerender = true; 

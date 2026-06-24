@@ -14,6 +14,15 @@
         home = false,
     } = $props();
 
+    let municipalitiesSet = new Set();
+    solutionsList.forEach((solution) => {
+        solution.Municipalities_List.forEach((municipality) => {
+            municipalitiesSet.add(municipality);
+        });
+    })
+    let municipalities = Array.from(municipalitiesSet, (item) => {
+        return {value: item, label: item};
+    });
 
     let selectedLocations = $state(
         locations.filter(l =>
@@ -23,6 +32,11 @@
     let selectedTags = $state(
         tags.filter(t =>
             searchParams.get('tags')?.split('|').filter(Boolean).includes(t.value)
+        )
+    );
+    let selectedMunicipalities = $state(
+        municipalities.filter(t =>
+            searchParams.get('municipality')?.split('|').filter(Boolean).includes(t.value)
         )
     );
 
@@ -42,6 +56,10 @@
             const matchesTags = selectedTags?.length === 0
                 || selectedTags.some(t => solution.Tags.includes(t.value));
 
+            const matchesMunicipality = selectedMunicipalities?.length === 0
+                || selectedMunicipalities.some(m => solution.Municipalities_List.includes(m.value));
+            
+
             const activeCategories = Object.keys(selectedCategories).filter(c => selectedCategories[c]);
             const matchesCategory = activeCategories?.length === 0
                 || activeCategories.includes(solution.Chapter);
@@ -51,7 +69,7 @@
                 solution.Project.toLowerCase().includes(searchValue) || 
                 solution.Organization.toLowerCase().includes(searchValue));
 
-            return matchesProvince && matchesTags && matchesCategory && matchesSearch;
+            return matchesProvince && matchesTags && matchesMunicipality && matchesCategory && matchesSearch;
         })
     );
 
@@ -63,17 +81,14 @@
             return counts;
         }, {})
     );
-
-    $effect(() => {
-        console.log(filteredSolutionsList)
-    })
 </script>
 
 <div class="body">
-    <MapFilters {Chapter} {provinceCounts} {home} 
+    <MapFilters {Chapter} {provinceCounts} {home} {municipalities}
         bind:selectedLocations
         bind:selectedTags
         bind:selectedCategories
+        bind:selectedMunicipalities
         bind:searchValue/>
     <div class="solutions">
         {#each filteredSolutionsList as solution}

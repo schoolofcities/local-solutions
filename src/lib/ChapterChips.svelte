@@ -4,6 +4,7 @@
     export let Chapter;
     export let toggle = false;
     export let clicked = false;
+    export let large = false;
 </script>
 
 <div>
@@ -19,7 +20,7 @@
         </button>
     {:else}
         <a href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`} target="_blank" 
-            class="chip" style:background-color={chapterColours[Chapter]} style:color="white">
+            class="chip {large ? "large" : ""}" style:background-color={chapterColours[Chapter]} style:color="white">
             {Chapter}
         </a>
     {/if}
@@ -39,5 +40,9 @@
     }
     .chip:hover {
         cursor: pointer;
+    }
+    .large {
+        font-size: 20px;
+        padding: 9px 22px 9px 22px;
     }
 </style>
