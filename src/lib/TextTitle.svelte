@@ -5,7 +5,6 @@
 
     export let chapter = "";
     export let title;
-    export let subtitle;
     export let background = "Yellow";
 </script>
 

@@ -29,9 +29,9 @@
         
     {#if isFinalist}
             <div>
-                <button onclick={() => {window.open(`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`, '_blank')}} id="overlay-toggle">
+                <a href={`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`} target="_blank" id="open-profile">
                     Read in-depth profile →
-                </button>
+                </a>
             </div>
         {/if}
     </div>
@@ -65,6 +65,7 @@
     
     :global(.summary a) {
         color: var(--brandBlack);
+        font-size: 14px !important; 
     }
 
     .summary::after {
@@ -110,18 +111,23 @@
         display: flex;
         flex-direction: row;
     }
-    #overlay-toggle {
+    
+    #open-profile {
         background-color: var(--brandYellow);
         color: black;
         font-family: SourceSerif;
+        font-size: 13px;
+        padding: 2px 5px 2px 5px;
+        text-decoration: none;
+        width: fit-content !important;
         border: 1px solid black;
-        border-radius: 10px;
+        border-radius: 50px;
         margin: 0 auto;
         display: block;
         margin-bottom: 20px;
     }
 
-    #overlay-toggle:hover {
+    #open-profile:hover {
         cursor: pointer;
     }
 </style>

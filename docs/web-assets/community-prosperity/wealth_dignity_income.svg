@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg59" xmlns="http://www.w3.org/2000/svg" width="244.8" height="338.4" viewBox="0 0 244.8 338.4">
+  <rect id="rect59" x="0" y=".122" width="244.8" height="338.4" fill="#fff"/>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="path37" d="M0,338.215h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <rect id="rect1" x="108" y="93.6" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect2" x="108" y="115.2" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect3" x="108" y="136.8" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect4" x="108" y="158.4" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect5" x="108" y="180" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect6" x="108" y="201.6" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect7" x="108" y="223.2" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <rect id="rect8" x="108" y="244.8" width="103.421" height="14.4" fill="#e6e7e8"/>
+    <g id="text9" isolation="isolate">
+      <text transform="translate(21.6 43.277)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">Comparing median after-tax incomes of </tspan></text>
+      <text transform="translate(21.6 55.777)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">individuals across demographic groups</tspan></text>
+    </g>
+    <g id="text64" isolation="isolate">
+      <g id="text11" isolation="isolate">
+        <text transform="translate(21.6 314.325)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2023) Canadian Income </tspan></text>
+        <text transform="translate(21.6 323.925)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Survey</tspan></text>
+      </g>
+    </g>
+    <path id="path37-2" d="M0,.122h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
+    <g id="g15">
+      <line id="line11" x1="159.84" y1="64.8" x2="159.84" y2="266.399" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line id="line12" x1="133.92" y1="64.8" x2="133.92" y2="266.399" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line id="line13" x1="185.76" y1="64.8" x2="185.76" y2="266.399" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line id="line14" x1="211.68" y1="64.8" x2="211.68" y2="266.4" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+      <line id="line15" x1="237.6" y1="64.801" x2="237.6" y2="266.4" fill="none" stroke="#000" stroke-dasharray=".25 2" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <rect id="rect15" x="211.421" y="93.6" width="12.182" height="14.4" fill="#067fa3"/>
+    <rect id="rect16" x="201.053" y="115.2" width="10.368" height="14.4" fill="#dc4732"/>
+    <rect id="rect17" x="197.942" y="136.798" width="13.478" height="14.4" fill="#dc4732"/>
+    <rect id="rect18" x="192.24" y="158.398" width="19.181" height="14.4" fill="#dc4732"/>
+    <rect id="rect19" x="211.421" y="179.998" width="6.739" height="14.4" fill="#067fa3"/>
+    <rect id="rect20" x="209.088" y="201.595" width="2.323" height="14.4" fill="#dc4732"/>
+    <rect id="rect21" x="197.165" y="223.195" width="14.246" height="14.4" fill="#dc4732"/>
+    <rect id="rect22" x="211.41" y="244.795" width="3.121" height="14.4" fill="#067fa3"/>
+    <rect id="rect23" x="108" y="72" width="103.421" height="14.4" fill="#a7a9ac"/>
+    <g id="text23" isolation="isolate">
+      <text transform="translate(78.815 104.403)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Male</tspan></text>
+    </g>
+    <g id="text24" isolation="isolate">
+      <text transform="translate(187.95 104.403)" fill="#067fa3" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">+4.7K</tspan></text>
+    </g>
+    <g id="text25" isolation="isolate">
+      <text transform="translate(51.226 82.802)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">All persons</tspan></text>
+    </g>
+    <g id="text26" isolation="isolate">
+      <text transform="translate(149.302 81.843)" fill="#fff" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="9" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">$39,900</tspan></text>
+    </g>
+    <g id="text27" isolation="isolate">
+      <text transform="translate(100.971 275.486)" fill="#808285" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">$0K</tspan></text>
+    </g>
+    <g id="text28" isolation="isolate">
+      <text transform="translate(150.523 275.486)" fill="#808285" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">$20K</tspan></text>
+    </g>
+    <g id="text29" isolation="isolate">
+      <text transform="translate(119.883 286.432)" fill="#241f31" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Median after-tax income</tspan></text>
+    </g>
+    <g id="text30" isolation="isolate">
+      <text transform="translate(202.364 275.486)" fill="#808285" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">$40K</tspan></text>
+    </g>
+    <g id="text31" isolation="isolate">
+      <text transform="translate(68.206 126.003)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Female</tspan></text>
+    </g>
+    <g id="text32" isolation="isolate">
+      <text transform="translate(186.066 126.003)" fill="#dc4732" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-4K</tspan></text>
+    </g>
+    <g id="text33" isolation="isolate">
+      <text transform="translate(29.956 147.6)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Visible minority</tspan></text>
+    </g>
+    <g id="text34" isolation="isolate">
+      <text transform="translate(178.679 147.6) scale(.9 1)" fill="#e6e7e8" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-5.2K</tspan></text>
+      <text transform="translate(178.679 147.6) scale(.9 1)" fill="none" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate" stroke="#e6e7e8" stroke-miterlimit="10"><tspan x="0" y="0">-5.2K</tspan></text>
+    </g>
+    <g id="text35" isolation="isolate">
+      <text transform="translate(51.186 169.2)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Indigenous</tspan></text>
+    </g>
+    <g id="text36" isolation="isolate">
+      <text transform="translate(187.939 190.799)" fill="#067fa3" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">+2.5K</tspan></text>
+    </g>
+    <g id="text37" isolation="isolate">
+      <text transform="translate(52.971 212.397)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Immigrant</tspan></text>
+    </g>
+    <g id="text38" isolation="isolate">
+      <text transform="translate(177.901 233.997) scale(.9 1)" fill="#e6e7e8" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-5.5K</tspan></text>
+      <text transform="translate(177.901 233.997) scale(.9 1)" fill="none" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate" stroke="#e6e7e8" stroke-miterlimit="10"><tspan x="0" y="0">-5.5K</tspan></text>
+    </g>
+    <g id="text39" isolation="isolate">
+      <text transform="translate(32.189 255.597)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Born in Canada</tspan></text>
+    </g>
+    <g id="text40" isolation="isolate">
+      <text transform="translate(187.939 255.597)" fill="#067fa3" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">+1.2K</tspan></text>
+    </g>
+    <g id="text44" isolation="isolate">
+      <text transform="translate(19.84 230.395)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Recent immigrant</tspan></text>
+      <text transform="translate(46.852 238.795)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="7" font-weight="700" isolation="isolate"><tspan x="0" y="0">(5 years or less)</tspan></text>
+    </g>
+    <g id="text46" isolation="isolate">
+      <text transform="translate(3.778 187.198)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">Not a visible minority</tspan></text>
+      <text transform="translate(39.19 197.998)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="9" font-weight="700" isolation="isolate"><tspan x="0" y="0">or Indigenous</tspan></text>
+    </g>
+    <line id="line46" x1="108" y1="64.8" x2="108" y2="266.4" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line id="line47" x1="223.603" y1="93.6" x2="223.603" y2="108" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line48" x1="201.053" y1="115.2" x2="201.053" y2="129.6" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line49" x1="197.942" y1="136.798" x2="197.942" y2="151.198" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line50" x1="192.24" y1="158.398" x2="192.24" y2="172.798" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line51" x1="218.16" y1="179.998" x2="218.16" y2="194.398" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line52" x1="209.088" y1="201.595" x2="209.088" y2="215.995" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line53" x1="197.165" y1="223.195" x2="197.165" y2="237.595" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <line id="line54" x1="214.531" y1="244.795" x2="214.531" y2="259.195" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
+    <g id="text54" isolation="isolate">
+      <text transform="translate(172.977 169.2) scale(.9 1)" fill="#e6e7e8" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-7.5K</tspan></text>
+      <text transform="translate(172.977 169.2) scale(.9 1)" fill="none" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate" stroke="#e6e7e8" stroke-miterlimit="10"><tspan x="0" y="0">-7.5K</tspan></text>
+    </g>
+    <g id="text55" isolation="isolate">
+      <text transform="translate(187.686 212.397)" fill="#dc4732" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-0.9K</tspan></text>
+    </g>
+    <g id="text56" isolation="isolate">
+      <text transform="translate(176.541 147.6)" fill="#dc4732" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-5.2K</tspan></text>
+    </g>
+    <g id="text57" isolation="isolate">
+      <text transform="translate(175.763 233.997)" fill="#dc4732" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-5.5K</tspan></text>
+    </g>
+    <g id="text58" isolation="isolate">
+      <text transform="translate(170.707 169.2)" fill="#dc4732" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="8" font-style="italic" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100" isolation="isolate"><tspan x="0" y="0">-7.5K</tspan></text>
+    </g>
+    <line id="line58" x1="211.421" y1="64.801" x2="211.421" y2="266.4" fill="none" stroke="#1e3864" stroke-miterlimit="10"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect id="rect75" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <g id="text59" isolation="isolate">
+      <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Income inequality in Canada</tspan></text>
+    </g>
+    <rect id="rect75-2" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+    <rect id="rect72-2" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
+  </g>
+</svg>

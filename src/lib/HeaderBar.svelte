@@ -45,24 +45,6 @@
                     {/each}
                 </ul>
             </div>
-
-            
-            <!-- <div
-                onmouseenter={() => spotlightedHovered = true}
-                onmouseleave={() => spotlightedHovered = false}
-                role="navigation"
-            >
-                <button class="button" id="spotlighted-button" class:hovered={spotlightedHovered}>
-                    <span id="button-text">Spotlighted Solutions</span> <ChevronDown/>
-                </button>
-                <ul class="dropdown-section" style:display={spotlightedHovered ? "grid" : "none"}>
-                    {#each spotlighted as solution}
-                        <a href={`/local-solutions/category/${slugify(solution.Chapter)}/${solution.ID_Num}-${slugify(solution.Project)}`} target="_blank">
-                            <li>{solution.Organization}: {solution.Project}</li>
-                        </a>
-                    {/each}
-                </ul>
-            </div> -->
         </div>
     </div>
 </nav>
@@ -106,12 +88,7 @@
         padding: 0 15px 0 15px;
         text-decoration: none;
     }
-
-    #button-text {
-        max-width: 85px;
-        padding: 0;
-    }
-
+    
     .button:hover {
         cursor: pointer;
     }

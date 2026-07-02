@@ -125,10 +125,26 @@
     }
 
     let filteredSolutionsList = $derived(
-        solutionsList.filter(s =>
-            matchesSearch(s) && (matchesProvinces(s) || matchesMunicipalities(s)) &&
-            matchesTags(s) && matchesChapters(s)
-        )
+        solutionsList.filter(s => {
+            const hasProvince = selectedProvinces.length > 0;
+            const hasMunicipality = selectedMunicipalities.length > 0;
+            
+            const locationMatch =
+                (!hasProvince && !hasMunicipality) ||
+                (hasProvince && !hasMunicipality && matchesProvinces(s)) ||
+                (!hasProvince && hasMunicipality && matchesMunicipalities(s)) ||
+                (hasProvince && hasMunicipality &&
+                    (matchesProvinces(s) || matchesMunicipalities(s)));
+
+            return (
+                matchesSearch(s) &&
+                locationMatch &&
+                matchesTags(s) &&
+                matchesChapters(s)
+            );
+            // return (matchesSearch(s) && matchesProvinces(s) && matchesMunicipalities(s) &&
+            // matchesTags(s) && matchesChapters(s));
+        })
     );
 
     const provinceCounts = $derived(

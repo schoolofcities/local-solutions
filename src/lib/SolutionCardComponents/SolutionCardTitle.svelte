@@ -7,7 +7,6 @@
     export let ID_Num;
     export let Chapter;
     export let Display_Location;
-    export let isFinalist;
 
     import ChapterChips from "$lib/ChapterChips.svelte";
     import LocationIcon from "$lib/assets/icons/location.svelte"
@@ -26,13 +25,6 @@
                 <LocationIcon/>
                 <h3 id="location-text">{Display_Location}</h3>
             </div>
-            <!-- {#if isFinalist}
-                <div>
-                    <button onclick={() => {window.open(`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`, '_blank')}} id="overlay-toggle">
-                        Read in-depth profile →
-                    </button>
-                </div>
-            {/if} -->
         </div>
     </div>
     
@@ -86,16 +78,4 @@
         font-family: TradeGothicBold;
     }
 
-    #overlay-toggle {
-        background-color: var(--brandYellow);
-        color: black;
-        font-family: SourceSerif;
-        border: 1px solid black;
-        border-radius: 10px;
-        margin-top: 10px;
-    }
-
-    #overlay-toggle:hover {
-        cursor: pointer;
-    }
 </style>

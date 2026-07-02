@@ -7,6 +7,7 @@
     import ImageSingle from '$lib/ImageSingle.svelte';
     import ChapterChips from '$lib/ChapterChips.svelte';
     import LightBulb from '$lib/assets/icons/light-bulb.svelte';
+    import Password from '$lib/Password.svelte';
 
 	let { 
         params,
@@ -18,6 +19,7 @@
 </script>
 
 <div>
+    <Password/>
     <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter], 0.3)}>
         <div class="image-container">
             <div class="province-indicator">
