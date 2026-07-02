@@ -11,7 +11,7 @@ This website serves as a searchable repository of all the organizations featured
 
 # Documentation
 ### Adding New Solutions
-Solutions are auto-populated in from `static/data/all-solutions.csv`. 
+Solutions are auto-populated in from `static/data/all-solutions.csv`. The summary and description fields support markdown, which can be used to add links and images.
 
 ### Adding New Categories
 To add a new category, add it to the `chapterColours` and `pdfPaths` objects in `src/lib/chapterColours.js` with a colour hex code and link to hosted pdf chapter, respectively. 
