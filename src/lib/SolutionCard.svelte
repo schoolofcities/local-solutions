@@ -24,13 +24,13 @@
         Card_Thumbnail,
         Thumbnail_Alt,
         ID_Num,
+        tagClicked,
     } = $props();
 
     let containerEl = $state(null);
     let titleEl = $state(null);
     let tagsEl = $state(null);
     let collapsedHeight = $state('8rem');
-    let showFinalist = $state(false);
 
     function recalcHeight() {
         if (!containerEl || !titleEl || !tagsEl) return;
@@ -66,24 +66,19 @@
             {Thumbnail_Alt}
             {ID_Num}
             {Chapter}
-            {Display_Location}/>
+            {Display_Location}
+            isFinalist={Tags.includes("Finalist")}/>
     </div>
 
     <div class="description-wrapper">
-        {#if Tags.includes("Finalist")}
-            <div>
-                <button onclick={() => {window.open(`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`, '_blank')}} id="overlay-toggle">
-                    This is a spotlighted solution! Click here to read an in-depth profile.
-                </button>
-            </div>
-        {/if}
-
-        <SolutionCardDescription {Summary} {collapsedHeight} onresize={recalcHeight}/>
+        <SolutionCardDescription {Summary} {collapsedHeight} {Project}
+            {Chapter} {ID_Num} onresize={recalcHeight} 
+            isFinalist={Tags.includes("Finalist")}/>
     </div>
 
     <div class="tags" bind:this={tagsEl}>
         {#each Tags as tag}
-            <Tag label={tag}/>
+            <Tag label={tag} {tagClicked}/>
         {/each}
     </div>
 </div>
@@ -126,17 +121,5 @@
         display: flex;
         flex-wrap: wrap;
         gap: 5px;
-    }
-
-    #overlay-toggle {
-        background-color: var(--brandYellow);
-        color: black;
-        font-family: SourceSerif;
-        border: 1px solid black;
-        border-radius: 10px;
-    }
-
-    #overlay-toggle:hover {
-        cursor: pointer;
     }
 </style>

@@ -1,9 +1,10 @@
 <script>
     import { parseMarkdown } from '$lib/markdown.js';
     import { tick } from 'svelte';
+    import { slugify } from '$lib/chapterColours';
     import '../../assets/global-styles.css';
 
-    let { collapsedHeight = '10rem', Summary, onresize } = $props();
+    let { collapsedHeight = '10rem', Summary, onresize, isFinalist, Chapter, ID_Num, Project } = $props();
 
     let descriptionExpanded = $state(false);
     let contentEl = $state(null);
@@ -25,13 +26,23 @@
         --full-height: {contentEl ? contentEl.scrollHeight + 'px' : 'auto'}"
     >
         {@html parseMarkdown(Summary)}
+        
+    {#if isFinalist}
+            <div>
+                <button onclick={() => {window.open(`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`, '_blank')}} id="overlay-toggle">
+                    Read in-depth profile →
+                </button>
+            </div>
+        {/if}
     </div>
-    <button 
-        class="show-more-less" 
-        onclick={toggleExpanded}
-        style:color="black">
-        {descriptionExpanded ? "Show less" : "Show more"}
-    </button>
+    <div id="buttons">
+        <button 
+            class="show-more-less" 
+            onclick={toggleExpanded}
+            style:color="black">
+            {descriptionExpanded ? "Show less" : "Show more"}
+        </button>
+    </div>
 </div>
 
 <style>
@@ -86,7 +97,8 @@
         font-size: 14px;
         margin: 0 auto;
         display: block;
-        margin-bottom: 15px;
+        margin-bottom: 8px;
+        /* margin-bottom: 15px; */
     }
 
     .show-more-less:hover {
@@ -94,4 +106,22 @@
         cursor: pointer;
     }
 
+    #buttons {
+        display: flex;
+        flex-direction: row;
+    }
+    #overlay-toggle {
+        background-color: var(--brandYellow);
+        color: black;
+        font-family: SourceSerif;
+        border: 1px solid black;
+        border-radius: 10px;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    #overlay-toggle:hover {
+        cursor: pointer;
+    }
 </style>

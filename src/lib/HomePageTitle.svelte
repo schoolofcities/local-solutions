@@ -35,7 +35,7 @@
             <div
             class="node"
             style="
-                --angle: {i * angleStep}deg;
+                --angle: {(i * angleStep) - 90}deg;
                 --numCircles: {items.length};
                 background-color: {item.colour};
             "
@@ -100,6 +100,7 @@
 
     .orbit-container {
         position: relative;
+        padding-top: 1dvh;
         width: var(--circle-container);
         height: var(--circle-container);
     }
@@ -161,6 +162,29 @@
             translateX(var(--orbit))
             rotate(calc(-1 * var(--angle)))
             scale(1.075);
+    }
+
+    @media (min-width: 1300px) {
+        .title {
+            margin-left: calc(((100dvw - var(--circle-container) - 375px - 5dvw)/2) - 30px);
+            padding-left: 30px;
+        }
+    }
+
+    @media (min-width: 1100px) {
+        .title {
+            padding-left: 30px;
+            box-sizing: border-box;
+            max-width: calc(100dvw - 85dvh);
+        }
+
+        .title h2 {
+            font-size: 40px;
+        }
+
+        .title h3 {
+            font-size: 35px;
+        }
     }
 
     @media (max-width: 1100px) {

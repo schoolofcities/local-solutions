@@ -9,7 +9,17 @@ renderer.link = ({ href, text }) => {
 renderer.image = ({ href, text, title }) => {
     if (!href) return '';
     const titleAttr = title ? ` title="${title}"` : '';
-    return `<img src="${href}" alt="${text}"${titleAttr} style="max-width: 100%; max-height: 55dvh; width: 100%; object-fit: cover;" />`;
+    let photoCredit;
+    let index = title.indexOf("Photo credit:"); 
+    if (index !== -1) {
+        photoCredit = title.slice(index, title.length);
+        title = title.slice(0, index);
+        console.log(photoCredit, title);
+    }
+
+    return `<div><img src="${href}" alt="${text}"${titleAttr} style="max-width: 100%; max-height: 55dvh; width: 100%; object-fit: cover;" />
+    ${title ? `<div class="caption-container"><p><span class="caption-text">${title}</span>${photoCredit ? `<span class="caption-source">${photoCredit}</span>` : ""}</p></div>` : ""}
+    </div>`;
 };
 
 marked.use({ renderer });

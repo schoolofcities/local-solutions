@@ -45,4 +45,11 @@
         font-size: 20px;
         padding: 9px 22px 9px 22px;
     }
+
+    @media (max-width: 500px) {
+        .large {
+            font-size: 16px;
+            padding: 8px 17px 8px 17px;
+        }
+    }
 </style>

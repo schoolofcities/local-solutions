@@ -1,12 +1,10 @@
 <script>
     import "../assets/global-styles.css";
-    import HeaderBar from "$lib/HeaderBar.svelte";
     import HomePageTitle from "$lib/HomePageTitle.svelte";
     import SolutionsGrid from "$lib/SolutionsGrid.svelte";
     import MethodologyCallout from "$lib/MethodologyCallout.svelte";
     import { onMount } from 'svelte';
     import { page } from '$app/stores';
-    import Footer from "$lib/Footer.svelte";
     import Password from "$lib/Password.svelte";
 
     export let data;
@@ -14,8 +12,7 @@
 </script>
 
 <div>
-    <!-- <Password/> -->
-    <HeaderBar/>
+    <Password/>
     <HomePageTitle/>
     <div class="body-text">
         <p>
@@ -30,7 +27,6 @@
     </div>
     <MethodologyCallout/>
     <SolutionsGrid solutionsList={data.solutions} provinceCounts={data.provinceCounts} home={true}/> 
-    <Footer/>
 </div>
 
 <style>

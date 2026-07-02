@@ -19,7 +19,14 @@
 	const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = [
-        '<a href="" target="_blank">URL</a>.',
+        'Annabella Liao, “Building community wealth,” Social Innovation Canada, August 21, 2023, <a href="https://sicanada.org/2023/08/21/building-community-wealth/" target="_blank">URL</a>.',
+        'Statistics Canada, “Dimensions of poverty hub,” accessed November 18, 2025, <a href="https://www.statcan.gc.ca/en/topics-start/poverty#info-povertyindex" target="_blank">URL</a>.',
+        'Sam DiBellonia and Tania Oliveira, “No progress, no plan: What the latest poverty numbers tell us,” Maytree, May 28, 2025, <a href="https://maytree.com/publications/no-progress-no-plan-what-the-latest-poverty-numbers-tell-us/" target="_blank">URL</a>.',
+        'Benoît-Paul Hébert et al., “A demographic, employment and income profile of persons with disabilities aged 15 years and over in Canada, 2022,” Statistics Canada, May 28, 2024, <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/89-654-x2024001-eng.htm" target="_blank">URL</a>.',
+        'Sharanjit Uppal, “Perceptions of labour market discrimination among persons with disabilities in Canada,” Statistics Canada, October 29, 2025, <a href="https://www150.statcan.gc.ca/n1/pub/75-006-x/2025003/article/00002-eng.htm" target="_blank">URL</a>.',
+        'Statistics Canada, “Average and Median Market, Total and After-Tax Income of Individuals by Selected Demographic Characteristics,” May 1, 2025, <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110009101" target="_blank">URL</a>.',
+        'Statistics Canada, “Shrinking products, rising prices: Food-specific quantity adjustments in the Consumer Price Index,” February 18, 2025, <a href="https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2025016-eng.htm" target="_blank">URL</a>.',
+        'Statistics Canada, “Canadians are facing higher levels of food insecurity,” May 16, 2024, <a href="https://www.statcan.gc.ca/o1/en/plus/6257-canadians-are-facing-higher-levels-food-insecurity" target="_blank">URL</a>.',
     ];
 </script>
 
@@ -29,22 +36,22 @@
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>
         <p>
-            A community’s wealth can be measured in more than just financial assets: inclusive opportunities, meaningful work, and mutual aid all contribute to prosperity and support community members in leading dignified lives.1 Before they can prosper, individuals need to first meet their basic needs, beginning with shelter and food. Community wealth building initiatives help to improve residents’ access to these basics, and help to build on them by creating more opportunities for participation and sharing in the economy.  
+            A community’s wealth can be measured in more than just financial assets: inclusive opportunities, meaningful work, and mutual aid all contribute to prosperity and support community members in leading dignified lives.<Footnote id={addFootnote(fns[0])}/> Before they can prosper, individuals need to first meet their basic needs, beginning with shelter and food. Community wealth building initiatives help to improve residents’ access to these basics, and help to build on them by creating more opportunities for participation and sharing in the economy.  
         </p>
         <p>
-            Challenges in meeting fundamental needs are exacerbated by poverty, economic precarity, homelessness, and language barriers. In 2023, over 10% of Canadians lived in poverty, as measured by a household's ability to afford shelter, clothing, food, transportation, and other necessities like telecommunications services.2 While poverty rates in Canada had been decreasing before the start of the pandemic, since 2020 they have increased for every demographic group across the country, but especially single parents, recent immigrants, Indigenous people, and people with disabilities.3 
+            Challenges in meeting fundamental needs are exacerbated by poverty, economic precarity, homelessness, and language barriers. In 2023, over 10% of Canadians lived in poverty, as measured by a household's ability to afford shelter, clothing, food, transportation, and other necessities like telecommunications services.<Footnote id={addFootnote(fns[1])}/> While poverty rates in Canada had been decreasing before the start of the pandemic, since 2020 they have increased for every demographic group across the country, but especially single parents, recent immigrants, Indigenous people, and people with disabilities.<Footnote id={addFootnote(fns[2])}/> 
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/community-prosperity/wealth_dignity_poverty-line.svg`}
         />
         <p>
-            Expanding access to employment opportunities and minimizing income equality are one path to prosperity. Many people face barriers to employment, which can include disability, homelessness, and addiction. The employment rate for people with disabilities in 2022 was 16% lower than for those without,4 and over a third of those who are employed report feeling disadvantaged in employment.5 For those in the workforce, there are still large wage disparities corresponding to race, immigration status, disability, gender, and Indigeneity. For example, in 2023 Indigenous individuals earned $7,500 less than the national median after-tax income.6  
+            Expanding access to employment opportunities and minimizing income equality are one path to prosperity. Many people face barriers to employment, which can include disability, homelessness, and addiction. The employment rate for people with disabilities in 2022 was 16% lower than for those without,<Footnote id={addFootnote(fns[3])}/> and over a third of those who are employed report feeling disadvantaged in employment.<Footnote id={addFootnote(fns[4])}/> For those in the workforce, there are still large wage disparities corresponding to race, immigration status, disability, gender, and Indigeneity. For example, in 2023 Indigenous individuals earned $7,500 less than the national median after-tax income.<Footnote id={addFootnote(fns[5])}/>  
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/community-prosperity/wealth_dignity_income.svg`}
         />
         <p>
-            The rising cost of living has also put pressure on Canadians’ ability to meet their basic needs, including accessing healthy food. Between 2021 and 2023, roughly a third of meat and produce grocery items were subject to “shrinkflation” as the size of the product – but not its price – was reduced.7 These rising costs, coupled with income pressures, meant that in 2022 nearly 17% of Canadian households were food insecure and could not afford nutritious and culturally relevant food.8 
+            The rising cost of living has also put pressure on Canadians’ ability to meet their basic needs, including accessing healthy food. Between 2021 and 2023, roughly a third of meat and produce grocery items were subject to “shrinkflation” as the size of the product – but not its price – was reduced.<Footnote id={addFootnote(fns[6])}/> These rising costs, coupled with income pressures, meant that in 2022 nearly 17% of Canadian households were food insecure and could not afford nutritious and culturally relevant food.<Footnote id={addFootnote(fns[7])}/> 
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/community-prosperity/wealth_dignity_food-insecurity.svg`}

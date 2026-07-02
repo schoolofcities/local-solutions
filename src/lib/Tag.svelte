@@ -3,27 +3,10 @@
     import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
     export let label = "";
-    export let showFinalist = false;
+    export let tagClicked;
 
     function filterTag(value) {
-        if (value == "Finalist") {
-            showFinalist = true;
-            return;
-        }
-        const existing = $page.url.searchParams.get('tags')?.split('|').filter(Boolean) ?? [];
-        const updated = existing.includes(value)
-            ? existing
-            : [...existing, value];              
-
-        const searchParams = new URLSearchParams($page.url.searchParams);
-        if (updated.length) {
-            searchParams.set('tags', updated.join('|'));
-        } else {
-            searchParams.delete('tags');
-        }
-        goto($page.url.pathname + '?' + searchParams.toString(), { noScroll: true }).then(() => {
-                document.getElementById('solutions-map').scrollIntoView({ behavior: 'smooth' })
-            });
+        tagClicked(value);
     } 
 </script>
 

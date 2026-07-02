@@ -3,8 +3,14 @@
     import ChevronDown from './assets/icons/chevron-down.svelte';
     import "../assets/global-styles.css";
     import { chapterColours } from './chapterColours';
+    import { page } from '$app/stores';
+    import { slugify } from '$lib/chapterColours';
 
     let categoriesHovered = false;
+    let methodologyHovered = false;
+    let spotlightedHovered = false;
+
+    let spotlighted = $page.data.spotlighted;
 </script>
 
 <nav>
@@ -13,21 +19,50 @@
         <a href="/local-solutions" class="logo-link">
             <img src={Logo} alt="Local Solutions logo" class="logo-top"/>
         </a>
-        <div
-            onmouseenter={() => categoriesHovered = true}
-            onmouseleave={() => categoriesHovered = false}
-            role="navigation"
-        >
-            <button id="categories-button" class:hovered={categoriesHovered}>
-                Categories <ChevronDown/>
-            </button>
-            <ul id="categories-section" style:display={categoriesHovered ? "grid" : "none"}>
-                {#each Object.keys(chapterColours) as Chapter}
-                    <a href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`} target="_blank">
-                        <li>{Chapter}</li>
-                    </a>
-                {/each}
-            </ul>
+        <div class="nav-buttons">
+            <div
+                onmouseenter={() => methodologyHovered = true}
+                onmouseleave={() => methodologyHovered = false}
+                role="navigation"
+            >
+                <a class="button" id="methodology-button" class:hovered={methodologyHovered} href="/local-solutions/scaling-social-innovation">
+                    Methodology 
+                </a>
+            </div>
+            <div
+                onmouseenter={() => categoriesHovered = true}
+                onmouseleave={() => categoriesHovered = false}
+                role="navigation"
+            >
+                <button class="button" id="categories-button" class:hovered={categoriesHovered}>
+                    Categories <ChevronDown/>
+                </button>
+                <ul class="dropdown-section" style:display={categoriesHovered ? "grid" : "none"}>
+                    {#each Object.keys(chapterColours) as Chapter}
+                        <a href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`} target="_blank">
+                            <li>{Chapter}</li>
+                        </a>
+                    {/each}
+                </ul>
+            </div>
+
+            
+            <!-- <div
+                onmouseenter={() => spotlightedHovered = true}
+                onmouseleave={() => spotlightedHovered = false}
+                role="navigation"
+            >
+                <button class="button" id="spotlighted-button" class:hovered={spotlightedHovered}>
+                    <span id="button-text">Spotlighted Solutions</span> <ChevronDown/>
+                </button>
+                <ul class="dropdown-section" style:display={spotlightedHovered ? "grid" : "none"}>
+                    {#each spotlighted as solution}
+                        <a href={`/local-solutions/category/${slugify(solution.Chapter)}/${solution.ID_Num}-${slugify(solution.Project)}`} target="_blank">
+                            <li>{solution.Organization}: {solution.Project}</li>
+                        </a>
+                    {/each}
+                </ul>
+            </div> -->
         </div>
     </div>
 </nav>
@@ -50,7 +85,14 @@
         height: 45px;
     }
 
-    #categories-button {
+    .nav-buttons {
+        max-width: 500px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .button {
         height: 45px;
         border: none;
         font-family: TradeGothicBold;
@@ -62,19 +104,25 @@
         align-items: center;
         margin-top: 5px; 
         padding: 0 15px 0 15px;
+        text-decoration: none;
     }
 
-    #categories-button:hover {
+    #button-text {
+        max-width: 85px;
+        padding: 0;
+    }
+
+    .button:hover {
         cursor: pointer;
     }
 
-    #categories-button.hovered {
+    .button.hovered {
         text-decoration: underline;
         text-decoration-color: var(--brandYellow);
         text-decoration-thickness: 3px;
     }
 
-    #categories-section {
+    .dropdown-section {
         background-color: var(--LoSoNavyBlue);
         position: absolute;
         gap: 10px;
@@ -87,17 +135,17 @@
         width: fit-content;
     }
 
-    #categories-section a {
+    .dropdown-section a {
         text-decoration: none;  
     }
 
-    #categories-section a:hover {
+    .dropdown-section a:hover {
         text-decoration: underline;
         text-decoration-thickness: 2px;
         color: var(--brandYellow);  
     }
 
-    #categories-section li {
+    .dropdown-section li {
         color: white;
         display: flex;    
         font-family: RobotoBold;
@@ -106,7 +154,7 @@
 
 
     @media (max-width: 1080px) {
-        #categories-button {
+        .button {
             height: 40px;
         }
 
@@ -116,12 +164,12 @@
     }
 
     @media (max-width: 800px) {
-        #categories-button {
+        .button {
             height: 35px;
             font-size: 17px;
         }
 
-        #categories-section { 
+        .dropdown-section { 
             margin-top: 9px;
         }
 
@@ -131,7 +179,7 @@
     }
 
     @media (max-width: 650px) {
-        #categories-button {
+        .button {
             font-size: 16px;
             height: 30px;
         }

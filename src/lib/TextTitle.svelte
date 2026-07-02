@@ -42,7 +42,6 @@
 
     h2 {
         margin: 0;
-        /* padding-left: calc((100dvw - min(1545px, 90dvw)) / 2); */
         padding-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
         padding-top: 15px;
         padding-bottom: 15px;
@@ -60,6 +59,20 @@
         right: calc((100dvw - min(950px, 90dvw))/2);
         text-decoration: none;
         font-size: 16px;
+    }
+
+    @media (min-width: 1200px) {
+        .title-text {
+            background-color: var(--brandYellow);
+            width:fit-content;
+            margin-top: 50px;
+            margin-left: calc(((100dvw - min(var(--grid-width), 90dvw))/2) - 15px);
+        }
+
+        h2 {
+            /* padding-left: calc((100dvw - min(var(--grid-width), 90dvw))/2); */
+            padding: 15px 15px 15px 15px;
+        }
     }
 
     @media (max-width: 900px) {

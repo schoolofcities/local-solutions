@@ -41,6 +41,7 @@ export async function load({ fetch }) {
         };
 
         let categorySolutions = {};
+        let spotlighted = [];
         
         let unsortedSolutions = arr.map(item => {
                 item.Tags = item.Tags.split("; ");
@@ -55,13 +56,18 @@ export async function load({ fetch }) {
 
                 if (item.Spotlighted) {
                     item.Tags.unshift("Finalist");
+                    spotlighted.push({
+                        Chapter: item.Chapter,
+                        Project: item.Project,
+                        Organization: item.Organization,
+                        ID_Num: item.ID_Num
+                    })
                 }
 
                 return item;
             });
         
         let solutions = unsortedSolutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
-
         solutions.forEach(item => {
             const category = item.Chapter;
 
@@ -88,20 +94,23 @@ export async function load({ fetch }) {
         return { solutions, 
                 provinceCounts, 
                 categorySolutions, 
-                unsortedSolutions
+                unsortedSolutions,
+                spotlighted
             };
     }
 
     const { solutions, 
             provinceCounts, 
             categorySolutions, 
-            unsortedSolutions
+            unsortedSolutions,
+            spotlighted
     } = cleanData(parsedContent.data);
 
     return { solutions, 
             provinceCounts, 
             categorySolutions, 
             unsortedSolutions, 
+            spotlighted,
             mapGeo, 
             provinceGeo
              };

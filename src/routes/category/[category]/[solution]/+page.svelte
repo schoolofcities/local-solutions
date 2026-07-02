@@ -3,12 +3,10 @@
     import { error } from '@sveltejs/kit';
     import { parseMarkdown } from '$lib/markdown.js';
     import { hexToRgba, chapterColours,  } from '$lib/chapterColours.js';
-    import HeaderBar from '$lib/HeaderBar.svelte';
     import ProvinceIndicator from '$lib/ProvinceIndicator.svelte';
     import ImageSingle from '$lib/ImageSingle.svelte';
     import ChapterChips from '$lib/ChapterChips.svelte';
     import LightBulb from '$lib/assets/icons/light-bulb.svelte';
-    import Footer from '$lib/Footer.svelte';
 
 	let { 
         params,
@@ -20,7 +18,6 @@
 </script>
 
 <div>
-    <HeaderBar/>
     <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter], 0.3)}>
         <div class="image-container">
             <div class="province-indicator">
@@ -59,7 +56,6 @@
             </div>
         </div>
     </div>
-    <Footer/>
 </div>
 
 <style>
@@ -111,6 +107,11 @@
         font-size: 17px;
     }
 
+    :global(.caption-container p, .caption-container a) {
+        color: var(--brandGray80);
+        font-size: 12px;
+    }
+
     #learning-from-what-worked {
         box-sizing: border-box;
         padding: 30px;
@@ -143,17 +144,21 @@
         border-left: 2px solid;
     }
 
-    :global(#learning-from-what-worked li) {
+    :global(#learning-from-what-worked li, a) {
         width: auto !important;
         font-size: 17px;
     }
 
     @media (max-width: 500px) {
+        h2, h3 {
+            font-size: 25px;
+        }
+        
         #learning-from-what-worked h4 {
             font-size: 20px;
         }
 
-        :global(#learning-from-what-worked li) {
+        :global(#learning-from-what-worked li, a) {
             font-size: 15px;
         }
     }
