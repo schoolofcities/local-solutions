@@ -1,7 +1,6 @@
 <script>
     import { chapterColours, pdfPaths } from "./chapterColours";
     import "../assets/global-styles.css";
-    import HeaderBar from "./HeaderBar.svelte";
 
     export let Chapter;
     export let Title;
@@ -9,7 +8,6 @@
 </script>
 
 <div class="container {Subtitle ? "has-subtitle" : ""}">
-    <HeaderBar/>
     <div class="content">
         <div class="title-section">
             <h2 class="title {Title.length > 25 ? "long" : ""}">

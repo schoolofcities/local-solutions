@@ -1,10 +1,11 @@
 <script>
     import SolutionCardTitle from './SolutionCardComponents/SolutionCardTitle.svelte';
     import SolutionCardDescription from './SolutionCardComponents/SolutionCardDescription.svelte';
-    import { chapterColours } from './chapterColours';
+    import { chapterColours, slugify } from './chapterColours';
     import Tag from './Tag.svelte';
     import '../assets/global-styles.css';
     import { tick, onMount } from 'svelte';
+    import { goto } from '$app/navigation';
 
     let {
         Organization,
@@ -17,10 +18,13 @@
         Spotlighted,
         Cohort,
         Summary,
+        Description,
+        Learning_from_what_worked,
         Tags,
         Card_Thumbnail,
         Thumbnail_Alt,
         ID_Num,
+        tagClicked,
     } = $props();
 
     let containerEl = $state(null);
@@ -62,16 +66,19 @@
             {Thumbnail_Alt}
             {ID_Num}
             {Chapter}
-            {Display_Location}/>
+            {Display_Location}
+            isFinalist={Tags.includes("Finalist")}/>
     </div>
 
     <div class="description-wrapper">
-        <SolutionCardDescription {Summary} {collapsedHeight} onresize={recalcHeight}/>
+        <SolutionCardDescription {Summary} {collapsedHeight} {Project}
+            {Chapter} {ID_Num} onresize={recalcHeight} 
+            isFinalist={Tags.includes("Finalist")}/>
     </div>
 
     <div class="tags" bind:this={tagsEl}>
         {#each Tags as tag}
-            <Tag label={tag}/>
+            <Tag label={tag} {tagClicked}/>
         {/each}
     </div>
 </div>

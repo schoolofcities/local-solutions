@@ -27,7 +27,7 @@
     <div class="orbit-container">
         <div class="center">
             <h2>A nation of place-based solutions</h2>
-            <h3>Click to learn more!</h3>
+            <h3>Click a category to learn more!</h3>
         </div>
 
         {#each items as item, i}
@@ -35,7 +35,7 @@
             <div
             class="node"
             style="
-                --angle: {i * angleStep}deg;
+                --angle: {(i * angleStep) - 90}deg;
                 --numCircles: {items.length};
                 background-color: {item.colour};
             "
@@ -100,6 +100,7 @@
 
     .orbit-container {
         position: relative;
+        padding-top: 1dvh;
         width: var(--circle-container);
         height: var(--circle-container);
     }
@@ -163,6 +164,29 @@
             scale(1.075);
     }
 
+    @media (min-width: 1300px) {
+        .title {
+            margin-left: calc(((100dvw - var(--circle-container) - 375px - 5dvw)/2) - 30px);
+            padding-left: 30px;
+        }
+    }
+
+    @media (min-width: 1100px) {
+        .title {
+            padding-left: 30px;
+            box-sizing: border-box;
+            max-width: calc(100dvw - 85dvh);
+        }
+
+        .title h2 {
+            font-size: 40px;
+        }
+
+        .title h3 {
+            font-size: 35px;
+        }
+    }
+
     @media (max-width: 1100px) {
         :root {
             --circle-container: 75dvh;
@@ -202,6 +226,65 @@
 
         .center h3 {
             font-size: 3.5dvh;
+        }
+    }
+
+    
+    @media (max-aspect-ratio: 1) {
+        :root {
+            --circle-container: 85dvw;
+            --orbit: 30dvw;
+        }
+
+        .left {
+            align-self: auto;
+            width: 100%;
+        }
+
+        .container {
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .logo-link {
+            display: none;
+        }
+
+        .title {
+            padding-left: 5dvw;
+            padding-right: 5dvw;
+            text-align: center;
+            width: 100%;
+            text-wrap: wrap;
+            box-sizing: border-box;
+        }
+
+        .title h2 {
+            font-size: 35px;
+        }
+
+        .title h3 {
+            font-size: 30px;
+        }
+
+        .center h2, h3 {
+            text-align: center;
+            color: var(--LoSoNavyBlue);
+            font-size: 5dvw;
+            margin: 0;
+        }
+
+        .center h3 {
+            font-family: TradeGothicLTLight;
+            font-size: 4dvw;
+        }
+
+        .node {
+            font-size: 3.5dvw;
+        }
+
+        .orbit-container {
+            left: calc((100dvw - var(--circle-container))/2)
         }
     }
 

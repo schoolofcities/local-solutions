@@ -1,96 +1,79 @@
 <script>
-    import '../assets/global-styles.css';
-    import { onMount } from 'svelte';
-    import { json } from 'd3-fetch';
+    import { onMount, tick } from 'svelte';
     import { geoPath, geoConicConformal } from 'd3-geo';
-    import { base } from '$app/paths';
+    import { page } from '$app/stores';
     import { chapterColours } from './chapterColours';
     import Select from 'svelte-select';
-    import { page } from '$app/stores';
-    import { goto } from '$app/navigation';
     import ChapterChips from './ChapterChips.svelte';
-    import { tags, locations } from './mapFilterConstants';
-    import { createEventDispatcher, tick } from 'svelte';
-    import Page from '../routes/+page.svelte';
-    import { browser } from '$app/environment';
-
-    // const fromUrl = (list, param) => {
-    //     if (param === "category") {
-    //         let active = $page.url.searchParams.get(param)?.split('|') ?? [];
-    //         let result = {};
-    //         Object.keys(chapterColours).forEach((chapter) => {
-    //             result[chapter] = active.includes(chapter);
-    //         });
-    //         return result;
-    //     } else if (param === "search") {
-    //         return $page.url.searchParams.get(param);
-    //     } else {
-    //         return list.filter(item =>
-    //             $page.url.searchParams.get(param)?.split('|').filter(Boolean).includes(item.value)
-    //         );
-    //     }
-    // };
-
-    const fromUrl = (list, param) => {
-        if (!browser) {
-            if (param === "category") {
-                return Object.fromEntries(
-                    Object.keys(chapterColours).map(c => [c, false])
-                );
-            }
-
-            if (param === "search") {
-                return "";
-            }
-
-            return [];
-        }
-
-        if (param === "category") {
-            let active = $page.url.searchParams.get(param)?.split('|') ?? [];
-
-            let result = {};
-
-            Object.keys(chapterColours).forEach((chapter) => {
-                result[chapter] = active.includes(chapter);
-            });
-
-            return result;
-        }
-
-        if (param === "search") {
-            return $page.url.searchParams.get(param) ?? "";
-        }
-
-        return list.filter(item =>
-            $page.url.searchParams
-                .get(param)
-                ?.split('|')
-                .filter(Boolean)
-                .includes(item.value)
-        );
-    };
-
-    const syncToUrl = (searchParams, selected, param) => {
-        if (param === "category") {
-            const chipValues = Object.keys(selected).filter(c => selected[c]).join('|');
-            chipValues.length ? searchParams.set(param, chipValues) : searchParams.delete(param);
-        } else {
-            selected?.length
-                ? searchParams.set(param, selected.map(i => i.value).join('|'))
-                : searchParams.delete(param);
-        }
-    };
 
     let {
+        data,
         home,
         Chapter,
         provinceCounts,
-        selectedLocations = $bindable(fromUrl(locations, 'province')),
-        selectedTags = $bindable(fromUrl(tags, 'tags')),
-        selectedCategories = $bindable(fromUrl(null, 'category')),
-        searchValue = $bindable(fromUrl(null, 'search'))
+        municipalities,
+        provinces,
+        tags,
+        searchText = $bindable(""),
+        selectedProvinces = $bindable([]),
+        selectedMunicipalities = $bindable([]),
+        selectedTags = $bindable([]),
+        selectedChapters = $bindable([]),
+        activeProvinceFilter,
+        onFilterProvince,
+        onClear,
+        onApply,
+        addTag = $bindable(), 
     } = $props();
+
+    function filterProvince(postal, label, group) {
+        const alreadyAdded = pendingProvinces.some(p => p.value === postal);
+        if (alreadyAdded) return;
+
+        const item = {
+            value: postal,
+            label: label,
+            group: group ?? undefined,
+            groupItem: group ? true : false,
+        };
+
+        pendingProvinces = [...pendingProvinces, item];
+        selectedProvinces = [...pendingProvinces];
+        onFilterProvince();
+    }
+
+    let pendingSearch = $state(searchText);
+    let pendingProvinces = $state(selectedProvinces);
+    let pendingMunicipalities = $state(selectedMunicipalities);
+    let pendingTags = $state(selectedTags);
+    let pendingChapters = $state({ ...selectedChapters });
+
+    addTag = (tagInfo) => {
+        const already = pendingTags.some(t => t.value === tagInfo.value);
+        if (!already) pendingTags = [...pendingTags, tagInfo];
+    };
+
+    function applyFilters() {
+        searchText = pendingSearch;
+        selectedProvinces = [...pendingProvinces];
+        selectedMunicipalities = [...pendingMunicipalities];
+        selectedTags = [...pendingTags];
+        selectedChapters = pendingChapters ? { ...pendingChapters } : {};
+        onApply();
+    }
+
+    function clearFilters() {
+        pendingSearch = "";
+        pendingProvinces = [];
+        pendingMunicipalities = [];
+        pendingTags = [];
+        Object.keys(chapterColours).forEach((c) => {
+            pendingChapters[c] = false;
+            selectedChapters[c] = false;
+        });
+        onClear(); // still tells parent to reset its side
+    }
+
 
     let mapData = $state([]);
     let projection = $state([]);
@@ -115,68 +98,13 @@
         }
     })
 
-    let pendingLocations = $state(fromUrl(locations, 'province'));
-    let pendingTags = $state(fromUrl(tags, 'tags'));
-    let pendingCategories = $state(fromUrl(null, 'category'));
-    let pendingSearch = $state(fromUrl(null, 'search'));
-    const dispatch = createEventDispatcher();
-
-    const applyFilters = () => {
-        selectedLocations = pendingLocations ? [...pendingLocations] : [];  
-        selectedTags = pendingTags ? [...pendingTags] : [];
-        selectedCategories = pendingCategories ? { ...pendingCategories } : {};
-        searchValue = pendingSearch;
-
-        const searchParams = new URLSearchParams();
-        if (searchValue) {
-            searchParams.set("search", searchValue);
-        }
-        syncToUrl(searchParams, selectedLocations, 'province');
-        syncToUrl(searchParams, selectedTags, 'tags');
-        syncToUrl(searchParams, selectedCategories, 'category');
-
-        const query = searchParams.toString();
-        goto($page.url.pathname + (query ? '?' + query : ''), { noScroll: true });
-
-        dispatch('resize');
-    };
-
-    const clearFilters = () => {
-        pendingLocations = [];
-        pendingTags = [];
-        pendingSearch = "";
-        selectedLocations = [];
-        selectedTags = [];
-        searchValue = "";
-        Object.keys(chapterColours).forEach((c) => {
-            pendingCategories[c] = false;
-            selectedCategories[c] = false;
-        });
-        goto($page.url.pathname, { noScroll: true });
-    };
-
-    const filterProvince = (value) => {
-        const exists = pendingLocations.some(l => l.value === value);
-        if (exists) {
-            return;
-        }
-        pendingLocations = [...pendingLocations, locations.find(l => l.value === value)];
-        selectedLocations = pendingLocations;
-
-        const searchParams = new URLSearchParams();
-        syncToUrl(searchParams, selectedLocations, 'province');
-        syncToUrl(searchParams, selectedTags, 'tags');
-        syncToUrl(searchParams, selectedCategories, 'category');
-        goto($page.url.pathname + '?' + searchParams.toString(), { noScroll: true });
-    };
-
     async function loadMapData() {
         layoutWidth = document.getElementById("solutions-map").clientWidth;
         windowWidth = window.innerWidth;
         try {
-            mapData = await json(`${base}/data/ne_canada_with_centroids.geojson`);
+            mapData = $page.data.mapGeo;
             projection = geoConicConformal()
-                .rotate([106, 0, 0])
+                .rotate([100, 0, 0])
                 .parallels([49, 77])
                 .fitExtent([[10, 10], [width - 10, height - 10]], mapData);
             path = geoPath(projection);
@@ -189,7 +117,7 @@
         layoutWidth = document.getElementById("solutions-map").clientWidth;
         windowWidth = window.innerWidth;
         projection = geoConicConformal()
-            .rotate([106, 0, 0])
+            .rotate([100, 0, 0])
             .parallels([49, 77])
             .fitExtent([[10, 10], [width - 10, height - 10]], mapData);
         path = geoPath(projection);
@@ -209,94 +137,81 @@
     {#if width}
     <div>
         <h2 class="header">Browse the featured solutions:</h2>
-        <div style={`height: ${height + 15}px; width: ${windowWidth > 800 ? width + 15 : width}px`}>
-            {#if mapData && mapData.features && width}
+        <div style="height: {height + 15}px; width: {windowWidth > 800 ? width + 15 : width}px">
+            {#if mapData?.features && width}
                 <svg {width} {height} class="map"
-                    style="--chapterColour: {Chapter ? chapterColours[Chapter] : "#001D4E"}">
+                    style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}">
                     {#each mapData.features as province (province.properties.name)}
                         <path
                             d={path(province)}
-                            id={province.properties.postal}
-                            class:province={true}
+                            id={province.properties.Postal}
+                            class="province"
                             stroke="white"
                             stroke-width="1.5"
                         />
-
-                        {#if provinceCounts[province.properties.postal] > 0}
+                        {#if provinceCounts[province.properties.Postal] > 0}
                             {@const [cx, cy] = projection(province.properties.centroid)}
-                            <g class="org-count" id="filter-{province.properties.postal}"
-                                role="button" tabindex=0 aria-label="Filter for solutions in {province.properties.name}"
-                                onclick={() => filterProvince(province.properties.postal)}
-                                onkeyup={(key) => {
-                                    if (key.keyCode == 13 || key.keyCode == 32) {
-                                        filterProvince(province.properties.postal);
-                                    }
-                                }}>
-                                <circle cx={cx} cy={cy} r={radius} class="org-count-circle"/>
-                                <text x={cx} y={cy} class="org-count-text">{provinceCounts[province.properties.postal]}</text>
+                            {@const postal = province.properties.Postal}
+                            {@const isSmall = ["NS","NB","PE"].includes(postal)}
+                            <g class="org-count"
+                                role="button" tabindex="0"
+                                aria-label="Filter solutions in {province.properties.name}"
+                                onclick={() => filterProvince(postal, province.properties.name, "Provinces & Territories")}
+                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, province.properties.name, "Provinces & Territories")}>
+                                <circle {cx} {cy} r={isSmall ? radius - 3 : radius} class="org-count-circle" />
+                                <text x={cx} y={cy} class="org-count-text">{provinceCounts[postal]}</text>
                             </g>
                         {/if}
                     {/each}
 
                     {#if provinceCounts["Across Canada"] > 0}
-                        <g class="org-count" id="filter-across-canada" role="button"
-                            tabindex=0 aria-label="Filter for solutions across Canada"
-                            onclick={() => filterProvince("Across Canada")}
-                            onkeyup={(key) => {
-                                if (key.keyCode == 13 || key.keyCode == 32) {
-                                    filterProvince("Across Canada");
-                                }
-                            }}>
-                            <text x={width-100} y={80} class="org-count-canada-text">
-                                Across Canada
-                            </text>
-                            <circle cx={width-100} cy={100} r="15" class="org-count-circle"/>
-                            <text x={width-100} y={100} class="org-count-text">{provinceCounts["Across Canada"]}</text>
+                        <g class="org-count" role="button" tabindex="0"
+                            aria-label="Filter solutions across Canada"
+                            onclick={() => filterProvince("Across Canada", "Across Canada", null)}
+                            onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
+                            <text x={width - 100} y={80} class="org-count-canada-text">Across Canada</text>
+                            <circle cx={width - 100} cy={100} r="15" class="org-count-circle" />
+                            <text x={width - 100} y={100} class="org-count-text">{provinceCounts["Across Canada"]}</text>
                         </g>
                     {/if}
-                    <text x={7} y={height - 23} class="credits">Map data:</text>
-                    <text x={7} y={height - 10} class="credits">Natural Earth</text>
                 </svg>
             {/if}
         </div>
     </div>
-    <div class="filters" style="width: {filtersWidth}">
+
+    <div class="filters" style="width: {filtersWidth}px">
         <h3 class="header">Filters</h3>
         <div class="select-box">
-            <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch}/>
+            <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch} />
         </div>
         <div class="select-box">
-            <Select items={locations} multiple={true} showChevron={true}
+            <Select items={provinces} multiple showChevron bind:value={pendingProvinces}
                 containerStyles="font-family: Roboto !important;"
                 inputStyles="font-family: Roboto !important;"
-                groupBy={(item) => item.group} placeholder="Province/Territory"
-                bind:value={pendingLocations}/>
+                groupBy={item => item.group}
+                placeholder="Province/Territory" />
         </div>
-        <!-- <div class="select-box">
-            <Select items={locations} multiple={true} showChevron={true}
-                containerStyles="font-family: Roboto !important;"
-                inputStyles="font-family: Roboto !important;"
-                groupBy={(item) => item.group} placeholder="Municipality"
-                bind:value={pendingLocations}/>
-        </div> -->
         <div class="select-box">
-            <Select items={tags} multiple={true} showChevron={true}
+            <Select items={municipalities} multiple showChevron bind:value={pendingMunicipalities}
                 containerStyles="font-family: Roboto !important;"
                 inputStyles="font-family: Roboto !important;"
-                groupBy={(item) => item.group} placeholder="Tags"
-                bind:value={pendingTags}/>
+                groupBy={item => item.group}
+                placeholder="Municipality" />
+        </div>
+        <div class="select-box">
+            <Select items={tags} multiple showChevron bind:value={pendingTags}
+                containerStyles="font-family: Roboto !important;"
+                inputStyles="font-family: Roboto !important;"
+                groupBy={item => item.group}
+                placeholder="Tags" />
         </div>
 
         {#if home}
             <div>
                 <p style="color: var(--brandGray70); margin:0; padding-bottom: 10px; font-size: 16px;">Category</p>
                 <div id="category-chips">
-                    {#each Object.keys(chapterColours) as Chapter}
-                        <ChapterChips
-                            toggle={true}
-                            {Chapter}
-                            bind:clicked={pendingCategories[Chapter]}
-                        />
+                    {#each Object.keys(chapterColours) as cat}
+                        <ChapterChips toggle Chapter={cat} bind:clicked={pendingChapters[cat]} />
                     {/each}
                 </div>
             </div>
@@ -315,6 +230,8 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
+        width: 1530px;
+        margin-left: calc((100dvw - 1530px)/2);
     }
 
     .filters {
@@ -372,12 +289,6 @@
         background-color: var(--brandWhite);
         border-radius: 10px;
         margin-left: 0;
-    }
-
-    .credits {
-        font-family: Roboto;
-        font-size: 14px;
-        fill: var(--brandGray70)
     }
 
     .province {

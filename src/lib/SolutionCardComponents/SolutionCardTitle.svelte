@@ -33,6 +33,7 @@
             <img src={`${base}/web-assets/card_thumbnails/${ID_Num}.jpg`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
         {/if}
     </div>
+    
 </div>
 
 <style>
@@ -76,4 +77,5 @@
         margin: 0;
         font-family: TradeGothicBold;
     }
+
 </style>

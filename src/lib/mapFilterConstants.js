@@ -1,5 +1,6 @@
 
 export const tags = [
+        {value: 'Finalist', label:'Finalist'},
         {value: 'Financing', label: 'Financing', group: 'Approaches'},
         {value: 'Capacity Building', label: 'Capacity Building', group: 'Approaches'},
         {value: 'Data & Technology', label: 'Data & Technology', group: 'Approaches'},

@@ -1,9 +1,10 @@
 <script>
-    import { marked } from 'marked';
+    import { parseMarkdown } from '$lib/markdown.js';
     import { tick } from 'svelte';
+    import { slugify } from '$lib/chapterColours';
     import '../../assets/global-styles.css';
 
-    let { collapsedHeight = '10rem', Summary, onresize } = $props();
+    let { collapsedHeight = '10rem', Summary, onresize, isFinalist, Chapter, ID_Num, Project } = $props();
 
     let descriptionExpanded = $state(false);
     let contentEl = $state(null);
@@ -24,14 +25,24 @@
         --collapsed-height: {collapsedHeight};
         --full-height: {contentEl ? contentEl.scrollHeight + 'px' : 'auto'}"
     >
-        {@html marked(Summary)}
+        {@html parseMarkdown(Summary)}
+        
+    {#if isFinalist}
+            <div>
+                <a href={`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`} target="_blank" id="open-profile">
+                    Read in-depth profile →
+                </a>
+            </div>
+        {/if}
     </div>
-    <button 
-        class="show-more-less" 
-        onclick={toggleExpanded}
-        style:color="black">
-        {descriptionExpanded ? "Show less" : "Show more"}
-    </button>
+    <div id="buttons">
+        <button 
+            class="show-more-less" 
+            onclick={toggleExpanded}
+            style:color="black">
+            {descriptionExpanded ? "Show less" : "Show more"}
+        </button>
+    </div>
 </div>
 
 <style>
@@ -54,6 +65,7 @@
     
     :global(.summary a) {
         color: var(--brandBlack);
+        font-size: 14px !important; 
     }
 
     .summary::after {
@@ -86,7 +98,8 @@
         font-size: 14px;
         margin: 0 auto;
         display: block;
-        margin-bottom: 15px;
+        margin-bottom: 8px;
+        /* margin-bottom: 15px; */
     }
 
     .show-more-less:hover {
@@ -94,4 +107,27 @@
         cursor: pointer;
     }
 
+    #buttons {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    #open-profile {
+        background-color: var(--brandYellow);
+        color: black;
+        font-family: SourceSerif;
+        font-size: 13px;
+        padding: 2px 5px 2px 5px;
+        text-decoration: none;
+        width: fit-content !important;
+        border: 1px solid black;
+        border-radius: 50px;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    #open-profile:hover {
+        cursor: pointer;
+    }
 </style>

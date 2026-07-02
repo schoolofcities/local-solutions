@@ -420,7 +420,7 @@ li {
 }
 
 :root {
-	--grid-width: 1015px;
+	--grid-width: 1000px;
 }
 
 .body-text>p, ul {
