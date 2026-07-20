@@ -130,6 +130,9 @@
 
 
 /* base page and text styling */
+html {
+    scroll-behavior: smooth;
+}
 
 body {
 	padding: 0px;

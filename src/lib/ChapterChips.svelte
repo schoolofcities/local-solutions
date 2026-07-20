@@ -28,15 +28,17 @@
 
 <style>
     .chip {
+        display: inline-block;
         font-family: TradeGothicBold;
-        padding: 7px 15px 7px 15px;
+        padding: 5px 13px;
         width: fit-content;
-        font-size: 14px;
+        font-size: 13px;
         border-radius: 50px;
         text-transform: uppercase;
         text-decoration: none;
         border: none;
         box-sizing: border-box;
+        white-space: nowrap;
     }
     .chip:hover {
         cursor: pointer;

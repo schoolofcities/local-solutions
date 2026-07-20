@@ -1,7 +1,8 @@
 <script>
     import SolutionCardTitle from './SolutionCardComponents/SolutionCardTitle.svelte';
     import SolutionCardDescription from './SolutionCardComponents/SolutionCardDescription.svelte';
-    import { chapterColours, slugify } from './chapterColours';
+    import { chapterColours, spotlightedURL } from './chapterColours';
+    import Star from '$lib/assets/icons/star.svelte'
     import Tag from './Tag.svelte';
     import '../assets/global-styles.css';
     import { tick, onMount } from 'svelte';
@@ -25,6 +26,7 @@
         Thumbnail_Alt,
         ID_Num,
         tagClicked,
+        Thumbnail_Credits,
     } = $props();
 
     let containerEl = $state(null);
@@ -67,25 +69,32 @@
             {ID_Num}
             {Chapter}
             {Display_Location}
-            isFinalist={Tags.includes("Finalist")}/>
+            {Spotlighted}
+            {Thumbnail_Credits}/>
     </div>
 
     <div class="description-wrapper">
         <SolutionCardDescription {Summary} {collapsedHeight} {Project}
             {Chapter} {ID_Num} onresize={recalcHeight} 
-            isFinalist={Tags.includes("Finalist")}/>
+            {Spotlighted}/>
     </div>
-
-    <div class="tags" bind:this={tagsEl}>
-        {#each Tags as tag}
-            <Tag label={tag} {tagClicked}/>
-        {/each}
+    
+    <div class="tag-section">
+        <div class="tags {Spotlighted ? "star-tags" : ""}" bind:this={tagsEl}>
+            {#each Tags as tag}
+                <Tag label={tag} {tagClicked}/>
+            {/each}
+        </div>
     </div>
 </div>
 
 <style>
+    :root {
+        --card-width: 85dvw; /* global scope */
+    }
+
     .container {
-        width: 85dvw;
+        width: var(--card-width);
         box-sizing: border-box;
         padding: 20px;
         background-color: white;
@@ -103,23 +112,27 @@
         justify-content: flex-start;
     }
 
-    @media (min-width: 550px) {
-        .container {
-            width: 500px;
-        }
-    }
-
-    @media (min-width: 800px) and (max-width: 1100px) {
-        .container {
-            width: 45dvw;
-        }
-    }
-
     .tags {
         margin-top: auto;
         /* margin-top: 15px; */
         display: flex;
         flex-wrap: wrap;
         gap: 5px;
+    }
+
+    .star-tags {
+        width: calc(var(--card-width) - 40px - 40px);
+    }
+
+    @media (min-width: 550px) {
+        :root {
+            --card-width: 500px;
+        }
+    }
+
+    @media (min-width: 800px) and (max-width: 1100px) {
+        :root {
+            --card-width: 45dvw;
+        }
     }
 </style>

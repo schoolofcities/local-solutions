@@ -14,18 +14,18 @@
         data
      } = $props();
 
-    let solution = data.solution;
+    let solution = $derived(data.solution);
      
 </script>
 
 <div>
     <Password/>
-    <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter], 0.3)}>
+    <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter[0]], 0.3)}>
         <div class="image-container">
             <div class="province-indicator">
                 <ProvinceIndicator
                     province={solution.Provinces_List[0]}
-                    chapter={solution.Chapter}
+                    chapter={solution.Chapter[0]}
                     class="province-indicator"
                 />
             </div>
@@ -44,7 +44,12 @@
             <h2>{solution.Project}</h2>
             <h3>{solution.Organization}</h3>
         </div>
-        <ChapterChips Chapter={solution.Chapter} large={true}/>
+        
+        <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 5px;">
+            {#each solution.Chapter as entry}
+                <ChapterChips Chapter={entry} large={true}/>
+            {/each}
+        </div>
         <div class="description-text">
             {@html parseMarkdown(solution.Description)}
         </div>
@@ -144,6 +149,11 @@
         flex-direction: column;
         gap: 10px;
         border-left: 2px solid;
+    }
+    
+    :global(#learning-from-what-worked ul ul) {
+        border-left: none;
+        list-style-type: circle;
     }
 
     :global(#learning-from-what-worked li, a) {

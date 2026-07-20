@@ -36,6 +36,10 @@
                 return "";
             }
 
+            if (param === "province") {
+                return undefined;
+            }
+
             return [];
         }
 
@@ -50,6 +54,10 @@
             return $page.url.searchParams.get(param) ?? "";
         }
 
+        if (param === "province") {
+            return list.find((item) => {item.value == $page.url.searchParams.get(param)}) ?? "";
+        }
+
         return list.filter(item =>
             $page.url.searchParams
                 .get(param)
@@ -60,7 +68,7 @@
     };
 
     let searchText = $state(fromUrl(null, 'search'));
-    let selectedProvinces = $state(fromUrl(locations, 'province'));   // array of { value, label }
+    let selectedProvince = $state(fromUrl(locations, 'province'));
     let selectedMunicipalities = $state(fromUrl(municipalities, 'municipality'));
     let selectedTags = $state(fromUrl(tags, 'tags'));
     let selectedChapters = $state(fromUrl(null, 'category'));
@@ -80,7 +88,10 @@
         const set = new Set();
         solutionsList
             .filter(s => matchesSearch(s) && matchesProvinces(s) && matchesMunicipalities(s) && matchesChapters(s))
-            .forEach(s => s.Tags?.forEach(t => set.add(t)));
+            .forEach(s => s.Tags?.forEach(t => {
+                if (isNaN(parseInt(t)))
+                    set.add(t)
+            }));
         selectedTags.forEach(t => set.add(t.value));
         return Array.from(set).sort().map(t => {
             const original = tags.find(tag => tag.value === t);
@@ -93,7 +104,8 @@
         solutionsList
             .filter(s => matchesSearch(s) && matchesMunicipalities(s) && matchesTags(s) && matchesChapters(s))
             .forEach(s => s.Provinces_List.forEach(p => set.add(p)));
-        selectedProvinces.forEach(p => set.add(p.value));
+        // selectedProvinces.forEach(p => set.add(p.value));
+        set.add(selectedProvince?.value);
         return locations.filter(loc => set.has(loc.value));
     });
 
@@ -103,10 +115,11 @@
         return s.Title?.toLowerCase().includes(q) || s.Description?.toLowerCase().includes(q);
     }
     function matchesProvinces(s) {
-        const vals = selectedProvinces.map(p => p.value);
-        if (activeProvinceFilter) return s.Provinces_List.includes(activeProvinceFilter);
-        if (vals.length === 0) return true;
-        return vals.some(p => s.Provinces_List.includes(p));
+        // const vals = selectedProvinces.map(p => p.value);
+        // if (activeProvinceFilter) return s.Provinces_List.includes(activeProvinceFilter);
+        // if (vals.length === 0) return true;
+        if (!selectedProvince) return true;
+        return (s.Provinces_List.includes(selectedProvince.value));
     }
     function matchesMunicipalities(s) {
         const vals = selectedMunicipalities.map(m => m.value);
@@ -126,7 +139,8 @@
 
     let filteredSolutionsList = $derived(
         solutionsList.filter(s => {
-            const hasProvince = selectedProvinces.length > 0;
+            const hasProvince = selectedProvince !== undefined;
+            // const hasProvince = selectedProvinces.length > 0;
             const hasMunicipality = selectedMunicipalities.length > 0;
             
             const locationMatch =
@@ -167,6 +181,8 @@
         if (param === "category") {
             const chipValues = Object.keys(selected).filter(c => selected[c]).join('|');
             chipValues.length ? searchParams.set(param, chipValues) : searchParams.delete(param);
+        } else if (param === "province") {
+            selected ? searchParams.set(param, selected.value) : searchParams.delete(param);
         } else {
             selected?.length
                 ? searchParams.set(param, selected.map(i => i.value).join('|'))
@@ -180,19 +196,20 @@
             searchParams.set("search", searchText);
         }
 
-        syncToUrl(searchParams, selectedProvinces, 'province');
+        // syncToUrl(searchParams, selectedProvinces, 'province');
+        syncToUrl(searchParams, selectedProvince, 'province');
         syncToUrl(searchParams, selectedTags, 'tags');
         syncToUrl(searchParams, selectedChapters, 'category');
         syncToUrl(searchParams, selectedMunicipalities, 'municipality');
 
         const query = searchParams.toString();
-        goto($page.url.pathname + (query ? '?' + query : ''), { noScroll: true });
+        goto($page.url.pathname + (query ? '?' + query + '/': '') + '#solutions-map');
 
     }
 
     function clearFilters() {
         searchText = "";
-        selectedProvinces = [];
+        selectedProvince = undefined;
         selectedMunicipalities = [];
         selectedTags = [];
         selectedChapters = [];
@@ -205,7 +222,7 @@
     }
 </script>
 
-<div class="body">
+<div class="body" id="solutions-grid">
     <MapFilters
         {Chapter}
         {provinceCounts}
@@ -218,7 +235,7 @@
         onClear={clearFilters}
         onApply={applyFiltersToURL}
         bind:searchText
-        bind:selectedProvinces
+        bind:selectedProvince
         bind:selectedMunicipalities
         bind:selectedTags
         bind:selectedChapters
@@ -239,8 +256,7 @@
     .body {
         background-color: #D9D9D9;
         width: 100%;
-        padding-top: 15px;
-        padding-bottom: 15px;
+        padding: 30px 0px;
     }
 
     .solutions {
@@ -251,7 +267,7 @@
         gap: 15px;
         align-items: start;
         justify-content: center;
-        margin: 0 auto;
+        margin: 10px auto;
     }
 
     @media (min-width: 800px) and (max-width: 1100px) {

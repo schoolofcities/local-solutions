@@ -49,8 +49,8 @@
 
 <style>
     :root {
-        --circle-container: 85dvh;
-        --orbit: 30dvh;
+        --circle-container: 72dvh;
+        --orbit: 25dvh;
     }
 
     .container {
@@ -118,16 +118,20 @@
         font-weight: 600;
     }
 
-    .center h2, h3 {
+    .center h2, .center h3 {
         text-align: center;
         color: var(--LoSoNavyBlue);
-        font-size: 5dvh;
         margin: 0;
     }
 
+    .center h2 {
+        font-family: TradeGothicBoldOblique;
+        font-size: 3dvh;
+    }
+
     .center h3 {
-        font-family: TradeGothicLTLight;
-        font-size: 4dvh;
+        font-family: TradeGothicLTLightOblique;
+        font-size: 2.75dvh;
     }
 
     .node {
@@ -140,11 +144,11 @@
         align-items: center;
         justify-content: center;
         text-align: center;
-        font-size: 3.5dvh;
         color: white;
         padding: 8px;
         box-sizing: border-box;
         font-family: TradeGothicBold;
+        font-size: 3dvh;
 
         transform:
             translate(-50%, -50%)
@@ -334,11 +338,11 @@
         }
 
         .title h2 {
-            font-size: 35px;
+            font-size: 30px;
         }
 
         .title h3 {
-            font-size: 30px;
+            font-size: 25px;
         }
 
         .center h2, h3 {

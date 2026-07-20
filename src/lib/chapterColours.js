@@ -39,3 +39,7 @@ export function unSlugify(text) {
   let label = text.replace("-", " ");
   return label.charAt(0).toUpperCase() + label.slice(1);
 };
+
+export function spotlightedURL(chapter, project, id) {
+ return `/local-solutions/category/${slugify(chapter)}/${id}-${slugify(project)}`
+}

@@ -18,7 +18,7 @@
         width: 90vw;
         height: fit-content;
         margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         padding: 25px;
         box-sizing: border-box;
         display: flex;

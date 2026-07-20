@@ -12,7 +12,7 @@
 
 <div>
     <button 
-        class="label" class:spotlighted={label=="Finalist"}
+        class="label" class:spotlighted={label=="Featured"}
         on:click|preventDefault={() => {
             filterTag(label);
         }} 

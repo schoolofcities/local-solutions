@@ -15,7 +15,7 @@
         provinces,
         tags,
         searchText = $bindable(""),
-        selectedProvinces = $bindable([]),
+        selectedProvince = $bindable(undefined),
         selectedMunicipalities = $bindable([]),
         selectedTags = $bindable([]),
         selectedChapters = $bindable([]),
@@ -27,7 +27,7 @@
     } = $props();
 
     function filterProvince(postal, label, group) {
-        const alreadyAdded = pendingProvinces.some(p => p.value === postal);
+        const alreadyAdded = pendingProvince?.value === postal;
         if (alreadyAdded) return;
 
         const item = {
@@ -37,13 +37,13 @@
             groupItem: group ? true : false,
         };
 
-        pendingProvinces = [...pendingProvinces, item];
-        selectedProvinces = [...pendingProvinces];
+        pendingProvince = item;
+        selectedProvince = item;
         onFilterProvince();
     }
 
     let pendingSearch = $state(searchText);
-    let pendingProvinces = $state(selectedProvinces);
+    let pendingProvince = $state(selectedProvince);
     let pendingMunicipalities = $state(selectedMunicipalities);
     let pendingTags = $state(selectedTags);
     let pendingChapters = $state({ ...selectedChapters });
@@ -55,7 +55,7 @@
 
     function applyFilters() {
         searchText = pendingSearch;
-        selectedProvinces = [...pendingProvinces];
+        selectedProvince = pendingProvince;
         selectedMunicipalities = [...pendingMunicipalities];
         selectedTags = [...pendingTags];
         selectedChapters = pendingChapters ? { ...pendingChapters } : {};
@@ -63,8 +63,9 @@
     }
 
     function clearFilters() {
+        console.log(pendingProvince);
         pendingSearch = "";
-        pendingProvinces = [];
+        pendingProvince = undefined;
         pendingMunicipalities = [];
         pendingTags = [];
         Object.keys(chapterColours).forEach((c) => {
@@ -184,8 +185,8 @@
         <div class="select-box">
             <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch} />
         </div>
-        <div class="select-box">
-            <Select items={provinces} multiple showChevron bind:value={pendingProvinces}
+        <div class="select-box province-select">
+            <Select items={provinces} showChevron bind:value={pendingProvince}
                 containerStyles="font-family: Roboto !important;"
                 inputStyles="font-family: Roboto !important;"
                 groupBy={item => item.group}
@@ -319,16 +320,20 @@
         font-family: Roboto;
         --placeholder-color: var(--brandGray70);
         --icons-color: var(--brandGray70);
-        --border-radius: 50px;
+        --border-radius: 20px;
         --border: none;
         --border-focused: none;
         --border-hover: none;
-        --padding: 10px;
+        --padding: var(--internal-padding);
         --multi-item-outline: none;
     }
 
     .select-box:hover {
         cursor: pointer;
+    }
+
+    .province-select {
+        --max-height: 40px;
     }
 
     #search-box {

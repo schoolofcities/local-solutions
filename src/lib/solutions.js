@@ -42,13 +42,14 @@ export async function getSolutions(fetch) {
                 if (item.Municipalities_List[0] == "") {
                     item.Municipalities_List.pop();
                 }
+                item.Chapter = item.Chapter.split("; ");
                 item.Provinces_List = item.Provinces_List.split(", ");
                 item.ID_Num = parseInt(item.ID_Num, 10);
                 item.Spotlighted = (item.Spotlighted == 'true' || item.Spotlighted == 'TRUE');
                 item.Card_Thumbnail = (item.Card_Thumbnail == 'true' || item.Card_Thumbnail == 'TRUE');
 
                 if (item.Spotlighted) {
-                    item.Tags.unshift("Finalist");
+                    item.Tags.unshift("Featured");
                     spotlighted.push({
                         Chapter: item.Chapter,
                         Project: item.Project,
@@ -57,31 +58,34 @@ export async function getSolutions(fetch) {
                     })
                 }
 
+                item.Tags.push(item.Cohort)
+
                 return item;
             });
         
         let solutions = unsortedSolutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
         solutions.forEach(item => {
-            const category = item.Chapter;
-
             item.Provinces_List.forEach(province => {
                 provinceCounts[province] += 1;
             });
 
-            if (!categorySolutions[category]) {
-                categorySolutions[category] = {
-                    list: [],
-                    counts: { 'AB': 0, 'BC': 0, 'MB': 0, 'NB': 0, 'NL': 0, 'NS': 0,
-                            'NU': 0, 'NT': 0, 'ON': 0, 'PE': 0, 'QC': 0, 'SK': 0,
-                            'YT': 0, 'Across Canada': 0 }
-                };
-            }
+            item.Chapter.forEach(category => {
+                if (!categorySolutions[category]) {
+                    categorySolutions[category] = {
+                        list: [],
+                        counts: { 'AB': 0, 'BC': 0, 'MB': 0, 'NB': 0, 'NL': 0, 'NS': 0,
+                                'NU': 0, 'NT': 0, 'ON': 0, 'PE': 0, 'QC': 0, 'SK': 0,
+                                'YT': 0, 'Across Canada': 0 }
+                    };
+                }
+                categorySolutions[category].list.push(item);
 
-            categorySolutions[category].list.push(item);
-            item.Provinces_List.forEach(province => {
-                categorySolutions[category].counts[province] += 1;
-            });
+                item.Provinces_List.forEach(province => {
+                    categorySolutions[category].counts[province] += 1;
+                });
+            })
         });
+
 
 
         return { solutions, 
