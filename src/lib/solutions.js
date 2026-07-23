@@ -2,8 +2,6 @@ import Papa from 'papaparse';
 import { readFile } from 'node:fs/promises';
 
 export async function getSolutions(fetch) {
-    // const contentFile = await fetch(`${base}/data/all-solutions.csv`);
-    // const contentText = await contentFile.text();
     const contentText = await readFile(
         'static/data/all-solutions.csv',
         'utf8'

@@ -52,7 +52,6 @@
     
     {#if Card_Thumbnail}
         <button style="border: none; background-color: #ffffff00; display: flex;" onclick={() => {
-            console.log(showImageViewer);
             showImageViewer = true;
         }}>
             <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />

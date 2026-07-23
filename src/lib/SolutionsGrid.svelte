@@ -214,7 +214,7 @@
         selectedTags = [];
         selectedChapters = [];
         activeProvinceFilter = null;
-        goto($page.url.pathname, { noScroll: true });
+        goto($page.url.pathname + '#solutions-map');
     }
 
     function filterProvince() {

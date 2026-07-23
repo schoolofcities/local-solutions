@@ -7,7 +7,6 @@
     import ChapterChips from './ChapterChips.svelte';
 
     let {
-        data,
         home,
         Chapter,
         provinceCounts,
@@ -63,7 +62,6 @@
     }
 
     function clearFilters() {
-        console.log(pendingProvince);
         pendingSearch = "";
         pendingProvince = undefined;
         pendingMunicipalities = [];
@@ -137,7 +135,7 @@
 <div class="layout" id="solutions-map">
     {#if width}
     <div>
-        <h2 class="header">Browse the featured solutions:</h2>
+        <h2 class="header">Browse the solutions:</h2>
         <div style="height: {height + 15}px; width: {windowWidth > 800 ? width + 15 : width}px">
             {#if mapData?.features && width}
                 <svg {width} {height} class="map"
