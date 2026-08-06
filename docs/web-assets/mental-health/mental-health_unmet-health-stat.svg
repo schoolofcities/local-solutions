@@ -7,120 +7,156 @@
    viewBox="0 0 244.8 129.6"
    version="1.1"
    sodipodi:docname="mental-health_unmet-health-stat.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6" />
+     id="defs11" />
   <sodipodi:namedview
-     id="namedview6"
+     id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="2.2887732"
-     inkscape:cx="101.36435"
-     inkscape:cy="95.029075"
+     inkscape:zoom="4.670139"
+     inkscape:cx="163.27137"
+     inkscape:cy="86.399998"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="text3-4" />
-  <path
-     id="path37"
-     d="M0,129.096h244.8"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width=".5" />
+     inkscape:current-layer="Layer_6" />
   <g
-     id="text49"
-     isolation="isolate">
-    <rect
-       id="rect5"
-       x="0"
-       y=".5"
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
        width="244.8"
-       height="128.596"
-       fill="#fff" />
-    <text
-       id="text3"
-       transform="translate(21.025 39.284) rotate(.17)"
-       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-       font-size="34"
-       font-weight="700"
-       isolation="isolate"><tspan
-         x="0"
-         y="0"
-         id="tspan1">2,340,000</tspan></text>
-    <g
-       id="text3-4"
-       isolation="isolate">
-      <text
-         transform="translate(20.867 63.341) rotate(.17)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="12"
-         isolation="isolate"
-         id="text2"><tspan
-           x="0"
-           y="0"
-           id="tspan2">Canadians who needed mental health</tspan></text>
-      <text
-         transform="translate(20.827 76.888) rotate(.17)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="12"
-         isolation="isolate"
-         id="text4"><tspan
-           x="0"
-           y="0"
-           id="tspan3">care in 2023 had their needs either </tspan></text>
-      <text
-         transform="rotate(0.17,-30468.917,7050.8008)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="12px"
-         isolation="isolate"
-         id="text5"><tspan
-           x="0"
-           y="0"
-           id="tspan4">unmet or only partially met.</tspan></text>
-    </g>
+       height="129.6"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAowAAAFZCAYAAAASKH7XAAAABmJLR0QA/wD/AP+gvaeTAAAGzklEQVR4nO3ZPWpUYQCF4e9OrgqDRDDCoEtIKtcgugPdgltyNVZaWYc02oqFP2EQAhq99gm87R3weVZwyhfOdPl+vBjTeDAAAOCGaYz9tP/w5Ovy6/PJ2mMAADg8093H36ZlWc7HGKdrjwEA4CBdbNZeAADAYROMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQBKMAAAkwQgAQJqvPr3ejevva++4ZX70atw5ebn2DACA/978Z//2/t+rj2vvuGWzPRtDMAIArM4lDQBAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAAKT56PjZz6Pt03trD7lpsz1bewIAAGOMaVmW8zHG6dpDAAA4SBcuaQAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAAkmAEACAJRgAA0vz7y5vdmB+uvQMAgAO0XP/YTZfvxvMxjeO1xwAAcICWsf8H4doswrbqaYsAAAAASUVORK5CYII="
+       id="image1" />
   </g>
   <g
-     id="text51">
+     id="foreground">
     <g
-       id="g6"
+       id="text49"
        isolation="isolate">
       <text
-         transform="translate(21.6 114.913)"
-         fill="#999"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="8"
+         id="text2"
+         transform="rotate(0.17,-13229.521,7105.7766)"
+         font-size="34px"
          isolation="isolate"
-         id="text6"><tspan
+         style="font-style:normal;font-family:OpenSansBold"><text
+           id="text3"
+           transform="rotate(0.17,-13229.521,7105.7766)"
+           font-size="34px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold" /><tspan
            x="0"
            y="0"
-           id="tspan5">Data source: Canadian Mental Health Association (2024)</tspan></text>
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"><tspan
+             x="0"
+             y="0"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold">2,340,000</tspan></tspan></text>
+      <g
+         id="text3-4"
+         isolation="isolate">
+        <text
+           transform="translate(20.867 63.341) rotate(.17)"
+           font-size="12"
+           isolation="isolate"
+           id="text5"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(20.867 63.341) rotate(.17)"
+             font-size="12"
+             isolation="isolate"
+             id="text4"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan5"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan4"
+               style="font-weight: normal; font-style: normal;">Canadians who needed mental health</tspan></tspan></text>
+        <text
+           transform="translate(20.827 76.888) rotate(.17)"
+           font-size="12"
+           isolation="isolate"
+           id="text7"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(20.827 76.888) rotate(.17)"
+             font-size="12"
+             isolation="isolate"
+             id="text6"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan6"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan3"
+               style="font-weight: normal; font-style: normal;">care in 2023 had their needs either </tspan></tspan></text>
+        <text
+           transform="rotate(0.17,-30468.917,7050.8008)"
+           font-size="12px"
+           isolation="isolate"
+           id="text9"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="rotate(0.17,-30468.917,7050.8008)"
+             font-size="12px"
+             isolation="isolate"
+             id="text8"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan9"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan8"
+               style="font-weight: normal; font-style: normal;">unmet or only partially met.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="text51">
+      <g
+         id="g6"
+         isolation="isolate">
+        <text
+           transform="translate(21.6 114.913)"
+           fill="#999"
+           font-size="8"
+           isolation="isolate"
+           id="text11"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(21.6 114.913)"
+             fill="#999"
+             font-size="8"
+             isolation="isolate"
+             id="text10"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan11"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan10"
+               style="font-weight: normal; font-style: normal;">Data source: Canadian Mental Health Association (2024)</tspan></tspan></text>
+      </g>
     </g>
   </g>
-  <rect
-     id="rect72"
-     x="0"
-     y="14.4"
-     width="14.4"
-     height="14.4"
-     fill="#f1c500" />
-  <path
-     id="path37-2"
-     d="M0,.5h244.8"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width=".5" />
 </svg>

@@ -1,10 +1,12 @@
 <script>
     import { parseMarkdown } from '$lib/markdown.js';
     import { tick } from 'svelte';
-    import { slugify } from '$lib/chapterColours';
+    import { spotlightedURL } from '$lib/chapterColours';
+    import ChevronDown from '$lib/assets/icons/chevron-down.svelte';
+    import Star from '$lib/assets/icons/star.svelte'
     import '../../assets/global-styles.css';
 
-    let { collapsedHeight = '10rem', Summary, onresize, isFinalist, Chapter, ID_Num, Project } = $props();
+    let { collapsedHeight = '10rem', Summary, onresize, Chapter, ID_Num, Project, Spotlighted } = $props();
 
     let descriptionExpanded = $state(false);
     let contentEl = $state(null);
@@ -26,22 +28,19 @@
         --full-height: {contentEl ? contentEl.scrollHeight + 'px' : 'auto'}"
     >
         {@html parseMarkdown(Summary)}
-        
-    {#if isFinalist}
-            <div>
-                <a href={`/local-solutions/category/${slugify(Chapter)}/${ID_Num}-${slugify(Project)}`} target="_blank" id="open-profile">
-                    Read in-depth profile →
-                </a>
-            </div>
-        {/if}
     </div>
     <div id="buttons">
         <button 
-            class="show-more-less" 
+            class="show-more-less chevron {descriptionExpanded ? "rotated" : ""}"
             onclick={toggleExpanded}
             style:color="black">
-            {descriptionExpanded ? "Show less" : "Show more"}
+            <ChevronDown/>
         </button>
+        {#if Spotlighted}
+                <a href={spotlightedURL(Chapter[0], Project, ID_Num)} target="_blank" class="star-button">  
+                    <Star fill="var(--brandYellow)" width="40px"/>
+                </a>
+        {/if}
     </div>
 </div>
 
@@ -53,6 +52,25 @@
         transition: height 0.35s ease;
         margin-bottom: 0.5rem;
         font-family: Roboto;
+    }
+
+    .chevron {
+        rotate: 0deg;
+        transition: rotate 0.3s ease-in-out;
+    }
+
+    .rotated {
+        rotate: 180deg;
+    }
+
+    #buttons {
+        box-sizing: border-box;
+        position: relative;
+    }
+
+    .star-button {
+        position: absolute;
+        right: 0;
     }
 
     :global(.summary p) {
@@ -98,7 +116,7 @@
         font-size: 14px;
         margin: 0 auto;
         display: block;
-        margin-bottom: 8px;
+        /* margin-bottom: 8px; */
         /* margin-bottom: 15px; */
     }
 

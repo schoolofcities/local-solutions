@@ -8,24 +8,25 @@
     import ChapterChips from '$lib/ChapterChips.svelte';
     import LightBulb from '$lib/assets/icons/light-bulb.svelte';
     import Password from '$lib/Password.svelte';
+    import Arrow from '$lib/assets/icons/arrow.svelte';
 
 	let { 
         params,
         data
      } = $props();
 
-    let solution = data.solution;
+    let solution = $derived(data.solution);
      
 </script>
 
 <div>
     <Password/>
-    <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter], 0.3)}>
+    <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter[0]], 0.3)}>
         <div class="image-container">
             <div class="province-indicator">
                 <ProvinceIndicator
                     province={solution.Provinces_List[0]}
-                    chapter={solution.Chapter}
+                    chapter={solution.Chapter[0]}
                     class="province-indicator"
                 />
             </div>
@@ -44,7 +45,12 @@
             <h2>{solution.Project}</h2>
             <h3>{solution.Organization}</h3>
         </div>
-        <ChapterChips Chapter={solution.Chapter} large={true}/>
+        
+        <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 5px;">
+            {#each solution.Chapter as entry}
+                <ChapterChips Chapter={entry} large={true}/>
+            {/each}
+        </div>
         <div class="description-text">
             {@html parseMarkdown(solution.Description)}
         </div>
@@ -57,6 +63,8 @@
                 {@html parseMarkdown(solution.Learning_from_what_worked)}
             </div>
         </div>
+
+        <a href="/local-solutions" class="back-link"><Arrow back={true} height={15}/> Back to main page</a>
     </div>
 </div>
 
@@ -118,6 +126,7 @@
         box-sizing: border-box;
         padding: 30px;
         border-radius: 50px;
+        margin-bottom: 20px;
     }
 
     #side-line {
@@ -145,10 +154,27 @@
         gap: 10px;
         border-left: 2px solid;
     }
+    
+    :global(#learning-from-what-worked ul ul) {
+        border-left: none;
+        list-style-type: circle;
+    }
 
     :global(#learning-from-what-worked li, a) {
         width: auto !important;
         font-size: 17px;
+    }
+
+    .back-link {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .back-link:hover {
+        text-decoration: underline;
     }
 
     @media (max-width: 500px) {

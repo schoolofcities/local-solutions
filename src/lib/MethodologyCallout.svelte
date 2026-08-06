@@ -1,5 +1,7 @@
 <script>
-    import "../assets/global-styles.css"
+    import "../assets/global-styles.css";
+
+    import Arrow from "./assets/icons/arrow.svelte";
 </script>
 
 <div class="container">
@@ -7,7 +9,7 @@
         How can we expand the reach of great ideas – like the ones featured in  this volume – across the country? This chapter explores methods of scaling social innovations, using examples from Canada and around the world to highlight the importance of networks and funding, storytelling, and breaking down barriers to do more of “what works” and bring  promising local solutions to new places and sectors.
     </p>
     <a href="./scaling-social-innovation" target="_blank" class="link-button">
-        Click here to read about our methodology →
+        Click here to read about our methodology <div class="arrow"><Arrow height={15}/></div>
     </a>
 </div>
 
@@ -18,7 +20,7 @@
         width: 90vw;
         height: fit-content;
         margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         padding: 25px;
         box-sizing: border-box;
         display: flex;
@@ -45,5 +47,15 @@
         width: fit-content;
         color: var(--brandBlack);
         text-decoration: none;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
     }
+
+    .link-button:hover {
+        text-decoration: underline;
+    }
+
 </style>

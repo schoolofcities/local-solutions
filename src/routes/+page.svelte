@@ -6,6 +6,7 @@
     import { onMount } from 'svelte';
     import { page } from '$app/stores';
     import Password from "$lib/Password.svelte";
+    import ContactForm from "$lib/ContactForm.svelte";
 
     export let data;
 
@@ -27,6 +28,8 @@
     </div>
     <MethodologyCallout/>
     <SolutionsGrid solutionsList={data.solutions} provinceCounts={data.provinceCounts} home={true}/> 
+
+    <ContactForm/>
 </div>
 
 <style>

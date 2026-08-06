@@ -10,7 +10,7 @@
     import { base } from '$app/paths';
     
     let { data } = $props();
-    const Chapter = "Housing";
+    const Chapter = 'Housing';
 
     let solutionsList = data.categorySolutions[Chapter]?.list ?? [];
     let provinceCounts = data.categorySolutions[Chapter]?.counts ?? {};

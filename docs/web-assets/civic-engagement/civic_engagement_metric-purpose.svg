@@ -7,7 +7,7 @@
    viewBox="0 0 244.8 144"
    version="1.1"
    sodipodi:docname="civic_engagement_metric-purpose.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="civic_engagement_metric-purpose.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -16,210 +16,180 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs21" />
+     id="defs16" />
   <sodipodi:namedview
-     id="namedview21"
+     id="namedview16"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="2.1912203"
-     inkscape:cx="181.63395"
-     inkscape:cy="202.62682"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="2.1015625"
+     inkscape:cx="192.47584"
+     inkscape:cy="162.49814"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_2" />
-  <rect
-     id="rect1"
-     y="0"
-     width="244.8"
-     height="144"
-     fill="#ffffff"
-     x="0"
-     style="stroke-width:0.860663" />
   <g
-     id="g5"
-     transform="matrix(1,0,0,1.6300805,0,-109.0129)">
-    <rect
-       id="rect4"
-       x="21.6"
-       y="108"
-       width="208.8"
-       height="7.1999998"
-       fill="#e6e7e8" />
-    <rect
-       id="rect5"
-       x="21.6"
-       y="108"
-       width="96.819"
-       height="7.1999998"
-       fill="#dc4732" />
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
+       width="244.8"
+       height="144.0"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAowAAAGACAYAAAAnGTMwAAAABmJLR0QA/wD/AP+gvaeTAAAIKklEQVR4nO3Zv4pcdRjH4XNmz2RnsciiRQISUCyMnSKmUATBykuws7AVr8dWEKwEO8FK01iJQipBrARFQYwi/tlwvIHZTyHj/gb2ea7gW35e3vn3r+/9MgEAwCWWk8deOB89AgCA4zWv67qOHgEAwPHajB4AAMBxE4wAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAEowAACTBCABAWv745s3RG/a6cevtabn5+ugZAADX3nLx84ejN+y12T4hGAEAjoCXNAAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJCWaZpHb9hv3o1eAADANE3zuq7r6BEAABwvL2kAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgCUYAAJJgBAAgLaMHXIW/fvpx+vuH70fPAAba3n5y2pw/PnoGwKU2m820nJyMnrHXtQjGXz/5ePrtg/dGzwAGuvHWO9Py2hujZwBc6my3m87Pb46esZeXNAAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJAEIwAASTACAJDmdV3X0SP+b+ujR9N68c/oGcBA87Kdpo0bGThe8zyPnnCpaxGMAAD8d85tAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAACSYAQAIAlGAADSMnrAVfj8iwfTp/e/Gj0D4GBefunu9MqLz46eARzQdtlOZ2e70TP2uhbB+OWDb6f3P/ps9AyAg9kuJ9Pzd++MngEc0Nlud7TB6CUNAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEASjAAAJMEIAEBaRg+4Ck/fuTW9eu+50TMADuaZp25Pp6eno2cAB7TdbkdPuNS8rus6egQAAMfLSxoAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIghEAgCQYAQBIy5/fvTt6AwAAR2y5eHj/4egRAAAcr38BHRpFEDInW1AAAAAASUVORK5CYII="
+       id="image1" />
   </g>
   <g
-     id="g9"
-     transform="matrix(1,0,0,1.6300805,0,-69.380402)">
-    <rect
-       id="rect8"
-       x="21.6"
-       y="97.199997"
-       width="208.8"
-       height="7.1999998"
-       fill="#e6e7e8" />
-    <rect
-       id="rect9"
-       x="21.6"
-       y="97.199997"
-       width="116.382"
-       height="7.1999998"
-       fill="#1e3864" />
-  </g>
-  <rect
-     id="rect75"
-     y="14.4"
-     width="14.4"
-     height="14.4"
-     fill="#f1c500"
-     x="0" />
-  <rect
-     id="rect72"
-     y="14.4"
-     width="14.4"
-     height="14.4"
-     fill="#f1c500"
-     x="0" />
-  <g
-     id="text49"
-     isolation="isolate">
+     id="foreground">
     <g
-       id="g8"
-       isolation="isolate">
-      <text
-         transform="rotate(0.17,-13798.754,7118.0803)"
-         font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-         font-size="34px"
-         font-weight="700"
-         isolation="isolate"
-         id="text7"><tspan
-           x="0"
-           y="0"
-           id="tspan7">46%</tspan></text>
-    </g>
-    <g
-       id="text3-4"
+       id="text49"
        isolation="isolate">
       <g
-         id="text38"
+         id="g8"
          isolation="isolate">
         <text
-           transform="rotate(0.17,-8292.4082,32706.67)"
-           font-family="OpenSans, 'Open Sans'"
-           font-size="12px"
+           transform="rotate(0.17,-13798.754,7118.0803)"
+           font-size="34px"
            isolation="isolate"
-           id="text8"
-           style="font-size:10.5px;white-space:pre;inline-size:142.317;display:inline"
-           xml:space="preserve"><tspan
+           id="text1"
+           style="font-style:normal;font-family:OpenSansBold"><text
+             transform="rotate(0.17,-13798.754,7118.0803)"
+             font-size="34px"
+             isolation="isolate"
+             id="text7"
+             style="font-style:normal;font-family:OpenSansBold" /><tspan
              x="0"
              y="0"
-             id="tspan2">of Canadians aged 15–34
-</tspan><tspan
-             x="0"
-             y="13.125"
-             id="tspan3">had a high sense of meaning </tspan><tspan
-             x="0"
-             y="26.249999"
-             id="tspan4">and purpose in 2025</tspan></text>
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"><tspan
+               x="0"
+               y="0"
+               id="tspan7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold">46%</tspan></tspan></text>
       </g>
-    </g>
-  </g>
-  <g
-     id="text49-7"
-     isolation="isolate"
-     transform="translate(58.440998,38.605116)">
-    <g
-       id="text3-4-6"
-       isolation="isolate">
       <g
-         id="text38-2"
-         isolation="isolate">
-        <text
-           transform="rotate(0.17,-9715.9609,21362.558)"
-           font-family="OpenSans, 'Open Sans'"
-           font-size="12px"
-           isolation="isolate"
-           id="text8-9"
-           style="font-size:8.25px;white-space:pre;inline-size:142.317;display:inline"
-           xml:space="preserve"><tspan
-             x="0"
-             y="7.3099047"
-             id="tspan5">ages 15–34 </tspan></text>
-        <text
-           transform="rotate(0.17,-17130.135,28032.036)"
-           font-family="OpenSans, 'Open Sans'"
-           font-size="12px"
-           isolation="isolate"
-           id="text8-9-2"
-           style="font-size:8.25px;white-space:pre;inline-size:142.317;display:inline"
-           xml:space="preserve"><tspan
-             x="0"
-             y="7.3099046"
-             id="tspan6">all ages</tspan></text>
-      </g>
-    </g>
-  </g>
-  <path
-     id="path37-2"
-     d="M 0,143.74999 H 244.8"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width="0.5" />
-  <path
-     id="path37-2-2"
-     d="M 0,0.26 H 244.8"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width="0.5" />
-  <g
-     id="g42"
-     isolation="isolate"
-     transform="translate(0,-56.984389)">
-    <g
-       id="g41"
-       isolation="isolate">
-      <g
-         id="g40"
+         id="text3-4"
          isolation="isolate">
         <g
-           id="text40"
+           id="text38"
            isolation="isolate">
           <text
-             transform="translate(21.6,177.546)"
-             fill="#999999"
-             font-family="OpenSans, 'Open Sans'"
-             font-size="8px"
+             transform="rotate(0.17,-8292.4082,32706.67)"
+             font-size="12px"
              isolation="isolate"
-             id="text11"><tspan
+             id="text9"
+             style="font-size: 10.5px; white-space: pre; inline-size: 142.317; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;"
+             xml:space="preserve"><tspan
                x="0"
                y="0"
-               id="tspan11">Data source: Statistics Canada (2025) Canadian Social</tspan></text>
+               id="tspan17">of Canadians aged 15–34
+</tspan><tspan
+               x="0"
+               y="13.125"
+               id="tspan18">had a high sense of meaning </tspan><tspan
+               x="0"
+               y="26.249999"
+               id="tspan19">and purpose in 2025</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="text49-7"
+       isolation="isolate"
+       transform="translate(58.440998,38.605116)">
+      <g
+         id="text3-4-6"
+         isolation="isolate">
+        <g
+           id="text38-2"
+           isolation="isolate">
           <text
-             transform="translate(21.6,187.146)"
-             fill="#999999"
-             font-family="OpenSans, 'Open Sans'"
-             font-size="8px"
+             transform="rotate(0.17,-9715.9609,21362.558)"
+             font-size="12px"
              isolation="isolate"
-             id="text12"><tspan
+             id="text10"
+             style="font-size: 8.25px; white-space: pre; inline-size: 142.317; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;"
+             xml:space="preserve"><tspan
                x="0"
-               y="0"
-               id="tspan12">Survey</tspan></text>
+               y="7.3099046"
+               id="tspan20">ages 15–34 </tspan></text>
+          <text
+             transform="rotate(0.17,-17130.135,28032.036)"
+             font-size="12px"
+             isolation="isolate"
+             id="text12"
+             style="font-size: 8.25px; white-space: pre; inline-size: 142.317; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;"
+             xml:space="preserve"><tspan
+               x="0"
+               y="7.3099046"
+               id="tspan21">all ages</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g42"
+       isolation="isolate"
+       transform="translate(0,-56.984389)">
+      <g
+         id="g41"
+         isolation="isolate">
+        <g
+           id="g40"
+           isolation="isolate">
+          <g
+             id="text40"
+             isolation="isolate">
+            <text
+               transform="translate(21.6,177.546)"
+               fill="#999999"
+               font-size="8px"
+               isolation="isolate"
+               id="text14"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                 transform="translate(21.6,177.546)"
+                 fill="#999999"
+                 font-size="8px"
+                 isolation="isolate"
+                 id="text11"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                 x="0"
+                 y="0"
+                 id="tspan14"
+                 style="font-weight: normal; font-style: normal;"><tspan
+                   x="0"
+                   y="0"
+                   id="tspan13"
+                   style="font-weight: normal; font-style: normal;">Data source: Statistics Canada (2025) Canadian Social</tspan></tspan></text>
+            <text
+               transform="translate(21.6,187.146)"
+               fill="#999999"
+               font-size="8px"
+               isolation="isolate"
+               id="text16"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                 transform="translate(21.6,187.146)"
+                 fill="#999999"
+                 font-size="8px"
+                 isolation="isolate"
+                 id="text15"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                 x="0"
+                 y="0"
+                 id="tspan16"
+                 style="font-weight: normal; font-style: normal;"><tspan
+                   x="0"
+                   y="0"
+                   id="tspan15"
+                   style="font-weight: normal; font-style: normal;">Survey</tspan></tspan></text>
+          </g>
         </g>
       </g>
     </g>

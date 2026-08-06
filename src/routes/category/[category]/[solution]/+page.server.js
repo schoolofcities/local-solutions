@@ -9,7 +9,7 @@ export async function entries() {
     return unsortedSolutions
         .filter(s => s.Spotlighted)
         .map(s => ({
-            category: slugify(s.Chapter),
+            category: slugify(s.Chapter[0]),
             solution: `${s.ID_Num}-${slugify(s.Project)}`
         }));
 }
