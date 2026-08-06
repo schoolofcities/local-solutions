@@ -1,0 +1,1 @@
+import{a as i,f as e}from"../chunks/BOyhiveR.js";import"../chunks/UbQ99iBg.js";import{c as s,s as m,r as p}from"../chunks/DxFQOakL.js";import{P as n}from"../chunks/GS3FXL2I.js";import{T as d}from"../chunks/DWbohYJY.js";var f=e("<div><!> <!></div>");function T(a){var o=f(),r=s(o);n(r,{});var t=m(r,2);d(t,{Title:"Featured Solutions",Chapter:""}),p(o),i(a,o)}export{T as component};
