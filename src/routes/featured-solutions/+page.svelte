@@ -1,11 +1,15 @@
 <script>
     import Password from "$lib/Password.svelte";
-    
+    import TitleSection from "$lib/TitleSection.svelte";
 </script>
 
 <div>
     <Password/>
-    <h1>Featured Solutions!</h1>
+
+    <TitleSection Title="Featured Solutions" 
+        Chapter=""/>
+
+    
 </div>
 
 <style>

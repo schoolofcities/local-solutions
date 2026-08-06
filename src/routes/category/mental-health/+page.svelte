@@ -38,12 +38,14 @@
     <TitleSection Title={Chapter} {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>
-        <p>
-            Mental health is an essential part of well-being. It encompasses mood disorders, substance use and addictions, and everyday stress management and coping strategies, issues that are interconnected but that face a fragmented policy response. Municipalities are often the first level of government to respond to mental health crises, a challenging situation since levels of municipal program funding tend to vary greatly from place to place and year to year. The Canada Health Act does not explicitly require mental health or substance use services to be covered by provincial public health insurance; mental health spending makes up just 6.3% of provincial and territorial budgets on average.<Footnote id={addFootnote(fns[0])}/> The unpredictability of government mental health funding affects local providers, which in turn affects service stability and thus patient health outcomes. Access to consistent care – meeting their needs long before a crisis – is the most effective way to help people recover and thrive. 
-        </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/mental-health/mental-health_unmet-health-stat.svg`}
-        />
+        <div class="inline-images">
+            <GraphicSingle standalone={false}
+                svg720={`${base}/web-assets/mental-health/mental-health_unmet-health-stat.svg`}
+            />
+            <p>
+                Mental health is an essential part of well-being. It encompasses mood disorders, substance use and addictions, and everyday stress management and coping strategies, issues that are interconnected but that face a fragmented policy response. Municipalities are often the first level of government to respond to mental health crises, a challenging situation since levels of municipal program funding tend to vary greatly from place to place and year to year. The Canada Health Act does not explicitly require mental health or substance use services to be covered by provincial public health insurance; mental health spending makes up just 6.3% of provincial and territorial budgets on average.<Footnote id={addFootnote(fns[0])}/> The unpredictability of government mental health funding affects local providers, which in turn affects service stability and thus patient health outcomes. Access to consistent care – meeting their needs long before a crisis – is the most effective way to help people recover and thrive. 
+            </p>
+        </div>
         <p>
             Socioeconomic stressors can worsen mental health and create barriers to treatment for marginalized groups, since poor mental health and economic insecurity can reinforce one another.<Footnote id={addFootnote(fns[1])}/> The COVID-19 pandemic intensified these stressors, pushing individuals and entire health-care systems into precarity. Compared to pre-pandemic rates, three times as many Canadians reported having “poor or fair” mental health in 2021.<Footnote id={addFootnote(fns[2])}/> Opioid deaths and hospitalizations remain high today.<Footnote id={addFootnote(fns[3])}/> Indigenous communities on- and off-reserve face disproportionately high rates of poor mental health, substance use disorders, and economic stressors,<Footnote id={addFootnote(fns[4])}/> as well as high turnover among non-Indigenous providers.<Footnote id={addFootnote(fns[5])}/> In rural and remote areas, the long distances to a highly limited number of hospitals and primary care providers can pose additional barriers to treatment.  
         </p>

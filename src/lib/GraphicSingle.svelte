@@ -2,6 +2,7 @@
 	export let svg1080;
 	export let svg720;
 	export let svg360;
+	export let standalone = true;
 
 	let inputSVG;
 	let svgWidth = 0;
@@ -61,29 +62,49 @@
   
 
   
-<div class="svg-container-wrapper" bind:this={container}>
+<div class="svg-container-wrapper" class:standalone={standalone} bind:this={container}>
 	{#if inputSVG}
-		<div class="svg-container" style="--svg-width: {svgWidth}px;">
+		<div class="svg-container">
 			{@html inputSVG}
 		</div>
 	{/if}
 </div>
 
 <style>
-
 	.svg-container-wrapper {
+		float: inline-end;
+		padding-left: 20px;
+	}
+
+	.standalone {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		margin-top: 10px;
-		margin-bottom: 10px;
+		margin-top: 20px;
+		margin-bottom: 20px;
 		padding-left: 0px;
 		padding-right: 0px;
 		max-width: 100%;
+		float: none;
 	}
 	
-	.svg-container {
-		width: var(--svg-width);
+	.standalone .svg-container {
 		height: auto;
+	}
+
+	@media (max-width: 600px) {
+		.svg-container-wrapper {
+			float: none;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			padding-left: 0px;
+			padding-right: 0px;
+			max-width: 100%;
+			float: none;
+		}
+
 	}
 </style>

@@ -26,7 +26,8 @@
         Thumbnail_Alt,
         ID_Num,
         tagClicked,
-        Thumbnail_Credits,
+        Thumbnail_Caption,
+        Thumbnail_Source,
     } = $props();
 
     let containerEl = $state(null);
@@ -70,7 +71,8 @@
             {Chapter}
             {Display_Location}
             {Spotlighted}
-            {Thumbnail_Credits}/>
+            {Thumbnail_Caption}
+            {Thumbnail_Source}/>
     </div>
 
     <div class="description-wrapper">

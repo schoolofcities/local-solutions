@@ -3,17 +3,24 @@
         id,
         label,
         required = false,
-        type = "text"
+        type = "text",
+        error,
+        value = $bindable()
     } = $props();
+
+    import Warning from "./assets/icons/warning.svelte";
 </script>
 
 
 <div class="form-input">
     <label for={id}>{label}{#if required}<span class="required"> (Required)</span>{/if}</label><br>
     {#if type==="textarea"}
-        <textarea id={id} name={id} required={required}></textarea><br>
+        <textarea id={id} name={label} required={required} bind:value ></textarea><br>
     {:else}
-        <input type={type} id={id} name={id} required={required}><br>
+        <input type={type} id={id} name={label} required={required} bind:value ><br>
+    {/if}
+    {#if error} 
+        <span class="input-error"><Warning/>{error}</span>
     {/if}
 </div>
 
@@ -59,6 +66,16 @@
         height: 250px;
         font-size: 13px;
         border-color: var(--brandGray70);
+    }
+
+    .input-error {
+        color: var(--brandRed);
+        font-size: 12px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 5px;
+        padding: 5px;
     }
 
 

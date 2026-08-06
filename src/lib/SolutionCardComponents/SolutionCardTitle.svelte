@@ -5,17 +5,20 @@
     import LocationIcon from "$lib/assets/icons/location.svelte"
     import PhotoViewer from '$lib/PhotoViewer.svelte';
 
-    export let Project;
-    export let Organization;
-    export let Card_Thumbnail;
-    export let Thumbnail_Alt;
-    export let ID_Num;
-    export let Chapter;
-    export let Display_Location;
-    export let Spotlighted;
-    export let Thumbnail_Credits;
+    let {
+        Project,
+        Organization,
+        Card_Thumbnail,
+        Thumbnail_Alt,
+        ID_Num,
+        Chapter,
+        Display_Location,
+        Spotlighted,
+        Thumbnail_Caption,
+        Thumbnail_Source,
+    } = $props();
     
-    let showImageViewer = false;
+    let showImageViewer = $state(false);
     const imageUrl = `${base}/web-assets/card_thumbnails/${ID_Num}.jpg`
 
     function closeImageViewer() {
@@ -59,7 +62,7 @@
     {/if}
 
     {#if showImageViewer}
-        <PhotoViewer {imageUrl} {Thumbnail_Alt} {Thumbnail_Credits} {closeImageViewer}/>
+        <PhotoViewer {imageUrl} {Thumbnail_Alt} {Thumbnail_Caption} {Thumbnail_Source} {closeImageViewer}/>
     {/if}
     
 </div>

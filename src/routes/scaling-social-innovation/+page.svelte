@@ -73,7 +73,7 @@
 
     <Password/>
 
-    <TitleSection Title="Scaling social innovation IN CANADA:" 
+    <TitleSection Title="Scaling social innovation in Canada:" 
         Subtitle="DOING MORE OF WHAT WORKS" 
         Chapter=""/>
     

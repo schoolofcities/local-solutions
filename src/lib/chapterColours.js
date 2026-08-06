@@ -19,6 +19,22 @@ export const pdfPaths = {
   "Scaling social innovation":        "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-1-Scaling-Social-Innovation-Dec-2025.pdf"
 };
 
+export const provincePostalCodes = {
+  "AB": "Alberta",
+  "BC": "British Columbia",
+  "MB": "Manitoba",
+  "NB": "New Brunswick",
+  "NL": "Newfoundland and Labrador",
+  "NS": "Nova Scotia",
+  "ON": "Ontario",
+  "PE": "Prince Edward Island",
+  "QC": "Quebec",
+  "SK": "Saskatchewan",
+  "NT": "Northwest Territories",
+  "NU": "Nunavut",
+  "YT": "Yukon"
+}
+
 export function hexToRgba(hex, opacity) {
     const r = parseInt(hex.slice(1, 3), 16);
     const g = parseInt(hex.slice(3, 5), 16);

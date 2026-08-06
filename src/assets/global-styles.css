@@ -202,7 +202,6 @@ h4 {
 p {
 	font-family: Roboto;
 	font-weight: normal;
-	color: var(--brandGray);
 	text-align: left;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -249,7 +248,7 @@ a {
 
 
 a:hover {
-	color: var(--brandMedGreen);
+	color: var(--brandYellow);
 }
 
 ul {
@@ -426,12 +425,27 @@ li {
 	--grid-width: 1000px;
 }
 
-.body-text>p, ul {
+.body-text>p, ul, .body-text div.cards, .body-text div.inline-images {
 	max-width: var(--grid-width);
 	width: 90dvw;
 	margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
 	color: var(--brandGray90);
 	font-family: Roboto;
+}
+
+div.inline-images {
+	margin-bottom: 15px;
+	height: fit-content;
+}
+
+div.inline-images.end {
+	margin-bottom: 50px;
+}
+
+.svg-container :global(svg) {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 .body-text li {
@@ -446,7 +460,7 @@ li {
 }
 
 @media (max-width: 900px) {
-	.body-text p, li {
+	.body-text p, .body-text li {
 		font-size: 15px;
 	}
 }

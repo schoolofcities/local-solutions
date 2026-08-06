@@ -3,13 +3,17 @@
     import { chapterColours } from "./chapterColours";
     import Logo from '../assets/sofc-uoft-logo-blue-colour.svg';
 
+    let {
+        style = "grid" // "circle" or "grid"
+    } = $props();
+
     let items = [];
 
     Object.keys(chapterColours).forEach((key) => {
         items.push({"label": key, "colour": chapterColours[key]})
     })
 
-    $: angleStep = 360 / items.length;
+    let angleStep = $derived(360 / items.length);
     const orbitRadius = 30; 
 </script>
 
@@ -24,26 +28,43 @@
             <img src={Logo} alt="School of Cities logo" class="logo"/>
         </a>
     </div>
-    <div class="orbit-container">
-        <div class="center">
-            <h2>A nation of place-based solutions</h2>
-            <h3>Click a category to learn more!</h3>
-        </div>
-
-        {#each items as item, i}
-        <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" target="_blank">
-            <div
-            class="node"
-            style="
-                --angle: {(i * angleStep) - 90}deg;
-                --numCircles: {items.length};
-                background-color: {item.colour};
-            "
-            >
-            {item.label}
+    <div class="orbit-container" class:circle={style == "circle"}>
+        {#if style == "circle"}
+            <div class="instructions center">
+                <h2>A nation of place-based solutions</h2>
+                <h3>Click a category to learn more!</h3>
             </div>
-        </a>
-        {/each}
+            {#each items as item, i}
+            <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" target="_blank" class="node-link">
+                <div
+                class="node in-circle"
+                style="
+                    --angle: {(i * angleStep) - 90}deg;
+                    --numCircles: {items.length};
+                    background-color: {item.colour};
+                "
+                >
+                {item.label}
+                </div>
+            </a>
+            {/each}
+        {:else if style == "grid"}
+            <div class="grid-circles">
+                {#each items as item, i}
+                    <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" target="_blank" class="node-link">
+                        <div class="node"
+                        style="--numCircles: {items.length}; background-color: {item.colour};"
+                        >
+                        {item.label}
+                        </div>
+                    </a>
+                {/each}
+                <div class="instructions">
+                    <h2>A nation of place-based solutions</h2>
+                    <h3>Click a category to learn more!</h3>
+                </div>
+            </div>
+        {/if}
     </div>
 </div>
 
@@ -102,14 +123,14 @@
         position: relative;
         padding-top: 1dvh;
         width: var(--circle-container);
+    }
+
+    .orbit-container.circle {
         height: var(--circle-container);
     }
 
-    .center {
-        position: absolute;
-        top: 50%; left: 50%;
-        transform: translate(-50%, -50%);
-        width: calc(var(--circle-container)/3); height: calc(var(--circle-container)/3);
+    .instructions {
+        width: calc(var(--circle-container)/3); 
         border-radius: 50%;
         display: flex;
         flex-direction: column;
@@ -118,27 +139,48 @@
         font-weight: 600;
     }
 
-    .center h2, .center h3 {
+    .center { 
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+        height: calc(var(--circle-container)/3);
+    }
+
+    .instructions h2, .instructions h3 {
         text-align: center;
         color: var(--LoSoNavyBlue);
         margin: 0;
     }
 
-    .center h2 {
+    .instructions h2 {
         font-family: TradeGothicBoldOblique;
         font-size: 3dvh;
     }
 
-    .center h3 {
+    .instructions h3 {
         font-family: TradeGothicLTLightOblique;
         font-size: 2.75dvh;
     }
 
+    .grid-circles {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: var(--circle-container);
+        align-content: flex-start;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .node-link {
+        height: fit-content;
+        width: fit-content;
+        text-decoration: none;
+    }
+
     .node {
-        position: absolute;
-        top: 50%; left: 50%;
-        width: calc(2*var(--circle-container)/var(--numCircles)); 
-        height: calc(2*var(--circle-container)/var(--numCircles));
+        width: calc(2*var(--circle-container)/var(--numCircles) - 10px); 
+        height: calc(2*var(--circle-container)/var(--numCircles) - 10px);
         border-radius: 50%;
         display: flex;
         align-items: center;
@@ -149,7 +191,13 @@
         box-sizing: border-box;
         font-family: TradeGothicBold;
         font-size: 3dvh;
+    }
 
+    .node.in-circle {
+        width: calc(2*var(--circle-container)/var(--numCircles)); 
+        height: calc(2*var(--circle-container)/var(--numCircles));
+        position: absolute;
+        top: 50%; left: 50%;
         transform:
             translate(-50%, -50%)
             rotate(var(--angle))
@@ -160,6 +208,11 @@
     }
 
     .node:hover {
+        transform:
+            scale(1.075);
+    }
+
+    .node.in-circle:hover {
         transform:
             translate(-50%, -50%)
             rotate(var(--angle))

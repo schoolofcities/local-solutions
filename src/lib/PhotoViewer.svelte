@@ -3,17 +3,30 @@
     let {
         imageUrl,
         Thumbnail_Alt,
-        Thumbnail_Credits,
+        Thumbnail_Caption,
+        Thumbnail_Source,
         closeImageViewer
     } = $props();
 
+    function handleOutsideClick(event) {
+        const clickedImage = event.target.closest(".thumbnail");
+        const clickedCaption = event.target.closest(".viewer-caption");
+        const clickedClose = event.target.closest(".viewer-close-button");
+
+        if (!clickedImage && !clickedCaption && !clickedClose) {
+            closeImageViewer();
+        }
+    }
+
 </script>
 
-<div class="viewer-container">
+
+<div class="viewer-container" onclick={handleOutsideClick}>
     <div class="viewer-close-button">
         <button onclick={closeImageViewer}><Close/></button>
     </div>
     <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
+    <p class="viewer-caption"><span class="caption-text">{Thumbnail_Caption}</span> Photo credits: {Thumbnail_Source}</p>
 </div>
 
 <style>
@@ -48,6 +61,20 @@
         display: flex;
         flex-direction: row;
         justify-content: right;
+    }
+
+    .viewer-caption {
+        font-size: 13px;
+        max-width: 1050px;
+        width: var(--photo-viewer-width);
+        background-color: #2B2B2B;
+        margin-top: 0;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+
+    .caption-text {
+        font-weight: bold;
     }
 
     button {

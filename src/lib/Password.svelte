@@ -14,7 +14,7 @@
 </script>
 
 {#if !isAuthenticated}
-	<div class="overlay">
+	<!-- <div class="overlay">
 		<div class="password-box">
 			<h3>This page is under development :) <br> Please do not share without permission</h3>
 		<input
@@ -26,7 +26,7 @@
 		
 		<button on:click={checkPassword}>Unlock </button>
 		</div>
-	</div>
+	</div> -->
 {/if}
 
 <style>

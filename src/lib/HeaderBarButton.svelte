@@ -127,15 +127,8 @@
         rotate: 180deg;
     }
 
-     @media (max-width: 1080px) {
-        .desktop-button {
-            height: 40px;
-        }
-    }
-
     @media (max-width: 800px) {
         .desktop-button {
-            height: 35px;
             font-size: 17px;
         }
     }

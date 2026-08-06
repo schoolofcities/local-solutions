@@ -8,6 +8,7 @@
     import ChapterChips from '$lib/ChapterChips.svelte';
     import LightBulb from '$lib/assets/icons/light-bulb.svelte';
     import Password from '$lib/Password.svelte';
+    import Arrow from '$lib/assets/icons/arrow.svelte';
 
 	let { 
         params,
@@ -62,6 +63,8 @@
                 {@html parseMarkdown(solution.Learning_from_what_worked)}
             </div>
         </div>
+
+        <a href="/local-solutions" class="back-link"><Arrow back={true} height={15}/> Back to main page</a>
     </div>
 </div>
 
@@ -123,6 +126,7 @@
         box-sizing: border-box;
         padding: 30px;
         border-radius: 50px;
+        margin-bottom: 20px;
     }
 
     #side-line {
@@ -159,6 +163,18 @@
     :global(#learning-from-what-worked li, a) {
         width: auto !important;
         font-size: 17px;
+    }
+
+    .back-link {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .back-link:hover {
+        text-decoration: underline;
     }
 
     @media (max-width: 500px) {

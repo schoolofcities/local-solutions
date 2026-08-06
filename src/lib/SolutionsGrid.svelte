@@ -112,7 +112,7 @@
     function matchesSearch(s) {
         if (!searchText) return true;
         const q = searchText.toLowerCase();
-        return s.Title?.toLowerCase().includes(q) || s.Description?.toLowerCase().includes(q);
+        return s.Project?.toLowerCase().includes(q) || s.Organization?.toLowerCase().includes(q) || s.Description?.toLowerCase().includes(q) || s.Tags?.join().toLowerCase().includes(q) || s.Chapter?.join().toLowerCase().includes(q);
     }
     function matchesProvinces(s) {
         // const vals = selectedProvinces.map(p => p.value);
@@ -203,7 +203,7 @@
         syncToUrl(searchParams, selectedMunicipalities, 'municipality');
 
         const query = searchParams.toString();
-        goto($page.url.pathname + (query ? '?' + query + '/': '') + '#solutions-map');
+        goto($page.url.pathname + $page.url.search + '#solutions-map');;
 
     }
 

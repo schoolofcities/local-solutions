@@ -2,7 +2,7 @@
     import { onMount, tick } from 'svelte';
     import { geoPath, geoConicConformal } from 'd3-geo';
     import { page } from '$app/stores';
-    import { chapterColours } from './chapterColours';
+    import { chapterColours, provincePostalCodes } from './chapterColours';
     import Select from 'svelte-select';
     import ChapterChips from './ChapterChips.svelte';
 
@@ -125,6 +125,7 @@
     onMount(() => {
         loadMapData();
   		window.addEventListener("resize", projectMap);
+        console.log(provinceCounts);
 
 		return () => {
 			window.removeEventListener("resize", projectMap);
@@ -136,46 +137,69 @@
     {#if width}
     <div>
         <h2 class="header">Browse the solutions:</h2>
-        <div style="height: {height + 15}px; width: {windowWidth > 800 ? width + 15 : width}px">
-            {#if mapData?.features && width}
-                <svg {width} {height} class="map"
-                    style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}">
-                    {#each mapData.features as province (province.properties.name)}
-                        <path
-                            d={path(province)}
-                            id={province.properties.Postal}
-                            class="province"
-                            stroke="white"
-                            stroke-width="1.5"
-                        />
-                        {#if provinceCounts[province.properties.Postal] > 0}
-                            {@const [cx, cy] = projection(province.properties.centroid)}
-                            {@const postal = province.properties.Postal}
-                            {@const isSmall = ["NS","NB","PE"].includes(postal)}
-                            <g class="org-count"
-                                role="button" tabindex="0"
-                                aria-label="Filter solutions in {province.properties.name}"
-                                onclick={() => filterProvince(postal, province.properties.name, "Provinces & Territories")}
-                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, province.properties.name, "Provinces & Territories")}>
-                                <circle {cx} {cy} r={isSmall ? radius - 3 : radius} class="org-count-circle" />
-                                <text x={cx} y={cy} class="org-count-text">{provinceCounts[postal]}</text>
+        {#if mapData?.features && width}
+            {#if Object.keys(provinceCounts).length > 5}
+                <div style="height: {height + 15}px; width: {windowWidth > 800 ? width + 15 : width}px">
+                    <svg {width} {height} class="map"
+                        style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}">
+                        {#each mapData.features as province (province.properties.name)}
+                            <path
+                                d={path(province)}
+                                id={province.properties.Postal}
+                                class="province"
+                                stroke="white"
+                                stroke-width="1.5"
+                            />
+                            {#if provinceCounts[province.properties.Postal] > 0}
+                                {@const [cx, cy] = projection(province.properties.centroid)}
+                                {@const postal = province.properties.Postal}
+                                {@const isSmall = ["NS","NB","PE"].includes(postal)}
+                                <g class="org-count" role="button" tabindex="0"
+                                    aria-label="Filter solutions in {province.properties.name}"
+                                    onclick={() => filterProvince(postal, province.properties.name, "Provinces & Territories")}
+                                    onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, province.properties.name, "Provinces & Territories")}>
+                                    <circle {cx} {cy} r={isSmall ? radius - 3 : radius} class="org-count-circle" />
+                                    <text x={cx} y={cy} class="org-count-text">{provinceCounts[postal]}</text>
+                                </g>
+                            {/if}
+                        {/each}
+
+                        {#if provinceCounts["Across Canada"] > 0}
+                            <g class="org-count" role="button" tabindex="0"
+                                aria-label="Filter solutions across Canada"
+                                onclick={() => filterProvince("Across Canada", "Across Canada", null)}
+                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
+                                <text x={width - 100} y={80} class="org-count-canada-text">Across Canada</text>
+                                <circle cx={width - 100} cy={110} r={radius + 5} class="org-count-circle" />
+                                <text x={width - 100} y={110} class="org-count-text canada">{provinceCounts["Across Canada"]}</text>
                             </g>
                         {/if}
+                    </svg>
+                </div>
+            {:else}
+                <div class="condensed-map" style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}; width: ${width}px; height: ${height}px">
+                    {#each Object.keys(provinceCounts) as postal}
+                        {#if postal !== "Across Canada"}
+                            <div class="square" role="button" tabindex="0"
+                                    aria-label="Filter solutions in {provincePostalCodes[postal]}"
+                                    onclick={() => filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}
+                                    onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}>
+                                <span>{provincePostalCodes[postal]}</span>
+                                <span class="count">{provinceCounts[postal]}</span>
+                            </div>
+                        {:else}
+                            <div class="square" role="button" tabindex="0" 
+                                aria-label="Filter solutions across Canada"
+                                onclick={() => filterProvince("Across Canada", "Across Canada", null)}
+                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
+                                <span>{{postal}}</span>
+                                <span class="count">{provinceCounts[postal]}</span>
+                            </div>
+                        {/if}
                     {/each}
-
-                    {#if provinceCounts["Across Canada"] > 0}
-                        <g class="org-count" role="button" tabindex="0"
-                            aria-label="Filter solutions across Canada"
-                            onclick={() => filterProvince("Across Canada", "Across Canada", null)}
-                            onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
-                            <text x={width - 100} y={80} class="org-count-canada-text">Across Canada</text>
-                            <circle cx={width - 100} cy={100} r="15" class="org-count-circle" />
-                            <text x={width - 100} y={100} class="org-count-text">{provinceCounts["Across Canada"]}</text>
-                        </g>
-                    {/if}
-                </svg>
+                </div>
             {/if}
-        </div>
+        {/if}
     </div>
 
     <div class="filters" style="width: {filtersWidth}px">
@@ -314,6 +338,10 @@
         text-anchor: middle;
     }
 
+    .org-count-text.canada {
+        font-size: 24px;
+    }
+
     .select-box {
         font-family: Roboto;
         --placeholder-color: var(--brandGray70);
@@ -355,7 +383,7 @@
         font-family: Roboto;
         dominant-baseline: bottom;
         text-anchor: middle;
-        font-size: 16px;
+        font-size: 20px;
         font-style: italic;
     }
 
@@ -388,5 +416,44 @@
         display: flex;
         flex-wrap: wrap;
         gap:8px;
+    }
+
+    .condensed-map {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap: 10px;
+        background-color: white;
+        border-radius: 10px;
+        padding: 30px;
+        box-sizing: border-box;
+        margin-right: 15px;
+        min-height: 228px;
+    }
+
+    .condensed-map .square {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 10px;
+        background-color: var(--chapterColour);
+        color: white;
+        font-family: RobotoBold;
+        width: 100px;
+        height: 100px;
+        transition: transform 0.2s ease;
+    }
+
+    .condensed-map .square:hover {
+        transform: 
+            scale(1.075);
+    }
+
+    .square .count {
+        font-size: 30px;
     }
 </style>
