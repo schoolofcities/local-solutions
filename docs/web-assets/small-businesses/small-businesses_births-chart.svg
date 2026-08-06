@@ -6,962 +6,570 @@
    viewBox="0 0 489.6 316.80001"
    version="1.1"
    sodipodi:docname="small-businesses_births-chart.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs18" />
+     id="defs46" />
   <sodipodi:namedview
-     id="namedview18"
+     id="namedview46"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     showgrid="false"
-     inkscape:zoom="0.92551569"
-     inkscape:cx="428.40981"
-     inkscape:cy="140.46223"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="1.9105113"
+     inkscape:cx="326.35242"
+     inkscape:cy="211.2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14">
-    <inkscape:grid
-       id="grid18"
-       units="in"
-       originx="0"
-       originy="0"
-       spacingx="7.1999999"
-       spacingy="7.1999999"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="false" />
-  </sodipodi:namedview>
-  <rect
-     id="rect71"
-     x="0"
-     width="489.60001"
-     height="331.20001"
-     fill="#ffffff"
-     y="0" />
+     inkscape:current-layer="svg68" />
   <g
-     id="g22"
-     transform="translate(0,-14.150028)">
-    <line
-       id="line1"
-       x1="86.400002"
-       y1="104.2"
-       x2="86.400002"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line2"
-       x1="123.5"
-       y1="104.2"
-       x2="123.5"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line3"
-       x1="160.60001"
-       y1="104.2"
-       x2="160.60001"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line4"
-       x1="197.7"
-       y1="104.2"
-       x2="197.7"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line5"
-       x1="234.8"
-       y1="104.2"
-       x2="234.8"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line6"
-       x1="271.89999"
-       y1="104.2"
-       x2="271.89999"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line7"
-       x1="309.01001"
-       y1="104.2"
-       x2="309.01001"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line8"
-       x1="346.10999"
-       y1="104.2"
-       x2="346.10999"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line9"
-       x1="383.20999"
-       y1="104.2"
-       x2="383.20999"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line10"
-       x1="420.31"
-       y1="104.2"
-       x2="420.31"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line11"
-       x1="457.41"
-       y1="104.2"
-       x2="457.41"
-       y2="98.230003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line12"
-       x1="67.790001"
-       y1="103.213"
-       x2="67.790001"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line13"
-       x1="104.89"
-       y1="103.213"
-       x2="104.89"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line14"
-       x1="141.99001"
-       y1="103.213"
-       x2="141.99001"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line15"
-       x1="179.09"
-       y1="103.213"
-       x2="179.09"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line16"
-       x1="216.19"
-       y1="103.213"
-       x2="216.19"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line17"
-       x1="253.28999"
-       y1="103.213"
-       x2="253.28999"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line18"
-       x1="290.39001"
-       y1="103.213"
-       x2="290.39001"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line19"
-       x1="327.48999"
-       y1="103.213"
-       x2="327.48999"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line20"
-       x1="364.59"
-       y1="103.213"
-       x2="364.59"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line21"
-       x1="401.70001"
-       y1="103.213"
-       x2="401.70001"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
-    <line
-       id="line22"
-       x1="438.79999"
-       y1="103.213"
-       x2="438.79999"
-       y2="99.217003"
-       fill="none"
-       stroke="#000000"
-       stroke-miterlimit="10"
-       stroke-width="0.455" />
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
+       width="489.6"
+       height="316.80001"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABRkAAANMCAYAAADYFar4AAAABmJLR0QA/wD/AP+gvaeTAAAgAElEQVR4nOzdeZDX933f8fdvd7nEDZKQXcuR5Tiya0u262YcxbVTx07SpscozTRp7CRVpknTuJNO3P4RO3UmznSaGU9maknICCGEACFutCBAgLgvXcshLgHihuUWLPeyLLu//mFbY/nzXQn0gf3+gMfjP730Y/UGCfan5+5vt9J+8oXl1Y7WrwQAAAAAwFWq1PdZXjm36cuHOs6s/FDZxwAAAAAAN576AV8+XKlWq40R8VDZxwAAAAAAN6TGurIvAAAAAABubCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALI0nN/8a1+sXjpQ9h2J+r6fjz73zSj7DAAAAADgfTR0Xtg8uHr5ZNl3JKodbWWfAAAAAABcAS+XBgAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZGio9P3ouKpXeZR/y8+r63Ff2CQAAAADAFahUq9XGiHio7EMAAAAAgBtSo5dLAwAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIyAgAAAABZREYAAAAAIIvICAAAAABkERkBAAAAgCwiIwAAAACQRWQEAAAAALKIjAAAAABAFpERAAAAAMgiMgIAAAAAWURGAAAAACCLyAgAAAAAZBEZAQAAAIAsIiMAAAAAkEVkBAAAAACyiIwAAAAAQBaREQAAAADIIjICAAAAAFlERgAAAAAgi8gIAAAAAGQRGQEAAACALCIjAAAAAJBFZAQAAAAAsoiMAAAAAEAWkREAAAAAyCIy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"
+       id="image1" />
   </g>
   <g
-     id="text22"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
+     id="foreground">
     <g
+       id="text22"
        isolation="isolate"
-       id="g1">
-      <text
-         transform="translate(72.57,92.925)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="10px"
+       transform="translate(0,-14.150028)">
+      <g
          isolation="isolate"
-         id="text1"><tspan
-           x="0"
-           y="0"
-           id="tspan1">2002</tspan></text>
+         id="g1">
+        <text
+           transform="translate(72.57,92.925)"
+           font-size="10px"
+           isolation="isolate"
+           id="text2"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(72.57,92.925)"
+             font-size="10px"
+             isolation="isolate"
+             id="text1"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan2"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan1"
+               style="font-weight: normal; font-style: normal;">2002</tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     id="text23"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
     <g
+       id="text23"
        isolation="isolate"
-       id="g2">
-      <text
-         transform="translate(146.79,92.925)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="10px"
+       transform="translate(0,-14.150028)">
+      <g
          isolation="isolate"
-         id="text2"><tspan
-           x="0"
-           y="0"
-           id="tspan2">2006</tspan></text>
+         id="g2">
+        <text
+           transform="translate(146.79,92.925)"
+           font-size="10px"
+           isolation="isolate"
+           id="text4"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(146.79,92.925)"
+             font-size="10px"
+             isolation="isolate"
+             id="text3"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan4"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan3"
+               style="font-weight: normal; font-style: normal;">2006</tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     id="text24"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
     <g
+       id="text24"
        isolation="isolate"
-       id="g3">
-      <text
-         transform="translate(221.01,92.925)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="10px"
+       transform="translate(0,-14.150028)">
+      <g
          isolation="isolate"
-         id="text3"><tspan
-           x="0"
-           y="0"
-           id="tspan3">2010</tspan></text>
+         id="g3">
+        <text
+           transform="translate(221.01,92.925)"
+           font-size="10px"
+           isolation="isolate"
+           id="text6"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(221.01,92.925)"
+             font-size="10px"
+             isolation="isolate"
+             id="text5"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan6"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan5"
+               style="font-weight: normal; font-style: normal;">2010</tspan></tspan></text>
+      </g>
     </g>
-  </g>
-  <g
-     id="text25"
-     isolation="isolate">
     <g
-       isolation="isolate"
-       id="g4">
-      <text
-         font-family="OpenSans, 'Open Sans'"
-         font-size="10px"
+       id="text25"
+       isolation="isolate">
+      <g
          isolation="isolate"
-         id="text4"
-         x="295.23999"
-         y="78.774971"><tspan
+         id="g4">
+        <text
+           font-size="10px"
+           isolation="isolate"
+           id="text8"
            x="295.23999"
            y="78.774971"
-           id="tspan4">2014</tspan></text>
-    </g>
-  </g>
-  <g
-     id="text26"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
-    <g
-       isolation="isolate"
-       id="g5">
-      <text
-         transform="translate(369.46,92.925)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="10px"
-         isolation="isolate"
-         id="text5"><tspan
-           x="0"
-           y="0"
-           id="tspan5">2018</tspan></text>
-    </g>
-  </g>
-  <g
-     id="text27"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
-    <g
-       isolation="isolate"
-       id="g6">
-      <text
-         transform="translate(443.689,92.925)"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="10px"
-         isolation="isolate"
-         id="text6"><tspan
-           x="0"
-           y="0"
-           id="tspan6">2022</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g34"
-     transform="translate(0,-14.150028)">
-    <g
-       id="text28"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g7">
-        <text
-           transform="translate(28.8,278.685)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text7"><tspan
-             x="0"
-             y="0"
-             id="tspan7">-20K</tspan></text>
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             font-size="10px"
+             isolation="isolate"
+             id="text7"
+             x="295.23999"
+             y="78.774971"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="295.23999"
+             y="78.774971"
+             id="tspan8"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="295.23999"
+               y="78.774971"
+               id="tspan7"
+               style="font-weight: normal; font-style: normal;">2014</tspan></tspan></text>
       </g>
     </g>
     <g
-       id="text29"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g8">
-        <text
-           transform="translate(28.8,252.715)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text8"><tspan
-             x="0"
-             y="0"
-             id="tspan8">-10K</tspan></text>
-      </g>
-    </g>
-    <g
-       id="text30"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g9">
-        <text
-           transform="translate(28.8,226.755)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text9"><tspan
-             x="0"
-             y="0"
-             id="tspan9">0</tspan></text>
-      </g>
-    </g>
-    <g
-       id="text31"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g10">
-        <text
-           transform="translate(28.8,200.785)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text10"><tspan
-             x="0"
-             y="0"
-             id="tspan10">10K</tspan></text>
-      </g>
-    </g>
-    <g
-       id="text32"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g11">
-        <text
-           transform="translate(28.8,174.825)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text11"><tspan
-             x="0"
-             y="0"
-             id="tspan11">20K</tspan></text>
-      </g>
-    </g>
-    <g
-       id="text33"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g12">
-        <text
-           transform="translate(28.8,148.855)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text12"><tspan
-             x="0"
-             y="0"
-             id="tspan12">30K</tspan></text>
-      </g>
-    </g>
-    <g
-       id="text34"
-       isolation="isolate">
-      <g
-         isolation="isolate"
-         id="g13">
-        <text
-           transform="translate(28.8,122.895)"
-           fill="#808285"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="10px"
-           font-style="italic"
-           font-variation-settings="'wdth' 100, 'wght' 400"
-           isolation="isolate"
-           id="text13"><tspan
-             x="0"
-             y="0"
-             id="tspan13">40K</tspan></text>
-      </g>
-    </g>
-  </g>
-  <g
-     id="g39"
-     transform="translate(0,-14.150028)">
-    <line
-       id="line34"
-       x1="28.799999"
-       y1="281.535"
-       x2="475.20001"
-       y2="281.535"
-       fill="none"
-       stroke="#000000"
-       stroke-dasharray="0.25, 2"
-       stroke-miterlimit="10"
-       stroke-width="0.25" />
-    <line
-       id="line35"
-       x1="28.799999"
-       y1="255.565"
-       x2="475.20001"
-       y2="255.565"
-       fill="none"
-       stroke="#000000"
-       stroke-dasharray="0.25, 2"
-       stroke-miterlimit="10"
-       stroke-width="0.25" />
-    <line
-       id="line36"
-       x1="28.799999"
-       y1="203.63499"
-       x2="475.20001"
-       y2="203.63499"
-       fill="none"
-       stroke="#000000"
-       stroke-dasharray="0.25, 2"
-       stroke-miterlimit="10"
-       stroke-width="0.25" />
-    <line
-       id="line37"
-       x1="28.799999"
-       y1="177.675"
-       x2="475.20001"
-       y2="177.675"
-       fill="none"
-       stroke="#000000"
-       stroke-dasharray="0.25, 2"
-       stroke-miterlimit="10"
-       stroke-width="0.25" />
-    <line
-       id="line38"
-       x1="28.799999"
-       y1="151.705"
-       x2="475.20001"
-       y2="151.705"
-       fill="none"
-       stroke="#000000"
-       stroke-dasharray="0.25, 2"
-       stroke-miterlimit="10"
-       stroke-width="0.25" />
-    <line
-       id="line39"
-       x1="28.799999"
-       y1="125.745"
-       x2="475.20001"
-       y2="125.745"
-       fill="none"
-       stroke="#000000"
-       stroke-dasharray="0.25, 2"
-       stroke-miterlimit="10"
-       stroke-width="0.25" />
-  </g>
-  <g
-     id="g60"
-     transform="translate(0,-14.150028)">
-    <rect
-       id="rect39"
-       x="61.049999"
-       y="205.325"
-       width="13.36"
-       height="24.280001"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect40"
-       x="79.610001"
-       y="205.565"
-       width="13.36"
-       height="24.040001"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect41"
-       x="98.160004"
-       y="198.495"
-       width="13.36"
-       height="31.110001"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect42"
-       x="116.72"
-       y="153.315"
-       width="13.36"
-       height="76.279999"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect43"
-       x="135.28"
-       y="163.52499"
-       width="13.36"
-       height="66.080002"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect44"
-       x="153.83"
-       y="191.985"
-       width="13.36"
-       height="37.619999"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect45"
-       x="172.39"
-       y="145.735"
-       width="13.36"
-       height="83.870003"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect46"
-       x="190.94"
-       y="181.595"
-       width="13.36"
-       height="48.009998"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect47"
-       x="209.5"
-       y="221.815"
-       width="13.36"
-       height="7.79"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect48"
-       x="228.06"
-       y="195.405"
-       width="13.36"
-       height="34.200001"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect49"
-       x="246.61"
-       y="190.52499"
-       width="13.36"
-       height="39.080002"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect50"
-       x="265.17001"
-       y="190.765"
-       width="13.36"
-       height="38.84"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect51"
-       x="283.72"
-       y="205.30499"
-       width="13.36"
-       height="24.299999"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect52"
-       x="302.28"
-       y="192.47501"
-       width="13.36"
-       height="37.130001"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect53"
-       x="320.84"
-       y="207.325"
-       width="13.36"
-       height="22.280001"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect54"
-       x="339.39001"
-       y="227.94501"
-       width="13.36"
-       height="1.66"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect55"
-       x="357.95001"
-       y="191.925"
-       width="13.36"
-       height="37.669998"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect56"
-       x="376.5"
-       y="192.735"
-       width="13.36"
-       height="36.869999"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect57"
-       x="395.06"
-       y="159.91499"
-       width="13.36"
-       height="69.690002"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect58"
-       x="413.62"
-       y="229.605"
-       width="13.36"
-       height="71.529999"
-       fill="#ab2069"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect59"
-       x="432.17001"
-       y="172.535"
-       width="13.36"
-       height="57.07"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-    <rect
-       id="rect60"
-       x="450.73001"
-       y="126.365"
-       width="13.36"
-       height="103.24"
-       fill="#00a28a"
-       stroke="#ffffff"
-       stroke-miterlimit="10"
-       stroke-width="0.5" />
-  </g>
-  <line
-     id="line60"
-     x1="28.799999"
-     y1="215.45497"
-     x2="475.20001"
-     y2="215.45497"
-     fill="none"
-     stroke="#000000"
-     stroke-miterlimit="7.5" />
-  <rect
-     id="rect62"
-     x="281.69"
-     y="243.88498"
-     width="124.48"
-     height="30.540001"
-     fill="#ffffff" />
-  <polygon
-     id="polygon62"
-     points="422.4,231.395 420.3,232.445 418.19,231.395 420.3,236.635 "
-     fill="#ffffff"
-     transform="translate(0,-14.150028)" />
-  <g
-     id="text65"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
-    <g
+       id="text26"
        isolation="isolate"
-       id="g14">
-      <text
-         transform="translate(280.12,269.475)"
-         fill="#ab2069"
-         font-family="OpenSans-BoldItalic, 'Open Sans'"
-         font-size="12px"
-         font-style="italic"
-         font-weight="700"
+       transform="translate(0,-14.150028)">
+      <g
          isolation="isolate"
-         id="text14"><tspan
-           x="0"
-           y="0"
-           id="tspan14">More small businesses</tspan></text>
+         id="g5">
+        <text
+           transform="translate(369.46,92.925)"
+           font-size="10px"
+           isolation="isolate"
+           id="text10"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(369.46,92.925)"
+             font-size="10px"
+             isolation="isolate"
+             id="text9"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan10"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan9"
+               style="font-weight: normal; font-style: normal;">2018</tspan></tspan></text>
+      </g>
     </g>
     <g
+       id="text27"
        isolation="isolate"
-       id="g15">
-      <text
-         transform="translate(285.16,283.875)"
-         fill="#ab2069"
-         font-family="OpenSans-BoldItalic, 'Open Sans'"
-         font-size="12px"
-         font-style="italic"
-         font-weight="700"
+       transform="translate(0,-14.150028)">
+      <g
          isolation="isolate"
-         id="text15"><tspan
-           x="0"
-           y="0"
-           id="tspan15"
-           style="font-weight:bold">closing than opening</tspan></text>
+         id="g6">
+        <text
+           transform="translate(443.689,92.925)"
+           font-size="10px"
+           isolation="isolate"
+           id="text12"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(443.689,92.925)"
+             font-size="10px"
+             isolation="isolate"
+             id="text11"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan12"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan11"
+               style="font-weight: normal; font-style: normal;">2022</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g37"
+       transform="translate(0,-14.150028)">
+      <g
+         id="text28"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g7">
+          <text
+             transform="translate(28.8,278.685)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text14"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,278.685)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text13"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan14"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan13"
+                 style="font-weight: normal; font-style: normal;">-20K</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="text29"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g8">
+          <text
+             transform="translate(28.8,252.715)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text16"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,252.715)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text15"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan16"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan15"
+                 style="font-weight: normal; font-style: normal;">-10K</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="text30"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g9">
+          <text
+             transform="translate(28.8,226.755)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text18"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,226.755)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text17"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan18"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan17"
+                 style="font-weight: normal; font-style: normal;">0</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="text31"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g10">
+          <text
+             transform="translate(28.8,200.785)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text20"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,200.785)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text19"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan20"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan19"
+                 style="font-weight: normal; font-style: normal;">10K</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g32"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g11">
+          <text
+             transform="translate(28.8,174.825)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text32"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,174.825)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text21"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan22"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan21"
+                 style="font-weight: normal; font-style: normal;">20K</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g34"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g12">
+          <text
+             transform="translate(28.8,148.855)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text34"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,148.855)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text33"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan34"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan33"
+                 style="font-weight: normal; font-style: normal;">30K</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g36"
+         isolation="isolate">
+        <g
+           isolation="isolate"
+           id="g13">
+          <text
+             transform="translate(28.8,122.895)"
+             fill="#808285"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             id="text36"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(28.8,122.895)"
+               fill="#808285"
+               font-size="10px"
+               font-variation-settings="'wdth' 100, 'wght' 400"
+               isolation="isolate"
+               id="text35"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan36"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan35"
+                 style="font-weight: normal; font-style: normal;">40K</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="text65"
+       isolation="isolate"
+       transform="translate(0,-14.150028)">
+      <g
+         isolation="isolate"
+         id="g14">
+        <text
+           transform="translate(280.12,269.475)"
+           fill="#ab2069"
+           font-size="12px"
+           isolation="isolate"
+           id="text38"
+           style="font-family: OpenSansBoldItalic;"><text
+             transform="translate(280.12,269.475)"
+             fill="#ab2069"
+             font-size="12px"
+             isolation="isolate"
+             id="text37"
+             style="font-family: OpenSansBoldItalic;" /><tspan
+             x="0"
+             y="0"
+             id="tspan38"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan37"
+               style="font-weight: normal; font-style: normal;">More small businesses</tspan></tspan></text>
+      </g>
+      <g
+         isolation="isolate"
+         id="g15">
+        <text
+           transform="translate(285.16,283.875)"
+           fill="#ab2069"
+           font-size="12px"
+           isolation="isolate"
+           id="text40"
+           style="font-family: OpenSansBoldItalic;"><text
+             transform="translate(285.16,283.875)"
+             fill="#ab2069"
+             font-size="12px"
+             isolation="isolate"
+             id="text39"
+             style="font-family: OpenSansBoldItalic;" /><tspan
+             x="0"
+             y="0"
+             id="tspan40"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan39"
+               style="font-weight: normal; font-style: normal;">closing than opening</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="text67"
+       isolation="isolate">
+      <g
+         isolation="isolate"
+         id="g16">
+        <text
+           transform="translate(20.399,27.711)"
+           font-size="17px"
+           isolation="isolate"
+           id="text42"
+           style="font-style:normal;font-family:OpenSansBold"><text
+             transform="translate(20.399,27.711)"
+             font-size="17px"
+             isolation="isolate"
+             id="text41"
+             style="font-style:normal;font-family:OpenSansBold" /><tspan
+             x="0"
+             y="0"
+             id="tspan42"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"><tspan
+               x="0"
+               y="0"
+               id="tspan41"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold">Net change in small employer businesses</tspan></tspan></text>
+      </g>
+      <g
+         isolation="isolate"
+         id="g17"
+         transform="translate(0,-3.927022)">
+        <text
+           transform="translate(20.399,52.711)"
+           font-size="17px"
+           isolation="isolate"
+           id="text44"
+           style="font-style:normal;font-family:OpenSansBold"><text
+             transform="translate(20.399,52.711)"
+             font-size="17px"
+             isolation="isolate"
+             id="text43"
+             style="font-style:normal;font-family:OpenSansBold" /><tspan
+             x="0"
+             y="0"
+             id="tspan44"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"><tspan
+               x="0"
+               y="0"
+               id="tspan43"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold">in the private sector across Canada</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="text68"
+       isolation="isolate"
+       transform="translate(0,-14.150028)">
+      <g
+         isolation="isolate"
+         id="g18">
+        <text
+           transform="translate(21.6,316.925)"
+           fill="#999999"
+           font-size="8px"
+           isolation="isolate"
+           id="text46"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+             transform="translate(21.6,316.925)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             id="text45"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+             x="0"
+             y="0"
+             id="tspan46"
+             style="font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan45"
+               style="font-weight: normal; font-style: normal;">Data source: Statistics Canada (2024) Longitudinal Employment Analysis Program</tspan></tspan></text>
+      </g>
     </g>
   </g>
-  <g
-     id="text67"
-     isolation="isolate">
-    <g
-       isolation="isolate"
-       id="g16">
-      <text
-         transform="translate(20.399,27.711)"
-         font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-         font-size="17px"
-         font-weight="700"
-         isolation="isolate"
-         id="text16"><tspan
-           x="0"
-           y="0"
-           id="tspan16">Net change in small employer businesses</tspan></text>
-    </g>
-    <g
-       isolation="isolate"
-       id="g17"
-       transform="translate(0,-3.927022)">
-      <text
-         transform="translate(20.399,52.711)"
-         font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-         font-size="17px"
-         font-weight="700"
-         isolation="isolate"
-         id="text17"><tspan
-           x="0"
-           y="0"
-           id="tspan17">in the private sector across Canada</tspan></text>
-    </g>
-  </g>
-  <rect
-     id="rect67"
-     x="0"
-     y="14.4"
-     width="14.4"
-     height="14.4"
-     fill="#f1c500" />
-  <path
-     id="path37"
-     d="M 0,316.54997 H 489.6"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width="0.5" />
-  <path
-     id="path37-2"
-     d="M 0,0.5 H 489.6"
-     fill="none"
-     stroke="#f1c500"
-     stroke-miterlimit="2.25"
-     stroke-width="0.5" />
-  <g
-     id="text68"
-     isolation="isolate"
-     transform="translate(0,-14.150028)">
-    <g
-       isolation="isolate"
-       id="g18">
-      <text
-         transform="translate(21.6,316.925)"
-         fill="#999999"
-         font-family="OpenSans, 'Open Sans'"
-         font-size="8px"
-         isolation="isolate"
-         id="text18"><tspan
-           x="0"
-           y="0"
-           id="tspan18">Data source: Statistics Canada (2024) Longitudinal Employment Analysis Program</tspan></text>
-    </g>
-  </g>
-  <rect
-     id="rect72"
-     x="0"
-     y="14.4"
-     width="14.4"
-     height="14.4"
-     fill="#f1c500" />
 </svg>

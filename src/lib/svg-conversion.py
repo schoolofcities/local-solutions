@@ -14,11 +14,11 @@ FONT_MAP = {
 	"OpenSans-Light": "OpenSans",
 
 	# Bold variants
-	"Bold": "OpenSansBold",  # Catch-all for any font with bold weight
 	"OpenSans 24pt, Bold": "OpenSansBold",
 	"OpenSans 24pt Bold": "OpenSansBold",
 	"OpenSans Bold": "OpenSansBold",
 	"OpenSans24pt-Bold": "OpenSansBold",
+	"OpenSans-Bold, Open Sans": "OpenSansBold",
 	# "Bold": "InterBold",
 
 	# Italic variants
@@ -38,6 +38,8 @@ FONT_MAP = {
 	"TradeGothic LT Bold": "TradeGothicBold",
 	"TradeGothicLT-Bold": "TradeGothicBold",
 	"TradeGothicLT-Bold, 'TradeGothic LT Bold'": "TradeGothicBold",
+
+	"Bold": "OpenSansBold",
 }
 
 def get_svg_pixel_dimensions(root):
@@ -430,7 +432,7 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 from pathlib import Path
 
 def main():
-	folder = "community-prosperity"
+	folder = "civic-engagement"
 	input_dir = "../../static/web-assets/" + folder + "/original/"
 	output_dir = "../../static/web-assets/" + folder
 	print(input_dir)

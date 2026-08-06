@@ -6,7 +6,7 @@
    viewBox="0 0 489.6 223.2"
    version="1.1"
    sodipodi:docname="mental-health_travel-burden-bars.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="mental-health_travel-burden-bars.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -15,466 +15,569 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs29" />
+     id="defs46" />
   <sodipodi:namedview
-     id="namedview29"
+     id="namedview46"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     showgrid="false"
-     inkscape:zoom="1.3289651"
-     inkscape:cx="366.45056"
-     inkscape:cy="126.03792"
+     inkscape:zoom="2.7116936"
+     inkscape:cx="371.17025"
+     inkscape:cy="148.8"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
-       id="grid29"
-       units="in"
-       originx="0"
-       originy="0"
-       spacingx="0.74999994"
-       spacingy="0.75000006"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="false" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg29" />
   <g
-     id="layer1">
-    <rect
-       id="rect29"
-       x="0"
-       y=".5"
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
        width="489.6"
-       height="222.699"
-       fill="#fff" />
-    <path
-       id="path1"
-       d="M467.409,138.241v25.92c0,.795-.739,1.44-1.651,1.44h-45.251c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h45.251c.912,0,1.651.645,1.651,1.44Z"
-       fill="#ab2069"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path2"
-       d="M467.409,80.64v25.92c0,.795-.739,1.44-1.651,1.44h-5.526c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h5.526c.912,0,1.651.645,1.651,1.44Z"
-       fill="#ab2069"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path3"
-       d="M458.581,80.64v25.92c0,.795-.739,1.44-1.651,1.44h-9.94c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h9.94c.912,0,1.651.645,1.651,1.44Z"
-       fill="#dc4732"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path4"
-       d="M418.856,138.241v25.92c0,.795-.739,1.44-1.651,1.44h-71.735c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h71.735c.912,0,1.651.645,1.651,1.44h0Z"
-       fill="#dc4732"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path5"
-       d="M445.339,80.64v25.92c0,.795-.739,1.44-1.651,1.44h-32.009c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h32.009c.912,0,1.651.645,1.651,1.44Z"
-       fill="#efc419"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path6"
-       d="M343.818,138.241v25.92c0,.795-.739,1.44-1.651,1.44h-142.358c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h142.358c.912,0,1.651.645,1.651,1.44Z"
-       fill="#efc419"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path7"
-       d="M410.028,80.64v25.92c0,.795-.739,1.44-1.651,1.44h-54.079c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h54.079c.912,0,1.651.645,1.651,1.44Z"
-       fill="#00a28a"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path8"
-       d="M198.158,138.241v25.92c0,.795-.739,1.44-1.651,1.44h-89.391c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h89.391c.912,0,1.651.645,1.651,1.44Z"
-       fill="#00a28a"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path9"
-       d="M352.646,80.64v25.92c0,.795-.739,1.44-1.651,1.44H23.251c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h327.744c.912,0,1.651.645,1.651,1.44Z"
-       fill="#067fa3"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path10"
-       d="M105.465,138.241v25.92c0,.795-.739,1.44-1.651,1.44H23.251c-.912,0-1.651-.645-1.651-1.44v-25.92c0-.795.739-1.44,1.651-1.44h80.563c.912,0,1.651.645,1.651,1.44Z"
-       fill="#067fa3"
-       stroke="#fff"
-       stroke-miterlimit="10"
-       stroke-width=".5" />
-    <path
-       id="path37"
-       d="M0,222.699h489.6"
-       fill="none"
-       stroke="#f1c500"
-       stroke-miterlimit="2.25"
-       stroke-width=".5" />
+       height="223.2"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABRkAAAJTCAYAAACM4hECAAAABmJLR0QA/wD/AP+gvaeTAAAbGklEQVR4nO3df6ydB13H8e9zzrn9cXvbbt06unWjHZtjjrmyIb8XkSygAQzI78CUaHT7Q2M0RBJjUKNGRBMxzh+A+CsgahARfzAw6JhhY1EWGOJ0m2xjY91G261de7vbe895Hv/oNsysAfdp79N7z+v1T9N72qefm94nPed9z/O0eeTGelUBAAAAADxFzYEbqut7BAAAAACwcjXtZF5kBAAAAACesqbrOpERAAAAAHjKBn0PAAAAAABWNpERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIwW7vyxvjcc08zWK2u48YV9zwAAAAAAvonR4gO/2/eGYxrOPUdkBAAAAIAVwOXSAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAIDIaLjhsr43HFMzOr3vCQAAAADAt6Dpuq7rewQAAAAAsHK5XBoAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAA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EQAAAADAyuWejAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAIDI1EXGpUlbk67rewasWkuTtibt/z7HuqpabCfl7IOVaalta9y1x3ikq+oWj/4IwOrXTaq6pWM/NF6qao/1bwVMiXZS3Xh87IeWxtUd43USq0zXVbs0rprS7jTqe8ByGbddDZqqv/jy3XX9XQ/W/NKxT3wgs21ufb1117l16ZlbatA0VVU17tp68NHD9Tu3faHuOrRf6IcV6GnrNtSbdj6zXnzG2VVV1VRVdePqxgfqyP1/WO3CXdV1k143AnDiNcMNNdp8ea3Z+pqqrq1qRo9Fla4e+fuP1pHbb61u8UjfM6EXzfrZWn/Jc2rjFa+srm2rGQ6rHU+quqo7/+yz9fAtX63JwrEjPatDMxrU3NO31nlv++5ae8qGakbT9d6+puum49X+ocWl+p4/+XR9/r59fU+BVa+pqp968UX1Ky+7rNq2rb+85/b6oRuvrUcn4j6sdFd926563wteXtWNa7z/n2v+tqurm8z3PQuAZTacu7TmLv5INYN1Nd67p3a/40dr6f77+p4F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ACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgIjICAAAAABGREQAAAACIiIwAAAAAQERkBAAAAAAiIiMAAAAAEBEZAQAAAICIyAgAAAAARERGAAAAACAiMgIAAAAAEZERAAAAAIiIjAAAAABARGQEAAAAACIiIwAAAAAQERkBAAAAgIjICAAAAABEREYAAAAAICIyAgAAAAARkREAAAAAiIiMAAAAAEBEZAQAAAAAIiIjAAAAABARGQEAAACAiMgIAAAAAERERgAAAAAgMuraw31vAAAAAABWsObADdX1PQIAAAAAWLmapYc+fqTvEQAAAADAyvXfzxdbGFHdKZAAAAAASUVORK5CYII="
+       id="image1" />
+  </g>
+  <g
+     id="foreground">
     <g
-       id="text49"
-       isolation="isolate">
+       id="layer1">
       <g
-         id="text10"
+         id="text49"
          isolation="isolate">
-        <text
-           transform="translate(21.06 27.711) rotate(.17)"
-           font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
-           font-size="17"
-           font-weight="700"
-           isolation="isolate"
-           id="text1"><tspan
-             x="0"
-             y="0"
-             id="tspan1">Hospital travel burden for urban and rural residents</tspan></text>
-      </g>
-    </g>
-    <g
-       id="text51"
-       isolation="isolate">
-      <g
-         id="text11"
-         isolation="isolate">
-        <text
-           transform="translate(21.6 208.515)"
-           fill="#999"
-           font-family="OpenSans, 'Open Sans'"
-           font-size="8"
-           isolation="isolate"
-           id="text2"><tspan
-             x="0"
-             y="0"
-             id="tspan2">Data source: Hospital Morbidity Database (CIHI, 2018-2023), Statistics Canada (2024)</tspan></text>
-      </g>
-    </g>
-    <rect
-       id="rect72"
-       y="14.4"
-       width="14.4"
-       height="14.4"
-       fill="#f1c500" />
-    <path
-       id="path37-2"
-       d="M0,.5h489.6"
-       fill="none"
-       stroke="#f1c500"
-       stroke-miterlimit="2.25"
-       stroke-width=".5" />
-    <g
-       id="Layer_1"
-       data-name="Layer 1">
-      <g
-         id="text13"
-         isolation="isolate">
-        <text
-           transform="translate(21.6 43.2)"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="9"
-           font-style="italic"
-           font-variation-settings="'wght' 400, 'wdth' 100"
-           isolation="isolate"
-           id="text3"><tspan
-             x="0"
-             y="0"
-             id="tspan3">Factors that impact travel burden include patient living in a different census subdivision than the hospital, greater </tspan></text>
-        <text
-           transform="translate(21.6 54)"
-           font-family="OpenSans-Italic, 'Open Sans'"
-           font-size="9"
-           font-style="italic"
-           font-variation-settings="'wght' 400, 'wdth' 100"
-           isolation="isolate"
-           id="text4"><tspan
-             x="0"
-             y="0"
-             id="tspan4">travel distance required, no road available, patient is a senior or child, and hospitalization is urgent or unscheduled.</tspan></text>
+        <g
+           id="text10"
+           isolation="isolate">
+          <text
+             transform="rotate(0.17,-9329.0122,7111.7863)"
+             font-size="17px"
+             isolation="isolate"
+             id="text2"
+             style="font-style:normal;font-family:OpenSansBold"><text
+               transform="rotate(0.17,-9329.0122,7111.7863)"
+               font-size="17px"
+               isolation="isolate"
+               id="text1"
+               style="font-style:normal;font-family:OpenSansBold" /><tspan
+               x="0"
+               y="0"
+               id="tspan2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold">Hospital travel burden for urban and rural residents</tspan></tspan></text>
+        </g>
       </g>
       <g
-         id="text14"
+         id="text51"
          isolation="isolate">
-        <text
-           transform="translate(20.979 75.602)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text5"><tspan
-             x="0"
-             y="0"
-             id="tspan5">Urban</tspan></text>
+        <g
+           id="text11"
+           isolation="isolate">
+          <text
+             transform="translate(21.6 208.515)"
+             fill="#999"
+             font-size="8"
+             isolation="isolate"
+             id="text4"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+               transform="translate(21.6 208.515)"
+               fill="#999"
+               font-size="8"
+               isolation="isolate"
+               id="text3"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan4"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan3"
+                 style="font-weight: normal; font-style: normal;">Data source: Hospital Morbidity Database (CIHI, 2018-2023), Statistics Canada (2024)</tspan></tspan></text>
+        </g>
       </g>
       <g
-         id="text15"
-         isolation="isolate">
-        <text
-           transform="translate(42.014 180.002)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10"
-           font-weight="700"
-           isolation="isolate"
-           id="text6"><tspan
-             x="0"
-             y="0"
-             id="tspan6">Very low</tspan></text>
-        <text
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10px"
-           font-weight="700"
-           isolation="isolate"
-           id="text6-1"
-           x="29.93922"
-           y="191.69861"><tspan
+         id="Layer_1"
+         data-name="Layer 1">
+        <g
+           id="text13"
+           isolation="isolate">
+          <text
+             transform="translate(21.6 43.2)"
+             font-size="9"
+             font-variation-settings="'wght' 400, 'wdth' 100"
+             isolation="isolate"
+             id="text6"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(21.6 43.2)"
+               font-size="9"
+               font-variation-settings="'wght' 400, 'wdth' 100"
+               isolation="isolate"
+               id="text5"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan6"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan5"
+                 style="font-weight: normal; font-style: normal;">Factors that impact travel burden include patient living in a different census subdivision than the hospital, greater </tspan></tspan></text>
+          <text
+             transform="translate(21.6 54)"
+             font-size="9"
+             font-variation-settings="'wght' 400, 'wdth' 100"
+             isolation="isolate"
+             id="text8"
+             style="font-family: OpenSansItalic; font-weight: normal;"><text
+               transform="translate(21.6 54)"
+               font-size="9"
+               font-variation-settings="'wght' 400, 'wdth' 100"
+               isolation="isolate"
+               id="text7"
+               style="font-family: OpenSansItalic; font-weight: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan8"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan7"
+                 style="font-weight: normal; font-style: normal;">travel distance required, no road available, patient is a senior or child, and hospitalization is urgent or unscheduled.</tspan></tspan></text>
+        </g>
+        <g
+           id="text14"
+           isolation="isolate">
+          <text
+             transform="translate(20.979 75.602)"
+             font-size="11"
+             isolation="isolate"
+             id="text12"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(20.979 75.602)"
+               font-size="11"
+               isolation="isolate"
+               id="text9"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan10"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan9"
+                 style="font-weight: normal; font-style: normal;">Urban</tspan></tspan></text>
+        </g>
+        <g
+           id="g18"
+           isolation="isolate">
+          <text
+             transform="translate(42.014 180.002)"
+             font-size="10"
+             isolation="isolate"
+             id="text16"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(42.014 180.002)"
+               font-size="10"
+               isolation="isolate"
+               id="text15"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan16"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan15"
+                 style="font-weight: normal; font-style: normal;">Very low</tspan></tspan></text>
+          <text
+             font-size="10px"
+             isolation="isolate"
+             id="text17"
              x="29.93922"
              y="191.69861"
-             id="tspan6-5">travel burden</tspan></text>
-        <text
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10px"
-           font-weight="700"
-           isolation="isolate"
-           id="text6-1-7"
-           x="409.0965"
-           y="191.55428"><tspan
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               font-size="10px"
+               isolation="isolate"
+               id="text6-1"
+               x="29.93922"
+               y="191.69861"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="29.93922"
+               y="191.69861"
+               id="tspan17"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="29.93922"
+                 y="191.69861"
+                 id="tspan6-5"
+                 style="font-weight: normal; font-style: normal;">travel burden</tspan></tspan></text>
+          <text
+             font-size="10px"
+             isolation="isolate"
+             id="text18"
              x="409.0965"
              y="191.55428"
-             id="tspan6-5-7">travel burden</tspan></text>
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               font-size="10px"
+               isolation="isolate"
+               id="text6-1-7"
+               x="409.0965"
+               y="191.55428"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="409.0965"
+               y="191.55428"
+               id="tspan18"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="409.0965"
+                 y="191.55428"
+                 id="tspan6-5-7"
+                 style="font-weight: normal; font-style: normal;">travel burden</tspan></tspan></text>
+        </g>
+        <g
+           id="g20"
+           isolation="isolate">
+          <text
+             transform="translate(52.789 154.737)"
+             fill="#fff"
+             font-size="11"
+             isolation="isolate"
+             id="text20"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(52.789 154.737)"
+               fill="#fff"
+               font-size="11"
+               isolation="isolate"
+               id="text19"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan20"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan19"
+                 style="font-weight: normal; font-style: normal;">19%</tspan></tspan></text>
+        </g>
+        <g
+           id="g22"
+           isolation="isolate">
+          <text
+             transform="translate(175.879 96.738)"
+             fill="#fff"
+             font-size="11"
+             isolation="isolate"
+             id="text22"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(175.879 96.738)"
+               fill="#fff"
+               font-size="11"
+               isolation="isolate"
+               id="text21"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan22"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan21"
+                 style="font-weight: normal; font-style: normal;">75%</tspan></tspan></text>
+        </g>
+        <g
+           id="g24"
+           isolation="isolate">
+          <text
+             transform="translate(140.567 154.737)"
+             fill="#fff"
+             font-size="11"
+             isolation="isolate"
+             id="text24"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(140.567 154.737)"
+               fill="#fff"
+               font-size="11"
+               isolation="isolate"
+               id="text23"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan24"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan23"
+                 style="font-weight: normal; font-style: normal;">21%</tspan></tspan></text>
+        </g>
+        <g
+           id="g26"
+           isolation="isolate">
+          <text
+             transform="translate(370.093 96.859)"
+             fill="#fff"
+             font-size="11"
+             isolation="isolate"
+             id="text26"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(370.093 96.859)"
+               fill="#fff"
+               font-size="11"
+               isolation="isolate"
+               id="text25"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan26"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan25"
+                 style="font-weight: normal; font-style: normal;">13%</tspan></tspan></text>
+        </g>
+        <g
+           id="g28"
+           isolation="isolate">
+          <text
+             transform="translate(419.584 96.859)"
+             font-size="11"
+             isolation="isolate"
+             id="text28"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(419.584 96.859)"
+               font-size="11"
+               isolation="isolate"
+               id="text27"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan27"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan12"
+                 style="font-weight: normal; font-style: normal;">8%</tspan></tspan></text>
+        </g>
+        <g
+           id="g21"
+           isolation="isolate">
+          <text
+             transform="translate(448.275 120.619)"
+             font-size="11"
+             isolation="isolate"
+             id="text30"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(448.275 120.619)"
+               font-size="11"
+               isolation="isolate"
+               id="text29"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan30"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan29"
+                 style="font-weight: normal; font-style: normal;">4%</tspan></tspan></text>
+        </g>
+        <g
+           id="g32"
+           isolation="isolate">
+          <text
+             transform="translate(259.744 154.737)"
+             font-size="11"
+             isolation="isolate"
+             id="text32"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(259.744 154.737)"
+               font-size="11"
+               isolation="isolate"
+               id="text31"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan32"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan31"
+                 style="font-weight: normal; font-style: normal;">33%</tspan></tspan></text>
+        </g>
+        <g
+           id="g23"
+           isolation="isolate">
+          <text
+             transform="translate(370.092 154.737)"
+             fill="#fff"
+             font-size="11"
+             isolation="isolate"
+             id="text34"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(370.092 154.737)"
+               fill="#fff"
+               font-size="11"
+               isolation="isolate"
+               id="text33"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan34"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan33"
+                 style="font-weight: normal; font-style: normal;">17%</tspan></tspan></text>
+        </g>
+        <g
+           id="g36"
+           isolation="isolate">
+          <text
+             transform="translate(431.888 154.737)"
+             fill="#fff"
+             font-size="11"
+             isolation="isolate"
+             id="text36"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(431.888 154.737)"
+               fill="#fff"
+               font-size="11"
+               isolation="isolate"
+               id="text35"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan36"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan35"
+                 style="font-weight: normal; font-style: normal;">11%</tspan></tspan></text>
+        </g>
+        <g
+           id="g25"
+           isolation="isolate">
+          <text
+             transform="translate(141.612 180.001)"
+             font-size="10"
+             isolation="isolate"
+             id="text38"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(141.612 180.001)"
+               font-size="10"
+               isolation="isolate"
+               id="text37"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan38"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan37"
+                 style="font-weight: normal; font-style: normal;">Low</tspan></tspan></text>
+        </g>
+        <g
+           id="g40"
+           isolation="isolate">
+          <text
+             transform="translate(246.645 180.002)"
+             font-size="10"
+             isolation="isolate"
+             id="text40"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(246.645 180.002)"
+               font-size="10"
+               isolation="isolate"
+               id="text39"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan40"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan39"
+                 style="font-weight: normal; font-style: normal;">Moderate</tspan></tspan></text>
+        </g>
+        <g
+           id="g27"
+           isolation="isolate">
+          <text
+             transform="translate(369.874 180.001)"
+             font-size="10"
+             isolation="isolate"
+             id="text42"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(369.874 180.001)"
+               font-size="10"
+               isolation="isolate"
+               id="text41"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan42"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan41"
+                 style="font-weight: normal; font-style: normal;">High</tspan></tspan></text>
+        </g>
+        <g
+           id="g44"
+           isolation="isolate">
+          <text
+             transform="translate(419.592 180.002)"
+             font-size="10"
+             isolation="isolate"
+             id="text44"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(419.592 180.002)"
+               font-size="10"
+               isolation="isolate"
+               id="text43"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan44"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan43"
+                 style="font-weight: normal; font-style: normal;">Very high</tspan></tspan></text>
+        </g>
+        <g
+           id="g29"
+           isolation="isolate">
+          <text
+             transform="translate(21.085 133.203)"
+             font-size="11"
+             isolation="isolate"
+             id="text46"
+             style="font-family: OpenSansBold; font-style: normal;"><text
+               transform="translate(21.085 133.203)"
+               font-size="11"
+               isolation="isolate"
+               id="text45"
+               style="font-family: OpenSansBold; font-style: normal;" /><tspan
+               x="0"
+               y="0"
+               id="tspan45"
+               style="font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan28"
+                 style="font-weight: normal; font-style: normal;">Rural</tspan></tspan></text>
+        </g>
       </g>
-      <g
-         id="text16"
-         isolation="isolate">
-        <text
-           transform="translate(52.789 154.737)"
-           fill="#fff"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text7"><tspan
-             x="0"
-             y="0"
-             id="tspan7">19%</tspan></text>
-      </g>
-      <g
-         id="text17"
-         isolation="isolate">
-        <text
-           transform="translate(175.879 96.738)"
-           fill="#fff"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text8"><tspan
-             x="0"
-             y="0"
-             id="tspan8">75%</tspan></text>
-      </g>
-      <g
-         id="text18"
-         isolation="isolate">
-        <text
-           transform="translate(140.567 154.737)"
-           fill="#fff"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text9"><tspan
-             x="0"
-             y="0"
-             id="tspan9">21%</tspan></text>
-      </g>
-      <g
-         id="text19"
-         isolation="isolate">
-        <text
-           transform="translate(370.093 96.859)"
-           fill="#fff"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text12"><tspan
-             x="0"
-             y="0"
-             id="tspan10">13%</tspan></text>
-      </g>
-      <g
-         id="g20"
-         isolation="isolate">
-        <text
-           transform="translate(419.584 96.859)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text20"><tspan
-             x="0"
-             y="0"
-             id="tspan12">8%</tspan></text>
-      </g>
-      <g
-         id="g21"
-         isolation="isolate">
-        <text
-           transform="translate(448.275 120.619)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text21"><tspan
-             x="0"
-             y="0"
-             id="tspan20">4%</tspan></text>
-      </g>
-      <g
-         id="g22"
-         isolation="isolate">
-        <text
-           transform="translate(259.744 154.737)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text22"><tspan
-             x="0"
-             y="0"
-             id="tspan21">33%</tspan></text>
-      </g>
-      <g
-         id="g23"
-         isolation="isolate">
-        <text
-           transform="translate(370.092 154.737)"
-           fill="#fff"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text23"><tspan
-             x="0"
-             y="0"
-             id="tspan22">17%</tspan></text>
-      </g>
-      <g
-         id="g24"
-         isolation="isolate">
-        <text
-           transform="translate(431.888 154.737)"
-           fill="#fff"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text24"><tspan
-             x="0"
-             y="0"
-             id="tspan23">11%</tspan></text>
-      </g>
-      <g
-         id="g25"
-         isolation="isolate">
-        <text
-           transform="translate(141.612 180.001)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10"
-           font-weight="700"
-           isolation="isolate"
-           id="text25"><tspan
-             x="0"
-             y="0"
-             id="tspan24">Low</tspan></text>
-      </g>
-      <g
-         id="g26"
-         isolation="isolate">
-        <text
-           transform="translate(246.645 180.002)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10"
-           font-weight="700"
-           isolation="isolate"
-           id="text26"><tspan
-             x="0"
-             y="0"
-             id="tspan25">Moderate</tspan></text>
-      </g>
-      <g
-         id="g27"
-         isolation="isolate">
-        <text
-           transform="translate(369.874 180.001)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10"
-           font-weight="700"
-           isolation="isolate"
-           id="text27"><tspan
-             x="0"
-             y="0"
-             id="tspan26">High</tspan></text>
-      </g>
-      <g
-         id="g28"
-         isolation="isolate">
-        <text
-           transform="translate(419.592 180.002)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="10"
-           font-weight="700"
-           isolation="isolate"
-           id="text28"><tspan
-             x="0"
-             y="0"
-             id="tspan27">Very high</tspan></text>
-      </g>
-      <g
-         id="g29"
-         isolation="isolate">
-        <text
-           transform="translate(21.085 133.203)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="11"
-           font-weight="700"
-           isolation="isolate"
-           id="text29"><tspan
-             x="0"
-             y="0"
-             id="tspan28">Rural</tspan></text>
-      </g>
-      <polyline
-         id="polyline29"
-         points="445.339 108.721 445.339 110.36 467.409 110.36 467.409 108.721"
-         fill="none"
-         stroke="#ab2069"
-         stroke-miterlimit="10"
-         stroke-width=".5"
-         style="stroke:#77767b" />
     </g>
   </g>
 </svg>

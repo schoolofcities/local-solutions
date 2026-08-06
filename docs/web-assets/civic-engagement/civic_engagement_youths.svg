@@ -1,149 +1,1079 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg59" xmlns="http://www.w3.org/2000/svg" width="3.4in" height="5.6in" viewBox="0 0 244.8 403.2">
-  <g id="white">
-    <rect id="rect1" x="0" width="245.096" height="402.7" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg59"
+   width="3.4in"
+   height="5.6in"
+   viewBox="0 0 244.8 403.2"
+   version="1.1"
+   sodipodi:docname="civic_engagement_youths.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs112" />
+  <sodipodi:namedview
+     id="namedview112"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showguides="true"
+     inkscape:zoom="1.5011161"
+     inkscape:cx="162.87881"
+     inkscape:cy="268.8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <g
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
+       width="244.8"
+       height="403.2"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,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EQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAA0bL3AG6me17+imrDsfeMkzsej1XVark86z3l5IbjsdrUz7ZYVs1mveec1DAcq7VWi8WyZnfB2VZ/6KN7TwAeB8FIF/d++df0nnAltpe3q7VWm4tbvaec3G57WeM41npzcVeExyntttsax6HW603N5tN68bLfbWsYhlqtNzWf2NmAO8fTAwCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIHIPI11sf+Vrq9qh94yTe/QC6O0UL7d+zwXQu0mebajWxtpN8uLu3znbHbk/c3Ze62e/5uq/DnBHCUa62P/md1WNu94zrsy+94Ar5GzX03invtB8LRhhgrySBgAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAACiZe8B3Ey3XvCjVTX2nnFy+922Wqtarde9p5zcYb+rcWx1vlrVbDbrPeekDvt9jeNY5+fnNZtP63P04bCvcRjr7Py85nfibLPF1X8N4I4TjHSxeNKn9p5wJWaXt6taq8XFrd5TTu64vazZONZiczG5YDxutzUbh1qsN5MLxmG3rTY8crY7EozAJHl6AAAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARO5hpIuH3vxRVeO294yTa61VVdVDE7unsOp3zvaws10rj55teJxnO7//6+r86a865STgGhKMdDHuf7Vq3PWecWVa7wFXyNmup8d7tja866Q7gOvJK2kAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAADRsvcAbqbZ8t6qcdt7xsm11qqqajabdV5yBVqrVs52/bRq7fGfbTa/OPEe4DoSjHTxxD/8670nXInt5e1qrdXm4lbvKSe3217WOI613lxMLqx2222N41Dr9aZm82m9eNnvtjUMQ63Wm5pP7GzAnePpAQBAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAELmHkS6Gh99c1cbeM06u7bbVWqth3PSecnLjfldtHGsY1pO7h3Hc76uNQw3H1V19D+Pi1ourZoveM4AbSDDSxcNv+eSqcdd7xpU59h5whZytnyd+0ttrtnxK7xnADXT3fpQGAOCuIBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEq4EdBcAAAUNSURBVIwAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEy94DuJnO73tltXboPePkhuFY1aoWy+l9aw3DUNXatM+2WFTNZr3nvG/zde8FwA01vSc/18L6ud/de8KV2F7ertZabS5u9Z5ycrvtZY3jWOvNRc3u5qh6HHbbbY3jUOv1pmZzL14Afi9PRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEC17D2D6nv3sZ9db3/rWqqp60pOe1HnN1frhH/kP9eBDD9Vf/JJX1HI5rW+vf/+jP1HveMc76s//2S+si4tN7zkn9eM/+aZ62/99W/3pl7+s7rlnWv8ffdNP/XT96q/9Wn3+535OPfWp9/aec1I//Z9+tv7PL/9y/cmXflZ9+NOf3nvOSf2X//rf6hd+8X/WS/74Z9RHPOuZveeAYOTqLZfLeuYzb8YD7+GHb9dDDz1crfVecnq3bz96trH3lJO7vLyshx56uMZxgmfbbuuhhx6uYRh6Tzm57aNnO07xbLt66KGH63g49J4CVeWVNAAA74dgBAAgmrU2xZdn0Mfb3/72Goaxnva0p9ZsNus956Te8Y531vF4rKc+9d6az6f1WfOd7/ztOhwOde+9T6nFYtF7zkn99rveVfvdvp785CfX2dm0/iukd7/73bXd7upDPuSeOj8/7z3npB588MG6vNzWPfc8qVarVe85IBgBAMim9WMCAABOTjACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAJRgAAIsEIAEAkGAEAiAQjAACRYAQAIBKMAABEghEAgEgwAgAQCUYAACLBCABAJBgBAIgEIwAAkWAEACASjAAARIIRAIBIMAIAEAlGAAAiwQgAQCQYAQCIBCMAAJFgBAAgEowAAESCEQCASDACABAt3/0fl7/ZewQAAHevZdXwbb1HAABw9/p/JmomYObVmmkAAAAASUVORK5CYII="
+       id="image1" />
   </g>
-  <g id="Layer_1" data-name="Layer 1">
-    <g id="g50">
-      <line id="line45" x1="80.006" y1="345.632" x2="80.006" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line46" x1="100.677" y1="345.631" x2="100.678" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line47" x1="121.349" y1="345.631" x2="121.349" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line48" x1="142.02" y1="345.631" x2="142.02" y2="86.01" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line49" x1="162.692" y1="345.631" x2="162.692" y2="86.009" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line50" x1="183.363" y1="345.631" x2="183.363" y2="86.009" fill="none" stroke="#f6f5f4" stroke-miterlimit="10" stroke-width=".72"/>
-    </g>
-    <g id="g50-7">
-      <line id="line45-5" x1="80.006" y1="347.169" x2="80.006" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line46-3" x1="100.677" y1="347.169" x2="100.678" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line47-5" x1="121.349" y1="347.169" x2="121.349" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line48-6" x1="142.02" y1="347.169" x2="142.02" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line49-2" x1="162.692" y1="347.169" x2="162.692" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
-      <line id="line50-9" x1="183.363" y1="347.169" x2="183.363" y2="345.631" fill="none" stroke="#939598" stroke-miterlimit="10" stroke-width=".72"/>
-    </g>
-    <g id="g22">
-      <rect id="rect2" x="59.335" y="330.495" width="77.36" height="8.565" fill="#f1c500"/>
-      <rect id="rect3" x="59.335" y="318.599" width="88.405" height="8.565" fill="#f1c500"/>
-      <rect id="rect4" x="59.335" y="306.703" width="93.089" height="8.565" fill="#f1c500"/>
-      <rect id="rect5" x="59.335" y="294.807" width="95.89" height="8.565" fill="#dc4732"/>
-      <rect id="rect6" x="59.335" y="282.911" width="111.782" height="8.565" fill="#dc4732"/>
-      <rect id="rect7" x="59.335" y="271.015" width="123.848" height="8.565" fill="#dc4732"/>
-      <rect id="rect8" x="59.335" y="259.119" width="131.293" height="8.565" fill="#1e3864"/>
-      <rect id="rect9" x="59.335" y="247.223" width="125.373" height="8.565" fill="#1e3864"/>
-      <rect id="rect10" x="59.335" y="235.327" width="118.225" height="8.565" fill="#1e3864"/>
-      <rect id="rect11" x="59.335" y="223.431" width="107.217" height="8.565" fill="#1e3864"/>
-      <rect id="rect12" x="59.335" y="211.535" width="101.179" height="8.565" fill="#1e3864"/>
-      <rect id="rect13" x="59.335" y="199.639" width="101.143" height="8.565" fill="#1e3864"/>
-      <rect id="rect14" x="59.335" y="187.743" width="111.965" height="8.565" fill="#1e3864"/>
-      <rect id="rect15" x="59.335" y="175.847" width="103.121" height="8.565" fill="#1e3864"/>
-      <rect id="rect16" x="59.335" y="163.951" width="84.527" height="8.565" fill="#1e3864"/>
-      <rect id="rect17" x="59.335" y="152.055" width="66.543" height="8.565" fill="#1e3864"/>
-      <rect id="rect18" x="59.335" y="140.159" width="41.685" height="8.565" fill="#1e3864"/>
-      <rect id="rect19" x="59.335" y="128.263" width="23.97" height="8.565" fill="#1e3864"/>
-      <rect id="rect20" x="59.335" y="116.367" width="11.397" height="8.565" fill="#1e3864"/>
-      <rect id="rect21" x="59.335" y="104.471" width="3.476" height="8.565" fill="#1e3864"/>
-      <rect id="rect22" x="59.335" y="92.575" width=".508" height="8.565" fill="#1e3864"/>
-    </g>
-    <g id="text22" isolation="isolate">
-      <text transform="translate(33.872 336.702)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">0 to 4</tspan></text>
-    </g>
-    <g id="text23" isolation="isolate">
-      <text transform="translate(33.872 324.807)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">5 to 9</tspan></text>
-    </g>
-    <g id="text24" isolation="isolate">
-      <text transform="translate(24.723 312.91)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">10 to 14</tspan></text>
-    </g>
-    <g id="text25" isolation="isolate">
-      <text transform="translate(24.723 301.015)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">15 to 19</tspan></text>
-    </g>
-    <g id="text26" isolation="isolate">
-      <text transform="translate(24.723 289.119)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">20 to 24</tspan></text>
-    </g>
-    <g id="text27" isolation="isolate">
-      <text transform="translate(24.723 277.223)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">25 to 29</tspan></text>
-    </g>
-    <g id="text28" isolation="isolate">
-      <text transform="translate(24.723 265.326)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">30 to 34</tspan></text>
-    </g>
-    <g id="text29" isolation="isolate">
-      <text transform="translate(24.723 253.431)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">35 to 39</tspan></text>
-    </g>
-    <g id="text30" isolation="isolate">
-      <text transform="translate(24.723 241.535)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">40 to 44</tspan></text>
-    </g>
-    <g id="text31" isolation="isolate">
-      <text transform="translate(24.723 229.639)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">45 to 49</tspan></text>
-    </g>
-    <g id="text32" isolation="isolate">
-      <text transform="translate(24.723 217.743)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">50 to 54</tspan></text>
-    </g>
-    <g id="text33" isolation="isolate">
-      <text transform="translate(24.723 205.847)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">55 to 59</tspan></text>
-    </g>
-    <g id="text34" isolation="isolate">
-      <text transform="translate(24.723 193.951)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">60 to 64</tspan></text>
-    </g>
-    <g id="text35" isolation="isolate">
-      <text transform="translate(24.723 182.055)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">65 to 69</tspan></text>
-    </g>
-    <g id="text36" isolation="isolate">
-      <text transform="translate(24.723 170.158)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">70 to 74</tspan></text>
-    </g>
-    <g id="text37" isolation="isolate">
-      <text transform="translate(24.723 158.263)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">75 to 79</tspan></text>
-    </g>
-    <g id="text38" isolation="isolate">
-      <text transform="translate(24.723 146.366)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">80 to 84</tspan></text>
-    </g>
-    <g id="text39" isolation="isolate">
-      <text transform="translate(24.723 134.47)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">85 to 89</tspan></text>
-    </g>
-    <g id="text40" isolation="isolate">
-      <text transform="translate(24.723 122.575)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">90 to 94</tspan></text>
-    </g>
-    <g id="text41" isolation="isolate">
-      <text transform="translate(24.723 110.679)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">95 to 99</tspan></text>
-    </g>
-    <g id="text42" isolation="isolate">
-      <text transform="translate(34.458 98.783)" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">100 +</tspan></text>
-    </g>
-    <g id="text43" isolation="isolate">
-      <text transform="translate(135.677 357.951)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">2.0</tspan></text>
-    </g>
-    <g id="text44" isolation="isolate">
-      <text transform="translate(94.334 357.951)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">1.0</tspan></text>
-    </g>
-    <g id="text45" isolation="isolate">
-      <text transform="translate(56.762 357.951)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">0</tspan></text>
-    </g>
-    <rect id="rect75" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-    <rect id="rect72" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-    <g id="text51" isolation="isolate">
-      <text transform="translate(20.96 27.675)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">More than 14 million </tspan></text>
-      <text transform="translate(20.96 48.925)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">children and youth live in </tspan></text>
-      <text transform="translate(20.96 70.175)" font-family="TradeGothicLT-Bold, &apos;TradeGothic LT Bold&apos;" font-size="17" font-weight="700" isolation="isolate"><tspan x="0" y="0">Canada in 2025</tspan></text>
-    </g>
-    <rect id="rect75-2" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-    <rect id="rect72-2" x="0" y="14.4" width="14.4" height="14.4" fill="#f1c500"/>
-    <g id="text52" isolation="isolate">
-      <text transform="translate(177.02 358.05)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="9" isolation="isolate"><tspan x="0" y="0">3.0 million</tspan></text>
-    </g>
-    <line id="line52" x1="58.268" y1="345.632" x2="58.268" y2="86.01" fill="none" stroke="#000" stroke-miterlimit="10"/>
-    <g id="text64" isolation="isolate">
-      <g id="text54" isolation="isolate">
-        <text transform="translate(21.751 378.909)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Data source: Statistics Canada (2025) Annual</tspan></text>
-        <text transform="translate(21.751 388.509)" fill="#999" font-family="OpenSans, &apos;Open Sans&apos;" font-size="8" isolation="isolate"><tspan x="0" y="0">Demographic Estimates</tspan></text>
+  <g
+     id="foreground">
+    <g
+       id="Layer_1"
+       data-name="Layer 1">
+      <g
+         id="text22"
+         isolation="isolate">
+        <text
+           transform="translate(33.872 336.702)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text2"><text
+             transform="translate(33.872 336.702)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text1" /></text>
+        <text
+           transform="translate(33.872 336.702)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text3"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan3"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan2">0 to 4</tspan></tspan></text>
       </g>
-    </g>
-    <path id="path37" d="M0,402.95h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-    <path id="path37-2" d="M0,.258h244.8" fill="none" stroke="#f1c500" stroke-miterlimit="2.25" stroke-width=".5"/>
-    <g id="text57" isolation="isolate">
-      <text transform="translate(187.062 285.819) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">Youth</tspan></text>
-      <text transform="translate(211.966 285.819) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700"><tspan x="0" y="0"> </tspan></text>
-      <text transform="translate(177.433 296.084) scale(1.096 1)" fill="#dc4732" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">population</tspan></text>
-    </g>
-    <g id="text57-2" isolation="isolate">
-      <text transform="translate(167.121 321.502) scale(1.096 1)" fill="#f1c500" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">Child</tspan></text>
-      <text transform="translate(154.688 331.767) scale(1.096 1)" fill="#f1c500" font-family="OpenSans-BoldItalic, &apos;Open Sans&apos;" font-size="8.212" font-style="italic" font-weight="700" isolation="isolate"><tspan x="0" y="0">population</tspan></text>
+      <g
+         id="text23"
+         isolation="isolate">
+        <text
+           transform="translate(33.872 324.807)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text5"><text
+             transform="translate(33.872 324.807)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text4" /></text>
+        <text
+           transform="translate(33.872 324.807)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text6"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan6"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan5">5 to 9</tspan></tspan></text>
+      </g>
+      <g
+         id="text24"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 312.91)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text8"><text
+             transform="translate(24.723 312.91)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text7" /></text>
+        <text
+           transform="translate(24.723 312.91)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text9"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan9"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan8">10 to 14</tspan></tspan></text>
+      </g>
+      <g
+         id="text25"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 301.015)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text11"><text
+             transform="translate(24.723 301.015)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text10" /></text>
+        <text
+           transform="translate(24.723 301.015)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text12"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan12"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan11">15 to 19</tspan></tspan></text>
+      </g>
+      <g
+         id="text26"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 289.119)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text14"><text
+             transform="translate(24.723 289.119)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text13" /></text>
+        <text
+           transform="translate(24.723 289.119)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text15"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan15"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan14">20 to 24</tspan></tspan></text>
+      </g>
+      <g
+         id="text27"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 277.223)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text17"><text
+             transform="translate(24.723 277.223)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text16" /></text>
+        <text
+           transform="translate(24.723 277.223)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text18"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan18"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan17">25 to 29</tspan></tspan></text>
+      </g>
+      <g
+         id="text28"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 265.326)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text20"><text
+             transform="translate(24.723 265.326)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text19" /></text>
+        <text
+           transform="translate(24.723 265.326)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text21"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan21"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan20">30 to 34</tspan></tspan></text>
+      </g>
+      <g
+         id="g31"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 253.431)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text30"><text
+             transform="translate(24.723 253.431)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text29" /></text>
+        <text
+           transform="translate(24.723 253.431)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text31"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan31"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan30">35 to 39</tspan></tspan></text>
+      </g>
+      <g
+         id="g34"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 241.535)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text33"><text
+             transform="translate(24.723 241.535)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text32" /></text>
+        <text
+           transform="translate(24.723 241.535)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text34"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan34"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan33">40 to 44</tspan></tspan></text>
+      </g>
+      <g
+         id="g37"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 229.639)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text36"><text
+             transform="translate(24.723 229.639)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text35" /></text>
+        <text
+           transform="translate(24.723 229.639)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text37"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan37"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan36">45 to 49</tspan></tspan></text>
+      </g>
+      <g
+         id="g40"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 217.743)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text39"><text
+             transform="translate(24.723 217.743)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text38" /></text>
+        <text
+           transform="translate(24.723 217.743)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan40"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan39">50 to 54</tspan></tspan></text>
+      </g>
+      <g
+         id="g43"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 205.847)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text42"><text
+             transform="translate(24.723 205.847)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text41" /></text>
+        <text
+           transform="translate(24.723 205.847)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text43"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan43"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan42">55 to 59</tspan></tspan></text>
+      </g>
+      <g
+         id="g46"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 193.951)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text45"><text
+             transform="translate(24.723 193.951)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text44" /></text>
+        <text
+           transform="translate(24.723 193.951)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text46"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan46"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan45">60 to 64</tspan></tspan></text>
+      </g>
+      <g
+         id="g49"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 182.055)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text48"><text
+             transform="translate(24.723 182.055)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text47" /></text>
+        <text
+           transform="translate(24.723 182.055)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text49"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan49"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan48">65 to 69</tspan></tspan></text>
+      </g>
+      <g
+         id="g52"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 170.158)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text51"><text
+             transform="translate(24.723 170.158)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text50" /></text>
+        <text
+           transform="translate(24.723 170.158)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan52"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan51">70 to 74</tspan></tspan></text>
+      </g>
+      <g
+         id="g55"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 158.263)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text54"><text
+             transform="translate(24.723 158.263)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text53" /></text>
+        <text
+           transform="translate(24.723 158.263)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text55"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan55"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan54">75 to 79</tspan></tspan></text>
+      </g>
+      <g
+         id="g58"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 146.366)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text57"><text
+             transform="translate(24.723 146.366)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text56" /></text>
+        <text
+           transform="translate(24.723 146.366)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text58"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan58"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan57">80 to 84</tspan></tspan></text>
+      </g>
+      <g
+         id="g61"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 134.47)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text60"><text
+             transform="translate(24.723 134.47)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text59" /></text>
+        <text
+           transform="translate(24.723 134.47)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text61"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan61"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan60">85 to 89</tspan></tspan></text>
+      </g>
+      <g
+         id="g64"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 122.575)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text63"><text
+             transform="translate(24.723 122.575)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text62" /></text>
+        <text
+           transform="translate(24.723 122.575)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text64"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan64"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan63">90 to 94</tspan></tspan></text>
+      </g>
+      <g
+         id="g67"
+         isolation="isolate">
+        <text
+           transform="translate(24.723 110.679)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text66"><text
+             transform="translate(24.723 110.679)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text65" /></text>
+        <text
+           transform="translate(24.723 110.679)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text67"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan67"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan66">95 to 99</tspan></tspan></text>
+      </g>
+      <g
+         id="g70"
+         isolation="isolate">
+        <text
+           transform="translate(34.458 98.783)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text69"><text
+             transform="translate(34.458 98.783)"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text68" /></text>
+        <text
+           transform="translate(34.458 98.783)"
+           font-size="8"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text70"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan70"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan69">100 +</tspan></tspan></text>
+      </g>
+      <g
+         id="g73"
+         isolation="isolate">
+        <text
+           transform="translate(135.677 357.951)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text72"><text
+             transform="translate(135.677 357.951)"
+             fill="#939598"
+             font-size="9"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text71" /></text>
+        <text
+           transform="translate(135.677 357.951)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text73"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan73"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan72">2.0</tspan></tspan></text>
+      </g>
+      <g
+         id="g76"
+         isolation="isolate">
+        <text
+           transform="translate(94.334 357.951)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text75"><text
+             transform="translate(94.334 357.951)"
+             fill="#939598"
+             font-size="9"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text74" /></text>
+        <text
+           transform="translate(94.334 357.951)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text76"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan76"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan75">1.0</tspan></tspan></text>
+      </g>
+      <g
+         id="g79"
+         isolation="isolate">
+        <text
+           transform="translate(56.762 357.951)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text78"><text
+             transform="translate(56.762 357.951)"
+             fill="#939598"
+             font-size="9"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text77" /></text>
+        <text
+           transform="translate(56.762 357.951)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text79"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan79"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan78">0</tspan></tspan></text>
+      </g>
+      <g
+         id="g88"
+         isolation="isolate">
+        <text
+           transform="translate(20.96 27.675)"
+           font-size="17"
+           isolation="isolate"
+           style="font-family: OpenSansBold; font-style: normal;"
+           id="text81"><text
+             transform="translate(20.96 27.675)"
+             font-size="17"
+             isolation="isolate"
+             style="font-family: OpenSansBold; font-style: normal;"
+             id="text80" /></text>
+        <text
+           transform="translate(20.96,27.675)"
+           font-size="17px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text82"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+             id="tspan82"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+               id="tspan81">More than 14 million</tspan></tspan></text>
+        <text
+           transform="translate(20.96 48.925)"
+           font-size="17"
+           isolation="isolate"
+           style="font-family: OpenSansBold; font-style: normal;"
+           id="text84"><text
+             transform="translate(20.96 48.925)"
+             font-size="17"
+             isolation="isolate"
+             style="font-family: OpenSansBold; font-style: normal;"
+             id="text83" /></text>
+        <text
+           transform="translate(20.96,48.925)"
+           font-size="17px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text85"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+             id="tspan85"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+               id="tspan84">children and youth live in</tspan></tspan></text>
+        <text
+           transform="translate(20.96 70.175)"
+           font-size="17"
+           isolation="isolate"
+           style="font-family: OpenSansBold; font-style: normal;"
+           id="text87"><text
+             transform="translate(20.96 70.175)"
+             font-size="17"
+             isolation="isolate"
+             style="font-family: OpenSansBold; font-style: normal;"
+             id="text86" /></text>
+        <text
+           transform="translate(20.96,70.175)"
+           font-size="17px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+             id="tspan88"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+               id="tspan87">Canada in 2025</tspan></tspan></text>
+      </g>
+      <g
+         id="g91"
+         isolation="isolate">
+        <text
+           transform="translate(177.02 358.05)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text90"><text
+             transform="translate(177.02 358.05)"
+             fill="#939598"
+             font-size="9"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text89" /></text>
+        <text
+           transform="translate(177.02 358.05)"
+           fill="#939598"
+           font-size="9"
+           isolation="isolate"
+           style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+           id="text91"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan91"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan90">3.0 million</tspan></tspan></text>
+      </g>
+      <g
+         id="g98"
+         isolation="isolate">
+        <g
+           id="g97"
+           isolation="isolate">
+          <text
+             transform="translate(21.751 378.909)"
+             fill="#999"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text93"><text
+               transform="translate(21.751 378.909)"
+               fill="#999"
+               font-size="8"
+               isolation="isolate"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+               id="text92" /></text>
+          <text
+             transform="translate(21.751 378.909)"
+             fill="#999"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text94"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan94"><tspan
+                 x="0"
+                 y="0"
+                 style="font-weight: normal; font-style: normal;"
+                 id="tspan93">Data source: Statistics Canada (2025) Annual</tspan></tspan></text>
+          <text
+             transform="translate(21.751 388.509)"
+             fill="#999"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text96"><text
+               transform="translate(21.751 388.509)"
+               fill="#999"
+               font-size="8"
+               isolation="isolate"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+               id="text95" /></text>
+          <text
+             transform="translate(21.751 388.509)"
+             fill="#999"
+             font-size="8"
+             isolation="isolate"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"
+             id="text97"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan97"><tspan
+                 x="0"
+                 y="0"
+                 style="font-weight: normal; font-style: normal;"
+                 id="tspan96">Demographic Estimates</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g106"
+         isolation="isolate">
+        <text
+           transform="translate(187.062 285.819) scale(1.096 1)"
+           fill="#dc4732"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text99"><text
+             transform="translate(187.062 285.819) scale(1.096 1)"
+             fill="#dc4732"
+             font-size="8.212"
+             isolation="isolate"
+             style="font-family: OpenSansBoldItalic;"
+             id="text98" /></text>
+        <text
+           transform="translate(187.062 285.819) scale(1.096 1)"
+           fill="#dc4732"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text100"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan100"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan99">Youth</tspan></tspan></text>
+        <text
+           transform="translate(211.966 285.819) scale(1.096 1)"
+           fill="#dc4732"
+           font-size="8.212"
+           style="font-family: OpenSansBoldItalic;"
+           id="text102"><text
+             transform="translate(211.966 285.819) scale(1.096 1)"
+             fill="#dc4732"
+             font-size="8.212"
+             style="font-family: OpenSansBoldItalic;"
+             id="text101" /></text>
+        <text
+           transform="translate(211.966 285.819) scale(1.096 1)"
+           fill="#dc4732"
+           font-size="8.212"
+           style="font-family: OpenSansBoldItalic;"
+           id="text103"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan103"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan102" /></tspan></text>
+        <text
+           transform="translate(177.433 296.084) scale(1.096 1)"
+           fill="#dc4732"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text105"><text
+             transform="translate(177.433 296.084) scale(1.096 1)"
+             fill="#dc4732"
+             font-size="8.212"
+             isolation="isolate"
+             style="font-family: OpenSansBoldItalic;"
+             id="text104" /></text>
+        <text
+           transform="translate(177.433 296.084) scale(1.096 1)"
+           fill="#dc4732"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text106"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan106"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan105">population</tspan></tspan></text>
+      </g>
+      <g
+         id="text57-2"
+         isolation="isolate">
+        <text
+           transform="translate(167.121 321.502) scale(1.096 1)"
+           fill="#f1c500"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text108"><text
+             transform="translate(167.121 321.502) scale(1.096 1)"
+             fill="#f1c500"
+             font-size="8.212"
+             isolation="isolate"
+             style="font-family: OpenSansBoldItalic;"
+             id="text107" /></text>
+        <text
+           transform="translate(167.121 321.502) scale(1.096 1)"
+           fill="#f1c500"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text109"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan109"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan108">Child</tspan></tspan></text>
+        <text
+           transform="translate(154.688 331.767) scale(1.096 1)"
+           fill="#f1c500"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text111"><text
+             transform="translate(154.688 331.767) scale(1.096 1)"
+             fill="#f1c500"
+             font-size="8.212"
+             isolation="isolate"
+             style="font-family: OpenSansBoldItalic;"
+             id="text110" /></text>
+        <text
+           transform="translate(154.688 331.767) scale(1.096 1)"
+           fill="#f1c500"
+           font-size="8.212"
+           isolation="isolate"
+           style="font-family: OpenSansBoldItalic;"
+           id="text112"><tspan
+             x="0"
+             y="0"
+             style="font-weight: normal; font-style: normal;"
+             id="tspan112"><tspan
+               x="0"
+               y="0"
+               style="font-weight: normal; font-style: normal;"
+               id="tspan111">population</tspan></tspan></text>
+      </g>
     </g>
   </g>
 </svg>

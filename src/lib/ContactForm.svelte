@@ -58,10 +58,13 @@
         formData.append("Location", formLocation);
         formData.append("Brief description of the solution", formDescription);
 
-        const response = await fetch("/local-solutions/api/contact", {
-            method: "POST",
-            body: formData
-        });
+        const response = await fetch(
+            "https://script.google.com/macros/s/AKfycbyYLU7g3U5a5lTJZZqBsSzSqx1_TGqC6wcCNDnzg9wQzRPGUf8opGZOLvfAgtLqR30Ung/exec",
+            {
+                method: "POST",
+                body: formData
+            }
+        );
 
         if (response.ok) {
             formFirstName = undefined;
@@ -74,7 +77,7 @@
             succeeded = true;
         } else {
             loading = false;
-            failed = false;
+            failed = true;
         }
     }
 
