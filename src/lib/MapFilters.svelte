@@ -83,15 +83,15 @@
     let layoutWidth = $state();
     let windowWidth = $state();
     let width = $derived.by(() => {
-        if (windowWidth > 800) {
-            return layoutWidth * 0.6;
+        if (windowWidth > 750) {
+            return Math.min(layoutWidth * 0.6, 600);
         } else {
             return layoutWidth;
         }
     });
     let height = $derived(width * .8);
     let filtersWidth = $derived.by(() => {
-        if (windowWidth > 800) {
+        if (windowWidth > 750) {
             return layoutWidth * 0.4;
         } else {
             return layoutWidth;
@@ -139,7 +139,7 @@
         <h2 class="header">Browse the solutions:</h2>
         {#if mapData?.features && width}
             {#if Object.keys(totalProvinceCounts).length > 5}
-                <div style="height: {height + 15}px; width: {windowWidth > 800 ? width + 15 : width}px">
+                <div style="height: {height + 15}px; width: {windowWidth > 750 ? width + 15 : width}px">
                     <svg {width} {height} class="map"
                         style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}">
                         {#each mapData.features as province (province.properties.name)}
@@ -280,7 +280,7 @@
         }
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 750px) {
         .layout {
             width: 95dvw;
             margin-left: calc(5dvw/2);

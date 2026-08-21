@@ -425,7 +425,7 @@ li {
 	--grid-width: 1000px;
 }
 
-@media (min-width: 1530px) {
+@media (min-width: 1610px) {
 	:root {
 		--grid-width: 1530px;
 	}
