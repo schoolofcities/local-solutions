@@ -32,7 +32,7 @@
     .title-text {
         background-color: var(--brandYellow);
         width:fit-content;
-        margin-top: 50px;
+        margin-top: 0;
     }
 
     .has-link .title-text {
@@ -64,7 +64,6 @@
         .title-text {
             background-color: var(--brandYellow);
             width:fit-content;
-            margin-top: 50px;
             margin-left: calc(((100dvw - min(var(--grid-width), 90dvw))/2) - 15px);
         }
 

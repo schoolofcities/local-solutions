@@ -16,10 +16,10 @@
 <style>
     .container {
         background-color: var(--brandYellow30);
-        max-width: var(--grid-width);
+        max-width: min(var(--grid-width), 900px);
         width: 90vw;
         height: fit-content;
-        margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
+        margin-left: calc((100dvw - min(var(--grid-width), 90dvw, 900px))/2);
         margin-bottom: 40px;
         padding: 25px;
         box-sizing: border-box;

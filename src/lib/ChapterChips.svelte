@@ -42,6 +42,7 @@
     }
     .chip:hover {
         cursor: pointer;
+        opacity: 75%;
     }
     .large {
         font-size: 20px;

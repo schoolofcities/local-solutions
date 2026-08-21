@@ -25,24 +25,6 @@
     });
 
     const fromUrl = (list, param) => {
-        if (!browser) {
-            if (param === "category") {
-                return Object.fromEntries(
-                    Object.keys(chapterColours).map(c => [c, false])
-                );
-            }
-
-            if (param === "search") {
-                return "";
-            }
-
-            if (param === "province") {
-                return undefined;
-            }
-
-            return [];
-        }
-
         if (param === "category") {
             let active = $page.url.searchParams.get(param)?.split('|') ?? [];
             return Object.fromEntries(
@@ -55,7 +37,7 @@
         }
 
         if (param === "province") {
-            return list.find((item) => {item.value == $page.url.searchParams.get(param)}) ?? "";
+            return list.find((item) => item.value == $page.url.searchParams.get(param));
         }
 
         return list.filter(item =>
@@ -134,9 +116,8 @@
     function matchesChapters(s) {
         const active = Object.keys(selectedChapters).filter(c => selectedChapters[c]);
         if (active.length === 0) return true;
-        return active.includes(s.Chapter);
+        return s.Chapter?.some(c => active.includes(c));
     }
-
     let filteredSolutionsList = $derived(
         solutionsList.filter(s => {
             const hasProvince = selectedProvince !== undefined;
@@ -161,19 +142,42 @@
         })
     );
 
-    const provinceCounts = $derived(
-        filteredSolutionsList.reduce((counts, s) => {
-            s.Provinces_List.forEach(p => { counts[p] = (counts[p] ?? 0) + 1; });
-            return counts;
-        }, {})
-    );
+    const provinceCounts = $derived.by(() => {
+        const counts = filteredSolutionsList.reduce((acc, s) => {
+            s.Provinces_List.forEach(p => { acc[p] = (acc[p] ?? 0) + 1; });
+            return acc;
+        }, {});
+
+        const key = "Across Canada";
+        if (key in counts) {
+            const value = counts[key];
+            delete counts[key];
+            counts[key] = value;
+        }
+
+        return counts;
+    });
+
+    const totalProvinceCounts = $derived.by(() => {
+        const counts = solutionsList.reduce((acc, s) => {
+            s.Provinces_List.forEach(p => { acc[p] = (acc[p] ?? 0) + 1; });
+            return acc;
+        }, {});
+        return counts;
+    });
     
     let addTag = $state();
 
     function tagClicked(label) {
         const tagInfo = tags.find(t => t.value === label);
-        if (tagInfo) addTag?.(tagInfo);
-        selectedTags.push(tagInfo);
+        if (!tagInfo) return;
+
+        const alreadySelected = selectedTags.some(t => t.value === tagInfo.value);
+        if (!alreadySelected) {
+            selectedTags = [...selectedTags, tagInfo];
+        }
+
+        addTag?.(tagInfo);
         applyFiltersToURL();
     } 
 
@@ -203,8 +207,7 @@
         syncToUrl(searchParams, selectedMunicipalities, 'municipality');
 
         const query = searchParams.toString();
-        goto($page.url.pathname + $page.url.search + '#solutions-map');;
-
+        goto(`${$page.url.pathname}?${query}#solutions-map`);
     }
 
     function clearFilters() {
@@ -212,7 +215,7 @@
         selectedProvince = undefined;
         selectedMunicipalities = [];
         selectedTags = [];
-        selectedChapters = [];
+        selectedChapters = Object.fromEntries(Object.keys(chapterColours).map(c => [c, false]));
         activeProvinceFilter = null;
         goto($page.url.pathname + '#solutions-map');
     }
@@ -226,6 +229,7 @@
     <MapFilters
         {Chapter}
         {provinceCounts}
+        {totalProvinceCounts}
         {home}
         municipalities={availableMunicipalities}
         provinces={availableProvinces}
@@ -241,8 +245,13 @@
         bind:selectedChapters
         bind:addTag
     />
+    {#if filteredSolutionsList.length !== 0}
+        <div class="solutions-count">
+            <p>Showing {filteredSolutionsList.length} solution{filteredSolutionsList.length > 1 ? "s" : ""}</p>
+        </div>
+     {/if}
     <div class="solutions">
-        {#each filteredSolutionsList as solution}
+        {#each filteredSolutionsList as solution (solution.ID_Num)}
             <SolutionCard {...solution} {tagClicked}/>
         {/each}
     </div>
@@ -267,7 +276,16 @@
         gap: 15px;
         align-items: start;
         justify-content: center;
-        margin: 10px auto;
+        margin: 0 auto;
+    }
+
+    .solutions-count p {
+        font-size: 14px;
+        font-family: RobotoBold;
+        color: var(--brandGray70);
+        margin: 0;
+        text-align: right;
+        margin-right: calc((100dvw - min(var(--grid-width), 90dvw))/2);
     }
 
     @media (min-width: 800px) and (max-width: 1100px) {
