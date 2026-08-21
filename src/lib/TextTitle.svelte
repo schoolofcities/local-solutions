@@ -33,6 +33,7 @@
         background-color: var(--brandYellow);
         width:fit-content;
         margin-top: 0;
+        max-width: min(var(--grid-width), 900px);
     }
 
     .has-link .title-text {
