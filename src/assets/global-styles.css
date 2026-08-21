@@ -432,18 +432,11 @@ li {
 }
 
 .body-text>p, .body-text ul, .body-text div.cards, .body-text div.inline-images {
-	max-width: var(--grid-width);
-	width: 90dvw;
-	margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
-	color: var(--brandGray90);
-	font-family: Roboto;
-}
-
-
-.body-text>p, .body-text ul  {
 	max-width: min(900px, var(--grid-width));
 	width: 90dvw;
 	margin-left: calc((100dvw - min(var(--grid-width), 90dvw, 900px))/2);
+	color: var(--brandGray90);
+	font-family: Roboto;
 }
 
 div.inline-images {

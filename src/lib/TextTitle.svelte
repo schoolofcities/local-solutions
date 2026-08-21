@@ -55,7 +55,7 @@
         padding: 10px 15px 10px 15px;
         width: fit-content;
         position: absolute;
-        right: calc((100dvw - min(950px, 90dvw))/2);
+        right: calc((100dvw - min(950px, 90dvw, 900px))/2);
         text-decoration: none;
         font-size: 16px;
     }
@@ -64,7 +64,7 @@
         .title-text {
             background-color: var(--brandYellow);
             width:fit-content;
-            margin-left: calc(((100dvw - min(var(--grid-width), 90dvw))/2) - 15px);
+            margin-left: calc(((100dvw - min(var(--grid-width), 90dvw, 900px))/2) - 15px);
         }
 
         h2 {

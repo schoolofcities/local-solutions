@@ -25,27 +25,21 @@
     });
 
     const fromUrl = (list, param) => {
+        if (!browser) {
+            if (param === "category") return Object.fromEntries(Object.keys(chapterColours).map(c => [c, false]));
+            if (param === "search") return "";
+            if (param === "province") return undefined;
+            return [];
+        }
+        let active;
         if (param === "category") {
-            let active = $page.url.searchParams.get(param)?.split('|') ?? [];
-            return Object.fromEntries(
-                Object.keys(chapterColours).map(c => [c, active.includes(c)])
-            );
+            active = $page.url.searchParams.get(param)?.split('|') ?? [];
+            return Object.fromEntries(Object.keys(chapterColours).map(c => [c, active.includes(c)]));
         }
-
-        if (param === "search") {
-            return $page.url.searchParams.get(param) ?? "";
-        }
-
-        if (param === "province") {
-            return list.find((item) => item.value == $page.url.searchParams.get(param));
-        }
-
+        if (param === "search") return $page.url.searchParams.get(param) ?? "";
+        if (param === "province") return list.find(item => item.value == $page.url.searchParams.get(param));
         return list.filter(item =>
-            $page.url.searchParams
-                .get(param)
-                ?.split('|')
-                .filter(Boolean)
-                .includes(item.value)
+            $page.url.searchParams.get(param)?.split('|').filter(Boolean).includes(item.value)
         );
     };
 
