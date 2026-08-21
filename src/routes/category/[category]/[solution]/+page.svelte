@@ -70,9 +70,9 @@
 
 <style>
     .body-text {
-        max-width: var(--grid-width);
+        max-width: min(var(--grid-width), 900px);
         width: 90dvw;
-        margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
+        margin-left: calc((100dvw - min(var(--grid-width), 90dvw, 900px))/2);
         margin-top: 0;
     }
 
@@ -160,7 +160,7 @@
         list-style-type: circle;
     }
 
-    :global(#learning-from-what-worked li, a) {
+    :global(#learning-from-what-worked li, #learning-from-what-worked a) {
         width: auto !important;
         font-size: 17px;
     }

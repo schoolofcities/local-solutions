@@ -45,18 +45,12 @@ export async function getSolutions(fetch) {
                 item.ID_Num = parseInt(item.ID_Num, 10);
                 item.Spotlighted = (item.Spotlighted == 'true' || item.Spotlighted == 'TRUE');
                 item.Card_Thumbnail = (item.Card_Thumbnail == 'true' || item.Card_Thumbnail == 'TRUE');
+                item.Tags.push(item.Cohort)
 
                 if (item.Spotlighted) {
                     item.Tags.unshift("Featured");
-                    spotlighted.push({
-                        Chapter: item.Chapter,
-                        Project: item.Project,
-                        Organization: item.Organization,
-                        ID_Num: item.ID_Num
-                    })
+                    spotlighted.push(item);
                 }
-
-                item.Tags.push(item.Cohort)
 
                 return item;
             });

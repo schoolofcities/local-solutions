@@ -6,7 +6,8 @@
     import { page } from '$app/stores';
     import { slugify } from '$lib/chapterColours';
     import { slide } from 'svelte/transition';
-    import SofCLogo from "../assets/sofc-uoft-logo-blue-colour.svg"
+    import SofCLogo from "../assets/sofc-uoft-logo-blue-colour.svg";
+    import SofCDotsLogo from "../assets/sofc-dots-logo-dark.svg";
     import HeaderBarButton from './HeaderBarButton.svelte';
 
     let spotlightedHovered = $state(false);
@@ -48,26 +49,32 @@
         <a href="/local-solutions" class="logo-link">
             <img src={Logo} alt="Local Solutions logo" class="logo-top"/>
         </a>
-        <div class="nav-buttons">
-            <HeaderBarButton link="/local-solutions/about" content="About"/>
-            <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="Methodology"/>
-            <HeaderBarButton link="/local-solutions/featured-solutions" content="Featured Solutions"/>
-            <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true}/>
+        <div class="right-side">
+            <div class="nav-buttons">
+                <HeaderBarButton link="/local-solutions/about" content="About"/>
+                <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="Methodology"/>
+                <HeaderBarButton link="/local-solutions/featured-solutions" content="Featured Solutions"/>
+                <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true}/>
 
-            <a href="https://www.schoolofcities.utoronto.ca" target="_blank" id="sofc-logo">
-                <img src={SofCLogo} alt="School of Cities logo" class="logo-top"/>
+                <a href="https://www.schoolofcities.utoronto.ca" target="_blank" id="sofc-logo">
+                    <img src={SofCLogo} alt="School of Cities logo" class="logo-top"/>
+                </a>
+                <button
+                    class="hamburger"
+                    class:open={mobileMenuOpen}
+                    onclick={toggleMobileMenu}
+                    aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
+                    aria-expanded={mobileMenuOpen}
+                >
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            
+            <a href="https://www.schoolofcities.utoronto.ca" target="_blank" id="desktop-sofc-logo">
+                <img src={SofCDotsLogo} alt="School of Cities logo" class="logo-top"/>
             </a>
-            <button
-                class="hamburger"
-                class:open={mobileMenuOpen}
-                onclick={toggleMobileMenu}
-                aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
-                aria-expanded={mobileMenuOpen}
-            >
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
         </div>
     </div>
 
@@ -194,6 +201,11 @@
         display: none;
     }
 
+    .right-side {
+        display: flex;
+        flex-direction: row;
+    }
+
     @media (max-width: 1080px) {
         .desktop-button {
             height: 40px;
@@ -221,6 +233,10 @@
 
     @media (max-width: 650px) {
         .desktop-button {
+            display: none;
+        }
+
+        #desktop-sofc-logo {
             display: none;
         }
 

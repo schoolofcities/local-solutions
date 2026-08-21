@@ -17,11 +17,16 @@
         border-radius: 10px;
         padding: 10px;
         box-sizing: border-box;
-        border: 1px solid #888888;
+        background-color: var(--LoSoNavyBlue);
         display: flex;
         flex-direction: column;
         justify-content: center;
         gap: 5px;
+        transition: transform 0.2s ease;
+    }
+
+    .card:hover {
+        transform: scale(1.03);
     }
 
     .card h3, .card p {
@@ -30,12 +35,15 @@
     }
 
     .card h3 {
+        font-family: RobotoBold;
         font-size: 16px;
+        color: white;
     }
 
     .card p {
+        font-family: Roboto;
         font-size: 14px;
         line-height: 16px;
-        color: var(--brandGray70);
+        color: white;
     }
 </style>

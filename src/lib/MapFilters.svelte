@@ -10,6 +10,7 @@
         home,
         Chapter,
         provinceCounts,
+        totalProvinceCounts,
         municipalities,
         provinces,
         tags,
@@ -82,15 +83,15 @@
     let layoutWidth = $state();
     let windowWidth = $state();
     let width = $derived.by(() => {
-        if (windowWidth > 800) {
-            return layoutWidth * 0.6;
+        if (windowWidth > 750) {
+            return Math.min(layoutWidth * 0.6, 600);
         } else {
             return layoutWidth;
         }
     });
     let height = $derived(width * .8);
     let filtersWidth = $derived.by(() => {
-        if (windowWidth > 800) {
+        if (windowWidth > 750) {
             return layoutWidth * 0.4;
         } else {
             return layoutWidth;
@@ -125,7 +126,6 @@
     onMount(() => {
         loadMapData();
   		window.addEventListener("resize", projectMap);
-        console.log(provinceCounts);
 
 		return () => {
 			window.removeEventListener("resize", projectMap);
@@ -138,8 +138,8 @@
     <div>
         <h2 class="header">Browse the solutions:</h2>
         {#if mapData?.features && width}
-            {#if Object.keys(provinceCounts).length > 5}
-                <div style="height: {height + 15}px; width: {windowWidth > 800 ? width + 15 : width}px">
+            {#if Object.keys(totalProvinceCounts).length > 5}
+                <div style="height: {height + 15}px; width: {windowWidth > 750 ? width + 15 : width}px">
                     <svg {width} {height} class="map"
                         style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}">
                         {#each mapData.features as province (province.properties.name)}
@@ -179,20 +179,20 @@
             {:else}
                 <div class="condensed-map" style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}; width: ${width}px; height: ${height}px">
                     {#each Object.keys(provinceCounts) as postal}
-                        {#if postal !== "Across Canada"}
+                        {#if postal == "Across Canada"}
+                            <div class="square" role="button" tabindex="0" 
+                                aria-label="Filter solutions across Canada"
+                                onclick={() => filterProvince("Across Canada", "Across Canada", null)}
+                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
+                                <span>{postal}</span>
+                                <span class="count">{provinceCounts[postal]}</span>
+                            </div>
+                        {:else}
                             <div class="square" role="button" tabindex="0"
                                     aria-label="Filter solutions in {provincePostalCodes[postal]}"
                                     onclick={() => filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}
                                     onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}>
                                 <span>{provincePostalCodes[postal]}</span>
-                                <span class="count">{provinceCounts[postal]}</span>
-                            </div>
-                        {:else}
-                            <div class="square" role="button" tabindex="0" 
-                                aria-label="Filter solutions across Canada"
-                                onclick={() => filterProvince("Across Canada", "Across Canada", null)}
-                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
-                                <span>{{postal}}</span>
                                 <span class="count">{provinceCounts[postal]}</span>
                             </div>
                         {/if}
@@ -263,6 +263,7 @@
         justify-content: center;
         gap: 20px;
         padding-bottom: 15px;
+        max-width: 90dvw;
     }
 
     @media (max-width: 1610px) {
@@ -279,7 +280,7 @@
         }
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 750px) {
         .layout {
             width: 95dvw;
             margin-left: calc(5dvw/2);
@@ -431,6 +432,10 @@
         box-sizing: border-box;
         margin-right: 15px;
         min-height: 228px;
+        min-width: 380px;
+        margin-bottom: 20px;
+        max-width: 90dvw;
+        flex-wrap: wrap;
     }
 
     .condensed-map .square {
@@ -446,6 +451,7 @@
         width: 100px;
         height: 100px;
         transition: transform 0.2s ease;
+        padding: 10px;
     }
 
     .condensed-map .square:hover {

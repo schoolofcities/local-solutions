@@ -41,6 +41,7 @@
 
     .label:hover {
         cursor: pointer;
+        opacity: 60%;
     }
 
     .spotlighted {

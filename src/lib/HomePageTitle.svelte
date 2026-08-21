@@ -49,13 +49,11 @@
             </a>
             {/each}
         {:else if style == "grid"}
-            <div class="grid-circles">
+            <div class="grid-circles" style="--numCircles: {items.length};">
                 {#each items as item, i}
                     <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" target="_blank" class="node-link">
-                        <div class="node"
-                        style="--numCircles: {items.length}; background-color: {item.colour};"
-                        >
-                        {item.label}
+                        <div class="node" style="background-color: {item.colour};">
+                            {item.label}
                         </div>
                     </a>
                 {/each}
@@ -82,10 +80,8 @@
 
     .left {
         align-self: center;
-    }
-
-    .logo-link {
-        padding-left: calc(((100dvw - var(--circle-container) - 375px - 5dvw)/2));
+        padding-left: calc((100dvw - var(--circle-container) - 375px - 5dvw)/2);
+        box-sizing: border-box;
     }
 
     .logo {
@@ -94,10 +90,10 @@
     }
 
     .title {
-        padding-left: calc((100dvw - var(--circle-container) - 375px - 5dvw)/2);
-        padding-top: 20px;
-        padding-bottom: 20px;
+        padding: 20px;
+        padding-right: 5px;
         width: 375px;
+        box-sizing: border-box;   /* set once, everywhere — box never grows/shrinks unexpectedly */
         background-color: var(--brandYellow);
         height: fit-content;
     }
@@ -163,12 +159,10 @@
     }
 
     .grid-circles {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        width: var(--circle-container);
-        align-content: flex-start;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, calc(2*var(--circle-container)/var(--numCircles) - 10px));
         justify-content: center;
+        width: var(--circle-container);
         gap: 10px;
     }
 
@@ -221,46 +215,34 @@
             scale(1.075);
     }
 
-    @media (min-width: 1300px) {
-        .title {
-            margin-left: calc(((100dvw - var(--circle-container) - 375px - 5dvw)/2) - 30px);
-            padding-left: 30px;
-        }
-    }
-
     @media (min-width: 1100px) {
         .title {
-            padding-left: 30px;
-            box-sizing: border-box;
             max-width: calc(100dvw - 85dvh);
         }
-
-        .title h2 {
-            font-size: 40px;
-        }
-
-        .title h3 {
-            font-size: 35px;
-        }
+        .title h2 { font-size: 40px; }
+        .title h3 { font-size: 35px; }
     }
 
     @media (max-width: 1100px) {
         :root {
-            --circle-container: 75dvh;
-            --orbit: 27dvh;
-        }   
+            --circle-container: 65dvh;
+        }
 
         .left {
             width: calc(92dvw - var(--circle-container));
         }
 
-        .logo {
-            margin-top: 15px;
-            height: 50px;
+        .logo-link {
+            display: block;
+            width: 100%;
+            padding-left: 20px;
+            box-sizing: border-box;
         }
 
-        .logo-link {
-            padding-left: 20px;
+        .logo {
+            margin-top: 15px;
+            width: 100%;
+            height: auto;   /* replaces the fixed height: 50px */
         }
 
         .title {
@@ -287,20 +269,22 @@
     }
 
     
-    @media (max-aspect-ratio: 1) {
+    
+
+    @media (max-width: 800px) {
         :root {
             --circle-container: 85dvw;
             --orbit: 30dvw;
         }
 
-        .left {
-            align-self: auto;
-            width: 100%;
-        }
-
         .container {
             flex-direction: column;
             justify-content: center;
+        }
+
+        .left {
+            align-self: auto;
+            width: 100%;
         }
 
         .logo-link {
@@ -316,15 +300,10 @@
             box-sizing: border-box;
         }
 
-        .title h2 {
-            font-size: 35px;
-        }
+        .title h2 { font-size: 30px; }
+        .title h3 { font-size: 25px; }
 
-        .title h3 {
-            font-size: 30px;
-        }
-
-        .center h2, h3 {
+        .center h2, .center h3 {
             text-align: center;
             color: var(--LoSoNavyBlue);
             font-size: 5dvw;
@@ -336,78 +315,12 @@
             font-size: 4dvw;
         }
 
-        .node {
+        .instructions h2 {
             font-size: 3.5dvw;
         }
 
-        .orbit-container {
-            left: calc((100dvw - var(--circle-container))/2)
-        }
-    }
-
-    @media (max-width: 850px) {
-        .title h2 {
-            font-size: 30px;
-        }
-
-        .title h3 {
-            font-size: 25px;
-        }
-
-        .logo {
-            height: 40px;
-        }
-
-    }
-
-
-    @media (max-width: 750px) {
-        :root {
-            --circle-container: 85dvw;
-            --orbit: 30dvw;
-        }
-
-        .left {
-            align-self: auto;
-            width: 100%;
-        }
-
-        .container {
-            flex-direction: column;
-            justify-content: center;
-        }
-
-        .logo-link {
-            display: none;
-        }
-
-        .title {
-            padding-left: 5dvw;
-            padding-right: 5dvw;
-            text-align: center;
-            width: 100%;
-            text-wrap: wrap;
-            box-sizing: border-box;
-        }
-
-        .title h2 {
-            font-size: 30px;
-        }
-
-        .title h3 {
-            font-size: 25px;
-        }
-
-        .center h2, h3 {
-            text-align: center;
-            color: var(--LoSoNavyBlue);
-            font-size: 5dvw;
-            margin: 0;
-        }
-
-        .center h3 {
-            font-family: TradeGothicLTLight;
-            font-size: 4dvw;
+        .instructions h3 {
+            font-size: 3dvw;
         }
 
         .node {
@@ -415,7 +328,7 @@
         }
 
         .orbit-container {
-            left: calc((100dvw - var(--circle-container))/2)
+            left: calc((100dvw - var(--circle-container)) / 2);
         }
     }
 </style>

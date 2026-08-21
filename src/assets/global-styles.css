@@ -207,6 +207,7 @@ p {
 	padding-bottom: 2px;
 	font-size: 18px;
 	line-height: 26px;
+	letter-spacing: 0.015em;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
@@ -245,7 +246,6 @@ a {
 	font-family: Roboto;
 	font-weight: normal;
 }
-
 
 a:hover {
 	color: var(--brandYellow);
@@ -425,10 +425,16 @@ li {
 	--grid-width: 1000px;
 }
 
-.body-text>p, ul, .body-text div.cards, .body-text div.inline-images {
-	max-width: var(--grid-width);
+@media (min-width: 1610px) {
+	:root {
+		--grid-width: 1530px;
+	}
+}
+
+.body-text>p, .body-text ul, .body-text div.cards, .body-text div.inline-images {
+	max-width: min(900px, var(--grid-width));
 	width: 90dvw;
-	margin-left: calc((100dvw - min(var(--grid-width), 90dvw))/2);
+	margin-left: calc((100dvw - min(var(--grid-width), 90dvw, 900px))/2);
 	color: var(--brandGray90);
 	font-family: Roboto;
 }
@@ -459,8 +465,8 @@ div.inline-images.end {
 	font-family: RobotoBold;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 700px) {
 	.body-text p, .body-text li {
-		font-size: 15px;
+		font-size: 16px;
 	}
 }

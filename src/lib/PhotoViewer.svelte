@@ -71,6 +71,7 @@
         margin-top: 0;
         padding: 15px;
         box-sizing: border-box;
+        color: white;
     }
 
     .caption-text {

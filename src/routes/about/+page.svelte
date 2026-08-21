@@ -95,14 +95,13 @@
 </div>
 
 <style>
-    .cards {
+   .cards {
         margin-top: 20px;
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 200px);
         justify-content: center;
-        align-content: flex-start;
         gap: 15px;
+        padding-bottom: 50px;
     }
 
     .logo-container {
@@ -113,7 +112,6 @@
         align-content: center;
         gap: 20px;
         max-width: var(--grid-width);
-        margin-top: 50px;
     }
 
     .logo-stacked {

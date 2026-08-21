@@ -71,6 +71,14 @@
     .star-button {
         position: absolute;
         right: 0;
+        transition: transform 0.2s ease;
+    }
+
+    .star-button:hover {
+        opacity: 60%;
+        transform: 
+            scale(1.2);
+
     }
 
     :global(.summary p) {
@@ -84,6 +92,11 @@
     :global(.summary a) {
         color: var(--brandBlack);
         font-size: 14px !important; 
+    }
+
+    
+    :global(.summary a:hover) {
+        opacity: 50%;
     }
 
     .summary::after {
