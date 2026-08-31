@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="360"
+   height="451.19998"
+   viewBox="0 0 269.99999 338.4"
+   version="1.1"
+   sodipodi:docname="sustainability_wildfire-bars_360.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs41" />
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8860816"
+     inkscape:cx="180.00281"
+     inkscape:cy="225.59999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
+       width="269.99999"
+       height="338.4"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAOGCAIAAABKlTCVAAAABmJLR0QA/wD/AP+gvaeTAAAY60lEQVR4nO3dfYxld13H8XPmntk7O7PbXSgU2iKFYpuFLrap0GpEBcMfKAQlGk1INESkAYtPgDHIH/IoJBYFosGoUYmAzxUiGEVJlQfBUBOJUFueCbVQ2m63O7Mz9/n4h9GYuVuhd+fzu3tmX68/z2Tm+8099+E9d87M1LPZrK7rCgAgo23blWXvAADsf4IDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4pplLwAA3Xby/gfuvvueMrOOHDn86IsfVWbW3hIcAHBWbn7nn77xzb9dZtYPff/3/drbbyoza28JDgA4KxedvPs7DtVlZj1u8+tlBu05wQEAZ+W7r3rCEy8pFByHr768zKA956JRACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADiBAcAECc4AIA4wQEAxAkOACBOcAAAcYIDAIgTHABAnOAAAOIEBwAQJzgAgDjBAQDECQ4AIE5wAABxggMAiBMcAECc4AAA4gQHABAnOACAOMEBAMQJDgAgTnAAAHGCAwCIExwAQJzgAADi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"
+       id="image1" />
+  </g>
+  <g
+     id="foreground">
+    <g
+       id="g17">
+      <g
+         id="text1-2-5-4-7-0-1-6"
+         isolation="isolate"
+         transform="translate(-16.802843)">
+        <g
+           isolation="isolate"
+           id="g30">
+          <g
+             isolation="isolate"
+             id="g29">
+            <g
+               isolation="isolate"
+               id="g28">
+              <text
+                 transform="translate(22.24,210.83)"
+                 fill="#5e5c64"
+                 font-size="9px"
+                 isolation="isolate"
+                 id="text1"
+                 style="font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(22.24,210.83)"
+                   fill="#5e5c64"
+                   font-size="9px"
+                   isolation="isolate"
+                   id="text27"
+                   style="font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan1"
+                   style="font-size: 8px; font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan27"
+                     style="font-size: 8px; font-weight: normal; font-style: normal;">5M Hectares</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8"
+         isolation="isolate"
+         transform="translate(-16.802843)">
+        <g
+           isolation="isolate"
+           id="g33">
+          <g
+             isolation="isolate"
+             id="g32">
+            <g
+               isolation="isolate"
+               id="g31">
+              <text
+                 transform="translate(22.24,250.55)"
+                 fill="#5e5c64"
+                 font-size="9px"
+                 isolation="isolate"
+                 id="text2"
+                 style="font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(22.24,250.55)"
+                   fill="#5e5c64"
+                   font-size="9px"
+                   isolation="isolate"
+                   id="text30"
+                   style="font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan2"
+                   style="font-size: 8px; font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan30"
+                     style="font-size: 8px; font-weight: normal; font-style: normal;">2M</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-6"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g66">
+          <g
+             isolation="isolate"
+             id="g65">
+            <g
+               isolation="isolate"
+               id="g64">
+              <text
+                 transform="translate(233.4,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text3"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(233.4,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text63"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan3"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan63"
+                     style="font-weight: normal; font-style: normal;">11</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-7-4"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g69">
+          <g
+             isolation="isolate"
+             id="g68">
+            <g
+               isolation="isolate"
+               id="g67">
+              <text
+                 transform="translate(249.66,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text4"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(249.66,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text66"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan4"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan66"
+                     style="font-weight: normal; font-style: normal;">12</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-6-4"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g72">
+          <g
+             isolation="isolate"
+             id="g71">
+            <g
+               isolation="isolate"
+               id="g70">
+              <text
+                 transform="translate(395.93,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text5"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(395.93,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text69"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan5"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan69"
+                     style="font-weight: normal; font-style: normal;">21</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-7-4-7"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g75">
+          <g
+             isolation="isolate"
+             id="g74">
+            <g
+               isolation="isolate"
+               id="g73">
+              <text
+                 transform="translate(412.19,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text6"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(412.19,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text72"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan6"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan72"
+                     style="font-weight: normal; font-style: normal;">22</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-5-8"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g81">
+          <g
+             isolation="isolate"
+             id="g78">
+            <g
+               isolation="isolate"
+               id="g77">
+              <text
+                 transform="translate(265.91,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text7"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(265.91,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text75"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan7"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan75"
+                     style="font-weight: normal; font-style: normal;">13</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-7-6-9"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g84">
+          <g
+             isolation="isolate"
+             id="g83">
+            <g
+               isolation="isolate"
+               id="g82">
+              <text
+                 transform="translate(282.16,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text8"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(282.16,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text81"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan8"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan81"
+                     style="font-weight: normal; font-style: normal;">14</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-7-5-7"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g87">
+          <g
+             isolation="isolate"
+             id="g86">
+            <g
+               isolation="isolate"
+               id="g85">
+              <text
+                 transform="translate(298.42,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text9"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(298.42,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text84"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan9"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan84"
+                     style="font-weight: normal; font-style: normal;">15</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-5-4-4"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g90">
+          <g
+             isolation="isolate"
+             id="g89">
+            <g
+               isolation="isolate"
+               id="g88">
+              <text
+                 transform="translate(314.67,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text10"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(314.67,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text87"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan10"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan87"
+                     style="font-weight: normal; font-style: normal;">16</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-0"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g93">
+          <g
+             isolation="isolate"
+             id="g92">
+            <g
+               isolation="isolate"
+               id="g91">
+              <text
+                 transform="translate(330.92,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text11"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(330.92,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text90"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan11"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan90"
+                     style="font-weight: normal; font-style: normal;">17</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-5-4-3-9"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g96">
+          <g
+             isolation="isolate"
+             id="g95">
+            <g
+               isolation="isolate"
+               id="g94">
+              <text
+                 transform="translate(347.17,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text12"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(347.17,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text93"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan12"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan93"
+                     style="font-weight: normal; font-style: normal;">18</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-8-5"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g99">
+          <g
+             isolation="isolate"
+             id="g98">
+            <g
+               isolation="isolate"
+               id="g97">
+              <text
+                 transform="translate(363.43,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text13"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(363.43,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text96"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan13"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan96"
+                     style="font-weight: normal; font-style: normal;">19</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-1-6"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g105">
+          <g
+             isolation="isolate"
+             id="g104">
+            <g
+               isolation="isolate"
+               id="g103">
+              <text
+                 transform="translate(213.88,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text14"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(213.88,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text102"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan14"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan102"
+                     style="font-weight: normal; font-style: normal;">2010</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-1-0"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g108">
+          <g
+             isolation="isolate"
+             id="g107">
+            <g
+               isolation="isolate"
+               id="g106">
+              <text
+                 transform="translate(428.44,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text15"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(428.44,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text105"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan15"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan105"
+                     style="font-weight: normal; font-style: normal;">23</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-1-0-4"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g111">
+          <g
+             isolation="isolate"
+             id="g110">
+            <g
+               isolation="isolate"
+               id="g109">
+              <text
+                 transform="translate(376.41,299.18)"
+                 fill="#6d6e71"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text16"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(376.41,299.18)"
+                   fill="#6d6e71"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text108"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan16"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan108"
+                     style="font-weight: normal; font-style: normal;">2020</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="text1-2-5-4-7-0-1-6-8-6-1-0-2"
+         isolation="isolate"
+         transform="translate(-191.43558)">
+        <g
+           isolation="isolate"
+           id="g114">
+          <g
+             isolation="isolate"
+             id="g113">
+            <g
+               isolation="isolate"
+               id="g112">
+              <text
+                 transform="translate(441.43,299.18)"
+                 fill="#231f20"
+                 font-size="5.72px"
+                 isolation="isolate"
+                 id="text17"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><text
+                   transform="translate(441.43,299.18)"
+                   fill="#231f20"
+                   font-size="5.72px"
+                   isolation="isolate"
+                   id="text111"
+                   style="font-family: OpenSans; font-weight: normal; font-style: normal;" /><tspan
+                   x="0"
+                   y="0"
+                   id="tspan17"
+                   style="font-weight: normal; font-style: normal;"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan111"
+                     style="font-weight: normal; font-style: normal;">2024</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         isolation="isolate"
+         id="g116">
+        <g
+           isolation="isolate"
+           id="g115">
+          <text
+             transform="translate(21.6,317.1544)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             id="text21"
+             style="white-space: pre; inline-size: 230.588; font-family: OpenSans; font-weight: normal; font-style: normal;"
+             xml:space="preserve"><tspan
+               x="0"
+               y="0"
+               id="tspan24">Data source: Canadian Interagency Forest Fire Centre (2023), </tspan><tspan
+               x="0"
+               y="10"
+               id="tspan25">Canadian National Fire Database (1999-2022), Wikipedia</tspan></text>
+        </g>
+      </g>
+      <g
+         isolation="isolate"
+         id="g118"
+         transform="translate(3.7339651,21.602984)">
+        <g
+           isolation="isolate"
+           id="g117">
+          <text
+             font-size="17px"
+             isolation="isolate"
+             id="text25"
+             style="font-style:normal;font-size:14px;font-family:OpenSansBold;white-space:pre;inline-size:183.11"
+             x="19.783804"
+             y="163.62689"
+             transform="translate(0,-7.779094)"
+             xml:space="preserve"><tspan
+               x="19.783804"
+               y="163.62689"
+               id="tspan43"><tspan
+                 style="font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+                 id="tspan42">Total area burned by </tspan></tspan><tspan
+               x="19.783804"
+               y="181.12689"
+               id="tspan45"><tspan
+                 style="font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold"
+                 id="tspan44">wildfires in Canada</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         isolation="isolate"
+         id="g119"
+         transform="translate(-191.43558)">
+        <text
+           transform="translate(335.26752,23.342677)"
+           fill="#dc4533"
+           font-size="11px"
+           isolation="isolate"
+           id="text41"
+           style="text-align: end; text-anchor: end; white-space: pre; inline-size: 78.0484; font-family: OpenSansBold; font-style: normal;"
+           x="85.177002"
+           y="0"
+           xml:space="preserve"><tspan
+             x="85.177002"
+             y="0"
+             id="tspan46">17,203,625<tspan
+   y="0"
+   id="tspan47"> </tspan></tspan><tspan
+             x="85.177002"
+             y="13.75"
+             id="tspan48">hectares<tspan
+   y="13.75"
+   id="tspan49"> </tspan></tspan><tspan
+             x="85.177002"
+             y="27.5"
+             id="tspan50">burned in 2023</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
