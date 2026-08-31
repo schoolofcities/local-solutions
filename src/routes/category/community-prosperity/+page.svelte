@@ -30,6 +30,11 @@
     ];
 </script>
 
+<svelte:head>
+    <title>Community Prosperity and Dignity - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
     <TitleSection Title="Community prosperity and dignity" {Chapter}/>

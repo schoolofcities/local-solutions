@@ -29,6 +29,11 @@
     ];
 </script>
 
+<svelte:head>
+    <title>Shared Spaces - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
     <TitleSection Title={Chapter} {Chapter}/>

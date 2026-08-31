@@ -34,6 +34,11 @@
     ];
 </script>
 
+<svelte:head>
+    <title>Civic Engagement and Democracy - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
     <TitleSection Title="Civic engagement and democracy" {Chapter}/>

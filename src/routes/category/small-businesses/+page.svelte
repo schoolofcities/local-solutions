@@ -33,6 +33,11 @@
     ];
 </script>
 
+<svelte:head>
+    <title>Small Businesses - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
     <TitleSection Title={Chapter} {Chapter}/>

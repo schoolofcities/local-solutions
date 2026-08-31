@@ -62,6 +62,11 @@
     ]
 </script>
 
+<svelte:head>
+    <title>About the Team - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
 
