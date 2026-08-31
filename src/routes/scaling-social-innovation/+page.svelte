@@ -151,6 +151,7 @@
         
         <GraphicSingle
             svg720={`${base}/web-assets/scaling-social-innovation/Scaling Policy.svg`}
+            svg360={`${base}/web-assets/scaling-social-innovation/Scaling Policy_360.svg`}
         />
 
         <p style:margin-bottom="50px;"></p>

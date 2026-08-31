@@ -2,10 +2,10 @@
 <svg
    id="svg29"
    width="360"
-   height="400.60001"
-   viewBox="0 0 269.99999 300.45002"
+   height="366.60001"
+   viewBox="0 0 269.99999 274.95002"
    version="1.1"
-   sodipodi:docname="mental-health_travel-burden-bars.svg"
+   sodipodi:docname="mental-health_travel-burden-bars_360.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="mental-health_travel-burden-bars.png"
    inkscape:export-xdpi="300"
@@ -15,7 +15,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs29" />
+     id="defs29">
+    <rect
+       x="-49.497475"
+       y="316.07672"
+       width="19.79899"
+       height="25.455845"
+       id="rect30" />
+  </defs>
   <sodipodi:namedview
      id="namedview29"
      pagecolor="#ffffff"
@@ -27,9 +34,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="0.66448255"
-     inkscape:cx="-381.49986"
-     inkscape:cy="166.29481"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="233.69879"
+     inkscape:cy="232.28458"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -55,77 +62,77 @@
      id="layer1">
     <path
        id="path1"
-       d="m 258.66401,153.19483 v 25.95846 c 0,0.79618 -0.40804,1.44213 -0.91161,1.44213 h -24.98577 c -0.50357,0 -0.91162,-0.64595 -0.91162,-1.44213 v -25.95846 c 0,-0.79617 0.40805,-1.44214 0.91162,-1.44214 h 24.98577 c 0.50357,0 0.91161,0.64597 0.91161,1.44214 z"
+       d="m 262.75469,163.61446 v 25.95653 c 0,0.79611 -0.42235,1.44203 -0.94356,1.44203 h -25.86131 c -0.52122,0 -0.94356,-0.64592 -0.94356,-1.44203 v -25.95653 c 0,-0.79612 0.42234,-1.44202 0.94356,-1.44202 h 25.86131 c 0.52121,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#ab2069"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path2"
-       d="m 258.66401,95.50837 v 25.95846 c 0,0.79617 -0.40804,1.44214 -0.91161,1.44214 h -3.05123 c -0.50358,0 -0.91162,-0.64597 -0.91162,-1.44214 V 95.50837 c 0,-0.79618 0.40804,-1.442136 0.91162,-1.442136 h 3.05123 c 0.50357,0 0.91161,0.645956 0.91161,1.442136 z"
+       d="m 262.75469,112.29626 v 25.95652 c 0,0.79612 -0.42235,1.44202 -0.94356,1.44202 h -3.15816 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 3.15816 c 0.52121,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#ab2069"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path3"
-       d="m 253.78955,95.50837 v 25.95846 c 0,0.79617 -0.40805,1.44214 -0.91162,1.44214 h -5.48847 c -0.50357,0 -0.91161,-0.64597 -0.91161,-1.44214 V 95.50837 c 0,-0.79618 0.40804,-1.442136 0.91161,-1.442136 h 5.48847 c 0.50357,0 0.91162,0.645956 0.91162,1.442136 z"
+       d="m 257.70941,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94356,1.44202 h -5.68079 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 5.68079 c 0.52122,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#dc4732"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path4"
-       d="m 231.85501,153.19483 v 25.95846 c 0,0.79618 -0.40805,1.44213 -0.91162,1.44213 h -39.60916 c -0.50357,0 -0.91161,-0.64595 -0.91161,-1.44213 v -25.95846 c 0,-0.79617 0.40804,-1.44214 0.91161,-1.44214 h 39.60916 c 0.50357,0 0.91162,0.64597 0.91162,1.44214 z"
+       d="m 235.00626,163.61446 v 25.95653 c 0,0.79611 -0.42235,1.44203 -0.94356,1.44203 h -40.99713 c -0.52122,0 -0.94356,-0.64592 -0.94356,-1.44203 v -25.95653 c 0,-0.79612 0.42234,-1.44202 0.94356,-1.44202 h 40.99713 c 0.52121,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#dc4732"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path5"
-       d="m 246.47785,95.50837 v 25.95846 c 0,0.79617 -0.40804,1.44214 -0.91161,1.44214 h -17.67408 c -0.50357,0 -0.91162,-0.64597 -0.91162,-1.44214 V 95.50837 c 0,-0.79618 0.40805,-1.442136 0.91162,-1.442136 h 17.67408 c 0.50357,0 0.91161,0.645956 0.91161,1.442136 z"
+       d="m 250.1415,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94355,1.44202 h -18.29341 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 18.29341 c 0.52121,0 0.94355,0.64591 0.94355,1.44203 z"
        fill="#efc419"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path6"
-       d="m 190.42206,153.19483 v 25.95846 c 0,0.79618 -0.40804,1.44213 -0.91161,1.44213 h -78.60432 c -0.50357,0 -0.91162,-0.64595 -0.91162,-1.44213 v -25.95846 c 0,-0.79617 0.40805,-1.44214 0.91162,-1.44214 h 78.60432 c 0.50357,0 0.91161,0.64597 0.91161,1.44214 z"
+       d="m 192.12144,163.61446 v 25.95653 c 0,0.79611 -0.42236,1.44203 -0.94356,1.44203 h -81.35875 c -0.52121,0 -0.94355,-0.64592 -0.94355,-1.44203 v -25.95653 c 0,-0.79612 0.42234,-1.44202 0.94355,-1.44202 h 81.35875 c 0.5212,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#efc419"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path7"
-       d="m 226.98054,95.50837 v 25.95846 c 0,0.79617 -0.40804,1.44214 -0.91161,1.44214 h -29.86024 c -0.50357,0 -0.91161,-0.64597 -0.91161,-1.44214 V 95.50837 c 0,-0.79618 0.40804,-1.442136 0.91161,-1.442136 h 29.86024 c 0.50357,0 0.91161,0.645956 0.91161,1.442136 z"
+       d="m 229.96098,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94356,1.44202 h -30.90658 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 30.90658 c 0.52122,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#00a28a"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path8"
-       d="m 109.99451,153.19483 v 25.95846 c 0,0.79618 -0.40805,1.44213 -0.91162,1.44213 H 59.724795 c -0.50357,0 -0.911615,-0.64595 -0.911615,-1.44213 v -25.95846 c 0,-0.79617 0.408045,-1.44214 0.911615,-1.44214 h 49.358095 c 0.50357,0 0.91162,0.64597 0.91162,1.44214 z"
+       d="m 108.87558,163.61446 v 25.95653 c 0,0.79611 -0.42234,1.44203 -0.94356,1.44203 H 56.844342 c -0.521216,0 -0.943561,-0.64592 -0.943561,-1.44203 v -25.95653 c 0,-0.79612 0.422345,-1.44202 0.943561,-1.44202 h 51.087678 c 0.52122,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#00a28a"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path9"
-       d="m 195.29653,95.50837 v 25.95846 c 0,0.79617 -0.40804,1.44214 -0.91162,1.44214 H 13.417939 c -0.50357,0 -0.911615,-0.64597 -0.911615,-1.44214 V 95.50837 c 0,-0.79618 0.408045,-1.442136 0.911615,-1.442136 H 194.38491 c 0.50358,0 0.91162,0.645956 0.91162,1.442136 z"
+       d="m 197.16671,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94356,1.44202 H 8.9148202 c -0.5212153,0 -0.9435594,-0.6459 -0.9435594,-1.44202 v -25.95652 c 0,-0.79612 0.4223441,-1.44203 0.9435594,-1.44203 H 196.22315 c 0.52122,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path10"
-       d="m 58.81318,153.19483 v 25.95846 c 0,0.79618 -0.408047,1.44213 -0.911616,1.44213 H 13.417939 c -0.50357,0 -0.911615,-0.64595 -0.911615,-1.44213 v -25.95846 c 0,-0.79617 0.408045,-1.44214 0.911615,-1.44214 h 44.483625 c 0.503569,0 0.911616,0.64597 0.911616,1.44214 z"
+       d="m 55.900781,163.61446 v 25.95653 c 0,0.79611 -0.422344,1.44203 -0.943559,1.44203 H 8.9148202 c -0.5212153,0 -0.9435594,-0.64592 -0.9435594,-1.44203 v -25.95653 c 0,-0.79612 0.4223441,-1.44202 0.9435594,-1.44202 H 54.957222 c 0.521215,0 0.943559,0.6459 0.943559,1.44202 z"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.371813" />
+       stroke-width="0.378256" />
     <path
        id="path37"
-       d="M 0,300.17912 H 489.6"
+       d="M 0,274.72328 H 489.6"
        fill="none"
        stroke="#f1c500"
        stroke-miterlimit="2.25"
@@ -137,26 +144,26 @@
          id="text10"
          isolation="isolate">
         <text
-           transform="rotate(0.17,-7236.7613,7108.6824)"
+           transform="rotate(0.17,-7541.6208,7109.1347)"
            font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
            font-size="17px"
            font-weight="700"
            isolation="isolate"
            id="text1"
-           style="font-size:14px;white-space:pre;inline-size:215.443"
+           style="font-size:14px;white-space:pre;inline-size:196.197"
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan11">Hospital travel burden for urban and </tspan><tspan
+             id="tspan11">Hospital travel burden for urban </tspan><tspan
              x="0"
              y="17.5"
-             id="tspan13">rural residents</tspan></text>
+             id="tspan13">and rural residents</tspan></text>
       </g>
     </g>
     <g
        id="text51"
        isolation="isolate"
-       transform="translate(-7.9008844,73.365358)">
+       transform="translate(-7.9008844,47.909514)">
       <g
          id="text11"
          isolation="isolate">
@@ -167,7 +174,7 @@
            font-size="8px"
            isolation="isolate"
            id="text2"
-           style="white-space:pre;inline-size:232.22"
+           style="white-space:pre;inline-size:232.22;display:inline"
            xml:space="preserve"><tspan
              x="0"
              y="0"
@@ -197,29 +204,29 @@
       <g
          id="text13"
          isolation="isolate"
-         transform="translate(1.1286978,6.7721869)">
+         transform="translate(0,7.4246213)">
         <text
-           transform="translate(15.392162,47.150443)"
+           transform="translate(12.054058,50.094291)"
            font-family="OpenSans-Italic, 'Open Sans'"
            font-size="9px"
            font-style="italic"
            font-variation-settings="'wdth' 100, 'wght' 400"
            isolation="isolate"
            id="text3"
-           style="white-space:pre;inline-size:247.283"
+           style="font-size:8px;white-space:pre;inline-size:250.955"
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan16">Factors that impact travel burden include patient living in a </tspan><tspan
+             id="tspan16">Factors that impact travel burden include patient living in a different </tspan><tspan
              x="0"
-             y="11.25"
-             id="tspan17">different census subdivision than the hospital, greater travel </tspan><tspan
+             y="10"
+             id="tspan17">census subdivision than the hospital, greater travel distance required, </tspan><tspan
              x="0"
-             y="22.5"
-             id="tspan18">distance required, no road available, patient is a senior or </tspan><tspan
+             y="19.999999"
+             id="tspan18">no road available, patient is a senior or child, and hospitalization is </tspan><tspan
              x="0"
-             y="33.75"
-             id="tspan19">child, and hospitalization is urgent or unscheduled.</tspan></text>
+             y="29.999999"
+             id="tspan19">urgent or unscheduled.</tspan></text>
         <text
            transform="translate(21.6,54)"
            font-family="OpenSans-Italic, 'Open Sans'"
@@ -235,7 +242,7 @@
       <g
          id="text14"
          isolation="isolate"
-         transform="translate(0,25.140461)">
+         transform="translate(-10.875,31.715097)">
         <text
            transform="translate(20.979,75.602)"
            font-family="OpenSans-Bold, 'Open Sans'"
@@ -249,43 +256,66 @@
       </g>
       <g
          id="text15"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(0,25.351136)">
         <text
-           transform="translate(42.014,180.002)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
-           id="text6"><tspan
-             x="0"
-             y="0"
-             id="tspan6">Very low</tspan></text>
+           id="text6"
+           x="9.9685717"
+           y="193.56987"
+           style="font-size:8px"><tspan
+             x="9.9685717"
+             y="193.56987"
+             id="tspan6"
+             style="font-size:8px">Very low</tspan></text>
         <text
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
            id="text6-1"
-           x="29.93922"
-           y="191.69861"><tspan
-             x="29.93922"
-             y="191.69861"
-             id="tspan6-5">travel burden</tspan></text>
+           x="9.8862057"
+           y="205.26648"
+           style="font-size:8px"><tspan
+             x="9.8862057"
+             y="205.26648"
+             id="tspan6-5"
+             style="font-size:8px">travel burden</tspan></text>
         <text
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
            id="text6-1-7"
-           x="409.0965"
-           y="191.55428"><tspan
-             x="409.0965"
-             y="191.55428"
-             id="tspan6-5-7">travel burden</tspan></text>
+           x="206.0321"
+           y="205.12215"
+           style="font-size:8px"><tspan
+             x="206.0321"
+             y="205.12215"
+             id="tspan6-5-7"
+             style="font-size:8px">travel burden</tspan></text>
+        <rect
+           style="fill:#067fa3;fill-opacity:1;stroke-width:0.75"
+           id="rect14"
+           width="2.5395696"
+           height="20.316563"
+           x="11.851328"
+           y="164.78989" />
+        <rect
+           style="fill:#ab2069;fill-opacity:1;stroke-width:0.75"
+           id="rect14-9"
+           width="2.5395696"
+           height="20.316563"
+           x="255.75598"
+           y="164.79146" />
       </g>
       <g
          id="text16"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-32.167888,25.351136)">
         <text
            transform="translate(52.789,154.737)"
            fill="#ffffff"
@@ -301,7 +331,7 @@
       <g
          id="text17"
          isolation="isolate"
-         transform="translate(-11.173538,17.957472)">
+         transform="translate(-82.394941,31.715097)">
         <text
            transform="translate(175.879,96.738)"
            fill="#ffffff"
@@ -316,7 +346,8 @@
       </g>
       <g
          id="text18"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-69.69709,25.351136)">
         <text
            transform="translate(140.567,154.737)"
            fill="#ffffff"
@@ -331,7 +362,8 @@
       </g>
       <g
          id="text19"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-167.61163,31.715097)">
         <text
            transform="translate(370.093,96.859)"
            fill="#ffffff"
@@ -346,7 +378,8 @@
       </g>
       <g
          id="g20"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-187.36384,31.715097)">
         <text
            transform="translate(419.584,96.859)"
            font-family="OpenSans-Bold, 'Open Sans'"
@@ -360,7 +393,8 @@
       </g>
       <g
          id="g21"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-200.02641,31.715097)">
         <text
            transform="translate(448.275,120.619)"
            font-family="OpenSans-Bold, 'Open Sans'"
@@ -374,7 +408,8 @@
       </g>
       <g
          id="g22"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-121.28375,25.351136)">
         <text
            transform="translate(259.744,154.737)"
            font-family="OpenSans-Bold, 'Open Sans'"
@@ -388,7 +423,8 @@
       </g>
       <g
          id="g23"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-167.22823,25.351136)">
         <text
            transform="translate(370.092,154.737)"
            fill="#ffffff"
@@ -403,7 +439,8 @@
       </g>
       <g
          id="g24"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-194.0348,25.351136)">
         <text
            transform="translate(431.888,154.737)"
            fill="#ffffff"
@@ -418,63 +455,77 @@
       </g>
       <g
          id="g25"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-68.891264,25.351136)">
         <text
            transform="translate(141.612,180.001)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
-           id="text25"><tspan
+           id="text25"
+           style="font-size:8px"><tspan
              x="0"
              y="0"
-             id="tspan24">Low</tspan></text>
+             id="tspan24"
+             style="font-size:8px">Low</tspan></text>
       </g>
       <g
          id="g26"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-115.27016,25.351136)">
         <text
            transform="translate(246.645,180.002)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
-           id="text26"><tspan
+           id="text26"
+           style="font-size:8px"><tspan
              x="0"
              y="0"
-             id="tspan25">Moderate</tspan></text>
+             id="tspan25"
+             style="font-size:8px">Moderate</tspan></text>
       </g>
       <g
          id="g27"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-164.12431,25.351136)">
         <text
            transform="translate(369.874,180.001)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
-           id="text27"><tspan
+           id="text27"
+           style="font-size:8px"><tspan
              x="0"
              y="0"
-             id="tspan26">High</tspan></text>
+             id="tspan26"
+             style="font-size:8px">High</tspan></text>
       </g>
       <g
          id="g28"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-203.06438,38.919004)">
         <text
-           transform="translate(419.592,180.002)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="10px"
            font-weight="700"
            isolation="isolate"
-           id="text28"><tspan
-             x="0"
-             y="0"
-             id="tspan27">Very high</tspan></text>
+           id="text28"
+           style="font-size:8px"
+           x="426.22311"
+           y="180.002"><tspan
+             x="426.22311"
+             y="180.002"
+             id="tspan27"
+             style="font-size:8px">Very high</tspan></text>
       </g>
       <g
          id="g29"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-10.875,25.351136)">
         <text
            transform="translate(21.085,133.203)"
            font-family="OpenSans-Bold, 'Open Sans'"
@@ -493,7 +544,13 @@
          stroke="#ab2069"
          stroke-miterlimit="10"
          stroke-width="0.5"
-         style="stroke:#77767b" />
+         style="stroke:#77767b"
+         transform="matrix(0.57150803,0,0,1.0014091,-4.3733131,31.542629)" />
+      <text
+         xml:space="preserve"
+         transform="scale(0.75000001)"
+         id="text30"
+         style="font-size:17.3333px;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);fill:#ab2069;fill-opacity:1" />
     </g>
   </g>
 </svg>

@@ -5,42 +5,13 @@
    height="500"
    viewBox="0 0 288 400"
    version="1.1"
-   sodipodi:docname="wealth_dignity_food-insecurity.svg"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs53">
-    <rect
-       x="-54.542947"
-       y="92.72301"
-       width="252.26113"
-       height="239.30718"
-       id="rect35" />
-  </defs>
-  <sodipodi:namedview
-     id="namedview53"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4667341"
-     inkscape:cx="157.49276"
-     inkscape:cy="298.28174"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-1"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg58" />
+     id="defs53" />
   <g
      id="g35"
-     transform="matrix(1,0,0,1.3756061,-88.705681,-32.474527)">
+     transform="matrix(1,0,0,1.3756061,-88.705681,-27.020232)">
     <line
        id="line30"
        x1="162.38"
@@ -104,7 +75,7 @@
   </g>
   <g
      id="g59-6"
-     transform="matrix(1,0,0,1.3756061,-88.705681,-32.474527)">
+     transform="matrix(1,0,0,1.5450474,-88.705681,-53.498152)">
     <line
        id="line1-7"
        x1="164.79601"
@@ -208,7 +179,7 @@
   </g>
   <g
      id="g59"
-     transform="matrix(1,0,0,1.3756061,-88.705681,-32.474527)">
+     transform="matrix(1,0,0,1.5450474,-88.705681,-53.498152)">
     <line
        id="line1"
        x1="160.19299"
@@ -333,7 +304,8 @@
      fill="#f1c500" />
   <g
      id="text10"
-     isolation="isolate">
+     isolation="isolate"
+     transform="translate(0,1.6362884)">
     <g
        id="g2"
        isolation="isolate">
@@ -341,15 +313,20 @@
          id="g1"
          isolation="isolate">
         <text
-           transform="translate(20.96,27.675)"
+           transform="translate(21.505429,20.584417)"
            font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
            font-size="17px"
            font-weight="700"
            isolation="isolate"
-           id="text1"><tspan
+           id="text1"
+           style="font-size:13.8667px;white-space:pre;inline-size:247.376"
+           xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan1">Food insecurity among types of families in Canada (2021)</tspan></text>
+             id="tspan6">Food insecurity among types of families in </tspan><tspan
+             x="0"
+             y="17.333376"
+             id="tspan7">Canada (2021)</tspan></text>
       </g>
     </g>
   </g>
@@ -377,7 +354,7 @@
   <g
      id="text13"
      isolation="isolate"
-     transform="translate(-88.705681)">
+     transform="translate(-88.705681,5.4542947)">
     <g
        id="g4"
        isolation="isolate"
@@ -393,17 +370,17 @@
            font-weight="700"
            isolation="isolate"
            id="text2"
-           style="font-size:9.6px;white-space:pre;inline-size:131.884"
+           style="font-size:9.6px;white-space:pre;inline-size:131.884;display:inline"
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan3">18% of families in Canada </tspan><tspan
+             id="tspan8">18% of families in Canada </tspan><tspan
              x="0"
              y="12"
-             id="tspan6">experienced food </tspan><tspan
+             id="tspan9">experienced food </tspan><tspan
              x="0"
              y="24"
-             id="tspan8">insecurity in 2021</tspan></text>
+             id="tspan11">insecurity in 2021</tspan></text>
       </g>
     </g>
     <g
@@ -429,7 +406,7 @@
   <g
      id="text14"
      isolation="isolate"
-     transform="translate(-88.705681,21.817178)">
+     transform="translate(-82.191951,27.078635)">
     <g
        id="g7"
        isolation="isolate">
@@ -437,78 +414,85 @@
          id="g6"
          isolation="isolate">
         <text
-           transform="translate(104.975,151.202)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="9px"
            font-weight="700"
            isolation="isolate"
-           id="text5"><tspan
-             x="0"
-             y="0"
-             id="tspan5">All families</tspan></text>
+           id="text5"
+           style="font-size:7.46667px"
+           x="111.11108"
+           y="149.83842"><tspan
+             x="111.11108"
+             y="149.83842"
+             id="tspan5"
+             style="font-size:7.46667px">All families</tspan></text>
       </g>
     </g>
   </g>
-  <g
-     id="text15"
+  <text
+     transform="translate(-1.7308744,216.07317)"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-size="9px"
+     font-weight="700"
      isolation="isolate"
-     transform="translate(-88.705681,32.725768)">
-    <g
-       id="g9"
-       isolation="isolate">
-      <g
-         id="g8"
-         isolation="isolate">
-        <text
-           transform="translate(77.285,180.002)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="9px"
-           font-weight="700"
-           isolation="isolate"
-           id="text7"><tspan
-             x="0"
-             y="0"
-             id="tspan7">Full-time student</tspan></text>
-      </g>
-    </g>
-  </g>
-  <g
-     id="text16"
+     id="text19-9"
+     style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+     x="71.3433"
+     y="0"
+     xml:space="preserve"><tspan
+       x="71.3433"
+       y="0"
+       id="tspan14">Full time</tspan></text>
+  <text
+     transform="translate(-1.3451984,223.77701)"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-size="9px"
+     font-weight="700"
      isolation="isolate"
-     transform="translate(-88.705681,11.999448)">
-    <g
-       id="g10"
+     id="text37-0"
+     style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+     x="71.3433"
+     y="0"
+     xml:space="preserve"><tspan
+       x="71.3433"
+       y="0"
+       id="tspan15">student</tspan></text>
+  <g
+     id="g19-8-6"
+     transform="translate(-44.337917,-39.537098)">
+    <text
+       transform="translate(42.599869,165.87472)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
        isolation="isolate"
-       transform="translate(8.181442,-5.9997241)">
-      <g
-         id="text6"
-         isolation="isolate">
-        <text
-           transform="translate(75.215,122.403)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="9px"
-           font-weight="700"
-           isolation="isolate"
-           id="text9"
-           style="font-size:8.53333px;text-align:end;text-anchor:end;white-space:pre;inline-size:73.6829"
-           x="73.682899"
-           y="0"
-           xml:space="preserve"><tspan
-             x="73.682899"
-             y="0"
-             id="tspan11">Employed all<tspan
-   y="0"
-   id="tspan14"> </tspan></tspan><tspan
-             x="73.682899"
-             y="10.666662"
-             id="tspan15">year</tspan></text>
-      </g>
-    </g>
+       id="text19-8-3"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:88.1202;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan16">Employed</tspan></text>
+    <text
+       transform="translate(42.985545,173.57856)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text37-1-2"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan17">all year</tspan></text>
   </g>
   <g
      id="text17"
      isolation="isolate"
-     transform="translate(-88.705681,43.634357)">
+     transform="translate(-75.590317,57.413791)">
     <g
        id="g12"
        isolation="isolate">
@@ -521,17 +505,19 @@
            font-size="9px"
            font-weight="700"
            isolation="isolate"
-           id="text11"><tspan
+           id="text11"
+           style="font-size:7.46667px"><tspan
              x="0"
              y="0"
-             id="tspan10">Lone parent</tspan></text>
+             id="tspan10"
+             style="font-size:7.46667px">Lone parent</tspan></text>
       </g>
     </g>
   </g>
   <g
      id="text18"
      isolation="isolate"
-     transform="translate(-88.705681,48.543222)">
+     transform="translate(-76.032473,64.965913)">
     <g
        id="g13"
        isolation="isolate">
@@ -544,109 +530,149 @@
            font-size="9px"
            font-weight="700"
            isolation="isolate"
-           id="text12"><tspan
+           id="text12"
+           style="font-size:7.46667px"><tspan
              x="0"
              y="0"
-             id="tspan12">Indigenous</tspan></text>
+             id="tspan12"
+             style="font-size:7.46667px">Indigenous</tspan></text>
       </g>
     </g>
   </g>
   <g
      id="g21"
      isolation="isolate"
-     transform="translate(-88.705681,27.271473)">
+     transform="translate(-44.35284,26.169261)">
     <g
        id="g20"
-       isolation="isolate">
+       isolation="isolate"
+       transform="translate(0,2.1212228)">
       <g
          id="g19"
          isolation="isolate">
         <text
-           transform="translate(41.25,165.602)"
+           transform="translate(42.599869,165.87472)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="9px"
            font-weight="700"
            isolation="isolate"
-           id="text19"><tspan
-             x="0"
+           id="text19"
+           style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+           x="71.3433"
+           y="0"
+           xml:space="preserve"><tspan
+             x="71.3433"
              y="0"
-             id="tspan13">All racial minority groups</tspan></text>
+             id="tspan18">All racial<tspan
+   y="0"
+   id="tspan19"> </tspan></tspan></text>
+        <text
+           transform="translate(42.985545,173.57856)"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text37"
+           style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+           x="71.3433"
+           y="0"
+           xml:space="preserve"><tspan
+             x="71.3433"
+             y="0"
+             id="tspan20"> minority groups</tspan></text>
       </g>
     </g>
   </g>
   <g
      id="text20"
      isolation="isolate"
-     transform="translate(-88.705681,55.088376)">
+     transform="translate(-88.705681,74.041362)">
     <g
        id="g23"
-       isolation="isolate">
+       isolation="isolate"
+       transform="translate(2.8925766,-0.38567688)">
       <g
          id="g22"
          isolation="isolate">
         <text
-           transform="translate(130.367,237.602)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="9px"
            font-weight="700"
            isolation="isolate"
-           id="text21"><tspan
-             x="0"
-             y="0"
-             id="tspan21">Black</tspan></text>
+           id="text21"
+           style="font-size:7.46667px"
+           x="135.41222"
+           y="237.46564"><tspan
+             x="135.41222"
+             y="237.46564"
+             id="tspan21"
+             style="font-size:7.46667px">Black</tspan></text>
       </g>
     </g>
   </g>
   <g
-     id="g26"
-     isolation="isolate"
-     transform="translate(-88.705681,38.725492)">
-    <g
-       id="g25"
-       isolation="isolate">
-      <g
-         id="g24"
-         isolation="isolate">
-        <text
-           transform="translate(21.343,194.402)"
-           font-family="OpenSans-Bold, 'Open Sans'"
-           font-size="9px"
-           font-weight="700"
-           isolation="isolate"
-           id="text23"><tspan
-             x="0"
-             y="0"
-             id="tspan23">Recent immigrant (2013-2021)</tspan></text>
-      </g>
-    </g>
+     id="g19-8"
+     transform="translate(-43.632053,75.590242)">
+    <text
+       transform="translate(42.599869,165.87472)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text19-8"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:88.1202;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan22">Recent immigrant</tspan></text>
+    <text
+       transform="translate(42.985545,173.57856)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text37-1"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan23"> (2013-2021)</tspan></text>
   </g>
   <g
      id="g28"
      isolation="isolate"
-     transform="translate(-88.705681,16.908313)">
+     transform="translate(-82.727689,22.362608)">
     <g
        id="g27"
-       isolation="isolate">
+       isolation="isolate"
+       transform="translate(0,-4.0496072)">
       <g
          id="text22"
          isolation="isolate">
         <text
-           transform="translate(88.324,136.802)"
            font-family="OpenSans-Bold, 'Open Sans'"
            font-size="9px"
            font-weight="700"
            isolation="isolate"
-           id="text26"><tspan
-             x="0"
-             y="0"
-             id="tspan26">Canadian-born</tspan></text>
+           id="text26"
+           style="font-size:7.46667px"
+           x="97.869019"
+           y="135.57478"><tspan
+             x="97.869019"
+             y="135.57478"
+             id="tspan26"
+             style="font-size:7.46667px">Canadian-born</tspan></text>
       </g>
     </g>
   </g>
   <g
      id="g31"
      isolation="isolate"
-     transform="translate(-88.705681)">
+     transform="translate(-83.691882,-3.4162734)">
     <g
        id="g30"
        isolation="isolate">
@@ -659,20 +685,20 @@
            font-weight="700"
            isolation="isolate"
            id="text28"
-           x="96.244003"
-           y="113.4573"
-           style="font-size:8.53333px"><tspan
-             x="96.244003"
-             y="113.4573"
+           x="105.92538"
+           y="113.04823"
+           style="font-size:7.46667px"><tspan
+             x="105.92538"
+             y="113.04823"
              id="tspan28"
-             style="font-size:8.53333px">65+ years old</tspan></text>
+             style="font-size:7.46667px">65+ years old</tspan></text>
       </g>
     </g>
   </g>
   <g
      id="text24"
      isolation="isolate"
-     transform="translate(-4.9088652)">
+     transform="translate(-4.9088652,5.4542947)">
     <g
        id="g32"
        isolation="isolate">
@@ -696,7 +722,7 @@
   <g
      id="g36"
      isolation="isolate"
-     transform="translate(-4.9088652)">
+     transform="translate(-4.9088652,5.4542947)">
     <g
        id="g34"
        isolation="isolate">
@@ -720,7 +746,7 @@
   <g
      id="g39"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g38"
        isolation="isolate">
@@ -743,7 +769,7 @@
   <g
      id="text27"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g40"
        isolation="isolate">
@@ -766,7 +792,7 @@
   <g
      id="g43"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g42"
        isolation="isolate">
@@ -789,7 +815,7 @@
   <g
      id="text28-2"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g44"
        isolation="isolate">
@@ -811,7 +837,7 @@
   <g
      id="text29"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g45"
        isolation="isolate">
@@ -834,7 +860,7 @@
   <g
      id="g48"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g47"
        isolation="isolate">
@@ -856,7 +882,7 @@
   </g>
   <g
      id="g55"
-     transform="matrix(1,0,0,1.3756061,-88.705681,-32.474527)">
+     transform="matrix(1,0,0,1.5450474,-88.705681,-53.498152)">
     <line
        id="line36"
        x1="243.59599"
@@ -869,24 +895,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle36"
-       cx="243.56808"
-       cy="161.94202"
+       cx="243.55923"
+       cy="161.99754"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424401"
-       rx="3.609895"
-       ry="2.5865657" />
+       stroke-width="0.399683"
+       rx="3.6131303"
+       ry="2.2919915" />
     <ellipse
        id="circle37"
-       cx="263.92789"
-       cy="161.94202"
+       cx="263.93732"
+       cy="161.99754"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424401"
-       rx="3.609895"
-       ry="2.5865657" />
+       stroke-width="0.399683"
+       rx="3.6131303"
+       ry="2.2919915" />
     <line
        id="line37"
        x1="302.51801"
@@ -899,24 +925,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle38"
-       cx="302.49039"
-       cy="233.94202"
+       cx="302.48166"
+       cy="233.99754"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424418"
-       rx="3.6101878"
-       ry="2.5865574" />
+       stroke-width="0.399704"
+       rx="3.613519"
+       ry="2.291981" />
     <ellipse
        id="circle39"
-       cx="322.05362"
-       cy="233.94202"
+       cx="322.06296"
+       cy="233.99754"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424418"
-       rx="3.6101878"
-       ry="2.5865574" />
+       stroke-width="0.399704"
+       rx="3.613519"
+       ry="2.291981" />
     <line
        id="line39"
        x1="243.198"
@@ -929,24 +955,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle40"
-       cx="243.16499"
-       cy="190.74202"
+       cx="243.15448"
+       cy="190.79755"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424121"
-       rx="3.6049333"
-       ry="2.5867059" />
+       stroke-width="0.399334"
+       rx="3.6065447"
+       ry="2.292166" />
     <ellipse
        id="circle41"
-       cx="291.40302"
-       cy="190.74202"
+       cx="291.41409"
+       cy="190.79755"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424121"
-       rx="3.6049333"
-       ry="2.5867059" />
+       stroke-width="0.399334"
+       rx="3.6065447"
+       ry="2.292166" />
     <line
        id="line41"
        x1="222.09801"
@@ -959,24 +985,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle42"
-       cx="222.07222"
-       cy="133.14201"
+       cx="222.06406"
+       cy="133.19754"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424518"
-       rx="3.6119571"
-       ry="2.5865076" />
+       stroke-width="0.399829"
+       rx="3.6158681"
+       ry="2.2919188" />
     <ellipse
        id="circle43"
-       cx="237.64978"
-       cy="133.14201"
+       cx="237.65849"
+       cy="133.19754"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424518"
-       rx="3.6119571"
-       ry="2.5865076" />
+       stroke-width="0.399829"
+       rx="3.6158681"
+       ry="2.2919188" />
     <line
        id="line43"
        x1="225.681"
@@ -989,24 +1015,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle44"
-       cx="225.65388"
-       cy="147.54202"
+       cx="225.64529"
+       cy="147.59755"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424444"
-       rx="3.610661"
-       ry="2.586544" />
+       stroke-width="0.399737"
+       rx="3.6141474"
+       ry="2.2919645" />
     <ellipse
        id="circle45"
-       cx="244.02112"
-       cy="147.54202"
+       cx="244.03026"
+       cy="147.59755"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424444"
-       rx="3.610661"
-       ry="2.586544" />
+       stroke-width="0.399737"
+       rx="3.6141474"
+       ry="2.2919645" />
     <line
        id="line45"
        x1="198.60899"
@@ -1019,24 +1045,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle46"
-       cx="198.60899"
-       cy="104.34203"
+       cx="198.60213"
+       cy="104.39761"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.425931"
-       rx="3.6370347"
-       ry="2.5858011" />
+       stroke-width="0.401224"
+       rx="3.642251"
+       ry="2.2912211" />
     <ellipse
        id="circle47"
-       cx="208.562"
-       cy="104.34203"
+       cx="208.56941"
+       cy="104.39761"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.425931"
-       rx="3.6370347"
-       ry="2.5858011" />
+       stroke-width="0.401224"
+       rx="3.642251"
+       ry="2.2912211" />
     <line
        id="line47"
        x1="216.524"
@@ -1049,24 +1075,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle48"
-       cx="216.524"
-       cy="118.74203"
+       cx="216.51659"
+       cy="118.79756"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.425931"
-       rx="3.6370347"
-       ry="2.5858011" />
+       stroke-width="0.401195"
+       rx="3.641716"
+       ry="2.2912352" />
     <ellipse
        id="circle49"
-       cx="228.468"
-       cy="118.74203"
+       cx="228.47597"
+       cy="118.79756"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.425931"
-       rx="3.6370347"
-       ry="2.5858011" />
+       stroke-width="0.401195"
+       rx="3.641716"
+       ry="2.2912352" />
     <line
        id="line49"
        x1="241.407"
@@ -1079,24 +1105,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle50"
-       cx="241.37547"
-       cy="176.34201"
+       cx="241.36545"
+       cy="176.39754"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424202"
-       rx="3.6063709"
-       ry="2.5866652" />
+       stroke-width="0.399435"
+       rx="3.6084526"
+       ry="2.2921154" />
     <ellipse
        id="circle51"
-       cx="277.06952"
-       cy="176.34201"
+       cx="277.08014"
+       cy="176.39754"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424202"
-       rx="3.6063709"
-       ry="2.5866652" />
+       stroke-width="0.399435"
+       rx="3.6084526"
+       ry="2.2921154" />
     <line
        id="line51"
        x1="280.22299"
@@ -1109,24 +1135,24 @@
        stroke-width="0.75" />
     <ellipse
        id="circle52"
-       cx="280.19083"
-       cy="219.54202"
+       cx="280.18063"
+       cy="219.59755"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424167"
-       rx="3.6057582"
-       ry="2.5866826" />
+       stroke-width="0.399392"
+       rx="3.6076396"
+       ry="2.2921371" />
     <ellipse
        id="circle53"
-       cx="320.46518"
-       cy="219.54202"
+       cx="320.47598"
+       cy="219.59755"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424167"
-       rx="3.6057582"
-       ry="2.5866826" />
+       stroke-width="0.399392"
+       rx="3.6076396"
+       ry="2.2921371" />
     <line
        id="line53"
        x1="259.521"
@@ -1139,41 +1165,41 @@
        stroke-width="0.75" />
     <ellipse
        id="circle54"
-       cx="259.48666"
-       cy="205.14201"
+       cx="259.47577"
+       cy="205.19754"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424048"
-       rx="3.6036518"
-       ry="2.5867422" />
+       stroke-width="0.399243"
+       rx="3.6048443"
+       ry="2.2922113" />
     <ellipse
        id="circle55"
-       cx="327.23532"
-       cy="205.14201"
+       cx="327.24683"
+       cy="205.19754"
        fill="#6c297b"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.424048"
-       rx="3.6036518"
-       ry="2.5867422" />
+       stroke-width="0.399243"
+       rx="3.6048443"
+       ry="2.2922113" />
   </g>
   <circle
      id="circle56"
      cx="20.291136"
-     cy="46.799999"
+     cy="52.254295"
      r="3.5999999"
      fill="#067fa3" />
   <circle
      id="circle57"
      cx="149.89014"
-     cy="46.799999"
+     cy="52.254295"
      r="3.5999999"
      fill="#6c297b" />
   <g
      id="text57"
      isolation="isolate"
-     transform="translate(-88.705681,64.360677)">
+     transform="translate(-88.705681,69.814972)">
     <g
        id="g49"
        isolation="isolate">
@@ -1195,7 +1221,7 @@
   </g>
   <g
      id="g58"
-     transform="translate(-88.705681)">
+     transform="translate(-88.705681,5.4542947)">
     <path
        id="path57"
        d="m 241.934,70.122 c 0,0 -9.343,-3.091 -8.555,10.996"
@@ -1211,9 +1237,9 @@
   <line
      id="line58"
      x1="144.93732"
-     y1="86.460373"
+     y1="91.914665"
      x2="144.93732"
-     y2="314.1796"
+     y2="319.63388"
      fill="none"
      stroke="#ab2069"
      stroke-dasharray="3.51859, 3.51859"
@@ -1240,18 +1266,18 @@
              font-size="8px"
              isolation="isolate"
              id="text49"
-             style="white-space:pre;inline-size:276.293"
+             style="white-space:pre;inline-size:276.293;display:inline"
              xml:space="preserve"><tspan
                x="0"
                y="0"
-               id="tspan16">Data source: Statistics Canada (2021) Canadian Income Survey. 
+               id="tspan24">Data source: Statistics Canada (2021) Canadian Income Survey. 
 </tspan><tspan
                x="0"
                y="10"
-               id="tspan17">Note: “major income earner” is defined as the person with the highest </tspan><tspan
+               id="tspan25">Note: “major income earner” is defined as the person with the highest </tspan><tspan
                x="0"
                y="19.999999"
-               id="tspan18">income within a household or family unit before taxes.</tspan></text>
+               id="tspan27">income within a household or family unit before taxes.</tspan></text>
         </g>
         <g
            id="g51"
@@ -1270,9 +1296,4 @@
       </g>
     </g>
   </g>
-  <text
-     xml:space="preserve"
-     transform="scale(0.8)"
-     id="text35"
-     style="fill:#ffffff;text-orientation:auto;font-size:18.66666667px;-inkscape-font-specification:TradeGothicBold;font-family:TradeGothicBold;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect35)" />
 </svg>

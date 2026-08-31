@@ -51,12 +51,14 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/mental-health/mental-health_travel-burden-bars.svg`}
+            svg360={`${base}/web-assets/mental-health/mental-health_travel-burden-bars_360.svg`}
         />
         <p>
             COVID-19 also had profound effects on the health-care workforce (which is composed predominantly of women<Footnote id={addFootnote(fns[6])}/>), exacerbating existing issues such as burnout, understaffing, long hours, and workplace safety concerns.<Footnote id={addFootnote(fns[7])}/> Immigrants play a key role in Canadian health care amid an aging workforce and the growing needs of the aging population.<Footnote id={addFootnote(fns[8])}/> One challenge of mental health policy is ensuring that providers and health-care workers themselves feel supported, even as patients’ complex needs outstrip what their services alone can address. 
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/mental-health/mental-health_opioid-charts.svg`}
+            svg360={`${base}/web-assets/mental-health/mental-health_opioid-charts_360.svg`}
         />
         <p>
             Mental health needs are often deeply intertwined with issues that go beyond the scope of one provider’s services, making collaboration across a continuum of care essential. Some initiatives covered in this chapter demonstrate how sharing information and working in partnership can make better use of existing resources, improve the quality of care, and reach more patients. Others offer a range of dispatch models to bring services directly to community members, such as mobile health teams and non-police emergency lines. These can help (re)build trust with vulnerable populations, delivering trauma-informed and culturally appropriate care through community health providers. Many of these providers work alongside local government agencies and community members, providing education and demonstrating the positive impacts of their services. 
