@@ -112,6 +112,7 @@
         align-content: center;
         gap: 20px;
         max-width: 700px;
+        width: 90dvw;
         box-sizing: border-box;
     }
 
