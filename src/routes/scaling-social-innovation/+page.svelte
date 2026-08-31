@@ -69,6 +69,11 @@
     ];
 </script>
 
+<svelte:head>
+    <title>Scaling Social Innovation - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
 
     <Password/>

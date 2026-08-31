@@ -13,6 +13,11 @@
     }
 </script>
 
+<svelte:head>
+    <title>Featured Solutions - Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
 

@@ -12,6 +12,10 @@
 
 </script>
 
+<svelte:head>
+    <title>Local Solutions | School of Cities</title>
+</svelte:head>
+
 <div>
     <Password/>
     <HomePageTitle/>

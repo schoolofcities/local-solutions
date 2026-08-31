@@ -19,6 +19,11 @@
      
 </script>
 
+<svelte:head>
+    <title>{solution.Project + " - "} Local Solutions | School of Cities</title>
+</svelte:head>
+
+
 <div>
     <Password/>
     <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter[0]], 0.3)}>
