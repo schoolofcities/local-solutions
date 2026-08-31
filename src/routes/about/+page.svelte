@@ -111,7 +111,8 @@
         align-items: center;
         align-content: center;
         gap: 20px;
-        max-width: var(--grid-width);
+        max-width: 700px;
+        box-sizing: border-box;
     }
 
     .logo-stacked {
@@ -129,5 +130,12 @@
     .rbc-logo {
         max-width: 27%;
         height: auto;
+    }
+
+    @media (max-width: 475px) {
+        
+    .cards {
+            grid-template-columns: repeat(auto-fill, calc((min(var(--grid-width), 90dvw, 900px) - 20px) / 2));
+        }
     }
 </style>

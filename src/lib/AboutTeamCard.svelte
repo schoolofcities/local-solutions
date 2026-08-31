@@ -24,11 +24,7 @@
         gap: 5px;
         transition: transform 0.2s ease;
     }
-
-    .card:hover {
-        transform: scale(1.03);
-    }
-
+    
     .card h3, .card p {
         margin: 0;
         padding: 0;
@@ -45,5 +41,11 @@
         font-size: 14px;
         line-height: 16px;
         color: white;
+    }
+
+    @media (max-width: 475px) {
+        .card {
+            width: calc((min(var(--grid-width), 90dvw, 900px) - 20px) / 2);
+        }
     }
 </style>
