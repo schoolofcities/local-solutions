@@ -117,7 +117,7 @@
 
     .orbit-container {
         position: relative;
-        padding-top: 1dvh;
+        padding-top: 30px;
         width: var(--circle-container);
     }
 

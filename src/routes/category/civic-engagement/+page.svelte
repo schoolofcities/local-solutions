@@ -60,6 +60,7 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/civic-engagement/civic_engagement_youth-urban.svg`}
+            svg360={`${base}/web-assets/civic-engagement/civic_engagement_youth-urban_360.svg`}
         />
         <p>
             Collective action can make challenges less daunting, and reasoning together is an essential part of thinking through matters of public concern, as it enables us to listen to other perspectives, expand our opinions, and check biases.<Footnote id={addFootnote(fns[10])}/> Several programs in this chapter specifically address loneliness, bringing people together to foster a greater sense of belonging, encourage deeper dialogue, and fight discrimination. Others aim to advance individual, collective, or sectoral capacity by sharing power, knowledge, and resources, to support common goals of poverty alleviation and reconciliation. Robust democratic engagement can also be reflected in a thriving arts and culture sector, as the arts provide a creative means of reflecting upon society's core values and can offer broad opportunities for participation, including groups that may be left out of more formal means of engagement.<Footnote id={addFootnote(fns[11])}/> Accordingly, initiatives that create space for arts organizations and strengthen their capacity are also featured here. 

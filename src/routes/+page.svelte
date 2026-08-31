@@ -15,7 +15,7 @@
 <div>
     <Password/>
     <HomePageTitle/>
-    <div class="body-text">
+    <div class="body-text title-text">
         <p>
             Learning From What Works is an initiative led by the School of Cities and the Canadian Urban Institute to identify effective, locally driven solutions to the complex challenges communities are facing across  Canada. In May 2025, we issued a national call for innovative approaches to solving place-based challenges. The response was inspiring: we heard from over 120 organizations across the country whose community-based solutions are already showing success.
         </p>
@@ -33,4 +33,15 @@
 </div>
 
 <style>
+    @media (min-width: 500px) {
+        .title-text {
+            margin-top: 40px;
+        }
+    }
+
+    @media (max-width: 500px) {
+        .title-text {
+            margin-top: 30px;
+        }
+    }
 </style>

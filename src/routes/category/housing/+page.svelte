@@ -50,15 +50,18 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/housing/housing_starts-households-chart.svg`}
+            svg360={`${base}/web-assets/housing/housing_starts-households-chart_360.svg`}
         />
         <GraphicSingle
             svg720={`${base}/web-assets/housing/housing_FAA-housing-units.svg`}
+            svg360={`${base}/web-assets/housing/housing_FAA-housing-units_360.svg`}
         />
         <p>
             With housing costs far outpacing wages,<Footnote id={addFootnote(fns[5])}/> a projected 2.6 million households will be in “core housing need” by 2027<Footnote id={addFootnote(fns[6])}/> – meaning their current housing is inadequate, unaffordable, or unsuitable, and that they would need to spend 30% or more of their income to access acceptable housing.<Footnote id={addFootnote(fns[7])}/> There is also a mismatch between housing types available and residents’ needs. With a persistent shortage of purpose-built rental units, any type of recently built dwelling that is available is being rented out; nearly half of the new housing built between 2016 and 2021 was rented rather than owned by the occupants, the highest proportion since the apartment boom in the 1960s.<Footnote id={addFootnote(fns[8])}/> Purpose-built rentals have historically comprised only a small share of new construction, and social housing accounted for just 3.5% of total dwellings in 2022.<Footnote id={addFootnote(fns[9])}/> With renting on the rise and home ownership declining in nearly all provinces and territories,<Footnote id={addFootnote(fns[10])}/> the mix of available housing needs to shift to reflect the current Canadian reality. 
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/housing/housing_typology-tree-map.svg`}
+            svg360={`${base}/web-assets/housing/housing_typology-tree-map_360.svg`}
         />
         <p>
             The 2022 Canadian Housing Survey found that about 246,000 households were on a waiting list for subsidized housing, and that almost two-thirds had been waiting for two years or longer. Of those on the waitlist, roughly 42% were living in unaffordable housing.<Footnote id={addFootnote(fns[11])}/> The 2024 Canadian Social Survey found that nearly half of respondents were “very concerned” about housing affordability, and that over a third of households struggled to cover essential expenses over the previous year.<Footnote id={addFootnote(fns[12])}/> These trends highlight both the strain that the housing crisis puts on households and the urgency of increasing the availability of housing options to align with Canadians’ needs. 

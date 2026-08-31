@@ -42,12 +42,14 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/shared-spaces/community-spaces_belonging-bar-chart.svg`}
+            svg360={`${base}/web-assets/shared-spaces/community-spaces_belonging-bar-chart_360.svg`}
         />
         <p>
             Community gathering places improve quality of life.<Footnote id={addFootnote(fns[2])}/> They bridge age, culture, and class divides, and help reduce social isolation by creating opportunities for spontaneous and meaningful interactions. A common theme in the solutions featured in this chapter is “adaptive reuse” – the process of repurposing a space to fulfill a new function – creating new, inclusive community hubs, whether indoors or out, that meet local needs.<Footnote id={addFootnote(fns[3])}/> Across Canada, parking lots, decommissioned schools, churches, and vacant lots are being temporarily or permanently reimagined as community centres, performance halls, and event hubs. 
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/shared-spaces/community-spaces_percapita.svg`}
+            svg360={`${base}/web-assets/shared-spaces/community-spaces_percapita_360.svg`}
         />
         <p>
             Other initiatives highlighted in the chapter illustrate how even simple improvements to existing public places can have a positive effect on community life. Some of these projects improve underused or neglected neighbourhood spaces with public art and safety infrastructure. Some enhance public places through “tactical urbanism,” using short-term and low-cost interventions such as seating, murals, and portable accessibility ramps to catalyze long-term change.<Footnote id={addFootnote(fns[4])}/> All contribute to keeping public spaces safe, accessible, and community-oriented. Pass-through spaces such as streets, stairwells, and alleyways are an essential component of collective life, enabling fleeting but meaningful social connections between neighbours.<Footnote id={addFootnote(fns[5])}/> And when public spaces are activated by thoughtful placemaking interventions, people are 50% more likely to linger and engage in casual social encounters.<Footnote id={addFootnote(fns[6])}/>  

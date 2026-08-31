@@ -58,6 +58,7 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/small-businesses/small-businesses_rural-urban-map.svg`}
+            svg360={`${base}/web-assets/small-businesses/small-businesses_rural-urban-map_360.svg`}
         />
         <p>
             Small businesses today are also still recovering from the effects of the COVID-19 pandemic. Over 60% of firms experienced revenue declines in 2020, and small businesses were twice as likely as larger ones to report significant losses.<Footnote id={addFootnote(fns[7])}/> Many are still working to rebuild in the face of inflationary pressures, supply chain disruptions, and a significant economic slowdown with the possibility of a recession.<Footnote id={addFootnote(fns[8])}/> These challenges are especially evident in downtown cores, where shifting consumer habits, hybrid work patterns, and major infrastructure projects have reduced foot traffic and disrupted local commerce.  
@@ -67,6 +68,7 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/small-businesses/small-businesses_births-chart.svg`}
+            svg360={`${base}/web-assets/small-businesses/small-businesses_births-chart_360.svg`}
         />
         <p>
             To address these challenges, communities and organizations across Canada are implementing a range of innovative strategies. This chapter highlights several of these solutions: 

@@ -60,6 +60,7 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/community-prosperity/wealth_dignity_food-insecurity.svg`}
+            svg360={`${base}/web-assets/community-prosperity/wealth_dignity_food-insecurity_360.svg`}
         />
         <p>
             Social procurement uses purchasing power to drive progress on social, economic, and workforce development goals. Community benefit agreements (CBAs) are one way to institutionalize these purchasing practices: they create legally enforceable agreements negotiated between a developer and the community surrounding the project. 

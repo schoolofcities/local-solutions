@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="360"
+   height="288"
+   viewBox="0 0 269.99999 216"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs40" />
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1">
+    <rect
+       id="rect75"
+       y="14.4"
+       width="14.4"
+       height="14.4"
+       fill="#f1c500"
+       x="0" />
+    <rect
+       id="rect72"
+       y="14.4"
+       width="14.4"
+       height="14.4"
+       fill="#f1c500"
+       x="0" />
+    <g
+       isolation="isolate"
+       id="g1"
+       transform="translate(0,-0.54614411)">
+      <text
+         transform="translate(20.96,27.675)"
+         font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+         font-size="17px"
+         font-weight="700"
+         isolation="isolate"
+         id="text1"
+         style="font-size:16px"><tspan
+           x="0"
+           y="0"
+           id="tspan1"
+           style="font-size:16px">Where young people live in Canada</tspan></text>
+    </g>
+    <g
+       id="text64"
+       isolation="isolate">
+      <g
+         isolation="isolate"
+         id="g2">
+        <text
+           transform="translate(21.6,201.598)"
+           fill="#999999"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="8px"
+           isolation="isolate"
+           id="text2"
+           style="font-size:7.5px"><tspan
+             x="0"
+             y="0"
+             id="tspan2"
+             style="font-size:7.5px">Data source: Statistics Canada (2025) Annual Demographic Estimates</tspan></text>
+      </g>
+    </g>
+    <path
+       id="path37"
+       d="M 0,215.797 H 244.8"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width="0.5" />
+    <g
+       isolation="isolate"
+       id="g4"
+       transform="translate(-155.65084,16.360207)">
+      <text
+         transform="translate(176.4,154.67712)"
+         fill="#6c297b"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="9px"
+         font-weight="700"
+         isolation="isolate"
+         id="text3"
+         style="white-space:pre;inline-size:75.799"
+         xml:space="preserve"><tspan
+           x="0"
+           y="0"
+           id="tspan13">Major urban </tspan><tspan
+           x="0"
+           y="11.25"
+           id="tspan16">centres</tspan></text>
+      <text
+         transform="translate(176.4,174)"
+         fill="#6c297b"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="7px"
+         font-weight="700"
+         isolation="isolate"
+         id="text4"><tspan
+           x="0"
+           y="0"
+           id="tspan4">&gt;100K people</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g6"
+       transform="translate(-175.31203,16.219652)">
+      <text
+         transform="translate(285.9,154.67712)"
+         fill="#1e3864"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="9px"
+         font-weight="700"
+         isolation="isolate"
+         id="text5"
+         style="white-space:pre;inline-size:73.6389"
+         xml:space="preserve"><tspan
+           x="0"
+           y="0"
+           id="tspan17">Smaller urban </tspan><tspan
+           x="0"
+           y="11.25"
+           id="tspan18">centres</tspan></text>
+      <text
+         transform="translate(285.9,174)"
+         fill="#1e3864"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="7px"
+         font-weight="700"
+         isolation="isolate"
+         id="text6"><tspan
+           x="0"
+           y="0"
+           id="tspan6">10K - 100K people</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g8"
+       transform="translate(-194.154,11.991055)">
+      <text
+         fill="#00a28a"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="9px"
+         font-weight="700"
+         isolation="isolate"
+         id="text7"
+         x="403.20001"
+         y="160.38654"><tspan
+           x="403.20001"
+           y="160.38654"
+           id="tspan7">Rural</tspan></text>
+      <text
+         transform="translate(403.2,168.78654)"
+         fill="#00a28a"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="7px"
+         font-weight="700"
+         isolation="isolate"
+         id="text8"
+         style="white-space:pre;inline-size:60.1823"
+         xml:space="preserve"><tspan
+           x="0"
+           y="0"
+           id="tspan19">Outside urban </tspan><tspan
+           x="0"
+           y="8.75"
+           id="tspan20">centres</tspan></text>
+    </g>
+    <path
+       id="path37-2"
+       d="M 0,0.125 H 489.6"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width="0.5" />
+    <g
+       isolation="isolate"
+       id="g10"
+       transform="matrix(0.81299825,0,0,0.81299825,-65.264522,7.6126751)">
+      <text
+         transform="translate(62.444459,92.078775)"
+         fill="#231f20"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="12px"
+         font-weight="700"
+         isolation="isolate"
+         id="text9"
+         style="text-align:end;text-anchor:end;white-space:pre;inline-size:91.7016"
+         x="91.701599"
+         y="0"
+         xml:space="preserve"><tspan
+           x="91.701599"
+           y="0"
+           id="tspan21">Youth<tspan
+   y="0"
+   id="tspan22"> </tspan></tspan><tspan
+           x="91.701599"
+           y="15"
+           id="tspan35">population</tspan></text>
+      <text
+         fill="#231f20"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text10"
+         x="97.523003"
+         y="116.97081"><tspan
+           x="97.523003"
+           y="116.97081"
+           id="tspan10">(ages 15 to 29)</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g12"
+       transform="matrix(0.81299825,0,0,0.81299825,-65.764937,18.059041)">
+      <text
+         transform="translate(63.15524,129.17107)"
+         fill="#231f20"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="12px"
+         font-weight="700"
+         isolation="isolate"
+         id="text11"
+         style="text-align:end;text-anchor:end;white-space:pre;inline-size:91.2783"
+         x="91.278297"
+         y="0"
+         xml:space="preserve"><tspan
+           x="91.278297"
+           y="0"
+           id="tspan36">Rest of the<tspan
+   y="0"
+   id="tspan37"> </tspan></tspan><tspan
+           x="91.278297"
+           y="15"
+           id="tspan38">population</tspan></text>
+      <text
+         fill="#231f20"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text12"
+         x="114.679"
+         y="153.79002"><tspan
+           x="114.679"
+           y="153.79002"
+           id="tspan12">(ages 30+)</tspan></text>
+    </g>
+    <path
+       id="path37-3"
+       d="M 0,215.797 H 489.6"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width="0.5" />
+    <rect
+       x="9.949173"
+       y="175.90155"
+       width="7.1999998"
+       height="7.1999998"
+       rx="0.72000003"
+       ry="0.72000003"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect12" />
+    <rect
+       x="100.20299"
+       y="176.00156"
+       width="7.1999998"
+       height="7.1999998"
+       rx="0.72000003"
+       ry="0.72000003"
+       fill="#1e3864"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect13" />
+    <rect
+       x="198.24701"
+       y="175.90155"
+       width="7.1999998"
+       height="7.1999998"
+       rx="0.72000003"
+       ry="0.72000003"
+       fill="#00a28a"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect14" />
+    <g
+       isolation="isolate"
+       id="g15"
+       transform="matrix(0.81299825,0,0,0.81299825,-64.718378,6.3070361)">
+      <text
+         transform="translate(66.80117,45.976109)"
+         fill="#231f20"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="12px"
+         font-weight="700"
+         isolation="isolate"
+         id="text14"
+         style="text-align:end;text-anchor:end;white-space:pre;inline-size:87.1936"
+         x="87.193604"
+         y="0"
+         xml:space="preserve"><tspan
+           x="87.193604"
+           y="0"
+           id="tspan39">Child<tspan
+   y="0"
+   id="tspan40"> </tspan></tspan><tspan
+           x="87.193604"
+           y="15"
+           id="tspan41">population</tspan></text>
+      <text
+         transform="translate(102.097,70.322)"
+         fill="#231f20"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text15"><tspan
+           x="0"
+           y="0"
+           id="tspan15">(ages 0 to 14)</tspan></text>
+    </g>
+    <rect
+       x="229.11183"
+       y="38.838928"
+       width="30.101799"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#00a28a"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect15"
+       style="stroke-width:0.815911" />
+    <rect
+       x="236.53198"
+       y="77.682457"
+       width="22.601658"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#00a28a"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect16"
+       style="stroke-width:0.815911" />
+    <rect
+       x="209.96512"
+       y="38.838928"
+       width="19.146702"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#1e3864"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect18"
+       style="stroke-width:0.815911" />
+    <rect
+       x="220.147"
+       y="77.682457"
+       width="16.384396"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#1e3864"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect19"
+       style="stroke-width:0.815911" />
+    <rect
+       x="71.665695"
+       y="38.838928"
+       width="138.29942"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect21"
+       style="stroke-width:0.815911" />
+    <rect
+       x="71.585716"
+       y="77.682457"
+       width="148.56129"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect22"
+       style="stroke-width:0.815911" />
+    <g
+       isolation="isolate"
+       id="g24"
+       transform="matrix(0.90248062,0,0,0.90248062,-77.699078,-2.977445)">
+      <text
+         transform="translate(169.203,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text23"><tspan
+           x="0"
+           y="0"
+           id="tspan23">74</tspan></text>
+      <text
+         transform="translate(181.782,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text24"><tspan
+           x="0"
+           y="0"
+           id="tspan24">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g26"
+       transform="matrix(0.90248062,0,0,0.90248062,-152.97967,-1.6731708)">
+      <text
+         transform="translate(402.815,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text25"><tspan
+           x="0"
+           y="0"
+           id="tspan25">10</tspan></text>
+      <text
+         transform="translate(415.394,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text26"><tspan
+           x="0"
+           y="0"
+           id="tspan26">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g28"
+       transform="matrix(0.90248062,0,0,0.90248062,-63.287345,6.1308481)">
+      <text
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text27"
+         x="325.48026"
+         y="59.905991"><tspan
+           x="325.48026"
+           y="59.905991"
+           id="tspan27">16</tspan></text>
+      <text
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text28"
+         x="338.05927"
+         y="59.905991"><tspan
+           x="338.05927"
+           y="59.905991"
+           id="tspan28">%</tspan></text>
+    </g>
+    <rect
+       x="229.09309"
+       y="118.44711"
+       width="30.101799"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#00a28a"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect15-3"
+       style="stroke-width:0.815911" />
+    <rect
+       x="209.94637"
+       y="118.44711"
+       width="19.146702"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#1e3864"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect18-2"
+       style="stroke-width:0.815911" />
+    <rect
+       x="71.646935"
+       y="118.44711"
+       width="138.29942"
+       height="24.289181"
+       rx="1.278736"
+       ry="2.4289181"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       id="rect21-2"
+       style="stroke-width:0.815911" />
+    <g
+       isolation="isolate"
+       id="g24-1"
+       transform="matrix(0.90248062,0,0,0.90248062,-77.717829,76.630732)">
+      <text
+         transform="translate(169.203,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text23-6"><tspan
+           x="0"
+           y="0"
+           id="tspan23-8">74</tspan></text>
+      <text
+         transform="translate(181.782,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text24-5"><tspan
+           x="0"
+           y="0"
+           id="tspan24-7">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g26-6"
+       transform="matrix(0.90248062,0,0,0.90248062,-152.99842,77.935006)">
+      <text
+         transform="translate(402.815,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text25-1"><tspan
+           x="0"
+           y="0"
+           id="tspan25-8">10</tspan></text>
+      <text
+         transform="translate(415.394,68.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text26-9"><tspan
+           x="0"
+           y="0"
+           id="tspan26-2">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g28-7"
+       transform="matrix(0.90248062,0,0,0.90248062,-63.306096,85.739025)">
+      <text
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text27-9"
+         x="325.48026"
+         y="59.905991"><tspan
+           x="325.48026"
+           y="59.905991"
+           id="tspan27-5">16</tspan></text>
+      <text
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text28-4"
+         x="338.05927"
+         y="59.905991"><tspan
+           x="338.05927"
+           y="59.905991"
+           id="tspan28-3">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g30"
+       transform="matrix(0.90248062,0,0,0.90248062,-78.120399,4.9523773)">
+      <text
+         transform="translate(169.203,104.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text29"><tspan
+           x="0"
+           y="0"
+           id="tspan29">79</tspan></text>
+      <text
+         transform="translate(181.782,104.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text30"><tspan
+           x="0"
+           y="0"
+           id="tspan30">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g32"
+       transform="matrix(0.90248062,0,0,0.90248062,-157.13556,4.9352767)">
+      <text
+         transform="translate(420.148,104.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text31"><tspan
+           x="0"
+           y="0"
+           id="tspan31">9</tspan></text>
+      <text
+         transform="translate(426.437,104.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text32"><tspan
+           x="0"
+           y="0"
+           id="tspan32">%</tspan></text>
+    </g>
+    <g
+       isolation="isolate"
+       id="g34"
+       transform="matrix(0.90248062,0,0,0.90248062,-165.67825,5.178727)">
+      <text
+         transform="translate(447.825,104.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="11px"
+         font-weight="700"
+         isolation="isolate"
+         id="text33"><tspan
+           x="0"
+           y="0"
+           id="tspan33">12</tspan></text>
+      <text
+         transform="translate(460.404,104.402)"
+         fill="#ffffff"
+         font-family="OpenSans-Bold, 'Open Sans'"
+         font-size="8px"
+         font-weight="700"
+         isolation="isolate"
+         id="text34"><tspan
+           x="0"
+           y="0"
+           id="tspan34">%</tspan></text>
+    </g>
+  </g>
+</svg>

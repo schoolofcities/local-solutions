@@ -43,12 +43,14 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/climate-change/sustainability_wildfire-bars.svg`}
+            svg360={`${base}/web-assets/climate-change/sustainability_wildfire-bars_360.svg`}
         />
         <p>
             The resilience of the essential ecosystems that underpin key sectors of Canada's economy, including agriculture, tourism, and energy, is increasingly at risk. Added to the extensive costs of rebuilding in the wake of climate-related destruction – for individuals and institutions – is the rising cost of insurance, or gaps in coverage where insurers deem the region too risky.<Footnote id={addFootnote(fns[2])}/> The climate crisis is no longer a future threat for Canada’s communities: it is here and now, and it will be felt in our cities.<Footnote id={addFootnote(fns[3])}/> 
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/climate-change/sustainability_climate-risk-maps.svg`}
+            svg360={`${base}/web-assets/climate-change/sustainability_climate-risk-maps_360.svg`}
         />
         <p>
             While federal commitments at the international level have led to some progress on decarbonization, Canada still ranks only in the middle of the pack among its peers in the OECD and G7.<Footnote id={addFootnote(fns[4])}/> Both rural and urban municipalities are on the front lines of climate adaptation. Local governments, with their responsibility for key infrastructure, land-use planning, and service delivery, are well positioned to implement place-based solutions that respond directly to community needs.<Footnote id={addFootnote(fns[5])}/> Legislation at the municipal level can lead the way to sustainable development by prioritizing transit and active transportation options and encouraging denser and more energy efficient construction.<Footnote id={addFootnote(fns[6])}/>  
@@ -61,6 +63,7 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/climate-change/sustainability_watersheds-map.svg`}
+            svg360={`${base}/web-assets/climate-change/sustainability_watersheds-map_360.svg`}
         />
         <p>
             A number of initiatives build capacity at the neighbourhood, block, or building level, encouraging community involvement in participatory mapping, micro-grants, and home retrofits. More formalized training programs develop skills for everyone from bike mechanics to architects. We were inspired by how these ideas create community bonds while building resilience, from neighbourhood action groups to corporate communities of practice. 

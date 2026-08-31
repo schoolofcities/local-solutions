@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg58"
+   width="360"
+   height="500"
+   viewBox="0 0 288 400"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs53" />
+  <g
+     id="g35"
+     transform="matrix(1,0,0,1.3756061,-88.705681,-27.020232)">
+    <line
+       id="line30"
+       x1="162.38"
+       y1="86.459"
+       x2="162.38"
+       y2="252.00101"
+       fill="none"
+       stroke="#deddda"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <line
+       id="line31"
+       x1="202.192"
+       y1="86.459"
+       x2="202.192"
+       y2="252.00101"
+       fill="none"
+       stroke="#deddda"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <line
+       id="line32"
+       x1="242.004"
+       y1="86.459"
+       x2="242.004"
+       y2="252.002"
+       fill="none"
+       stroke="#deddda"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <line
+       id="line33"
+       x1="281.81601"
+       y1="86.459999"
+       x2="281.81601"
+       y2="252.002"
+       fill="none"
+       stroke="#deddda"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <line
+       id="line34"
+       x1="321.62799"
+       y1="86.459999"
+       x2="321.62799"
+       y2="252.002"
+       fill="none"
+       stroke="#deddda"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <line
+       id="line35"
+       x1="361.439"
+       y1="86.459999"
+       x2="361.439"
+       y2="252.002"
+       fill="none"
+       stroke="#deddda"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+  </g>
+  <g
+     id="g59-6"
+     transform="matrix(1,0,0,1.5450474,-88.705681,-53.498152)">
+    <line
+       id="line1-7"
+       x1="164.79601"
+       y1="104.402"
+       x2="371.58701"
+       y2="104.402"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line2-5"
+       x1="164.79601"
+       y1="118.802"
+       x2="371.58701"
+       y2="118.802"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line3-3"
+       x1="164.79601"
+       y1="133.202"
+       x2="371.58701"
+       y2="133.202"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line4-5"
+       x1="164.79601"
+       y1="147.60201"
+       x2="371.58701"
+       y2="147.60201"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line5-6"
+       x1="164.79601"
+       y1="162.002"
+       x2="371.58701"
+       y2="162.002"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line6-2"
+       x1="164.79601"
+       y1="176.40199"
+       x2="371.58701"
+       y2="176.40199"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line7-9"
+       x1="164.79601"
+       y1="190.802"
+       x2="371.58701"
+       y2="190.802"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line8-1"
+       x1="164.79601"
+       y1="205.202"
+       x2="371.58701"
+       y2="205.202"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line9-2"
+       x1="164.79601"
+       y1="219.60201"
+       x2="371.58701"
+       y2="219.60201"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line10-7"
+       x1="164.79601"
+       y1="234.002"
+       x2="371.58701"
+       y2="234.002"
+       fill="none"
+       stroke="#f6f5f4"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+  </g>
+  <g
+     id="g59"
+     transform="matrix(1,0,0,1.5450474,-88.705681,-53.498152)">
+    <line
+       id="line1"
+       x1="160.19299"
+       y1="104.402"
+       x2="164.79601"
+       y2="104.402"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line2"
+       x1="160.19299"
+       y1="118.802"
+       x2="164.79601"
+       y2="118.802"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line3"
+       x1="160.19299"
+       y1="133.202"
+       x2="164.79601"
+       y2="133.202"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line4"
+       x1="160.19299"
+       y1="147.60201"
+       x2="164.79601"
+       y2="147.60201"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line5"
+       x1="160.19299"
+       y1="162.002"
+       x2="164.79601"
+       y2="162.002"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line6"
+       x1="160.19299"
+       y1="176.40199"
+       x2="164.79601"
+       y2="176.40199"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line7"
+       x1="160.19299"
+       y1="190.802"
+       x2="164.79601"
+       y2="190.802"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line8"
+       x1="160.19299"
+       y1="205.202"
+       x2="164.79601"
+       y2="205.202"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line9"
+       x1="160.19299"
+       y1="219.60201"
+       x2="164.79601"
+       y2="219.60201"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+    <line
+       id="line10"
+       x1="160.19299"
+       y1="234.002"
+       x2="164.79601"
+       y2="234.002"
+       fill="none"
+       stroke="#9a9996"
+       stroke-miterlimit="10"
+       stroke-width="0.5" />
+  </g>
+  <rect
+     id="rect75"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <path
+     id="path37-2"
+     d="M 0,0.25 H 489.6"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
+  <rect
+     id="rect72"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <g
+     id="text10"
+     isolation="isolate"
+     transform="translate(0,1.6362884)">
+    <g
+       id="g2"
+       isolation="isolate">
+      <g
+         id="g1"
+         isolation="isolate">
+        <text
+           transform="translate(21.505429,20.584417)"
+           font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+           font-size="17px"
+           font-weight="700"
+           isolation="isolate"
+           id="text1"
+           style="font-size:13.8667px;white-space:pre;inline-size:247.376"
+           xml:space="preserve"><tspan
+             x="0"
+             y="0"
+             id="tspan6">Food insecurity among types of families in </tspan><tspan
+             x="0"
+             y="17.333376"
+             id="tspan7">Canada (2021)</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path
+     id="path37"
+     d="M 0,399.74329 H 489.6"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
+  <rect
+     id="rect75-2"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <rect
+     id="rect72-2"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <g
+     id="text13"
+     isolation="isolate"
+     transform="translate(-88.705681,5.4542947)">
+    <g
+       id="g4"
+       isolation="isolate"
+       transform="translate(0,-5.4542948)">
+      <g
+         id="g3"
+         isolation="isolate">
+        <text
+           transform="translate(247.555,72.451)"
+           fill="#ab2069"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="10px"
+           font-weight="700"
+           isolation="isolate"
+           id="text2"
+           style="font-size:9.6px;white-space:pre;inline-size:131.884;display:inline"
+           xml:space="preserve"><tspan
+             x="0"
+             y="0"
+             id="tspan8">18% of families in Canada </tspan><tspan
+             x="0"
+             y="12"
+             id="tspan9">experienced food </tspan><tspan
+             x="0"
+             y="24"
+             id="tspan11">insecurity in 2021</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5"
+       isolation="isolate">
+      <g
+         id="text3"
+         isolation="isolate">
+        <text
+           transform="translate(247.555,84.451)"
+           fill="#ab2069"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="10px"
+           font-weight="700"
+           isolation="isolate"
+           id="text4"><tspan
+             x="0"
+             y="0"
+             id="tspan4" /></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text14"
+     isolation="isolate"
+     transform="translate(-82.191951,27.078635)">
+    <g
+       id="g7"
+       isolation="isolate">
+      <g
+         id="g6"
+         isolation="isolate">
+        <text
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text5"
+           style="font-size:7.46667px"
+           x="111.11108"
+           y="149.83842"><tspan
+             x="111.11108"
+             y="149.83842"
+             id="tspan5"
+             style="font-size:7.46667px">All families</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     transform="translate(-1.7308744,216.07317)"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-size="9px"
+     font-weight="700"
+     isolation="isolate"
+     id="text19-9"
+     style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+     x="71.3433"
+     y="0"
+     xml:space="preserve"><tspan
+       x="71.3433"
+       y="0"
+       id="tspan14">Full time</tspan></text>
+  <text
+     transform="translate(-1.3451984,223.77701)"
+     font-family="OpenSans-Bold, 'Open Sans'"
+     font-size="9px"
+     font-weight="700"
+     isolation="isolate"
+     id="text37-0"
+     style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+     x="71.3433"
+     y="0"
+     xml:space="preserve"><tspan
+       x="71.3433"
+       y="0"
+       id="tspan15">student</tspan></text>
+  <g
+     id="g19-8-6"
+     transform="translate(-44.337917,-39.537098)">
+    <text
+       transform="translate(42.599869,165.87472)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text19-8-3"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:88.1202;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan16">Employed</tspan></text>
+    <text
+       transform="translate(42.985545,173.57856)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text37-1-2"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan17">all year</tspan></text>
+  </g>
+  <g
+     id="text17"
+     isolation="isolate"
+     transform="translate(-75.590317,57.413791)">
+    <g
+       id="g12"
+       isolation="isolate">
+      <g
+         id="g11"
+         isolation="isolate">
+        <text
+           transform="translate(100.221,208.802)"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text11"
+           style="font-size:7.46667px"><tspan
+             x="0"
+             y="0"
+             id="tspan10"
+             style="font-size:7.46667px">Lone parent</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text18"
+     isolation="isolate"
+     transform="translate(-76.032473,64.965913)">
+    <g
+       id="g13"
+       isolation="isolate">
+      <g
+         id="text8"
+         isolation="isolate">
+        <text
+           transform="translate(105.19,223.202)"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text12"
+           style="font-size:7.46667px"><tspan
+             x="0"
+             y="0"
+             id="tspan12"
+             style="font-size:7.46667px">Indigenous</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g21"
+     isolation="isolate"
+     transform="translate(-44.35284,26.169261)">
+    <g
+       id="g20"
+       isolation="isolate"
+       transform="translate(0,2.1212228)">
+      <g
+         id="g19"
+         isolation="isolate">
+        <text
+           transform="translate(42.599869,165.87472)"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text19"
+           style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+           x="71.3433"
+           y="0"
+           xml:space="preserve"><tspan
+             x="71.3433"
+             y="0"
+             id="tspan18">All racial<tspan
+   y="0"
+   id="tspan19"> </tspan></tspan></text>
+        <text
+           transform="translate(42.985545,173.57856)"
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text37"
+           style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433"
+           x="71.3433"
+           y="0"
+           xml:space="preserve"><tspan
+             x="71.3433"
+             y="0"
+             id="tspan20"> minority groups</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text20"
+     isolation="isolate"
+     transform="translate(-88.705681,74.041362)">
+    <g
+       id="g23"
+       isolation="isolate"
+       transform="translate(2.8925766,-0.38567688)">
+      <g
+         id="g22"
+         isolation="isolate">
+        <text
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text21"
+           style="font-size:7.46667px"
+           x="135.41222"
+           y="237.46564"><tspan
+             x="135.41222"
+             y="237.46564"
+             id="tspan21"
+             style="font-size:7.46667px">Black</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g19-8"
+     transform="translate(-43.632053,75.590242)">
+    <text
+       transform="translate(42.599869,165.87472)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text19-8"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:88.1202;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan22">Recent immigrant</tspan></text>
+    <text
+       transform="translate(42.985545,173.57856)"
+       font-family="OpenSans-Bold, 'Open Sans'"
+       font-size="9px"
+       font-weight="700"
+       isolation="isolate"
+       id="text37-1"
+       style="font-size:7.46667px;text-align:end;text-anchor:end;white-space:pre;inline-size:71.3433;display:inline"
+       x="71.3433"
+       y="0"
+       xml:space="preserve"><tspan
+         x="71.3433"
+         y="0"
+         id="tspan23"> (2013-2021)</tspan></text>
+  </g>
+  <g
+     id="g28"
+     isolation="isolate"
+     transform="translate(-82.727689,22.362608)">
+    <g
+       id="g27"
+       isolation="isolate"
+       transform="translate(0,-4.0496072)">
+      <g
+         id="text22"
+         isolation="isolate">
+        <text
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text26"
+           style="font-size:7.46667px"
+           x="97.869019"
+           y="135.57478"><tspan
+             x="97.869019"
+             y="135.57478"
+             id="tspan26"
+             style="font-size:7.46667px">Canadian-born</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g31"
+     isolation="isolate"
+     transform="translate(-83.691882,-3.4162734)">
+    <g
+       id="g30"
+       isolation="isolate">
+      <g
+         id="g29"
+         isolation="isolate">
+        <text
+           font-family="OpenSans-Bold, 'Open Sans'"
+           font-size="9px"
+           font-weight="700"
+           isolation="isolate"
+           id="text28"
+           x="105.92538"
+           y="113.04823"
+           style="font-size:7.46667px"><tspan
+             x="105.92538"
+             y="113.04823"
+             id="tspan28"
+             style="font-size:7.46667px">65+ years old</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text24"
+     isolation="isolate"
+     transform="translate(-4.9088652,5.4542947)">
+    <g
+       id="g32"
+       isolation="isolate">
+      <g
+         id="text25"
+         isolation="isolate">
+        <text
+           transform="translate(32.4,50.4)"
+           font-family="OpenSans-Italic, 'Open Sans'"
+           font-size="9px"
+           font-style="italic"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           id="text31"><tspan
+             x="0"
+             y="0"
+             id="tspan31">Male major income earner</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g36"
+     isolation="isolate"
+     transform="translate(-4.9088652,5.4542947)">
+    <g
+       id="g34"
+       isolation="isolate">
+      <g
+         id="g33"
+         isolation="isolate">
+        <text
+           transform="translate(161.999,50.4)"
+           font-family="OpenSans-Italic, 'Open Sans'"
+           font-size="9px"
+           font-style="italic"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           id="text32"><tspan
+             x="0"
+             y="0"
+             id="tspan32">Female major income earner</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g39"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g38"
+       isolation="isolate">
+      <g
+         id="g37"
+         isolation="isolate">
+        <text
+           transform="translate(156.217,266.402)"
+           fill="#939598"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text36"><tspan
+             x="0"
+             y="0"
+             id="tspan36">0%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text27"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g40"
+       isolation="isolate">
+      <g
+         id="text30"
+         isolation="isolate">
+        <text
+           transform="translate(193.432,266.402)"
+           fill="#939598"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text39"><tspan
+             x="0"
+             y="0"
+             id="tspan39">10%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g43"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g42"
+       isolation="isolate">
+      <g
+         id="g41"
+         isolation="isolate">
+        <text
+           transform="translate(233.221,266.402)"
+           fill="#939598"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan40">20%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text28-2"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g44"
+       isolation="isolate">
+      <g
+         id="text33"
+         isolation="isolate">
+        <text
+           transform="translate(166.524,280.8)"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text43"><tspan
+             x="0"
+             y="0"
+             id="tspan43">Percent of families experiencing food insecurity</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="text29"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g45"
+       isolation="isolate">
+      <g
+         id="text34"
+         isolation="isolate">
+        <text
+           transform="translate(273.01,266.402)"
+           fill="#939598"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text44"><tspan
+             x="0"
+             y="0"
+             id="tspan44">30%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g48"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g47"
+       isolation="isolate">
+      <g
+         id="g46"
+         isolation="isolate">
+        <text
+           transform="translate(312.799,266.402)"
+           fill="#939598"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text45"><tspan
+             x="0"
+             y="0"
+             id="tspan45">40%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g55"
+     transform="matrix(1,0,0,1.5450474,-88.705681,-53.498152)">
+    <line
+       id="line36"
+       x1="243.59599"
+       y1="162.002"
+       x2="263.89999"
+       y2="162.002"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle36"
+       cx="243.55923"
+       cy="161.99754"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399683"
+       rx="3.6131303"
+       ry="2.2919915" />
+    <ellipse
+       id="circle37"
+       cx="263.93732"
+       cy="161.99754"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399683"
+       rx="3.6131303"
+       ry="2.2919915" />
+    <line
+       id="line37"
+       x1="302.51801"
+       y1="234.002"
+       x2="322.026"
+       y2="234.002"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle38"
+       cx="302.48166"
+       cy="233.99754"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399704"
+       rx="3.613519"
+       ry="2.291981" />
+    <ellipse
+       id="circle39"
+       cx="322.06296"
+       cy="233.99754"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399704"
+       rx="3.613519"
+       ry="2.291981" />
+    <line
+       id="line39"
+       x1="243.198"
+       y1="190.802"
+       x2="291.37"
+       y2="190.802"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle40"
+       cx="243.15448"
+       cy="190.79755"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399334"
+       rx="3.6065447"
+       ry="2.292166" />
+    <ellipse
+       id="circle41"
+       cx="291.41409"
+       cy="190.79755"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399334"
+       rx="3.6065447"
+       ry="2.292166" />
+    <line
+       id="line41"
+       x1="222.09801"
+       y1="133.202"
+       x2="237.62399"
+       y2="133.202"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle42"
+       cx="222.06406"
+       cy="133.19754"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399829"
+       rx="3.6158681"
+       ry="2.2919188" />
+    <ellipse
+       id="circle43"
+       cx="237.65849"
+       cy="133.19754"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399829"
+       rx="3.6158681"
+       ry="2.2919188" />
+    <line
+       id="line43"
+       x1="225.681"
+       y1="147.60201"
+       x2="243.994"
+       y2="147.60201"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle44"
+       cx="225.64529"
+       cy="147.59755"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399737"
+       rx="3.6141474"
+       ry="2.2919645" />
+    <ellipse
+       id="circle45"
+       cx="244.03026"
+       cy="147.59755"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399737"
+       rx="3.6141474"
+       ry="2.2919645" />
+    <line
+       id="line45"
+       x1="198.60899"
+       y1="104.402"
+       x2="208.562"
+       y2="104.402"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle46"
+       cx="198.60213"
+       cy="104.39761"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.401224"
+       rx="3.642251"
+       ry="2.2912211" />
+    <ellipse
+       id="circle47"
+       cx="208.56941"
+       cy="104.39761"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.401224"
+       rx="3.642251"
+       ry="2.2912211" />
+    <line
+       id="line47"
+       x1="216.524"
+       y1="118.802"
+       x2="228.468"
+       y2="118.802"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle48"
+       cx="216.51659"
+       cy="118.79756"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.401195"
+       rx="3.641716"
+       ry="2.2912352" />
+    <ellipse
+       id="circle49"
+       cx="228.47597"
+       cy="118.79756"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.401195"
+       rx="3.641716"
+       ry="2.2912352" />
+    <line
+       id="line49"
+       x1="241.407"
+       y1="176.40199"
+       x2="277.03799"
+       y2="176.40199"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle50"
+       cx="241.36545"
+       cy="176.39754"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399435"
+       rx="3.6084526"
+       ry="2.2921154" />
+    <ellipse
+       id="circle51"
+       cx="277.08014"
+       cy="176.39754"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399435"
+       rx="3.6084526"
+       ry="2.2921154" />
+    <line
+       id="line51"
+       x1="280.22299"
+       y1="219.60201"
+       x2="320.43301"
+       y2="219.60201"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle52"
+       cx="280.18063"
+       cy="219.59755"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399392"
+       rx="3.6076396"
+       ry="2.2921371" />
+    <ellipse
+       id="circle53"
+       cx="320.47598"
+       cy="219.59755"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399392"
+       rx="3.6076396"
+       ry="2.2921371" />
+    <line
+       id="line53"
+       x1="259.521"
+       y1="205.202"
+       x2="327.20099"
+       y2="205.202"
+       fill="none"
+       stroke="#808285"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <ellipse
+       id="circle54"
+       cx="259.47577"
+       cy="205.19754"
+       fill="#067fa3"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399243"
+       rx="3.6048443"
+       ry="2.2922113" />
+    <ellipse
+       id="circle55"
+       cx="327.24683"
+       cy="205.19754"
+       fill="#6c297b"
+       stroke="#ffffff"
+       stroke-miterlimit="10"
+       stroke-width="0.399243"
+       rx="3.6048443"
+       ry="2.2922113" />
+  </g>
+  <circle
+     id="circle56"
+     cx="20.291136"
+     cy="52.254295"
+     r="3.5999999"
+     fill="#067fa3" />
+  <circle
+     id="circle57"
+     cx="149.89014"
+     cy="52.254295"
+     r="3.5999999"
+     fill="#6c297b" />
+  <g
+     id="text57"
+     isolation="isolate"
+     transform="translate(-88.705681,69.814972)">
+    <g
+       id="g49"
+       isolation="isolate">
+      <g
+         id="text38"
+         isolation="isolate">
+        <text
+           transform="translate(352.588,266.402)"
+           fill="#939598"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="9px"
+           isolation="isolate"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan48">50%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g58"
+     transform="translate(-88.705681,5.4542947)">
+    <path
+       id="path57"
+       d="m 241.934,70.122 c 0,0 -9.343,-3.091 -8.555,10.996"
+       fill="none"
+       stroke="#ab2069"
+       stroke-miterlimit="10"
+       stroke-width="0.75" />
+    <path
+       id="path58"
+       d="m 233.577,83.373 c -0.477,-1.031 -1.253,-2.295 -2.029,-3.056 l 1.828,0.503 1.727,-0.783 c -0.648,0.873 -1.216,2.243 -1.527,3.335 v 0 z"
+       fill="#ab2069" />
+  </g>
+  <line
+     id="line58"
+     x1="144.93732"
+     y1="91.914665"
+     x2="144.93732"
+     y2="319.63388"
+     fill="none"
+     stroke="#ab2069"
+     stroke-dasharray="3.51859, 3.51859"
+     stroke-miterlimit="10"
+     style="stroke-width:1.17286" />
+  <g
+     id="text64"
+     isolation="isolate"
+     transform="translate(0,68.792292)">
+    <g
+       id="g53"
+       isolation="isolate">
+      <g
+         id="g52"
+         isolation="isolate">
+        <g
+           id="g50"
+           isolation="isolate"
+           transform="translate(-3.2725768,2.7271473)">
+          <text
+             transform="translate(17.902993,294.11069)"
+             fill="#999999"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8px"
+             isolation="isolate"
+             id="text49"
+             style="white-space:pre;inline-size:276.293;display:inline"
+             xml:space="preserve"><tspan
+               x="0"
+               y="0"
+               id="tspan24">Data source: Statistics Canada (2021) Canadian Income Survey. 
+</tspan><tspan
+               x="0"
+               y="10"
+               id="tspan25">Note: “major income earner” is defined as the person with the highest </tspan><tspan
+               x="0"
+               y="19.999999"
+               id="tspan27">income within a household or family unit before taxes.</tspan></text>
+        </g>
+        <g
+           id="g51"
+           isolation="isolate">
+          <text
+             transform="translate(21.721,316.801)"
+             fill="#999999"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="8px"
+             isolation="isolate"
+             id="text50"><tspan
+               x="0"
+               y="0"
+               id="tspan50" /></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

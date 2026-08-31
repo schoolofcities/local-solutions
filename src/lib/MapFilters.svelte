@@ -136,7 +136,7 @@
 <div class="layout" id="solutions-map">
     {#if width}
     <div>
-        <h2 class="header">Browse the solutions:</h2>
+        <h2 class="header">Browse the {Chapter ? Chapter.toLowerCase() : " "} solutions:</h2>
         {#if mapData?.features && width}
             {#if Object.keys(totalProvinceCounts).length > 5}
                 <div style="height: {height + 15}px; width: {windowWidth > 750 ? width + 15 : width}px">
@@ -302,6 +302,7 @@
         font-family: TradeGothicBold;
         color: var(--brandGray70);
         margin: 0;
+        padding-right: 20px;
     }
 
     h2.header {
