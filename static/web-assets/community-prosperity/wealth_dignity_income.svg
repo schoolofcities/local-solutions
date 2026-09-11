@@ -1,1094 +1,1177 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-  xmlns="http://www.w3.org/2000/svg"
-  id="svg59"
-  width="244.8"
-  height="338.4"
-  viewBox="0 0 244.8 338.4"
->
-  <g id="background">
+   id="svg59"
+   width="326.39999"
+   height="447.55981"
+   viewBox="0 0 326.39999 447.55982"
+   version="1.1"
+   sodipodi:docname="wealth_dignity_income.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs110" />
+  <sodipodi:namedview
+     id="namedview110"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="76.312058"
+     inkscape:cx="320.51291"
+     inkscape:cy="446.92151"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <g
+     id="background"
+     transform="scale(1.3225349)">
     <image
-      x="0.0"
-      y="0.0"
-      width="244.8"
-      height="338.4"
-      preserveAspectRatio="xMidYMid meet"
-      href="data:image/png;base64,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"
-    />
+       x="0"
+       y="0"
+       width="244.8"
+       height="338.39999"
+       preserveAspectRatio="xMidYMid"
+       href="data:image/png;base64,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"
+       id="image1" />
   </g>
-  <g id="foreground">
-    <g id="Layer_1" data-name="Layer 1">
-      <g id="text9" isolation="isolate">
+  <g
+     id="foreground"
+     transform="scale(1.3225349)">
+    <g
+       id="Layer_1"
+       data-name="Layer 1">
+      <g
+         id="text9"
+         isolation="isolate">
         <text
-          transform="translate(21.6 43.277)"
-          font-size="10"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(21.6 43.277)"
-            font-size="10"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(21.6,43.277)"
+           font-size="10px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text2"><text
+             transform="translate(21.6,43.277)"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text1" /></text>
         <text
-          transform="translate(21.6 43.277)"
-          font-size="10"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Comparing median after-tax incomes of
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(21.6,43.277)"
+           font-size="10px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text3"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan3"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan2">Comparing median after-tax incomes of</tspan></tspan></text>
         <text
-          transform="translate(21.6 55.777)"
-          font-size="10"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(21.6 55.777)"
-            font-size="10"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(21.6,55.777)"
+           font-size="10px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text5"><text
+             transform="translate(21.6,55.777)"
+             font-size="10px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text4" /></text>
         <text
-          transform="translate(21.6 55.777)"
-          font-size="10"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              individuals across demographic groups
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(21.6,55.777)"
+           font-size="10px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text6"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan6"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan5">individuals across demographic groups</tspan></tspan></text>
       </g>
-      <g id="text64" isolation="isolate">
-        <g id="text11" isolation="isolate">
+      <g
+         id="text64"
+         isolation="isolate">
+        <g
+           id="g13"
+           isolation="isolate">
           <text
-            transform="translate(21.6 314.325)"
-            fill="#999"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          >
-            <text
-              transform="translate(21.6 314.325)"
-              fill="#999"
-              font-size="8"
-              isolation="isolate"
-              style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-            />
-          </text>
+             transform="translate(21.6,314.325)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text8"><text
+               transform="translate(21.6,314.325)"
+               fill="#999999"
+               font-size="8px"
+               isolation="isolate"
+               style="font-style:normal;font-weight:normal;font-family:OpenSans"
+               id="text7" /></text>
           <text
-            transform="translate(21.6 314.325)"
-            fill="#999"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          >
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              <tspan
-                x="0"
-                y="0"
-                style="font-weight: normal; font-style: normal;"
-              >
-                Data source: Statistics Canada (2023) Canadian Income
-              </tspan>
-            </tspan>
-          </text>
+             transform="translate(21.6,314.325)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text10"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan9"><tspan
+                 x="0"
+                 y="0"
+                 style="font-style:normal;font-weight:normal"
+                 id="tspan8">Data source: Statistics Canada (2023) Canadian Income</tspan></tspan></text>
           <text
-            transform="translate(21.6 323.925)"
-            fill="#999"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          >
-            <text
-              transform="translate(21.6 323.925)"
-              fill="#999"
-              font-size="8"
-              isolation="isolate"
-              style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-            />
-          </text>
+             transform="translate(21.6,323.925)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text12"><text
+               transform="translate(21.6,323.925)"
+               fill="#999999"
+               font-size="8px"
+               isolation="isolate"
+               style="font-style:normal;font-weight:normal;font-family:OpenSans"
+               id="text11" /></text>
           <text
-            transform="translate(21.6 323.925)"
-            fill="#999"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          >
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              <tspan
-                x="0"
-                y="0"
-                style="font-weight: normal; font-style: normal;"
-              >
-                Survey
-              </tspan>
-            </tspan>
-          </text>
+             transform="translate(21.6,323.925)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text13"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan13"><tspan
+                 x="0"
+                 y="0"
+                 style="font-style:normal;font-weight:normal"
+                 id="tspan12">Survey</tspan></tspan></text>
         </g>
       </g>
-      <g id="text23" isolation="isolate">
+      <g
+         id="text23"
+         isolation="isolate">
         <text
-          transform="translate(78.815 104.403)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(78.815 104.403)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(78.815,104.403)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text15"><text
+             transform="translate(78.815,104.403)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text14" /></text>
         <text
-          transform="translate(78.815 104.403)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Male
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(78.815,104.403)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text16"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan16"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan15">Male</tspan></tspan></text>
       </g>
-      <g id="text24" isolation="isolate">
+      <g
+         id="text24"
+         isolation="isolate">
         <text
-          transform="translate(187.95 104.403)"
-          fill="#067fa3"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(187.95 104.403)"
-            fill="#067fa3"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(187.95,104.403)"
+           fill="#067fa3"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text18"><text
+             transform="translate(187.95,104.403)"
+             fill="#067fa3"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text17" /></text>
         <text
-          transform="translate(187.95 104.403)"
-          fill="#067fa3"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              +4.7K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(187.95,104.403)"
+           fill="#067fa3"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text19"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan19"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan18">+4.7K</tspan></tspan></text>
       </g>
-      <g id="text25" isolation="isolate">
+      <g
+         id="text25"
+         isolation="isolate">
         <text
-          transform="translate(51.226 82.802)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(51.226 82.802)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(51.226,82.802)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text21"><text
+             transform="translate(51.226,82.802)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text20" /></text>
         <text
-          transform="translate(51.226 82.802)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              All persons
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(51.226,82.802)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text22"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan22"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan21">All persons</tspan></tspan></text>
       </g>
-      <g id="text26" isolation="isolate">
+      <g
+         id="g28"
+         isolation="isolate">
         <text
-          transform="translate(149.302 81.843)"
-          fill="#fff"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBoldItalic;"
-        >
-          <text
-            transform="translate(149.302 81.843)"
-            fill="#fff"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBoldItalic;"
-          />
-        </text>
+           transform="translate(149.302,81.843)"
+           fill="#ffffff"
+           font-size="9px"
+           isolation="isolate"
+           style="font-family:OpenSansBoldItalic"
+           id="text27"><text
+             transform="translate(149.302,81.843)"
+             fill="#ffffff"
+             font-size="9px"
+             isolation="isolate"
+             style="font-family:OpenSansBoldItalic"
+             id="text26" /></text>
         <text
-          transform="translate(149.302 81.843)"
-          fill="#fff"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBoldItalic;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              $39,900
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(149.302,81.843)"
+           fill="#ffffff"
+           font-size="9px"
+           isolation="isolate"
+           style="font-family:OpenSansBoldItalic"
+           id="text28"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan28"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan27">$39,900</tspan></tspan></text>
       </g>
-      <g id="text27" isolation="isolate">
+      <g
+         id="g31"
+         isolation="isolate">
         <text
-          transform="translate(100.971 275.486)"
-          fill="#808285"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <text
-            transform="translate(100.971 275.486)"
-            fill="#808285"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          />
-        </text>
+           transform="translate(100.971,275.486)"
+           fill="#808285"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text30"><text
+             transform="translate(100.971,275.486)"
+             fill="#808285"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text29" /></text>
         <text
-          transform="translate(100.971 275.486)"
-          fill="#808285"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              $0K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(100.971,275.486)"
+           fill="#808285"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text31"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan31"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan30">$0K</tspan></tspan></text>
       </g>
-      <g id="text28" isolation="isolate">
+      <g
+         id="g34"
+         isolation="isolate">
         <text
-          transform="translate(150.523 275.486)"
-          fill="#808285"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <text
-            transform="translate(150.523 275.486)"
-            fill="#808285"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          />
-        </text>
+           transform="translate(150.523,275.486)"
+           fill="#808285"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text33"><text
+             transform="translate(150.523,275.486)"
+             fill="#808285"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text32" /></text>
         <text
-          transform="translate(150.523 275.486)"
-          fill="#808285"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              $20K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(150.523,275.486)"
+           fill="#808285"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text34"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan34"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan33">$20K</tspan></tspan></text>
       </g>
-      <g id="text29" isolation="isolate">
+      <g
+         id="g37"
+         isolation="isolate">
         <text
-          transform="translate(119.883 286.432)"
-          fill="#241f31"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <text
-            transform="translate(119.883 286.432)"
-            fill="#241f31"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          />
-        </text>
+           transform="translate(119.883,286.432)"
+           fill="#241f31"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text36"><text
+             transform="translate(119.883,286.432)"
+             fill="#241f31"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text35" /></text>
         <text
-          transform="translate(119.883 286.432)"
-          fill="#241f31"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Median after-tax income
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(119.883,286.432)"
+           fill="#241f31"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text37"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan37"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan36">Median after-tax income</tspan></tspan></text>
       </g>
-      <g id="text30" isolation="isolate">
+      <g
+         id="g40"
+         isolation="isolate">
         <text
-          transform="translate(202.364 275.486)"
-          fill="#808285"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <text
-            transform="translate(202.364 275.486)"
-            fill="#808285"
-            font-size="8"
-            isolation="isolate"
-            style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-          />
-        </text>
+           transform="translate(202.364,275.486)"
+           fill="#808285"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text39"><text
+             transform="translate(202.364,275.486)"
+             fill="#808285"
+             font-size="8px"
+             isolation="isolate"
+             style="font-style:normal;font-weight:normal;font-family:OpenSans"
+             id="text38" /></text>
         <text
-          transform="translate(202.364 275.486)"
-          fill="#808285"
-          font-size="8"
-          isolation="isolate"
-          style="font-family: OpenSans; font-weight: normal; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              $40K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(202.364,275.486)"
+           fill="#808285"
+           font-size="8px"
+           isolation="isolate"
+           style="font-style:normal;font-weight:normal;font-family:OpenSans"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan40"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan39">$40K</tspan></tspan></text>
       </g>
-      <g id="text31" isolation="isolate">
+      <g
+         id="g43"
+         isolation="isolate">
         <text
-          transform="translate(68.206 126.003)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(68.206 126.003)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(68.206,126.003)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text42"><text
+             transform="translate(68.206,126.003)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text41" /></text>
         <text
-          transform="translate(68.206 126.003)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Female
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(68.206,126.003)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text43"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan43"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan42">Female</tspan></tspan></text>
       </g>
-      <g id="text32" isolation="isolate">
+      <g
+         id="g46"
+         isolation="isolate">
         <text
-          transform="translate(186.066 126.003)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(186.066 126.003)"
-            fill="#dc4732"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(186.066,126.003)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text45"><text
+             transform="translate(186.066,126.003)"
+             fill="#dc4732"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text44" /></text>
         <text
-          transform="translate(186.066 126.003)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -4K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(186.066,126.003)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text46"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan46"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan45">-4K</tspan></tspan></text>
       </g>
-      <g id="text33" isolation="isolate">
+      <g
+         id="g49"
+         isolation="isolate">
         <text
-          transform="translate(29.956 147.6)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(29.956 147.6)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(29.956,147.6)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text48"><text
+             transform="translate(29.956,147.6)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text47" /></text>
         <text
-          transform="translate(29.956 147.6)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Visible minority
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(29.956,147.6)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text49"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan49"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan48">Visible minority</tspan></tspan></text>
       </g>
-      <g id="text34" isolation="isolate">
+      <g
+         id="g55"
+         isolation="isolate">
         <text
-          transform="translate(178.679 147.6) scale(.9 1)"
-          fill="#e6e7e8"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(178.679 147.6) scale(.9 1)"
-            fill="#e6e7e8"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="matrix(0.9,0,0,1,178.679,147.6)"
+           fill="#e6e7e8"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text51"><text
+             transform="matrix(0.9,0,0,1,178.679,147.6)"
+             fill="#e6e7e8"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text50" /></text>
         <text
-          transform="translate(178.679 147.6) scale(.9 1)"
-          fill="#e6e7e8"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -5.2K
-            </tspan>
-          </tspan>
-        </text>
+           transform="matrix(0.9,0,0,1,178.679,147.6)"
+           fill="#e6e7e8"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan52"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan51">-5.2K</tspan></tspan></text>
         <text
-          transform="translate(178.679 147.6) scale(.9 1)"
-          fill="none"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          stroke="#e6e7e8"
-          stroke-miterlimit="10"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(178.679 147.6) scale(.9 1)"
-            fill="none"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            stroke="#e6e7e8"
-            stroke-miterlimit="10"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="matrix(0.9,0,0,1,178.679,147.6)"
+           fill="none"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           stroke="#e6e7e8"
+           stroke-miterlimit="10"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text54"><text
+             transform="matrix(0.9,0,0,1,178.679,147.6)"
+             fill="none"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             stroke="#e6e7e8"
+             stroke-miterlimit="10"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text53" /></text>
         <text
-          transform="translate(178.679 147.6) scale(.9 1)"
-          fill="none"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          stroke="#e6e7e8"
-          stroke-miterlimit="10"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -5.2K
-            </tspan>
-          </tspan>
-        </text>
+           transform="matrix(0.9,0,0,1,178.679,147.6)"
+           fill="none"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           stroke="#e6e7e8"
+           stroke-miterlimit="10"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text55"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan55"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan54">-5.2K</tspan></tspan></text>
       </g>
-      <g id="text35" isolation="isolate">
+      <g
+         id="g58"
+         isolation="isolate">
         <text
-          transform="translate(51.186 169.2)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(51.186 169.2)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(51.186,169.2)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text57"><text
+             transform="translate(51.186,169.2)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text56" /></text>
         <text
-          transform="translate(51.186 169.2)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Indigenous
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(51.186,169.2)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text58"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan58"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan57">Indigenous</tspan></tspan></text>
       </g>
-      <g id="text36" isolation="isolate">
+      <g
+         id="g61"
+         isolation="isolate">
         <text
-          transform="translate(187.939 190.799)"
-          fill="#067fa3"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(187.939 190.799)"
-            fill="#067fa3"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(187.939,190.799)"
+           fill="#067fa3"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text60"><text
+             transform="translate(187.939,190.799)"
+             fill="#067fa3"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text59" /></text>
         <text
-          transform="translate(187.939 190.799)"
-          fill="#067fa3"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              +2.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(187.939,190.799)"
+           fill="#067fa3"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text61"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan61"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan60">+2.5K</tspan></tspan></text>
       </g>
-      <g id="text37" isolation="isolate">
+      <g
+         id="g65"
+         isolation="isolate">
         <text
-          transform="translate(52.971 212.397)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(52.971 212.397)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(52.971,212.397)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text63"><text
+             transform="translate(52.971,212.397)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text62" /></text>
         <text
-          transform="translate(52.971 212.397)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Immigrant
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(52.971,212.397)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text65"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan64"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan63">Immigrant</tspan></tspan></text>
       </g>
-      <g id="text38" isolation="isolate">
+      <g
+         id="g71"
+         isolation="isolate">
         <text
-          transform="translate(177.901 233.997) scale(.9 1)"
-          fill="#e6e7e8"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(177.901 233.997) scale(.9 1)"
-            fill="#e6e7e8"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="matrix(0.9,0,0,1,177.901,233.997)"
+           fill="#e6e7e8"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text67"><text
+             transform="matrix(0.9,0,0,1,177.901,233.997)"
+             fill="#e6e7e8"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text66" /></text>
         <text
-          transform="translate(177.901 233.997) scale(.9 1)"
-          fill="#e6e7e8"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -5.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="matrix(0.9,0,0,1,177.901,233.997)"
+           fill="#e6e7e8"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text68"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan68"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan67">-5.5K</tspan></tspan></text>
         <text
-          transform="translate(177.901 233.997) scale(.9 1)"
-          fill="none"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          stroke="#e6e7e8"
-          stroke-miterlimit="10"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(177.901 233.997) scale(.9 1)"
-            fill="none"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            stroke="#e6e7e8"
-            stroke-miterlimit="10"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="matrix(0.9,0,0,1,177.901,233.997)"
+           fill="none"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           stroke="#e6e7e8"
+           stroke-miterlimit="10"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text70"><text
+             transform="matrix(0.9,0,0,1,177.901,233.997)"
+             fill="none"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             stroke="#e6e7e8"
+             stroke-miterlimit="10"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text69" /></text>
         <text
-          transform="translate(177.901 233.997) scale(.9 1)"
-          fill="none"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          stroke="#e6e7e8"
-          stroke-miterlimit="10"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -5.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="matrix(0.9,0,0,1,177.901,233.997)"
+           fill="none"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           stroke="#e6e7e8"
+           stroke-miterlimit="10"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text71"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan71"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan70">-5.5K</tspan></tspan></text>
       </g>
-      <g id="text39" isolation="isolate">
+      <g
+         id="g74"
+         isolation="isolate">
         <text
-          transform="translate(32.189 255.597)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(32.189 255.597)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(32.189,255.597)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text73"><text
+             transform="translate(32.189,255.597)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text72" /></text>
         <text
-          transform="translate(32.189 255.597)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Born in Canada
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(32.189,255.597)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text74"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan74"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan73">Born in Canada</tspan></tspan></text>
       </g>
-      <g id="text40" isolation="isolate">
+      <g
+         id="g77"
+         isolation="isolate">
         <text
-          transform="translate(187.939 255.597)"
-          fill="#067fa3"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(187.939 255.597)"
-            fill="#067fa3"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(187.939,255.597)"
+           fill="#067fa3"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text76"><text
+             transform="translate(187.939,255.597)"
+             fill="#067fa3"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text75" /></text>
         <text
-          transform="translate(187.939 255.597)"
-          fill="#067fa3"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              +1.2K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(187.939,255.597)"
+           fill="#067fa3"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text77"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan77"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan76">+1.2K</tspan></tspan></text>
       </g>
-      <g id="text44" isolation="isolate">
+      <g
+         id="g83"
+         isolation="isolate">
         <text
-          transform="translate(19.84 230.395)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(19.84 230.395)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(19.84,230.395)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text79"><text
+             transform="translate(19.84,230.395)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text78" /></text>
         <text
-          transform="translate(19.84 230.395)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Recent immigrant
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(19.84,230.395)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan80"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan79">Recent immigrant</tspan></tspan></text>
         <text
-          transform="translate(46.852 238.795)"
-          font-size="7"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(46.852 238.795)"
-            font-size="7"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(46.852,238.795)"
+           font-size="7px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text82"><text
+             transform="translate(46.852,238.795)"
+             font-size="7px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text81" /></text>
         <text
-          transform="translate(46.852 238.795)"
-          font-size="7"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              (5 years or less)
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(46.852,238.795)"
+           font-size="7px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text83"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan83"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan82">(5 years or less)</tspan></tspan></text>
       </g>
-      <g id="text46" isolation="isolate">
+      <g
+         id="g89"
+         isolation="isolate">
         <text
-          transform="translate(3.778 187.198)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(3.778 187.198)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(3.778,187.198)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text85"><text
+             transform="translate(3.778,187.198)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text84" /></text>
         <text
-          transform="translate(3.778 187.198)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Not a visible minority
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(3.778,187.198)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text86"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan86"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan85">Not a visible minority</tspan></tspan></text>
         <text
-          transform="translate(39.19 197.998)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(39.19 197.998)"
-            font-size="9"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(39.19,197.998)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text88"><text
+             transform="translate(39.19,197.998)"
+             font-size="9px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text87" /></text>
         <text
-          transform="translate(39.19 197.998)"
-          font-size="9"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              or Indigenous
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(39.19,197.998)"
+           font-size="9px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text89"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan89"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan88">or Indigenous</tspan></tspan></text>
       </g>
-      <g id="text54" isolation="isolate">
+      <g
+         id="g95"
+         isolation="isolate">
         <text
-          transform="translate(172.977 169.2) scale(.9 1)"
-          fill="#e6e7e8"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(172.977 169.2) scale(.9 1)"
-            fill="#e6e7e8"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="matrix(0.9,0,0,1,172.977,169.2)"
+           fill="#e6e7e8"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text91"><text
+             transform="matrix(0.9,0,0,1,172.977,169.2)"
+             fill="#e6e7e8"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text90" /></text>
         <text
-          transform="translate(172.977 169.2) scale(.9 1)"
-          fill="#e6e7e8"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -7.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="matrix(0.9,0,0,1,172.977,169.2)"
+           fill="#e6e7e8"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text92"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan92"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan91">-7.5K</tspan></tspan></text>
         <text
-          transform="translate(172.977 169.2) scale(.9 1)"
-          fill="none"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          stroke="#e6e7e8"
-          stroke-miterlimit="10"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(172.977 169.2) scale(.9 1)"
-            fill="none"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            stroke="#e6e7e8"
-            stroke-miterlimit="10"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="matrix(0.9,0,0,1,172.977,169.2)"
+           fill="none"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           stroke="#e6e7e8"
+           stroke-miterlimit="10"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text94"><text
+             transform="matrix(0.9,0,0,1,172.977,169.2)"
+             fill="none"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             stroke="#e6e7e8"
+             stroke-miterlimit="10"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text93" /></text>
         <text
-          transform="translate(172.977 169.2) scale(.9 1)"
-          fill="none"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          stroke="#e6e7e8"
-          stroke-miterlimit="10"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -7.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="matrix(0.9,0,0,1,172.977,169.2)"
+           fill="none"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           stroke="#e6e7e8"
+           stroke-miterlimit="10"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text95"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan95"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan94">-7.5K</tspan></tspan></text>
       </g>
-      <g id="text55" isolation="isolate">
+      <g
+         id="g98"
+         isolation="isolate">
         <text
-          transform="translate(187.686 212.397)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(187.686 212.397)"
-            fill="#dc4732"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(187.686,212.397)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text97"><text
+             transform="translate(187.686,212.397)"
+             fill="#dc4732"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text96" /></text>
         <text
-          transform="translate(187.686 212.397)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -0.9K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(187.686,212.397)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text98"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan98"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan97">-0.9K</tspan></tspan></text>
       </g>
-      <g id="text56" isolation="isolate">
+      <g
+         id="g101"
+         isolation="isolate">
         <text
-          transform="translate(176.541 147.6)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(176.541 147.6)"
-            fill="#dc4732"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(176.541,147.6)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text100"><text
+             transform="translate(176.541,147.6)"
+             fill="#dc4732"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text99" /></text>
         <text
-          transform="translate(176.541 147.6)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -5.2K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(176.541,147.6)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text101"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan101"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan100">-5.2K</tspan></tspan></text>
       </g>
-      <g id="text57" isolation="isolate">
+      <g
+         id="g104"
+         isolation="isolate">
         <text
-          transform="translate(175.763 233.997)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(175.763 233.997)"
-            fill="#dc4732"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(175.763,233.997)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text103"><text
+             transform="translate(175.763,233.997)"
+             fill="#dc4732"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text102" /></text>
         <text
-          transform="translate(175.763 233.997)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -5.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(175.763,233.997)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text104"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan104"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan103">-5.5K</tspan></tspan></text>
       </g>
-      <g id="text58" isolation="isolate">
+      <g
+         id="g107"
+         isolation="isolate">
         <text
-          transform="translate(170.707 169.2)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <text
-            transform="translate(170.707 169.2)"
-            fill="#dc4732"
-            font-size="8"
-            font-variation-settings="'wght' 400, 'wdth' 100"
-            isolation="isolate"
-            style="font-family: OpenSansItalic; font-weight: normal;"
-          />
-        </text>
+           transform="translate(170.707,169.2)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text106"><text
+             transform="translate(170.707,169.2)"
+             fill="#dc4732"
+             font-size="8px"
+             font-variation-settings="'wdth' 100, 'wght' 400"
+             isolation="isolate"
+             style="font-weight:normal;font-family:OpenSansItalic"
+             id="text105" /></text>
         <text
-          transform="translate(170.707 169.2)"
-          fill="#dc4732"
-          font-size="8"
-          font-variation-settings="'wght' 400, 'wdth' 100"
-          isolation="isolate"
-          style="font-family: OpenSansItalic; font-weight: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              -7.5K
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(170.707,169.2)"
+           fill="#dc4732"
+           font-size="8px"
+           font-variation-settings="'wdth' 100, 'wght' 400"
+           isolation="isolate"
+           style="font-weight:normal;font-family:OpenSansItalic"
+           id="text107"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan107"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan106">-7.5K</tspan></tspan></text>
       </g>
     </g>
-    <g id="Layer_4" data-name="Layer 4">
-      <g id="text59" isolation="isolate">
+    <g
+       id="Layer_4"
+       data-name="Layer 4">
+      <g
+         id="g110"
+         isolation="isolate">
         <text
-          transform="translate(20.96 27.675)"
-          font-size="17"
-          isolation="isolate"
-          style="font-family: OpenSansBold; font-style: normal;"
-        >
-          <text
-            transform="translate(20.96 27.675)"
-            font-size="17"
-            isolation="isolate"
-            style="font-family: OpenSansBold; font-style: normal;"
-          />
-        </text>
+           transform="translate(20.96,27.675)"
+           font-size="17px"
+           isolation="isolate"
+           style="font-style:normal;font-family:OpenSansBold"
+           id="text109"><text
+             transform="translate(20.96,27.675)"
+             font-size="17px"
+             isolation="isolate"
+             style="font-style:normal;font-family:OpenSansBold"
+             id="text108" /></text>
         <text
-          transform="translate(20.96 27.675)"
-          font-size="17"
-          isolation="isolate"
-          style="font-family: TradeGothicBold; font-style: normal;"
-        >
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-              Income inequality in Canada
-            </tspan>
-          </tspan>
-        </text>
+           transform="translate(20.96,27.675)"
+           font-size="17px"
+           isolation="isolate"
+           style="font-style:normal;font-family:TradeGothicBold"
+           id="text110"><tspan
+             x="0"
+             y="0"
+             style="font-style:normal;font-weight:normal"
+             id="tspan110"><tspan
+               x="0"
+               y="0"
+               style="font-style:normal;font-weight:normal"
+               id="tspan109">Income inequality in Canada</tspan></tspan></text>
       </g>
     </g>
   </g>

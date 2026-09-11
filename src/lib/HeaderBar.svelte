@@ -52,7 +52,7 @@
         <div class="right-side">
             <div class="nav-buttons">
                 <HeaderBarButton link="/local-solutions/about" content="About"/>
-                <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="Methodology"/>
+                <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="How to Scale"/>
                 <HeaderBarButton link="/local-solutions/featured-solutions" content="Featured Solutions"/>
                 <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true}/>
 
@@ -94,7 +94,7 @@
                 href="/local-solutions/scaling-social-innovation"
                 target="_blank"
             >
-                Methodology
+                How to Scale
             </a>
 
             <a
@@ -119,7 +119,6 @@
                     {#each Object.keys(chapterColours) as Chapter}
                         <a
                             href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`}
-                            target="_blank"
                             onclick={closeMobileMenu}
                         >
                             <li>{Chapter}</li>
@@ -178,15 +177,15 @@
     
     .hamburger span {
         display: block;
-        width: 26px;
-        height: 3px;
+        width: 20px;
+        height: 2px;
         background-color: var(--LoSoNavyBlue);
         border-radius: 2px;
         transition: transform 0.25s ease, opacity 0.25s ease;
     }
 
     .hamburger.open span:nth-child(1) {
-        transform: translateY(8px) rotate(45deg);
+        transform: translateY(7px) rotate(45deg);
     }
 
     .hamburger.open span:nth-child(2) {
@@ -194,7 +193,7 @@
     }
 
     .hamburger.open span:nth-child(3) {
-        transform: translateY(-8px) rotate(-45deg);
+        transform: translateY(-7px) rotate(-45deg);
     }
 
     .mobile-menu {

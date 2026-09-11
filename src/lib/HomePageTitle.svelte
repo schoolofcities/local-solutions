@@ -268,8 +268,34 @@
         }
     }
 
-    
-    
+    @media (max-width: 900px) {
+        :root {
+            --circle-container: 55dvw;
+            --orbit: 25dvw;
+        }
+
+        .center h2 {
+            font-size: 5dvw;
+        }
+
+        .center h3 {
+            font-size: 4dvw;
+        }
+
+        .node {
+            font-size: 2.5dvw;
+        }
+
+        .instructions h2 {
+            font-size: 2.5dvw;
+        }
+
+        .instructions h3 {
+            font-size: 2.25dvw;
+        }
+        
+    }
+
 
     @media (max-width: 800px) {
         :root {

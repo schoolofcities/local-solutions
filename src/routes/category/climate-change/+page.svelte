@@ -43,13 +43,17 @@
     <TitleSection Title={Chapter} {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>
-        <p>
-            Canada is blessed with natural riches, from vast forests to abundant fresh water and extensive coastlines. Yet these also make us uniquely vulnerable to the risks of a changing climate. Over the past 75 years, Canada’s average land temperature rose by 1.7°C – twice as quickly as the global rate – and the arctic region warmed faster still.<Footnote id={addFootnote(fns[0])}/> The changing climate creates environmental threats that put Canadian communities at risk. Extreme weather events such as heat waves, floods, high winds, and storms can damage buildings and critical infrastructure systems. Rising sea levels threaten coastal communities. Wildfires have become a perennial occurrence across the country, prompting mass evacuations and causing billions of dollars in damages.<Footnote id={addFootnote(fns[1])}/> 
-        </p>
-        <GraphicSingle
+        
+        <GraphicSingle shapeAround={true}
             svg720={`${base}/web-assets/climate-change/sustainability_wildfire-bars.svg`}
             svg360={`${base}/web-assets/climate-change/sustainability_wildfire-bars_360.svg`}
         />
+        <p>
+            Participation in civic life is the strongest driver of trust in government and democratic resilience, and is essential for creating strong, inclusive communities.<Footnote id={addFootnote(fns[0])}/> Yet in Canada, many of the core markers of democratic participation are in decline. Voter turnout in federal elections has been below 70% for decades, and at the municipal level – where government policies often have significant impacts on people’s day-to-day lives – turnout plunges to below 40% in cities across the country.<Footnote id={addFootnote(fns[1])}/> Between 2018 and 2023, rates of informal volunteering fell from 74% to 66%, driven largely by a drop in community improvement activities such as maintaining public spaces, participating in public meetings, and organizing events.<Footnote id={addFootnote(fns[2])}/> The trend goes beyond Canada; in some other democracies as well, membership in community groups from bowling leagues to churches to volunteer associations is declining, decreasing opportunities to build trust and strong social ties with others from different backgrounds.<Footnote id={addFootnote(fns[3])}/> The weakening of these traditional forms of social and democratic engagement can, in turn, erode people’s sense of civic agency and individual fulfilment. In a 2025 survey, less than 56% of the population reported a high sense of meaning and purpose, and 13% of people over 15 reported feeling lonely “often” or “always.”<Footnote id={addFootnote(fns[4])}/> At a time when Canadian cities and towns are changing quickly, it seems that residents are becoming more detached from the important decisions and actions that shape their communities – putting the legitimacy and quality of our democracy at risk. 
+        </p>
+        <p>
+            Canada is blessed with natural riches, from vast forests to abundant fresh water and extensive coastlines. Yet these also make us uniquely vulnerable to the risks of a changing climate. Over the past 75 years, Canada’s average land temperature rose by 1.7°C – twice as quickly as the global rate – and the arctic region warmed faster still.<Footnote id={addFootnote(fns[0])}/> The changing climate creates environmental threats that put Canadian communities at risk. Extreme weather events such as heat waves, floods, high winds, and storms can damage buildings and critical infrastructure systems. Rising sea levels threaten coastal communities. Wildfires have become a perennial occurrence across the country, prompting mass evacuations and causing billions of dollars in damages.<Footnote id={addFootnote(fns[1])}/> 
+        </p>
         <p>
             The resilience of the essential ecosystems that underpin key sectors of Canada's economy, including agriculture, tourism, and energy, is increasingly at risk. Added to the extensive costs of rebuilding in the wake of climate-related destruction – for individuals and institutions – is the rising cost of insurance, or gaps in coverage where insurers deem the region too risky.<Footnote id={addFootnote(fns[2])}/> The climate crisis is no longer a future threat for Canada’s communities: it is here and now, and it will be felt in our cities.<Footnote id={addFootnote(fns[3])}/> 
         </p>
@@ -85,5 +89,15 @@
 </div>
 
 <style>
+    /* .climate-wrap {
+        overflow: hidden;
+    }
 
+    .bar-chart {
+        float: right;
+        width: 900px;
+        height: 450px;
+        shape-outside: polygon(60% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 45%, 60% 44%);
+        shape-margin: 5px; 
+    } */
 </style>

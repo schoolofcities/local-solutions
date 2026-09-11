@@ -37,7 +37,7 @@
             <ChevronDown/>
         </button>
         {#if Spotlighted}
-                <a href={spotlightedURL(Chapter[0], Project, ID_Num)} target="_blank" class="star-button">  
+                <a href={spotlightedURL(Chapter[0], Project, ID_Num)} class="star-button">  
                     <Star fill="var(--brandYellow)" width="40px"/>
                 </a>
         {/if}

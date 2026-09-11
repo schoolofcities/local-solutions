@@ -116,8 +116,8 @@
         align-items: center;
         align-content: center;
         gap: 20px;
-        max-width: 700px;
-        width: 90dvw;
+        max-width: 500px;
+        width: 70dvw;
         box-sizing: border-box;
     }
 
