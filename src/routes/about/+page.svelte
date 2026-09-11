@@ -4,6 +4,7 @@
 	import SofCLogo from '../../assets/sofc-uoft-logo-blue-colour.svg';
 	import CUILogo from '../../assets/cui_logo.png';
 	import RBCLogo from '../../assets/rbc_logo.png';
+    import ContactForm from "$lib/ContactForm.svelte";
 
     import TextTitle from "$lib/TextTitle.svelte";
     import AboutTeamCard from "$lib/AboutTeamCard.svelte";
@@ -87,7 +88,10 @@
                 <AboutTeamCard {...contributor}/>
             {/each}
         </div>
-        <div style="display:flex; justify-items: center; align-items: center; justify-content: center;">
+        
+        <ContactForm/>
+
+        <div style="display:flex; justify-items: center; align-items: center; justify-content: center; margin-top: 50px;">
             <div class="logo-container">
                 <div class="logo-stacked">
                     <img src={SofCLogo} alt="University of Toronto and School of Cities logos" class="logo"/>

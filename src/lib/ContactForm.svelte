@@ -124,7 +124,6 @@
     }
 
     #contact-form {
-        margin-top: 50px;
         max-width: 750px;
         margin-left: calc((100dvw - min(750px, 90dvw))/2);
         width: 90vw;
