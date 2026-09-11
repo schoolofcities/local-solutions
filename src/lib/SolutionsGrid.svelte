@@ -94,11 +94,8 @@
     function matchSearchText(filtered) {
         const fuse = new Fuse(filtered, {
             keys: ['Project', 'Organization', 'Description', 'Tags', 'Chapter', 'Municipalities_List'],
-            threshold: 0.4,
-            includeScore: true,
-            includeMatches: true,
+            threshold: 0.35,
         });
-        console.log(fuse.search(searchText));
 
         return searchText ? fuse.search(searchText).map(result => result.item) : filtered;
     }
