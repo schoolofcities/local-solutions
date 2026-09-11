@@ -48,6 +48,12 @@
     let pendingTags = $state(selectedTags);
     let pendingChapters = $state({ ...selectedChapters });
 
+    const PROVINCE_ORDER = ['YT', 'BC', 'AB', 'NT', 'SK', 'NU', 'MB', 'ON', 'QC', 'NB', 'NS', 'PE', 'NL', 'Across Canada'];
+
+    let orderedProvinceKeys = $derived(
+        PROVINCE_ORDER.filter((key) => key in provinceCounts)
+    );
+
     addTag = (tagInfo) => {
         const already = pendingTags.some(t => t.value === tagInfo.value);
         if (!already) pendingTags = [...pendingTags, tagInfo];
@@ -180,7 +186,7 @@
             {:else if Object.keys(totalProvinceCounts).length >= 1}
                 <div class="condensed-map" style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}; width: ${width}px; height: ${height}px">
                     {#if Object.keys(provinceCounts).length > 0}
-                        {#each Object.keys(provinceCounts) as postal}
+                        {#each orderedProvinceKeys as postal}
                             {#if postal == "Across Canada"}
                                 <div class="square" role="button" tabindex="0" 
                                     aria-label="Filter solutions across Canada"
