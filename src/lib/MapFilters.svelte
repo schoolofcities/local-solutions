@@ -59,6 +59,7 @@
         selectedMunicipalities = [...pendingMunicipalities];
         selectedTags = [...pendingTags];
         selectedChapters = pendingChapters ? { ...pendingChapters } : {};
+        console.log(totalProvinceCounts);
         onApply();
     }
 
@@ -176,27 +177,33 @@
                         {/if}
                     </svg>
                 </div>
-            {:else}
+            {:else if Object.keys(totalProvinceCounts).length >= 1}
                 <div class="condensed-map" style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}; width: ${width}px; height: ${height}px">
-                    {#each Object.keys(provinceCounts) as postal}
-                        {#if postal == "Across Canada"}
-                            <div class="square" role="button" tabindex="0" 
-                                aria-label="Filter solutions across Canada"
-                                onclick={() => filterProvince("Across Canada", "Across Canada", null)}
-                                onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
-                                <span>{postal}</span>
-                                <span class="count">{provinceCounts[postal]}</span>
-                            </div>
-                        {:else}
-                            <div class="square" role="button" tabindex="0"
-                                    aria-label="Filter solutions in {provincePostalCodes[postal]}"
-                                    onclick={() => filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}
-                                    onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}>
-                                <span>{provincePostalCodes[postal]}</span>
-                                <span class="count">{provinceCounts[postal]}</span>
-                            </div>
-                        {/if}
-                    {/each}
+                    {#if Object.keys(provinceCounts).length > 0}
+                        {#each Object.keys(provinceCounts) as postal}
+                            {#if postal == "Across Canada"}
+                                <div class="square" role="button" tabindex="0" 
+                                    aria-label="Filter solutions across Canada"
+                                    onclick={() => filterProvince("Across Canada", "Across Canada", null)}
+                                    onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince("Across Canada", "Across Canada", null)}>
+                                    <span>{postal}</span>
+                                    <span class="count">{provinceCounts[postal]}</span>
+                                </div>
+                            {:else}
+                                <div class="square" role="button" tabindex="0"
+                                        aria-label="Filter solutions in {provincePostalCodes[postal]}"
+                                        onclick={() => filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}
+                                        onkeyup={e => (e.key === 'Enter' || e.key === ' ') && filterProvince(postal, provincePostalCodes[postal], "Provinces & Territories")}>
+                                    <span>{provincePostalCodes[postal]}</span>
+                                    <span class="count">{provinceCounts[postal]}</span>
+                                </div>
+                            {/if}
+                        {/each}
+                    {:else}
+                        <div class="square" style="width: 100%; height: 100%; background-color:white; color: var(--brandGray70); font-family: RobotoBold; display: flex; justify-content: center; align-items: center;">
+                            <span>No results found.</span>
+                        </div>
+                    {/if}
                 </div>
             {/if}
         {/if}
