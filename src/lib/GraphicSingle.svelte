@@ -75,6 +75,7 @@
 	.svg-container-wrapper {
 		float: inline-end;
 		padding-left: 20px;
+		z-index: -1;
 	}
 
 	.standalone {
@@ -95,9 +96,10 @@
 
 	.svg-container-wrapper.shape-around {
 		float: inline-end;
-		padding-left: 20px;
-		shape-outside: polygon(60% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 45%, 60% 44%);
-		shape-margin: 12px;
+		shape-outside: polygon(63% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 44%, 63% 44%) border-box;
+		shape-margin: 10px;
+		padding-left: 10px;
+		margin-inline-end: calc((100dvw - min(var(--grid-width), 90dvw, 900px)) / 2);
 	}
 
 	@media (max-width: 600px) {

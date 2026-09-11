@@ -28,9 +28,9 @@
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-y="1341"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg231" />
+     inkscape:current-layer="foreground" />
   <g
      id="background">
     <image
@@ -91,23 +91,6 @@
          data-name="Layer 15"
          transform="matrix(0.77505517,0,0,0.77505517,29.190538,-14.851806)">
         <text
-           transform="translate(378.545,208.8)"
-           font-size="12px"
-           id="text2"
-           style="font-family: OpenSansBoldItalic;"><text
-             transform="translate(378.545,208.8)"
-             font-size="12px"
-             id="text184"
-             style="font-family: OpenSansBoldItalic;" /><tspan
-             x="0"
-             y="0"
-             id="tspan2"
-             style="font-weight: normal; font-style: normal;"><tspan
-               x="0"
-               y="0"
-               id="tspan184"
-               style="font-weight: normal; font-style: normal;">Scaling deep</tspan></tspan></text>
-        <text
            transform="translate(152.191,208.8)"
            font-size="12px"
            id="text3"
@@ -145,19 +128,19 @@
            transform="translate(269.972,208.8)"
            font-size="12px"
            id="text7"
-           style="font-family: OpenSansBoldItalic;"><text
+           style="font-family:OpenSansBoldItalic"><text
              transform="translate(269.972,208.8)"
              font-size="12px"
              id="text187"
-             style="font-family: OpenSansBoldItalic;" /><tspan
+             style="font-family:OpenSansBoldItalic" /><tspan
              x="0"
              y="0"
              id="tspan6"
-             style="font-weight: normal; font-style: normal;"><tspan
+             style="font-style:normal;font-weight:normal"><tspan
                x="0"
                y="0"
                id="tspan187"
-               style="font-weight: normal; font-style: normal;">Scaling up</tspan></tspan></text>
+               style="font-style:normal;font-weight:normal" /></tspan></text>
       </g>
     </g>
     <g
@@ -184,40 +167,6 @@
                y="0"
                id="tspan184-1"
                style="font-weight: normal; font-style: normal;">Scaling deep</tspan></tspan></text>
-        <text
-           transform="translate(152.191,208.8)"
-           font-size="12px"
-           id="text9"
-           style="font-family: OpenSansBoldItalic;"><text
-             transform="translate(152.191,208.8)"
-             font-size="12px"
-             id="text185-9"
-             style="font-family: OpenSansBoldItalic;" /><tspan
-             x="0"
-             y="0"
-             id="tspan8"
-             style="font-weight: normal; font-style: normal;"><tspan
-               x="0"
-               y="0"
-               id="tspan185-6"
-               style="font-weight: normal; font-style: normal;">Scaling out</tspan></tspan></text>
-        <text
-           transform="translate(37.571,208.8)"
-           font-size="12px"
-           id="text10"
-           style="font-family: OpenSansBoldItalic;"><text
-             transform="translate(37.571,208.8)"
-             font-size="12px"
-             id="text186-4"
-             style="font-family: OpenSansBoldItalic;" /><tspan
-             x="0"
-             y="0"
-             id="tspan9"
-             style="font-weight: normal; font-style: normal;"><tspan
-               x="0"
-               y="0"
-               id="tspan186-5"
-               style="font-weight: normal; font-style: normal;">Beginnings</tspan></tspan></text>
         <text
            transform="translate(269.972,208.8)"
            font-size="12px"

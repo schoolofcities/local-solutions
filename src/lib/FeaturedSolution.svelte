@@ -65,10 +65,12 @@
     <a href={spotlightedURL(Chapter[0], Project, ID_Num)} class="content">
         <div class="featured-title-section">
             <div>
-                <h2>{@html Organization}</h2>
-                <h3>{@html Project}</h3>
-                
-                <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 5px;">
+                <div class="title">
+                    <h2>{@html Organization}</h2>
+                    <h3>{@html Project}</h3>
+                </div>
+
+                <div class="chips" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 5px;">
                     {#each Chapter as entry}
                         <ChapterChips Chapter={entry}/>
                     {/each}
@@ -86,7 +88,9 @@
                 {/each}
             </div>
         </div>
-        <ChevronDown width={"30px"} height={"30px"} orientation={"right"}/>
+        <div class="arrow">
+            <ChevronDown width={"30px"} height={"30px"} orientation={"right"}/>
+        </div>
     </a>
 </div>
 
@@ -157,6 +161,17 @@
         max-width: 500px;
         width: 95dvw;
         text-decoration: none;
+    }
+    
+    .content:hover{
+        cursor: pointer;
+        opacity: 60%;
+    }
+
+    .content:has(.chips:hover),
+    .content:has(.tags:hover) {
+        cursor: pointer;
+        opacity: 100%;
     }
 
     @media (max-width: 830px) {

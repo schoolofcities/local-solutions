@@ -6,6 +6,7 @@
     import { chapterColours } from './chapterColours';
     import { tags, locations } from "./mapFilterConstants";
     import { browser } from '$app/environment';
+    import Fuse from 'fuse.js/basic'
 
     let {
         solutionsList,
@@ -52,19 +53,22 @@
 
     let availableMunicipalities = $derived.by(() => {
         const set = new Set();
-        // Filter by everything EXCEPT municipality
-        solutionsList
-            .filter(s => matchesSearch(s) && matchesProvinces(s) && matchesTags(s) && matchesChapters(s))
-            .forEach(s => s.Municipalities_List.forEach(m => set.add(m)));
+        let filtered = solutionsList.filter(s => matchesProvinces(s) && matchesTags(s) && matchesChapters(s));
+        if (searchText) {
+            filtered = matchSearchText(filtered);
+        }
+        filtered.forEach(s => s.Municipalities_List.forEach(m => set.add(m)));
         selectedMunicipalities.forEach(m => set.add(m.value));
         return Array.from(set).sort().map(m => ({ value: m, label: m }));
     });
 
     let availableTags = $derived.by(() => {
         const set = new Set();
-        solutionsList
-            .filter(s => matchesSearch(s) && matchesProvinces(s) && matchesMunicipalities(s) && matchesChapters(s))
-            .forEach(s => s.Tags?.forEach(t => {
+        let filtered = solutionsList.filter(s => matchesProvinces(s) && matchesMunicipalities(s) && matchesChapters(s));
+        if (searchText) {
+            filtered = matchSearchText(filtered);
+        }
+        filtered.forEach(s => s.Tags?.forEach(t => {
                 if (isNaN(parseInt(t)))
                     set.add(t)
             }));
@@ -77,23 +81,28 @@
 
     let availableProvinces = $derived.by(() => {
         const set = new Set();
-        solutionsList
-            .filter(s => matchesSearch(s) && matchesMunicipalities(s) && matchesTags(s) && matchesChapters(s))
-            .forEach(s => s.Provinces_List.forEach(p => set.add(p)));
-        // selectedProvinces.forEach(p => set.add(p.value));
+        let filtered = solutionsList.filter(s => matchesMunicipalities(s) && matchesTags(s) && matchesChapters(s));
+        if (searchText) {
+            filtered = matchSearchText(filtered);
+        }
+        filtered.forEach(s => s.Provinces_List.forEach(p => set.add(p)));
+
         set.add(selectedProvince?.value);
         return locations.filter(loc => set.has(loc.value));
     });
 
-    function matchesSearch(s) {
-        if (!searchText) return true;
-        const q = searchText.toLowerCase();
-        return s.Project?.toLowerCase().includes(q) || s.Organization?.toLowerCase().includes(q) || s.Description?.toLowerCase().includes(q) || s.Tags?.join().toLowerCase().includes(q) || s.Chapter?.join().toLowerCase().includes(q);
+    function matchSearchText(filtered) {
+        const fuse = new Fuse(filtered, {
+            keys: ['Project', 'Organization', 'Description', 'Tags', 'Chapter', 'Municipalities_List'],
+            threshold: 0.4,
+            includeScore: true,
+            includeMatches: true,
+        });
+        console.log(fuse.search(searchText));
+
+        return searchText ? fuse.search(searchText).map(result => result.item) : filtered;
     }
     function matchesProvinces(s) {
-        // const vals = selectedProvinces.map(p => p.value);
-        // if (activeProvinceFilter) return s.Provinces_List.includes(activeProvinceFilter);
-        // if (vals.length === 0) return true;
         if (!selectedProvince) return true;
         return (s.Provinces_List.includes(selectedProvince.value));
     }
@@ -112,10 +121,9 @@
         if (active.length === 0) return true;
         return s.Chapter?.some(c => active.includes(c));
     }
-    let filteredSolutionsList = $derived(
-        solutionsList.filter(s => {
+    let filteredSolutionsList = $derived.by(() => {
+        let filtered = solutionsList.filter(s => {
             const hasProvince = selectedProvince !== undefined;
-            // const hasProvince = selectedProvinces.length > 0;
             const hasMunicipality = selectedMunicipalities.length > 0;
             
             const locationMatch =
@@ -126,15 +134,15 @@
                     (matchesProvinces(s) || matchesMunicipalities(s)));
 
             return (
-                matchesSearch(s) &&
                 locationMatch &&
                 matchesTags(s) &&
                 matchesChapters(s)
             );
-            // return (matchesSearch(s) && matchesProvinces(s) && matchesMunicipalities(s) &&
-            // matchesTags(s) && matchesChapters(s));
         })
-    );
+
+        return searchText ? matchSearchText(filtered) : filtered;
+    });
+
 
     const provinceCounts = $derived.by(() => {
         const counts = filteredSolutionsList.reduce((acc, s) => {

@@ -45,8 +45,6 @@
 		padding-top: 10px;
 		padding-bottom: 0px;
 		margin-bottom: 30px;
-		padding-left: 20px;
-		padding-right: 20px;
 	}
 
 	img {
@@ -65,7 +63,7 @@
 	}
 
 	a:hover {
-		opacity: 0.95;
+		opacity: 0.90;
 	}
 
 	a img {

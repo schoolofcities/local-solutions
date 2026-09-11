@@ -96,7 +96,7 @@
 
     
     :global(.summary a:hover) {
-        opacity: 50%;
+        opacity: 60%;
     }
 
     .summary::after {
@@ -134,7 +134,7 @@
     }
 
     .show-more-less:hover {
-        opacity: 75%;
+        opacity: 60%;
         cursor: pointer;
     }
 

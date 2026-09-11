@@ -42,8 +42,9 @@
     }
     .chip:hover {
         cursor: pointer;
-        opacity: 75%;
+        opacity: 60%;
     }
+    
     .large {
         font-size: 20px;
         padding: 9px 22px 9px 22px;

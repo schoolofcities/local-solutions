@@ -89,15 +89,4 @@
 </div>
 
 <style>
-    /* .climate-wrap {
-        overflow: hidden;
-    }
-
-    .bar-chart {
-        float: right;
-        width: 900px;
-        height: 450px;
-        shape-outside: polygon(60% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 45%, 60% 44%);
-        shape-margin: 5px; 
-    } */
 </style>

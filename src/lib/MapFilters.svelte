@@ -205,7 +205,7 @@
     <div class="filters" style="width: {filtersWidth}px">
         <h3 class="header">Filters</h3>
         <div class="select-box">
-            <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch} />
+            <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch} onkeydown={(event) => {if (event.key === 'Enter') applyFilters()}}/>
         </div>
         <div class="select-box province-select">
             <Select items={provinces} showChevron bind:value={pendingProvince}
@@ -326,7 +326,7 @@
 
     .org-count:hover {
         cursor: pointer;
-        opacity: 75%;
+        opacity: 60%;
     }
 
     .org-count-circle {
