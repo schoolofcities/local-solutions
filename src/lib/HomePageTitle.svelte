@@ -225,7 +225,28 @@
 
     @media (max-width: 1100px) {
         :root {
-            --circle-container: 65dvh;
+            --circle-container: 55dvw;
+            --orbit: 25dvw;
+        }
+
+        .center h2 {
+            font-size: 5dvw;
+        }
+
+        .center h3 {
+            font-size: 4dvw;
+        }
+
+        .node {
+            font-size: 2.5dvw;
+        }
+
+        .instructions h2 {
+            font-size: 2.5dvw;
+        }
+
+        .instructions h3 {
+            font-size: 2.25dvw;
         }
 
         .left {
@@ -258,44 +279,7 @@
         .title h3 {
             font-size: 30px;
         }
-
-        .center h2 {
-            font-size: 4dvh;
-        }
-
-        .center h3 {
-            font-size: 3.5dvh;
-        }
     }
-
-    @media (max-width: 900px) {
-        :root {
-            --circle-container: 55dvw;
-            --orbit: 25dvw;
-        }
-
-        .center h2 {
-            font-size: 5dvw;
-        }
-
-        .center h3 {
-            font-size: 4dvw;
-        }
-
-        .node {
-            font-size: 2.5dvw;
-        }
-
-        .instructions h2 {
-            font-size: 2.5dvw;
-        }
-
-        .instructions h3 {
-            font-size: 2.25dvw;
-        }
-        
-    }
-
 
     @media (max-width: 800px) {
         :root {
