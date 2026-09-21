@@ -19,7 +19,7 @@
             {Chapter}
         </button>
     {:else}
-        <a href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`} target="_blank" 
+        <a href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`}
             class="chip {large ? "large" : ""}" style:background-color={chapterColours[Chapter]} style:color="white">
             {Chapter}
         </a>
@@ -42,8 +42,9 @@
     }
     .chip:hover {
         cursor: pointer;
-        opacity: 75%;
+        opacity: 60%;
     }
+    
     .large {
         font-size: 20px;
         padding: 9px 22px 9px 22px;

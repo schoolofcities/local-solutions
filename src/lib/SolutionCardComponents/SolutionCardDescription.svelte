@@ -37,7 +37,7 @@
             <ChevronDown/>
         </button>
         {#if Spotlighted}
-                <a href={spotlightedURL(Chapter[0], Project, ID_Num)} target="_blank" class="star-button">  
+                <a href={spotlightedURL(Chapter[0], Project, ID_Num)} class="star-button">  
                     <Star fill="var(--brandYellow)" width="40px"/>
                 </a>
         {/if}
@@ -96,7 +96,7 @@
 
     
     :global(.summary a:hover) {
-        opacity: 50%;
+        opacity: 60%;
     }
 
     .summary::after {
@@ -134,7 +134,7 @@
     }
 
     .show-more-less:hover {
-        opacity: 75%;
+        opacity: 60%;
         cursor: pointer;
     }
 

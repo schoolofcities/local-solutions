@@ -17,12 +17,12 @@
         border-radius: 10px;
         padding: 10px;
         box-sizing: border-box;
-        background-color: var(--LoSoNavyBlue);
         display: flex;
         flex-direction: column;
         justify-content: center;
         gap: 5px;
         transition: transform 0.2s ease;
+        border: 1px solid #001D4E48;
     }
     
     .card h3, .card p {
@@ -33,14 +33,14 @@
     .card h3 {
         font-family: RobotoBold;
         font-size: 16px;
-        color: white;
+        color: var(--LoSoNavyBlue);
     }
 
     .card p {
         font-family: Roboto;
         font-size: 14px;
         line-height: 16px;
-        color: white;
+        color: var(--LoSoNavyBlue);
     }
 
     @media (max-width: 475px) {

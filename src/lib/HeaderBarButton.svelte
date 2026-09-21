@@ -44,13 +44,13 @@
             // onmouseleave={() => hoveredToggle = false}
             >
             {#each dropdownValues as value}
-                <a href={value.link} target="_blank">
+                <a href={value.link}>
                     <li>{value.label}</li>
                 </a>
             {/each}
         </ul>
     {:else}
-        <a class="desktop-button" class:hovered={hoveredToggle} href={link} target="_blank">
+        <a class="desktop-button" class:hovered={hoveredToggle} href={link}>
             {content}
         </a>
     {/if}

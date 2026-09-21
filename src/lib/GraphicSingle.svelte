@@ -3,6 +3,7 @@
 	export let svg720;
 	export let svg360;
 	export let standalone = true;
+	export let shapeAround = false;
 
 	let inputSVG;
 	let svgWidth = 0;
@@ -62,7 +63,7 @@
   
 
   
-<div class="svg-container-wrapper" class:standalone={standalone} bind:this={container}>
+<div class="svg-container-wrapper" class:standalone={standalone} class:shape-around={shapeAround} bind:this={container}>
 	{#if inputSVG}
 		<div class="svg-container">
 			{@html inputSVG}
@@ -74,6 +75,7 @@
 	.svg-container-wrapper {
 		float: inline-end;
 		padding-left: 20px;
+		z-index: -1;
 	}
 
 	.standalone {
@@ -90,6 +92,14 @@
 	
 	.standalone .svg-container {
 		height: auto;
+	}
+
+	.svg-container-wrapper.shape-around {
+		float: inline-end;
+		shape-outside: polygon(63% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 44%, 63% 44%) border-box;
+		shape-margin: 10px;
+		padding-left: 10px;
+		margin-inline-end: calc((100dvw - min(var(--grid-width), 90dvw, 900px)) / 2);
 	}
 
 	@media (max-width: 600px) {

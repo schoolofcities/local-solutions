@@ -33,7 +33,9 @@
     <MethodologyCallout/>
     <SolutionsGrid solutionsList={data.solutions} provinceCounts={data.provinceCounts} home={true}/> 
 
-    <ContactForm/>
+    <div style="margin-top: 50px;">
+        <ContactForm/>
+    </div>
 </div>
 
 <style>

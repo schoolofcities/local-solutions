@@ -48,6 +48,7 @@
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/community-prosperity/wealth_dignity_wages-map.svg`}
+            svg360={`${base}/web-assets/community-prosperity/wealth_dignity_wages-map_360.svg`}
         />
         <div class="inline-images">
             <GraphicSingle standalone={false}

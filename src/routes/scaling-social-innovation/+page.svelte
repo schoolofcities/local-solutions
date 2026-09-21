@@ -7,6 +7,7 @@
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import Password from '$lib/Password.svelte';
+    import ImageSingle from '$lib/ImageSingle.svelte';
     
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -105,6 +106,9 @@
         <p>
             In addition to the context of place, social innovations must also consider the context of time: problems evolve, and may need to be solved more than once. Social innovations addressing them must evolve in tandem. The process aspect of social innovation is significant: the act of working through the problem with others is part of the solution. It builds capacity and forms relationships, which can be leveraged again and again.<Footnote id={addFootnote(fns[9])}/>
         </p>
+
+        <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit_AssemblyCorp.jpg`} source="Photo credits: Assembly Corp"
+            link="No"/>
         <TextTitle title="SCALING UP: INSTITUTIONALIZING CHANGE WITH GOVERNMENT SUPPORT" background="Blue"/>
         <p>
             The desire to learn from and copy what works is not new. In recent years, this process has been called “applied dissemination,” “social diffusion,” “amplification,” and “replication.”<Footnote id={addFootnote(fns[10])}/> Here we use the term “scaling” to describe the process of achieving widespread and holistic change with an innovation beyond its original place or institution.<Footnote id={addFootnote(fns[11])}/>  
@@ -129,9 +133,14 @@
         <p>
             Repeated instances of adaptation are the best way for an innovation that is spreading beyond its origins to incorporate local context, but a more efficient method for making systemic change is often the institutionalization of social policy. This is referred to as “scaling up”: codifying the innovation into rules, law or policy, whether at the local level or via another order of government. Scaling up can bring more resources to a problem and can make adoption of a solution more widespread.<Footnote id={addFootnote(fns[15])}/> This type of change requires a different skill set from the original innovating institution, one which may include advocacy and policy development.<Footnote id={addFootnote(fns[16])}/>
         </p>
-        <p style:margin-bottom="50px;">
+        <p>
             More recent scholarship has added “scaling deep” to the list of possibilities: changing mindsets, relationships, and values over time.<Footnote id={addFootnote(fns[17])}/> Scaling deep involves going beyond creating a solution to redefining the problem. An example is the recent evolution of the way that Canadians think about housing and homelessness, which has largely shifted from a focus on reducing the stigma around homelessness to considering housing a human right. Scaling deep often involves an element of education, as it involves a fundamental, often generational, change in not just what is done, but how it is done. 
         </p>
+        <div style:margin-bottom="50px">
+            <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit_CityofVictoria.jpg`} source="Photo credits: City of Victoria"
+                link="No"/>
+        </div>
+        
         <TextTitle title="HOW TO SCALE: A FRAMEWORK FOR GROWTH"/>
         <p>
             Following the framework of scaling out, up, and deep, this section brings together theory and practice to identify four key themes that emerged from our research as key to starting and growing social initiatives in Canada: 
@@ -164,14 +173,16 @@
         <p>
             Social innovations are often initiated by entrepreneurial types who in traditional innovation discourse might be known as “disrupters.”<Footnote id={addFootnote(fns[18])}/> These early advocates – champions – may be individuals working alone or within non-profits large or small, anchor institutions like universities and churches, government departments, or the private sector. A common catalyst for change in the initiatives included in this report was the realization that an existing system was not working, and that community actors not only had the best opportunity, but the responsibility, to generate solutions. Early-stage innovators are rarely experts, but they gain traction by their ability to clearly articulate the problem and their willingness to experiment with a solution.
         </p>
-
         <p>
             Different champions emerge at different times. Innovators and entrepreneurs push an idea forward at its early stages, providing energy and conviction. They are also often powerful representatives who can retell the origin story to sustain momentum and “recharge” a movement in difficult times.<Footnote id={addFootnote(fns[19])}/> Mentors can also be champions, connecting the initiative to funders or other experts to help it grow. Institutional brokers, in turn, understand the specifics of an initiative and how to frame the cause to attract broader support. As champions, they may identify policy windows of opportunity that help to build a wider movement, and are often key actors in scaling up.<Footnote id={addFootnote(fns[20])}/>
         </p>
-
-        <p style:margin-bottom="50px;">
+        <p>
             Communities of practice help to nurture initiatives and build capacity in organizations, and several of the innovations in the chapters that follow built these intentionally as their programs grew. Funders routinely play this role, including the Tamarack Institute, the McConnell Foundation, and the Ontario Trillium Foundation. These organizations scale by mentoring local champions across the country (sometimes youth or those without formal leadership experience) to build their skills, creating a virtuous cycle of change, which can also aid in succession planning.<Footnote id={addFootnote(fns[21])}/> Another example is in the growing social procurement movement, a core aspect of which is the iterative process of bringing purchasers and suppliers together via career days or information sessions to understand how local vendors can work with social impact suppliers.
         </p>
+        <div style:margin-bottom="50px">
+            <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit_DurhamRegion.jpg`} source="Photo credits: Durham Region"
+                link="No"/>
+        </div>
 
         <TextTitle title="SCALING OUT: THE ROLE OF NETWORKS AND FUNDING" background="Blue"/>
 
@@ -194,9 +205,14 @@
         <p>
             With new businesses, this gap is filled by angel investors, who provide capital in exchange for debt or ownership equity. With social programs, longer funding runways play a similar role: it is not surprising that many of the solutions featured here that had the most impact had three or even five years of guaranteed funding, allowing them to build trust in their relationships and to seed lasting change. Both government and philanthropic support for overhead costs can help to build organizational capacity in this way, strengthening the social innovation sector as a whole.<Footnote id={addFootnote(fns[27])}/>
         </p>
-        <p style:margin-bottom="50px;">
+        <p>
             Still, even this approach does not guarantee long-term success, since funding for growth can be difficult to find even when a program is successful, and social programs by their nature may not ever achieve the market efficiencies common with private-sector products or technology.<Footnote id={addFootnote(fns[28])}/> Canada’s philanthropic sector is relatively small, with only a few large foundations; government can play a role in providing additional funding where ideas have been proven to work.<Footnote id={addFootnote(fns[29])}/> But funding social innovation should not be the responsibility of government alone. New financial models, such as community and social impact bonds, can engage individual or corporate investors and create partnerships while funding larger-scale solutions.<Footnote id={addFootnote(fns[30])}/> Co-operative models of various kinds – from banks to housing – should be strengthened with legal supports. And recognizing new types of entities, such as benefit corporations (B corps), can encourage private sector actors to work toward positive social change in addition to profit.<Footnote id={addFootnote(fns[31])}/>
         </p>
+        <div style:margin-bottom="50px">
+            <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit_FederationofCalgaryCommunities.jpeg`} source="Photo credits: Federation of Calgary Communities"
+                link="No"/>
+        </div>
+
 
         <TextTitle title="SCALING UP: INSTITUTIONALIZING CHANGE WITH GOVERNMENT SUPPORT" background="Blue"/>
 
@@ -207,9 +223,13 @@
         <p>
             Closer to home, some institutions are providing this kind of space at the municipal and provincial level. The Centre for Social Innovation in Toronto has brought together 5,500 social innovation non-profits, providing a dedicated space for co-working and events and encouraging reciprocal learning and cross-pollination among its members.<Footnote id={addFootnote(fns[34])}/> The Institute for Social Innovation and Resilience at the University of Waterloo and the MaRS Solutions Lab at the University of Toronto are internationally recognized centres that bring together academic, government, non-profit, and industry partners to spur ideas and entrepreneurship in the social sector. Together, these initiatives have expanded the reach of Canadian innovation beyond our borders to create international learning networks and establish Canada as a leader in disseminating great ideas.
         </p>
-        <p style:margin-bottom="50px;">
+        <p>
             Policy change often lags well behind societal change and merely reinforces it, but governments can perform another role in spurring social innovation through legislation and regulation frameworks that incentivize non-profit activity. Reducing reporting requirements in social sectors, for example, ensures more staff time and money is spent on effecting change: red tape stifles innovation in the social sector just as it does elsewhere.<Footnote id={addFootnote(fns[35])}/> Some non-profit funders (like the Tamarack Institute) take on the burden of reporting on behalf of partners, but a higher-level rethinking of the purpose that reporting requirements serve can take this a step further. David Wilkinson, director of the Office of Social Innovation and Civic Participation, instituted a focus on outcomes, noting that finding “what works” can in fact be quite difficult, because most government funding rewards proposals rather than results, and reporting requirements often focus on aspects of the initiative unrelated to actual outcomes. The process of collecting, tracking, and analyzing the data required by funders takes time away from the core work of social service agencies, and may require an entirely separate skill set from staff members. The result is that the reporting process is often seen as not only “time-consuming, costly, and redundant” but potentially actively distracting.<Footnote id={addFootnote(fns[36])}/> Perhaps the most effective approach from governments to spur innovation would be to provide guidance – and then step aside.
         </p>
+        <div style:margin-bottom="50px">
+            <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit_FergusonMedia Collective.jpg`} source="Photo credits: Ferguson Media Collective"
+                link="No"/>
+        </div>
 
         <TextTitle title="SCALING DEEP: CO-CREATING AND SHARING KNOWLEDGE" background="Blue"/>
 
@@ -219,9 +239,13 @@
         <p>
             Outside of innovators themselves, foundations, the media, and academic institutions can help contextualize social change. Public awards from these kinds of institutions draw attention to good work and can provide validation and a renewed sense of purpose that recharges momentum to overcome periods of difficulty.<Footnote id={addFootnote(fns[39])}/> Awards and media coverage also play a role in broadening the range of individuals and organizations that are recognized for the work of social change, opening doors for new people to get involved in social innovation leadership. Focusing on outcomes emphasizes results over name recognition, potentially attracting wider financial support beyond the handful of organizations who tend to receive the majority of philanthropic funding, and increasing the capacity of the sector overall.<Footnote id={addFootnote(fns[40])}/>
         </p>
-        <p style:margin-bottom="50px;">
+        <p>
             Knowledge mobilization is now routinely considered a formal part of Canadian academic work, following efforts by the Social Sciences and Humanities Research Council of Canada (SSHRC) to build capacity for it in the 2000s.<Footnote id={addFootnote(fns[41])}/> Academic institutions working in concert with governments and communities can take this a step further: the government of Quebec explicitly endorsed co-creating research and social policy with local actors in the 1980s with the creation of its Centre de recherche sur les innovations sociales (CRISES). This multidisciplinary, multi-university research centre has played a central role in the dissemination of Quebec’s innovations in micro-finance, solidarity finance, and co-operative governance models.<Footnote id={addFootnote(fns[42])}/> This structure, known loosely as the “social economy,” includes a wider range of sectors and organizations in the province than in other parts of Canada – such as non-profits like trade unions, and even parts of the private sector when they are doing work for public benefit.<Footnote id={addFootnote(fns[43])}/> CRISES is effectively the institutionalization of Quebec’s social economy framework, which has explicit goals of democratizing the economy and challenging social norms.<Footnote id={addFootnote(fns[44])}/>
         </p>
+        <div style:margin-bottom="50px">
+            <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit_KillickEcovillage.jpg`} source="Photo credits: Killick Ecovillage"
+                link="No"/>
+        </div>
         
         <TextTitle title="CONCLUSION: BREAKING DOWN BARRIERS TO SCALE SOCIAL INNOVATION IN CANADA"/>
         <p>
@@ -239,6 +263,10 @@
         <p>
             Barriers exist to the transfer of knowledge not just across horizontal gaps but vertical ones: successful innovations are not often shared between orders of government. Provincial and territorial governments are well positioned to facilitate and institutionalize change by spreading innovations across sectors and regions,<Footnote id={addFootnote(fns[50])}/> but knowledge rarely flows in the other direction. There are even fewer formal mechanisms for collaboration between the municipal and federal levels,<Footnote id={addFootnote(fns[51])}/> and in some cases (including in both Quebec and Alberta), laws prevent such partnerships without prior provincial authorization.<Footnote id={addFootnote(fns[52])}/> Such legislation has the effect of smothering innovation before it can even get going. Many of the problems Canadian municipalities face are complicated, long-standing, and deeply entrenched, but the ideas that follow in this volume are evidence that we can make progress toward solving them. As Canadian-American author William Gibson has said, “The future is already here – it's just not very evenly distributed.”<Footnote id={addFootnote(fns[53])}/> May the chapters that follow be a call to distribute our shared success more evenly and creatively, and find ways to nurture the ideas and organizations that are implementing them.
         </p>
+        <div style:margin-bottom="50px">
+            <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/Credit1_FederationofCalgaryCommunities.JPG`} source="Photo credits: Federation of Calgary Communities"
+                link="No"/>
+        </div>
     </div>
     
 	<Footnotes footnotes={footnotes} />

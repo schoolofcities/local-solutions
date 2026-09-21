@@ -33,7 +33,7 @@
     <div class="card-title-section"> 
         <div style="width: 100%">
             {#if Spotlighted}
-            <a class="title-url" href={spotlightedURL(Chapter[0], Project, ID_Num)} target="_blank">
+            <a class="title-url" href={spotlightedURL(Chapter[0], Project, ID_Num)}>
                 <h2>{@html Organization}</h2>
                 <h3>{@html Project}</h3>
             </a>
@@ -78,6 +78,10 @@
 
     .title-url {
         text-decoration: none;
+    }
+
+    .title-url:hover {
+        opacity: 60%;
     }
 
     :global(.card-title-section h2) {
