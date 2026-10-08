@@ -5,6 +5,11 @@ import cairosvg
 
 
 FONT_MAP = {
+
+	"TradeGothic LT Bold": "TradeGothicBold",
+	"TradeGothicLT-Bold": "TradeGothicBold",
+	"TradeGothicLT-Bold, 'TradeGothic LT Bold'": "TradeGothicBold",
+
 	# Base fonts
 	"OpenSans 24pt": "OpenSans",
 	"OpenSans24pt-Regular": "OpenSans",
@@ -34,11 +39,6 @@ FONT_MAP = {
 	"OpenSans BoldItalic": "OpenSansBoldItalic",
 	"Bold Italic": "OpenSansBoldItalic",  # Catch-all
 	"BoldItalic": "OpenSansBoldItalic",  # Catch-all
-
-	"TradeGothic LT Bold": "TradeGothicBold",
-	"TradeGothicLT-Bold": "TradeGothicBold",
-	"TradeGothicLT-Bold, 'TradeGothic LT Bold'": "TradeGothicBold",
-
 	"Bold": "OpenSansBold",
 }
 
@@ -167,35 +167,57 @@ def apply_font_map(root, font_map, svg_ns):
 		is_bold = "bold" in font_weight or "700" in font_weight
 		is_italic = "italic" in font_style or "oblique" in font_style
 
-		# Build lookup keys based ONLY on what exists in font_map
+		# # Build lookup keys based ONLY on what exists in font_map
+		# lookup_keys = []
+		# if current_font:
+		# 	# Generate possible variants
+		# 	variants = []
+		# 	if is_bold and is_italic:
+		# 		variants.extend([
+		# 			f"{current_font} Bold Italic",
+		# 			f"{current_font} BoldItalic",
+		# 			"Bold Italic",
+		# 			"BoldItalic"
+		# 		])
+		# 	elif is_bold:
+		# 		variants.extend([f"{current_font} Bold", "Bold"])
+		# 	elif is_italic:
+		# 		variants.extend([f"{current_font} Italic", "Italic"])
+
+		# 	# Generate possible keys in order of preference
+		# 	for variant in variants:
+		# 		# Try full font name with variant
+		# 		lookup_keys.append(f"{current_font} {variant}" if " " not in variant else f"{current_font} {variant}")
+		# 		# Try variant alone (will only match if font_map has standalone variants)
+		# 		lookup_keys.append(variant)
+
+		# 	# Always try the base font name last
+		# 	lookup_keys.append(current_font)
+
+		# # Find the first matching font in font_map
+		# mapped_font = current_font  # default to original if no match found
+		# for key in lookup_keys:
+		# 	if key in font_map:
+		# 		mapped_font = font_map[key]
+		# 		break
+		# Exact match on the full font name wins; variants/catch-alls are fallbacks
 		lookup_keys = []
 		if current_font:
-			# Generate possible variants
-			variants = []
+			lookup_keys.append(current_font)  # exact name first
+
 			if is_bold and is_italic:
-				variants.extend([
+				lookup_keys += [
 					f"{current_font} Bold Italic",
 					f"{current_font} BoldItalic",
 					"Bold Italic",
-					"BoldItalic"
-				])
+					"BoldItalic",
+				]
 			elif is_bold:
-				variants.extend([f"{current_font} Bold", "Bold"])
+				lookup_keys += [f"{current_font} Bold", "Bold"]
 			elif is_italic:
-				variants.extend([f"{current_font} Italic", "Italic"])
+				lookup_keys += [f"{current_font} Italic", "Italic"]
 
-			# Generate possible keys in order of preference
-			for variant in variants:
-				# Try full font name with variant
-				lookup_keys.append(f"{current_font} {variant}" if " " not in variant else f"{current_font} {variant}")
-				# Try variant alone (will only match if font_map has standalone variants)
-				lookup_keys.append(variant)
-
-			# Always try the base font name last
-			lookup_keys.append(current_font)
-
-		# Find the first matching font in font_map
-		mapped_font = current_font  # default to original if no match found
+		mapped_font = current_font
 		for key in lookup_keys:
 			if key in font_map:
 				mapped_font = font_map[key]
@@ -432,7 +454,7 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 from pathlib import Path
 
 def main():
-	folder = "civic-engagement"
+	folder = "svg-convert"
 	input_dir = "../../static/web-assets/" + folder + "/original/"
 	output_dir = "../../static/web-assets/" + folder
 	print(input_dir)

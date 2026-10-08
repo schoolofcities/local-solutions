@@ -12,10 +12,34 @@
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs97" />
+     id="defs97">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d7c323;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#e1682b;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="483.14478"
+       y1="93.04805"
+       x2="483.14478"
+       y2="128.62891"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0967188,0,0,0.94729304,-54.420693,1.7443907)" />
+  </defs>
   <sodipodi:namedview
      id="namedview97"
      pagecolor="#ffffff"
@@ -26,13 +50,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="1.129495"
-     inkscape:cx="488.714"
-     inkscape:cy="336.87622"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-1"
+     inkscape:zoom="1.5973471"
+     inkscape:cx="534.63644"
+     inkscape:cy="176.85573"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="-9"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
   <rect
@@ -5019,6 +5043,13 @@
        stroke="#f1c500"
        stroke-miterlimit="2.25"
        stroke-width=".5" />
+    <rect
+       style="fill:url(#linearGradient3);stroke:none;stroke-width:0.376719;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="6.6942286"
+       height="37.806389"
+       x="472.1062"
+       y="88.031921" />
   </g>
   <g
      isolation="isolate"

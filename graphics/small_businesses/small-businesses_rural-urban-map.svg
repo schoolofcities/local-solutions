@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="1.1360062"
-     inkscape:cx="615.75368"
-     inkscape:cy="303.25539"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-1"
+     inkscape:zoom="3.2131108"
+     inkscape:cx="486.13326"
+     inkscape:cy="366.15607"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="-9"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg75">
     <inkscape:grid
@@ -605,11 +605,27 @@
      id="text3"
      x="430.29672"
      y="263.11273"
-     style="stroke-width:1.05321"><tspan
+     style="white-space:pre;inline-size:57.1268;display:inline;stroke-width:1.05321"
+     xml:space="preserve"><tspan
        x="430.29672"
        y="263.11273"
-       id="tspan3"
-       style="stroke-width:1.05321">N.L.</tspan></text>
+       id="tspan3">Newfoundland</tspan></text>
+  <text
+     fill="#6c297b"
+     font-family="OpenSans-Italic, 'Open Sans'"
+     font-size="8.42567px"
+     font-style="italic"
+     font-variation-settings="'wdth' 100, 'wght' 400"
+     isolation="isolate"
+     id="text3-2"
+     x="430.29672"
+     y="263.11273"
+     style="white-space:pre;inline-size:57.1268;display:inline;stroke-width:1.05321"
+     xml:space="preserve"
+     transform="translate(0.01790754,8.9993577)"><tspan
+       x="430.29672"
+       y="263.11273"
+       id="tspan5">and Labrador</tspan></text>
   <text
      fill="#6c297b"
      font-family="OpenSans-Bold, 'Open Sans'"
@@ -617,10 +633,10 @@
      font-weight="700"
      isolation="isolate"
      id="text4"
-     x="420.98529"
+     x="422.47076"
      y="301.914"
      style="stroke-width:1.05321"><tspan
-       x="420.98529"
+       x="422.47076"
        y="301.914"
        id="tspan4"
        style="stroke-width:1.05321">6.7K</tspan></text>
@@ -634,12 +650,12 @@
      id="text54-2"
      x="373.06427"
      y="323.07086"
-     style="text-align:start;text-anchor:start;white-space:pre;inline-size:63.3333;stroke-width:1.05321"
+     style="text-align:start;text-anchor:start;white-space:pre;inline-size:63.3333;display:inline;stroke-width:1.05321"
      transform="translate(48.97113,-13.308874)"
      xml:space="preserve"><tspan
        x="373.06427"
        y="323.07086"
-       id="tspan5">Prince Edward </tspan></text>
+       id="tspan16">Prince Edward </tspan></text>
   <text
      fill="#6c297b"
      font-family="OpenSans-Italic, 'Open Sans'"
@@ -650,7 +666,7 @@
      id="text54-2-1"
      x="373.06427"
      y="323.07086"
-     style="text-align:start;text-anchor:start;white-space:pre;inline-size:44.1873;stroke-width:1.05321"
+     style="text-align:start;text-anchor:start;white-space:pre;inline-size:44.1873;display:inline;stroke-width:1.05321"
      transform="translate(48.849887,-5.5410964)"
      xml:space="preserve"><tspan
        x="373.06427"
@@ -813,14 +829,14 @@
      id="text16"
      x="185.54048"
      y="192.16753"
-     style="white-space:pre;inline-size:68.6822;stroke-width:1.05321"
+     style="white-space:pre;inline-size:68.6822;display:inline;stroke-width:1.05321"
      xml:space="preserve"><tspan
        x="185.54048"
        y="192.16753"
-       id="tspan27">Northwest </tspan><tspan
+       id="tspan26">Northwest </tspan><tspan
        x="185.54048"
        y="202.69961"
-       id="tspan29">Territories</tspan></text>
+       id="tspan27">Territories</tspan></text>
   <text
      fill="#6c297b"
      font-family="OpenSans-Bold, 'Open Sans'"
@@ -1112,10 +1128,10 @@
      isolation="isolate"
      id="text53"
      x="370.68066"
-     y="313.07782"
+     y="315.05844"
      style="stroke-width:1.05321"><tspan
        x="370.68066"
-       y="313.07782"
+       y="315.05844"
        id="tspan52"
        style="stroke-width:1.05321">26K</tspan></text>
   <text
@@ -1128,14 +1144,14 @@
      id="text54"
      x="417.25159"
      y="323.07086"
-     style="text-align:end;text-anchor:end;white-space:pre;inline-size:44.1873;stroke-width:1.05321"
-     transform="translate(-28.855765,-1.8639136)"
+     style="text-align:end;text-anchor:end;white-space:pre;inline-size:44.1873;display:inline;stroke-width:1.05321"
+     transform="translate(-28.855765,0.11670929)"
      xml:space="preserve"><tspan
        x="417.25159"
        y="323.07086"
-       id="tspan30">New<tspan
+       id="tspan29">New<tspan
    y="323.07086"
-   id="tspan31"> </tspan></tspan></text>
+   id="tspan30"> </tspan></tspan></text>
   <text
      fill="#6c297b"
      font-family="OpenSans-Italic, 'Open Sans'"
@@ -1146,12 +1162,12 @@
      id="text54-9"
      x="417.25159"
      y="323.07086"
-     style="text-align:end;text-anchor:end;white-space:pre;inline-size:44.1873;stroke-width:1.05321"
-     transform="translate(-28.792893,5.9604507)"
+     style="text-align:end;text-anchor:end;white-space:pre;inline-size:44.1873;display:inline;stroke-width:1.05321"
+     transform="translate(-28.792893,7.9410736)"
      xml:space="preserve"><tspan
        x="417.25159"
        y="323.07086"
-       id="tspan32">Brunswick</tspan></text>
+       id="tspan31">Brunswick</tspan></text>
   <path
      id="path71"
      d="m 36.000005,101.40999 c 0,-3.979996 -3.22,-7.199996 -7.2,-7.199996 v 3.6 c 1.99,0 3.6,1.61 3.6,3.599996 0,0.99 -0.4,1.89 -1.05,2.55 l 2.55,2.55 c 1.3,-1.3 2.11,-3.1 2.11,-5.09 z"
@@ -1290,5 +1306,5 @@
      id="text28"><tspan
        sodipodi:role="line"
        id="tspan28"
-       style="stroke-width:0.75"></tspan></text>
+       style="stroke-width:0.75" /></text>
 </svg>

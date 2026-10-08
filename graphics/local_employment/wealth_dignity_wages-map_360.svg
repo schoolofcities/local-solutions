@@ -9,6 +9,7 @@
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -21,16 +22,39 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="3.8042345"
-     inkscape:cx="144.05001"
-     inkscape:cy="346.3246"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-1"
+     inkscape:cx="281.00266"
+     inkscape:cy="265.62506"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="-9"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
+     inkscape:current-layer="Layer_1" />
   <defs
-     id="defs97" />
+     id="defs97">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="483.14478"
+       y1="97.393379"
+       x2="483.14478"
+       y2="124.395"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0967188,0,0,1.2511837,-269.86336,14.634147)" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d7c323;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#e1682b;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+  </defs>
   <g
      id="Layer_1"
      data-name="Layer 1">
@@ -1498,10 +1522,10 @@
            xml:space="preserve"><tspan
              x="20.964001"
              y="18.894938"
-             id="tspan1">Comparing provincial and territorial minimum </tspan><tspan
+             id="tspan19">Comparing provincial and territorial minimum </tspan><tspan
              x="20.964001"
              y="33.894938"
-             id="tspan8">wages to local living wages</tspan></text>
+             id="tspan21">wages to local living wages</tspan></text>
       </g>
       <g
          isolation="isolate"
@@ -1714,11 +1738,11 @@
            xml:space="preserve"><tspan
              x="12.61445"
              y="0"
-             id="tspan9">$30 
+             id="tspan23">$30 
 </tspan><tspan
              x="12.61445"
              y="10"
-             id="tspan10">per hour</tspan></text>
+             id="tspan24">per hour</tspan></text>
       </g>
     </g>
     <g
@@ -3387,15 +3411,15 @@
            xml:space="preserve"><tspan
              x="128.05859"
              y="0"
-             id="tspan11">provincial/</tspan><tspan
+             id="tspan25">provincial/</tspan><tspan
              x="128.05859"
              y="8.75"
-             id="tspan13">territorial<tspan
+             id="tspan27">territorial<tspan
    y="8.75"
-   id="tspan17"> </tspan></tspan><tspan
+   id="tspan28"> </tspan></tspan><tspan
              x="128.05859"
              y="17.5"
-             id="tspan60">minimum wage</tspan></text>
+             id="tspan29">minimum wage</tspan></text>
       </g>
       <g
          isolation="isolate"
@@ -3415,7 +3439,7 @@
     </g>
     <g
        id="text107"
-       transform="matrix(0.82805521,0,0,0.82805521,-131.41443,61.31288)">
+       transform="matrix(0.82805521,0,0,0.82805521,-134.96311,61.31288)">
       <g
          isolation="isolate"
          id="g46">
@@ -3433,15 +3457,15 @@
            xml:space="preserve"><tspan
              x="210.19531"
              y="0"
-             id="tspan62">highest provincial/</tspan><tspan
+             id="tspan31">highest provincial/</tspan><tspan
              x="210.19531"
              y="10"
-             id="tspan63">territorial minimum<tspan
+             id="tspan32">territorial minimum<tspan
    y="10"
-   id="tspan64"> </tspan></tspan><tspan
+   id="tspan35"> </tspan></tspan><tspan
              x="210.19531"
              y="19.999999"
-             id="tspan65">wage ($19.75)</tspan></text>
+             id="tspan36">wage ($19.75)</tspan></text>
       </g>
       <g
          isolation="isolate"
@@ -3630,34 +3654,34 @@
              xml:space="preserve"><tspan
                x="0"
                y="0"
-               id="tspan67">Data sources: Government of Canada Minimum Wage Database </tspan><tspan
+               id="tspan39">Data sources: Government of Canada Minimum Wage Database </tspan><tspan
                x="0"
                y="10"
-               id="tspan68">(2025); Living Wage Canada (2025); Alternatives North (2022); Institut </tspan><tspan
+               id="tspan40">(2025); Living Wage Canada (2025); Alternatives North (2022); Institut </tspan><tspan
                x="0"
                y="19.999999"
-               id="tspan71">de recherche et d’informations socioéconomiques (2025); “Higher-</tspan><tspan
+               id="tspan41">de recherche et d’informations socioéconomiques (2025); “Higher-</tspan><tspan
                x="0"
                y="29.999999"
-               id="tspan72">than-ever minimum wage needed to make ends meet in Whitehorse: </tspan><tspan
+               id="tspan43">than-ever minimum wage needed to make ends meet in Whitehorse: </tspan><tspan
                x="0"
                y="39.999999"
-               id="tspan73">report”, Yukon News (2025). Montreal reflects a household with one </tspan><tspan
+               id="tspan44">report”, Yukon News (2025). Montreal reflects a household with one </tspan><tspan
                x="0"
                y="49.999999"
-               id="tspan74">adult only. No local living wage available in Nunavut. Largest cities/</tspan><tspan
+               id="tspan45">adult only. No local living wage available in Nunavut. Largest cities/</tspan><tspan
                x="0"
                y="59.999999"
-               id="tspan76">regions in each province and territory were chosen for local living </tspan><tspan
+               id="tspan46">regions in each province and territory were chosen for local living </tspan><tspan
                x="0"
                y="69.999999"
-               id="tspan77">wage data where data were available. Toronto represents data for </tspan><tspan
+               id="tspan50">wage data where data were available. Toronto represents data for </tspan><tspan
                x="0"
                y="79.999999"
-               id="tspan78">the Greater Toronto Area. St. John's represents data for Eastern </tspan><tspan
+               id="tspan51">the Greater Toronto Area. St. John's represents data for Eastern </tspan><tspan
                x="0"
                y="89.999999"
-               id="tspan81">Newfoundland.  </tspan></text>
+               id="tspan52">Newfoundland.  </tspan></text>
         </g>
         <g
            isolation="isolate"
@@ -4346,7 +4370,7 @@
     <g
        id="text131"
        isolation="isolate"
-       transform="matrix(0.82805521,0,0,0.82805521,68.213809,147.74413)">
+       transform="matrix(0.82805521,0,0,0.82805521,64.665132,147.74413)">
       <g
          isolation="isolate"
          id="g58"
@@ -4365,15 +4389,15 @@
            xml:space="preserve"><tspan
              x="60.911064"
              y="0"
-             id="tspan82">lowest provincial/</tspan><tspan
+             id="tspan57">lowest provincial/</tspan><tspan
              x="60.911064"
              y="10"
-             id="tspan85">territorial minimum<tspan
+             id="tspan59">territorial minimum<tspan
    y="10"
-   id="tspan86"> </tspan></tspan><tspan
+   id="tspan60"> </tspan></tspan><tspan
              x="60.911064"
              y="19.999999"
-             id="tspan89">wage ($15.00)</tspan></text>
+             id="tspan62">wage ($15.00)</tspan></text>
       </g>
       <g
          isolation="isolate"
@@ -4391,21 +4415,6 @@
              id="tspan58" /></text>
       </g>
     </g>
-    <circle
-       id="circle131"
-       cx="262.84106"
-       cy="140.12724"
-       r="2.1600001"
-       fill="#d7c323"
-       stroke="#8cbf3f"
-       stroke-miterlimit="10"
-       stroke-width="0.01" />
-    <circle
-       id="circle132"
-       cx="262.84106"
-       cy="167.67662"
-       r="2.1600001"
-       fill="#e1682b" />
     <g
        id="g152"
        transform="translate(-522.80641,-51.88054)">
@@ -4650,10 +4659,10 @@
        xml:space="preserve"><tspan
          x="0"
          y="0"
-         id="tspan90">Living wage represents the hourly wage each parent must earn </tspan><tspan
+         id="tspan63">Living wage represents the hourly wage each parent must earn </tspan><tspan
          x="0"
          y="10"
-         id="tspan93">in a two-parent two-children household.</tspan></text>
+         id="tspan64">in a two-parent two-children household.</tspan></text>
     <text
        transform="translate(21.181,95.805)"
        font-family="OpenSans-Italic, 'Open Sans'"
@@ -4677,4 +4686,11 @@
          y="0"
          id="tspan95" /></text>
   </g>
+  <rect
+     style="fill:url(#linearGradient3);stroke:none;stroke-width:0.432948;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2"
+     width="6.6942286"
+     height="49.934639"
+     x="256.66354"
+     y="128.60263" />
 </svg>
