@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_6"
+   data-name="Layer 6"
+   width="326.40002"
+   height="153.39999"
+   viewBox="0 0 244.80001 115.05"
+   version="1.1"
+   sodipodi:docname="mental-health_unmet-health-stat-bolded-text.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="1.6184071"
+     inkscape:cx="168.99333"
+     inkscape:cy="69.821742"
+     inkscape:window-width="1150"
+     inkscape:window-height="1000"
+     inkscape:window-x="761"
+     inkscape:window-y="7"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text49" />
+  <g
+     id="text49"
+     isolation="isolate">
+    <rect
+       id="rect5"
+       x="0"
+       y="0.5"
+       width="244.8"
+       height="128.59599"
+       fill="#ffffff" />
+    <text
+       id="text3"
+       transform="rotate(0.17,-9794.7813,6163.5527)"
+       font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+       font-size="34px"
+       font-weight="700"
+       isolation="isolate"
+       style="font-size:23px;white-space:pre;inline-size:331.221;display:inline"
+       xml:space="preserve"><tspan
+         x="0"
+         y="0"
+         id="tspan4"><tspan
+           style="fill:#067fa3"
+           id="tspan3">2.34 million Canadians</tspan></tspan></text>
+    <g
+       id="text3-4"
+       isolation="isolate"
+       transform="translate(-2.7805119,-13.902559)">
+      <text
+         transform="rotate(0.17,-21337.621,7064.5725)"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="12px"
+         isolation="isolate"
+         id="text2"
+         style="white-space:pre;inline-size:212.971;display:inline"
+         xml:space="preserve"><tspan
+           x="0"
+           y="0"
+           id="tspan6">needed mental health care in 2023 </tspan><tspan
+           x="0"
+           y="15"
+           id="tspan7">but their needs were either unmet or </tspan><tspan
+           x="0"
+           y="29.999999"
+           id="tspan8">partially unmet</tspan></text>
+    </g>
+  </g>
+  <g
+     id="text51"
+     transform="translate(0,-14.365978)">
+    <g
+       id="g6"
+       isolation="isolate">
+      <text
+         transform="translate(21.6,114.913)"
+         fill="#999999"
+         font-family="OpenSans, 'Open Sans'"
+         font-size="8px"
+         isolation="isolate"
+         id="text6"><tspan
+           x="0"
+           y="0"
+           id="tspan5">Data source: Canadian Mental Health Association (2024)</tspan></text>
+    </g>
+  </g>
+  <rect
+     id="rect72"
+     x="0"
+     y="14.4"
+     width="14.4"
+     height="14.4"
+     fill="#f1c500" />
+  <path
+     id="path37-2"
+     d="M 0,0.5 H 244.8"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
+  <path
+     id="path37"
+     d="M 0,114.73002 H 244.8"
+     fill="none"
+     stroke="#f1c500"
+     stroke-miterlimit="2.25"
+     stroke-width="0.5" />
+</svg>
