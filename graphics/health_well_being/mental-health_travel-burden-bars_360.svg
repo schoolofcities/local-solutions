@@ -5,7 +5,7 @@
    height="366.60001"
    viewBox="0 0 269.99999 274.95002"
    version="1.1"
-   sodipodi:docname="mental-health_travel-burden-bars_360.svg"
+   sodipodi:docname="mental-health_travel-burden-bars_changed_colours_360.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="mental-health_travel-burden-bars.png"
    inkscape:export-xdpi="300"
@@ -35,14 +35,14 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="233.69879"
-     inkscape:cy="232.28458"
-     inkscape:window-width="1920"
-     inkscape:window-height="1111"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1">
+     inkscape:cx="186.32263"
+     inkscape:cy="233.69878"
+     inkscape:window-width="1198"
+     inkscape:window-height="1251"
+     inkscape:window-x="1192"
+     inkscape:window-y="9"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid29"
        units="in"
@@ -66,70 +66,80 @@
        fill="#ab2069"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#dc4633;fill-opacity:1" />
     <path
        id="path2"
        d="m 262.75469,112.29626 v 25.95652 c 0,0.79612 -0.42235,1.44202 -0.94356,1.44202 h -3.15816 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 3.15816 c 0.52121,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#ab2069"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#dc4633;fill-opacity:1" />
     <path
        id="path3"
        d="m 257.70941,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94356,1.44202 h -5.68079 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 5.68079 c 0.52122,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#dc4732"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#f18616;fill-opacity:1" />
     <path
        id="path4"
        d="m 235.00626,163.61446 v 25.95653 c 0,0.79611 -0.42235,1.44203 -0.94356,1.44203 h -40.99713 c -0.52122,0 -0.94356,-0.64592 -0.94356,-1.44203 v -25.95653 c 0,-0.79612 0.42234,-1.44202 0.94356,-1.44202 h 40.99713 c 0.52121,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#dc4732"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#f18616;fill-opacity:1" />
     <path
        id="path5"
        d="m 250.1415,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94355,1.44202 h -18.29341 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 18.29341 c 0.52121,0 0.94355,0.64591 0.94355,1.44203 z"
        fill="#efc419"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#f1c500;fill-opacity:1" />
     <path
        id="path6"
        d="m 192.12144,163.61446 v 25.95653 c 0,0.79611 -0.42236,1.44203 -0.94356,1.44203 h -81.35875 c -0.52121,0 -0.94355,-0.64592 -0.94355,-1.44203 v -25.95653 c 0,-0.79612 0.42234,-1.44202 0.94355,-1.44202 h 81.35875 c 0.5212,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#efc419"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#f1c500;fill-opacity:1" />
     <path
        id="path7"
        d="m 229.96098,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94356,1.44202 h -30.90658 c -0.52121,0 -0.94356,-0.6459 -0.94356,-1.44202 v -25.95652 c 0,-0.79612 0.42235,-1.44203 0.94356,-1.44203 h 30.90658 c 0.52122,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#00a28a"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#00b681;fill-opacity:1" />
     <path
        id="path8"
        d="m 108.87558,163.61446 v 25.95653 c 0,0.79611 -0.42234,1.44203 -0.94356,1.44203 H 56.844342 c -0.521216,0 -0.943561,-0.64592 -0.943561,-1.44203 v -25.95653 c 0,-0.79612 0.422345,-1.44202 0.943561,-1.44202 h 51.087678 c 0.52122,0 0.94356,0.6459 0.94356,1.44202 z"
        fill="#00a28a"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#00b681;fill-opacity:1" />
     <path
        id="path9"
        d="m 197.16671,112.29626 v 25.95652 c 0,0.79612 -0.42234,1.44202 -0.94356,1.44202 H 8.9148202 c -0.5212153,0 -0.9435594,-0.6459 -0.9435594,-1.44202 v -25.95652 c 0,-0.79612 0.4223441,-1.44203 0.9435594,-1.44203 H 196.22315 c 0.52122,0 0.94356,0.64591 0.94356,1.44203 z"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#007fa3;fill-opacity:1" />
     <path
        id="path10"
        d="m 55.900781,163.61446 v 25.95653 c 0,0.79611 -0.422344,1.44203 -0.943559,1.44203 H 8.9148202 c -0.5212153,0 -0.9435594,-0.64592 -0.9435594,-1.44203 v -25.95653 c 0,-0.79612 0.4223441,-1.44202 0.9435594,-1.44202 H 54.957222 c 0.521215,0 0.943559,0.6459 0.943559,1.44202 z"
        fill="#067fa3"
        stroke="#ffffff"
        stroke-miterlimit="10"
-       stroke-width="0.378256" />
+       stroke-width="0.378256"
+       style="fill:#007fa3;fill-opacity:1" />
     <path
        id="path37"
        d="M 0,274.72328 H 489.6"
@@ -150,14 +160,14 @@
            font-weight="700"
            isolation="isolate"
            id="text1"
-           style="font-size:14px;white-space:pre;inline-size:196.197"
+           style="font-size:14px;white-space:pre;inline-size:196.197;display:inline"
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan11">Hospital travel burden for urban </tspan><tspan
+             id="tspan1">Hospital travel burden for urban </tspan><tspan
              x="0"
              y="17.5"
-             id="tspan13">and rural residents</tspan></text>
+             id="tspan2">and rural residents</tspan></text>
       </g>
     </g>
     <g
@@ -178,10 +188,10 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan14">Data source: Hospital Morbidity Database (CIHI, 2018-2023), </tspan><tspan
+             id="tspan3">Data source: Hospital Morbidity Database (CIHI, 2018-2023), </tspan><tspan
              x="0"
              y="10"
-             id="tspan15">Statistics Canada (2024)</tspan></text>
+             id="tspan11">Statistics Canada (2024)</tspan></text>
       </g>
     </g>
     <rect
@@ -213,20 +223,20 @@
            font-variation-settings="'wdth' 100, 'wght' 400"
            isolation="isolate"
            id="text3"
-           style="font-size:8px;white-space:pre;inline-size:250.955"
+           style="font-size:8px;white-space:pre;inline-size:250.955;display:inline"
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan16">Factors that impact travel burden include patient living in a different </tspan><tspan
+             id="tspan13">Factors that impact travel burden include patient living in a different </tspan><tspan
              x="0"
              y="10"
-             id="tspan17">census subdivision than the hospital, greater travel distance required, </tspan><tspan
+             id="tspan14">census subdivision than the hospital, greater travel distance required, </tspan><tspan
              x="0"
              y="19.999999"
-             id="tspan18">no road available, patient is a senior or child, and hospitalization is </tspan><tspan
+             id="tspan15">no road available, patient is a senior or child, and hospitalization is </tspan><tspan
              x="0"
              y="29.999999"
-             id="tspan19">urgent or unscheduled.</tspan></text>
+             id="tspan29">urgent or unscheduled.</tspan></text>
         <text
            transform="translate(21.6,54)"
            font-family="OpenSans-Italic, 'Open Sans'"
@@ -298,14 +308,14 @@
              id="tspan6-5-7"
              style="font-size:8px">travel burden</tspan></text>
         <rect
-           style="fill:#067fa3;fill-opacity:1;stroke-width:0.75"
+           style="fill:#007fa3;fill-opacity:1;stroke-width:0.75"
            id="rect14"
            width="2.5395696"
            height="20.316563"
            x="11.851328"
            y="164.78989" />
         <rect
-           style="fill:#ab2069;fill-opacity:1;stroke-width:0.75"
+           style="fill:#dc4633;fill-opacity:1;stroke-width:0.75"
            id="rect14-9"
            width="2.5395696"
            height="20.316563"
@@ -323,10 +333,12 @@
            font-size="11px"
            font-weight="700"
            isolation="isolate"
-           id="text7"><tspan
+           id="text7"
+           style="fill:#000000"><tspan
              x="0"
              y="0"
-             id="tspan7">19%</tspan></text>
+             id="tspan7"
+             style="fill:#000000">19%</tspan></text>
       </g>
       <g
          id="text17"
@@ -339,10 +351,12 @@
            font-size="11px"
            font-weight="700"
            isolation="isolate"
-           id="text8"><tspan
+           id="text8"
+           style="fill:#000000"><tspan
              x="0"
              y="0"
-             id="tspan8">75%</tspan></text>
+             id="tspan8"
+             style="fill:#000000">75%</tspan></text>
       </g>
       <g
          id="text18"
@@ -355,10 +369,12 @@
            font-size="11px"
            font-weight="700"
            isolation="isolate"
-           id="text9"><tspan
+           id="text9"
+           style="fill:#000000"><tspan
              x="0"
              y="0"
-             id="tspan9">21%</tspan></text>
+             id="tspan9"
+             style="fill:#000000">21%</tspan></text>
       </g>
       <g
          id="text19"
@@ -371,10 +387,12 @@
            font-size="11px"
            font-weight="700"
            isolation="isolate"
-           id="text12"><tspan
+           id="text12"
+           style="fill:#000000"><tspan
              x="0"
              y="0"
-             id="tspan10">13%</tspan></text>
+             id="tspan10"
+             style="fill:#000000">13%</tspan></text>
       </g>
       <g
          id="g20"
@@ -432,10 +450,12 @@
            font-size="11px"
            font-weight="700"
            isolation="isolate"
-           id="text23"><tspan
+           id="text23"
+           style="fill:#000000"><tspan
              x="0"
              y="0"
-             id="tspan22">17%</tspan></text>
+             id="tspan22"
+             style="fill:#000000">17%</tspan></text>
       </g>
       <g
          id="g24"
@@ -448,10 +468,12 @@
            font-size="11px"
            font-weight="700"
            isolation="isolate"
-           id="text24"><tspan
+           id="text24"
+           style="fill:#000000"><tspan
              x="0"
              y="0"
-             id="tspan23">11%</tspan></text>
+             id="tspan23"
+             style="fill:#000000">11%</tspan></text>
       </g>
       <g
          id="g25"
@@ -550,7 +572,7 @@
          xml:space="preserve"
          transform="scale(0.75000001)"
          id="text30"
-         style="font-size:17.3333px;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);fill:#ab2069;fill-opacity:1" />
+         style="font-size:17.3333px;font-family:TradeGothicBold;-inkscape-font-specification:TradeGothicBold;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);display:inline;fill:#ab2069;fill-opacity:1" />
     </g>
   </g>
 </svg>
