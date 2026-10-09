@@ -6,7 +6,7 @@
    version="1.1"
    id="svg260"
    sodipodi:docname="housing_starts-households-chart.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="housing_starts-households-chart.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -27,12 +27,12 @@
      inkscape:deskcolor="#ffffff"
      inkscape:document-units="in"
      inkscape:zoom="1.6887725"
-     inkscape:cx="324.79212"
+     inkscape:cx="325.38427"
      inkscape:cy="179.71633"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1"
      showgrid="false">
@@ -148,70 +148,84 @@
        font-weight="700"
        id="text2-6"
        x="63.035999"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="63.035999"
          y="237.4075"
-         id="tspan2-2">1960</tspan></text>
+         id="tspan2-2"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1960</tspan></text>
     <text
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text3-9"
        x="120.28"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="120.28"
          y="237.4075"
-         id="tspan3-1">1970</tspan></text>
+         id="tspan3-1"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1970</tspan></text>
     <text
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text4-2"
        x="177.524"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="177.524"
          y="237.4075"
-         id="tspan4-7">1980</tspan></text>
+         id="tspan4-7"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1980</tspan></text>
     <text
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text5-0"
        x="234.76801"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="234.76801"
          y="237.4075"
-         id="tspan5-9">1990</tspan></text>
+         id="tspan5-9"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1990</tspan></text>
     <text
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text6-3"
        x="292.01199"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="292.01199"
          y="237.4075"
-         id="tspan6-6">2000</tspan></text>
+         id="tspan6-6"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2000</tspan></text>
     <text
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text7-0"
        x="349.258"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="349.258"
          y="237.4075"
-         id="tspan7-6">2010</tspan></text>
+         id="tspan7-6"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2010</tspan></text>
     <text
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="10px"
        font-weight="700"
        id="text8-2"
        x="406.50201"
-       y="237.4075"><tspan
+       y="237.4075"
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          x="406.50201"
          y="237.4075"
-         id="tspan8-6">2020</tspan></text>
+         id="tspan8-6"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2020</tspan></text>
     <g
        id="g92-1"
        transform="translate(-0.067,-202.2805)">
@@ -389,14 +403,14 @@
          xml:space="preserve"><tspan
            x="0"
            y="0"
-           id="tspan4">Data source: Statistics Canada (2025) Canada Mortgage and Housing Corporation. Table: 34-10-0126-01
+           id="tspan1">Data source: Statistics Canada (2025) Canada Mortgage and Housing Corporation. Table: 34-10-0126-01
 </tspan><tspan
            x="0"
            y="10"
-           id="tspan5">Note: Estimated household counts for non-census years were calculated via weighted linear interpolation using census </tspan><tspan
+           id="tspan2">Note: Estimated household counts for non-census years were calculated via weighted linear interpolation using census </tspan><tspan
            x="0"
-           y="20"
-           id="tspan6">counts and annual population.</tspan></text>
+           y="19.999999"
+           id="tspan3">counts and annual population.</tspan></text>
     </g>
     <g
        id="g103">
@@ -408,7 +422,8 @@
          id="text99"><tspan
            x="0"
            y="0"
-           id="tspan99">0</tspan></text>
+           id="tspan99"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">0</tspan></text>
       <text
          transform="translate(21.06,164.46)"
          font-family="OpenSans-Bold, 'Open Sans'"
@@ -417,7 +432,8 @@
          id="text100"><tspan
            x="0"
            y="0"
-           id="tspan100">100</tspan></text>
+           id="tspan100"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">100</tspan></text>
       <text
          transform="translate(21.06,106.999)"
          font-family="OpenSans-Bold, 'Open Sans'"
@@ -426,7 +442,8 @@
          id="text101"><tspan
            x="0"
            y="0"
-           id="tspan101">200</tspan></text>
+           id="tspan101"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">200</tspan></text>
       <text
          transform="translate(21.06,49.538)"
          font-family="OpenSans-Bold, 'Open Sans'"
@@ -435,10 +452,8 @@
          id="text103"><tspan
            x="0"
            y="0"
-           id="tspan102">300 housing starts</tspan><tspan
-           x="0"
-           y="9.6000004"
-           id="tspan103">per 10K households</tspan></text>
+           id="tspan102"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">300 housing startsper 10K households</tspan></text>
     </g>
     <g
        id="g109"

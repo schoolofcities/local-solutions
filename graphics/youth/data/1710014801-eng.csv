@@ -1,0 +1,35 @@
+﻿"Population estimates, July 1, by census metropolitan area and census agglomeration, 2021 boundaries 1 2 3 4 5 6 7"
+"Frequency: Annual"
+"Table: 17-10-0148-01"
+"Release date: 2025-01-16"
+"Geography: Canada, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+""
+""
+
+"Gender","Total - gender",,,,,,,,,,,,,,,,,,,,
+"Age group 8","All ages","0 to 4 years","5 to 9 years","10 to 14 years","15 to 19 years","20 to 24 years","25 to 29 years","30 to 34 years","35 to 39 years","40 to 44 years","45 to 49 years","50 to 54 years","55 to 59 years","60 to 64 years","65 to 69 years","70 to 74 years","75 to 79 years","80 to 84 years","85 to 89 years","90 years and older","Median age"
+"Geography","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024","2024"
+,"Persons",,,,,,,,,,,,,,,,,,,,"Years"
+"Canada","41,288,599","1,873,533","2,155,845","2,235,131","2,315,434","2,744,222","3,042,351","3,152,014","2,955,034","2,800,440","2,541,391","2,446,595","2,493,717","2,712,771","2,442,561","1,972,708","1,532,797","960,179","554,453","357,423","40.3"
+"All census metropolitan areas and census agglomerations, Canada","34,958,433","1,561,100","1,801,575","1,869,111","1,962,537","2,438,235","2,724,844","2,777,649","2,585,919","2,432,890","2,187,486","2,076,972","2,068,859","2,184,542","1,938,911","1,567,816","1,231,392","782,782","461,741","304,072","39.5"
+"All census metropolitan areas, Canada","30,893,239","1,381,798","1,590,692","1,650,354","1,743,515","2,204,224","2,470,074","2,505,964","2,321,807","2,175,289","1,949,371","1,845,668","1,822,850","1,888,051","1,653,055","1,328,760","1,042,548","663,318","394,330","261,571","39.1"
+"All census agglomerations, Canada","4,065,194","179,302","210,883","218,757","219,022","234,011","254,770","271,685","264,112","257,601","238,115","231,304","246,009","296,491","285,856","239,056","188,844","119,464","67,411","42,501","43.5"
+"All areas outside census metropolitan areas and census agglomerations, Canada","6,330,166","312,433","354,270","366,020","352,897","305,987","317,507","374,365","369,115","367,550","353,905","369,623","424,858","528,229","503,650","404,892","301,405","177,397","92,712","53,351","45.6"
+
+
+
+
+Footnotes:
+1,"Population estimates based on the Standard Geographical Classification (SGC) 2021 as delineated in the 2021 Census."
+2,"A census metropolitan area (CMA) or a census agglomeration (CA) is formed by one or more adjacent municipalities centred on a population centre (known as the core). A CMA must have a total population of at least 100,000, based on data from the current Census of Population Program, of which 50,000 or more must live in the core based on adjusted data from the previous Census of Population Program. A CA must have a core population of at least 10,000 also based on data from the previous Census of Population Program. To be included in the CMA or CA, other adjacent municipalities must have a high degree of integration with the core, as measured by commuting flows derived from data on place of work from the previous Census Program. If the population of the core of a CA falls below 10,000, the CA is retired from the next census. However, once an area becomes a CMA, it is retained as a CMA even if its total population declines below 100,000 or the population of its core falls below 50,000. All areas inside the CMA or CA that are not population centres are rural areas. When a CA has a core of at least 50,000, based on data from the previous Census of Population, it is subdivided into census tracts. Census tracts are maintained for the CA even if the population of the core subsequently falls below 50,000. All CMAs are subdivided into census tracts (2021 Census Dictionary, catalogue number 98-301-X2021001)."
+3,"An area outside census metropolitan areas and census agglomerations is made up of all areas (within a province or territory) unallocated to a census metropolitan area (CMA) or census agglomeration (CA)."
+4,"Postcensal estimates are based on the latest census counts adjusted for census net undercoverage (including adjustment for incompletely enumerated reserves and settlements) and for the estimated population growth that occurred since that census. Intercensal estimates are based on postcensal estimates and census counts adjusted of the censuses preceding and following the year in consideration."
+5,"Population estimates as of July 1 are final intercensal up to 2020, final postcensal for 2021, updated postcensal for 2022 and 2023, and preliminary postcensal for 2024."
+6,"The population growth, which is used to calculate population estimates of census metropolitan areas and census agglomerations (table 17100148), is comprised of the components of population growth (table 17100149)."
+7,"This table replaces table 17100135."
+8,"Age on July 1."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0148-01  Population estimates, July 1, by census metropolitan area and census agglomeration, 2021 boundaries"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801
