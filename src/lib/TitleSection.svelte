@@ -10,7 +10,7 @@
 <div class="container {Subtitle ? "has-subtitle" : ""}">
     <div class="content">
         <div class="title-section">
-            <h2 class="title {Title.length > 25 ? "long" : ""}">
+            <h2 class="title {Title.length > 25 ? "long" : ""} {Title.split(' ').some((word) => word.length >= 10) ? "med" : ""}">
                 {Title.toUpperCase()}
             </h2>
             {#if Subtitle}
@@ -120,6 +120,10 @@
             font-size: 50px;
         }
 
+        .title.med {
+            font-size: 55px;
+        }
+
         .has-subtitle .title {
             font-size: 40px;
         }
@@ -207,6 +211,10 @@
     }
 
     @media (max-width: 880px) {
+        .title.med {
+            font-size: 40px;
+        }
+
         .title.long {
             font-size: 30px;
         }
@@ -310,7 +318,7 @@
     }
 
 
-    @media (max-width: 650px) {
+    @media (max-width: 700px) {
         .container {
             padding-bottom: calc(150px + 15px);
         }
