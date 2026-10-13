@@ -51,7 +51,7 @@
         {:else if style == "grid"}
             <div class="grid-circles" style="--numCircles: {items.length};">
                 {#each items as item, i}
-                    <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" target="_blank" class="node-link">
+                    <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" class="node-link">
                         <div class="node" style="background-color: {item.colour};">
                             {item.label}
                         </div>
