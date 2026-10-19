@@ -1271,14 +1271,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d9d9d9"
      showgrid="false"
-     inkscape:zoom="0.7664175"
-     inkscape:cx="331.41206"
-     inkscape:cy="457.97493"
-     inkscape:window-width="1150"
-     inkscape:window-height="1000"
-     inkscape:window-x="-7"
-     inkscape:window-y="7"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.54193901"
+     inkscape:cx="216.81406"
+     inkscape:cy="307.23014"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g1"
      inkscape:document-units="in">
     <inkscape:grid
@@ -1298,6 +1298,13 @@
   </sodipodi:namedview>
   <g
      id="g1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect30"
+       width="983.50543"
+       height="893.08936"
+       x="-171.60602"
+       y="-86.725616" />
     <g
        clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwzNjAuMDA=)"
        id="g3"
@@ -2270,20 +2277,20 @@
        id="text48"
        x="434.79236"
        y="81.975533"
-       style="font-size:16px;text-align:end;text-anchor:end;white-space:pre;inline-size:234.931;display:inline;fill:#ab2069;stroke-width:1.33333"
+       style="font-size:16px;text-align:end;text-anchor:end;white-space:pre;inline-size:234.931;display:inline;fill:#2692b1;stroke-width:1.33333;fill-opacity:1"
        transform="translate(-171.86567,-14.276296)"
        xml:space="preserve"><tspan
          x="434.79236"
          y="81.975533"
-         id="tspan3"><tspan
-           style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#007fa3"
-           id="tspan1">Voter turnout during 2025
+         id="tspan15"><tspan
+           style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan2">Voter turnout during 2025
 </tspan></tspan><tspan
          x="434.79236"
          y="101.97553"
-         id="tspan5"><tspan
+         id="tspan17"><tspan
            style="font-weight:bold"
-           id="tspan4">federal general election**</tspan></tspan></text>
+           id="tspan16">federal general election**</tspan></tspan></text>
     <text
        transform="rotate(0.17)"
        font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
@@ -2309,26 +2316,26 @@
        xml:space="preserve"><tspan
          x="28.800001"
          y="618.08051"
-         id="tspan6">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election </tspan><tspan
+         id="tspan18">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election </tspan><tspan
          x="28.800001"
          y="631.41386"
-         id="tspan9">reform&quot;, CBC News (2026); Elections Prince Edward Island (2022); Halifax Regional Municipality (2024); &quot;Shawn Crossman </tspan><tspan
+         id="tspan19">reform&quot;, CBC News (2026); Elections Prince Edward Island (2022); Halifax Regional Municipality (2024); &quot;Shawn Crossman </tspan><tspan
          x="28.800001"
          y="644.74723"
-         id="tspan10">is Moncton’s new mayor&quot;, TJ News (2026); Élections Québec (2025); City of Toronto (2022); City of Winnipeg (2022); &quot;Regina </tspan><tspan
+         id="tspan20">is Moncton’s new mayor&quot;, TJ News (2026); Élections Québec (2025); City of Toronto (2022); City of Winnipeg (2022); &quot;Regina </tspan><tspan
          x="28.800001"
          y="658.08061"
-         id="tspan11">municipal votes up more than 11,000 from last election for overall turnout of 26%&quot;, CBC (2024); Elections Calgary (2025); </tspan><tspan
+         id="tspan21">municipal votes up more than 11,000 from last election for overall turnout of 26%&quot;, CBC (2024); Elections Calgary (2025); </tspan><tspan
          x="28.800001"
          y="671.41398"
-         id="tspan12">CivicInfo BC (2022); City of Whitehorse (2024); City of Yellowknife (2022); Elections Nunavut (2022). 
+         id="tspan22">CivicInfo BC (2022); City of Whitehorse (2024); City of Yellowknife (2022); Elections Nunavut (2022). 
 </tspan><tspan
          x="28.800001"
          y="684.74735"
-         id="tspan13">Municipal election data collected as of October 13, 2026. **Federal election voter turnout was calculated as the mean </tspan><tspan
+         id="tspan23">Municipal election data collected as of October 13, 2026. **Federal election voter turnout was calculated as the mean </tspan><tspan
          x="28.800001"
          y="698.08073"
-         id="tspan14">voter turnout for all federal electoral districts within the municipality. </tspan></text>
+         id="tspan24">voter turnout for all federal electoral districts within the municipality. </tspan></text>
     <g
        id="g2"
        inkscape:label="OLD CHART"
@@ -3090,6 +3097,6 @@
          sodipodi:role="line"
          id="tspan64"
          x="369.96783"
-         y="597.85327"></tspan></text>
+         y="597.85327" /></text>
   </g>
 </svg>

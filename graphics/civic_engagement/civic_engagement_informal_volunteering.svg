@@ -508,9 +508,9 @@
      inkscape:cx="326.92188"
      inkscape:cy="271.19091"
      inkscape:window-width="1920"
-     inkscape:window-height="1111"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg59"
      showgrid="false"
@@ -530,6 +530,13 @@
        enabled="true"
        visible="false" />
   </sodipodi:namedview>
+  <rect
+     style="fill:#ffffff;stroke-width:0.75"
+     id="rect8"
+     width="647.87262"
+     height="427.68549"
+     x="-72.400505"
+     y="-48.5158" />
   <rect
      id="rect38-7-0"
      x="0"
@@ -608,16 +615,16 @@
      transform="translate(0,1.5833471)"><tspan
        x="21.111296"
        y="45.389286"
-       id="tspan8"><tspan
+       id="tspan4"><tspan
          style="font-style:italic"
-         id="tspan7">Individuals who helped someone or their community living outside of their household, on </tspan></tspan><tspan
+         id="tspan3">Individuals who helped someone or their community living outside of their household, on </tspan></tspan><tspan
        x="21.111296"
        y="59.139286"
-       id="tspan11"><tspan
+       id="tspan12"><tspan
          style="font-style:italic"
-         id="tspan9">their own and not on behalf of </tspan><tspan
+         id="tspan5">their own and not on behalf of </tspan><tspan
          style="font-style:italic"
-         id="tspan10">a group or organization. </tspan></tspan></text>
+         id="tspan6">a group or organization. </tspan></tspan></text>
   <g
      class="svglite"
      id="g26"

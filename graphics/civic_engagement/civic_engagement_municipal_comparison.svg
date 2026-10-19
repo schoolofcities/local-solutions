@@ -560,14 +560,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1.4142136"
-     inkscape:cx="354.26049"
+     inkscape:cx="354.96759"
      inkscape:cy="176.42314"
      inkscape:window-width="1920"
-     inkscape:window-height="1111"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g31"
+     inkscape:current-layer="svg59"
      showgrid="false"
      showguides="false">
     <inkscape:grid
@@ -585,6 +585,14 @@
        enabled="true"
        visible="false" />
   </sodipodi:namedview>
+  <rect
+     style="fill:#ffffff;stroke-width:0.75"
+     id="rect14"
+     width="512.82916"
+     height="331.98663"
+     x="-8.0523825"
+     y="-43.396015"
+     transform="translate(-0.96322829,28.016442)" />
   <g
      id="Layer_6"
      data-name="Layer 6">
@@ -624,13 +632,13 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan2">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
+             id="tspan7">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
              x="0"
              y="10"
-             id="tspan3">CBC News (2026); Élections Québec (2025); Elections Calgary (2025). **Federal election voter turnout was calculated as the </tspan><tspan
+             id="tspan19">CBC News (2026); Élections Québec (2025); Elections Calgary (2025). **Federal election voter turnout was calculated as the </tspan><tspan
              x="0"
              y="19.999999"
-             id="tspan8">weighted average voter turnout for all federal electoral districts within the municipality.</tspan></text>
+             id="tspan20">weighted average voter turnout for all federal electoral districts within the municipality.</tspan></text>
       </g>
     </g>
     <rect
@@ -1312,10 +1320,10 @@
                xml:space="preserve"><tspan
                  x="0"
                  y="0"
-                 id="tspan11">80% of eligible </tspan><tspan
+                 id="tspan26">80% of eligible </tspan><tspan
                  x="0"
                  y="12.5"
-                 id="tspan15">voters</tspan></text>
+                 id="tspan27">voters</tspan></text>
             <text
                transform="translate(251.923,97.956)"
                fill="#6d6e71"
@@ -1407,12 +1415,12 @@
      transform="translate(201.6541,-107.657)"><tspan
        x="63.428215"
        y="341.39227"
-       id="tspan16">Montreal,<tspan
+       id="tspan28">Montreal,<tspan
    y="341.39227"
-   id="tspan17"> </tspan></tspan><tspan
+   id="tspan29"> </tspan></tspan><tspan
        x="63.428215"
        y="357.64226"
-       id="tspan21">Quebec</tspan></text>
+       id="tspan30">Quebec</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:73.8234;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.75"
@@ -1422,11 +1430,11 @@
      transform="translate(173.28925,-107.92217)"><tspan
        x="210.23029"
        y="341.8446"
-       id="tspan22">Calgary,
+       id="tspan31">Calgary,
 </tspan><tspan
        x="210.23029"
        y="358.0946"
-       id="tspan23">Alberta</tspan></text>
+       id="tspan34">Alberta</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:180.837;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.75"
@@ -1436,9 +1444,9 @@
      transform="translate(25.054193,-2.03033)"><tspan
        x="121.08715"
        y="236.08363"
-       id="tspan24">St. John's, 
+       id="tspan35">St. John's, 
 </tspan><tspan
        x="121.08715"
        y="252.33364"
-       id="tspan25">New Brunswick</tspan></text>
+       id="tspan36">New Brunswick</tspan></text>
 </svg>

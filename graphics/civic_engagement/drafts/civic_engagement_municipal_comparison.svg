@@ -307,14 +307,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1.4142136"
-     inkscape:cx="351.78562"
+     inkscape:cx="352.49272"
      inkscape:cy="180.66578"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_6"
+     inkscape:current-layer="svg59"
      showgrid="false">
     <inkscape:grid
        id="grid1"
@@ -331,6 +331,13 @@
        enabled="true"
        visible="false" />
   </sodipodi:namedview>
+  <rect
+     style="fill:#ffffff;stroke-width:0.75"
+     id="rect8"
+     width="516.5415"
+     height="311.83408"
+     x="-7.4246211"
+     y="-5.8336306" />
   <g
      id="Layer_6"
      data-name="Layer 6">
@@ -370,17 +377,17 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan7">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
+             id="tspan2">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
              x="0"
              y="10"
-             id="tspan17">CBC News (2026); Élections Québec (2025); Elections Calgary (2025).
+             id="tspan3">CBC News (2026); Élections Québec (2025); Elections Calgary (2025).
 </tspan><tspan
              x="0"
              y="19.999999"
-             id="tspan21">Municipal election data collected as of October 13, 2026. **Federal election voter turnout was calculated as the mean voter </tspan><tspan
+             id="tspan11">Municipal election data collected as of October 13, 2026. **Federal election voter turnout was calculated as the mean voter </tspan><tspan
              x="0"
              y="29.999999"
-             id="tspan22">turnout for all federal electoral districts within the municipality.</tspan></text>
+             id="tspan15">turnout for all federal electoral districts within the municipality.</tspan></text>
       </g>
     </g>
     <rect
@@ -849,10 +856,10 @@
                xml:space="preserve"><tspan
                  x="0"
                  y="0"
-                 id="tspan23">80% of eligible </tspan><tspan
+                 id="tspan17">80% of eligible </tspan><tspan
                  x="0"
                  y="12.5"
-                 id="tspan24">voters</tspan></text>
+                 id="tspan21">voters</tspan></text>
             <text
                transform="translate(251.923,97.956)"
                fill="#6d6e71"
