@@ -513,14 +513,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="1.4210403"
-     inkscape:cx="343.05854"
-     inkscape:cy="236.79836"
-     inkscape:window-width="1108"
-     inkscape:window-height="1101"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="223.44574"
+     inkscape:cy="177.4838"
+     inkscape:window-width="1536"
+     inkscape:window-height="889"
      inkscape:window-x="-8"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg59"
      showgrid="false"
      showguides="false">
@@ -647,23 +647,23 @@
       <rect
          x="214.24001"
          y="13.06"
-         width="25.01"
+         width="24.755043"
          height="21.24"
-         style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         style="fill:#dc4633;fill-opacity:1;stroke:none;stroke-width:1.06453;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
          id="rect11" />
       <rect
-         x="239.25"
+         x="238.99504"
          y="13.06"
-         width="50.009998"
+         width="49.500183"
          height="21.24"
-         style="fill:#f1c500;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         style="fill:#f1c500;fill-opacity:1;stroke:none;stroke-width:1.06453;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
          id="rect12" />
       <rect
-         x="289.26001"
+         x="288.49524"
          y="13.06"
-         width="154.58"
+         width="153.00417"
          height="21.24"
-         style="fill:#007fa3;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         style="fill:#007fa3;fill-opacity:1;stroke:none;stroke-width:1.06453;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
          id="rect13" />
       <rect
          x="214.24001"
@@ -731,23 +731,23 @@
       <rect
          x="214.24001"
          y="134.41"
-         width="56.830002"
+         width="56.242142"
          height="21.24"
-         style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         style="fill:#dc4633;fill-opacity:1;stroke:none;stroke-width:1.06445;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
          id="rect23" />
       <rect
-         x="271.07001"
+         x="270.48215"
          y="134.41"
-         width="88.660004"
+         width="87.742889"
          height="21.24"
-         style="fill:#f1c500;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         style="fill:#f1c500;fill-opacity:1;stroke:none;stroke-width:1.06445;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
          id="rect24" />
       <rect
-         x="359.73001"
+         x="358.22504"
          y="134.41"
-         width="84.110001"
+         width="83.239952"
          height="21.24"
-         style="fill:#007fa3;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+         style="fill:#007fa3;fill-opacity:1;stroke:none;stroke-width:1.06445;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
          id="rect25" />
       <rect
          x="214.24001"
@@ -802,9 +802,9 @@
          id="text30">Social media posts by other users</text>
       <text
          x="5.48"
-         y="179.3"
+         y="174.15802"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text31">Other Internet sources</text>
+         id="text31">Other Internet sources (e.g., Google </text>
       <text
          x="5.48"
          y="148.96001"
@@ -828,8 +828,13 @@
       <text
          x="5.48"
          y="57.950001"
-         style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text36">Close contacts</text>
+         style="font-size:11px;font-family:'Open Sans';white-space:pre;inline-size:195.223;display:inline;fill:#333333"
+         id="text36"
+         transform="translate(0,-3.3587863)"
+         xml:space="preserve"><tspan
+           x="5.48"
+           y="57.950001"
+           id="tspan6">Close contacts (e.g., family, friends, </tspan></text>
       <text
          x="5.48"
          y="21.67"
@@ -840,18 +845,29 @@
          y="33.549999"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
          id="text38">journals</text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';writing-mode:lr-tb;direction:ltr;fill:#333333;fill-opacity:1;stroke-width:0.75"
+         x="5.8504062"
+         y="186.6281"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-weight:normal;stroke-width:0.75"
+           x="5.8504062"
+           y="186.6281">searches, online forums, podcasts)</tspan></text>
     </g>
   </g>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
-     x="440.81921"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
+     x="439.13983"
      y="66.890221"
      id="text39-3-1"><tspan
        sodipodi:role="line"
        id="tspan31-8-2"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
-       x="440.81921"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
+       x="439.13983"
        y="66.890221">68%</tspan></text>
   <g
      id="Layer_6"
@@ -880,7 +896,8 @@
        transform="translate(0,23.271698)">
       <g
          id="g2"
-         isolation="isolate">
+         isolation="isolate"
+         transform="translate(-3.7319848)">
         <text
            transform="translate(21.6,280.514)"
            fill="#999999"
@@ -890,7 +907,7 @@
            id="text2"><tspan
              x="0"
              y="0"
-             id="tspan2">Data source: Statistics Canada (2023) Survey Series on People and their Communities.</tspan></text>
+             id="tspan2">Data source: Statistics Canada (2023) Survey Series on People and their Communities. Percents rounded to nearest integer.</tspan></text>
       </g>
     </g>
     <rect
@@ -917,168 +934,168 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="237.25304"
      y="68.169456"
      id="text39"><tspan
        sodipodi:role="line"
        id="tspan31"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="237.25304"
        y="68.169456">11%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="286.90247"
      y="68.150627"
      id="text39-3"><tspan
        sodipodi:role="line"
        id="tspan31-8"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="286.90247"
        y="68.150627">22%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="454.83273"
      y="97.91069"
      id="text39-3-1-7"><tspan
        sodipodi:role="line"
        id="tspan31-8-2-8"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="454.83273"
        y="97.91069">56%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="246.88037"
      y="98.491554"
      id="text39-35"><tspan
        sodipodi:role="line"
        id="tspan31-1"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="246.88037"
        y="98.491554">8%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="327.65497"
      y="98.379425"
      id="text39-3-2"><tspan
        sodipodi:role="line"
        id="tspan31-8-0"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="327.65497"
        y="98.379425">36%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="454.35428"
      y="127.72382"
      id="text39-3-1-7-6"><tspan
        sodipodi:role="line"
        id="tspan31-8-2-8-4"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="454.35428"
        y="127.72382">50%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="278.06882"
      y="129.09636"
      id="text39-35-0"><tspan
        sodipodi:role="line"
        id="tspan31-1-6"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="278.06882"
        y="129.09636">22%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="341.16272"
      y="128.98424"
      id="text39-3-2-1"><tspan
        sodipodi:role="line"
        id="tspan31-8-0-8"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="341.16272"
        y="128.98424">28%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="455.09943"
      y="157.78716"
      id="text39-3-1-7-6-8"><tspan
        sodipodi:role="line"
        id="tspan31-8-2-8-4-4"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="455.09943"
        y="157.78716">47%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="275.38336"
      y="158.63191"
      id="text39-35-0-1"><tspan
        sodipodi:role="line"
        id="tspan31-1-6-4"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="275.38336"
        y="158.63191">21%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="347.71344"
      y="158.25591"
      id="text39-3-2-1-3"><tspan
        sodipodi:role="line"
        id="tspan31-8-0-8-9"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="347.71344"
        y="158.25591">32%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
-     x="457.23929"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
+     x="455.00009"
      y="188.3488"
      id="text39-3-1-7-6-8-8"><tspan
        sodipodi:role="line"
        id="tspan31-8-2-8-4-4-0"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
-       x="457.23929"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
+       x="455.00009"
        y="188.3488">37%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="284.12051"
      y="188.92967"
      id="text39-35-0-1-8"><tspan
        sodipodi:role="line"
        id="tspan31-1-6-4-7"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="284.12051"
        y="188.92967">25%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="307.46768"
      y="219.4877"
      id="text39-35-0-1-8-4"><tspan
        sodipodi:role="line"
        id="tspan31-1-6-4-7-9"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="307.46768"
        y="219.4877">35%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
-     x="373.33963"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
+     x="372.59323"
      y="188.28978"
      id="text39-3-2-1-3-7"><tspan
        sodipodi:role="line"
        id="tspan31-8-0-8-9-8"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
-       x="373.33963"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
+       x="372.59323"
        y="188.28978">39%</tspan></text>
   <text
      xml:space="preserve"
@@ -1093,57 +1110,68 @@
        y="219.15782">37%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="412.37061"
      y="219.73869"
      id="text39-35-0-1-8-7"><tspan
        sodipodi:role="line"
        id="tspan31-1-6-4-7-1"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="412.37061"
        y="219.73869">46%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="455.14487"
      y="219.0988"
      id="text39-3-2-1-3-7-0"><tspan
        sodipodi:role="line"
        id="tspan31-8-0-8-9-8-7"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="455.14487"
        y="219.0988">19%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="372.23254"
      y="249.61272"
      id="text39-35-0-1-8-4-5"><tspan
        sodipodi:role="line"
        id="tspan31-1-6-4-7-9-1"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="372.23254"
        y="249.61272">64%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="438.60739"
      y="249.86371"
      id="text39-35-0-1-8-7-0"><tspan
        sodipodi:role="line"
        id="tspan31-1-6-4-7-1-9"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="438.60739"
        y="249.86371">29%</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#007fa3;fill-opacity:1;stroke-width:0.75"
+     style="font-size:8.00002px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.75"
      x="455.52032"
      y="249.4877"
      id="text39-3-2-1-3-7-0-9"><tspan
        sodipodi:role="line"
        id="tspan31-8-0-8-9-8-7-6"
-       style="font-weight:bold;fill:#ffffff;stroke-width:0.75"
+       style="font-weight:bold;fill:#000000;stroke-width:0.75"
        x="455.52032"
        y="249.4877">7%</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';writing-mode:lr-tb;direction:ltr;fill:#333333;fill-opacity:1;stroke-width:0.75"
+     x="21.857691"
+     y="102.82701"
+     id="text3"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       style="font-weight:normal;fill:#333333;fill-opacity:1;stroke-width:0.75"
+       x="21.857691"
+       y="102.82701">colleagues)</tspan></text>
 </svg>

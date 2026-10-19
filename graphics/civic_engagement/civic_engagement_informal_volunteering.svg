@@ -5,7 +5,7 @@
    height="400.60001"
    viewBox="0 0 489.60002 300.45001"
    version="1.1"
-   sodipodi:docname="civic_engagement_volunteering.svg"
+   sodipodi:docname="civic_engagement_informal_volunteering.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="mental-health_opioid-charts.png"
    inkscape:export-xdpi="300"
@@ -313,6 +313,186 @@
          height="149.63"
          id="rect7-1" />
     </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-09">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-48" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8NDU1LjMyfDUuNDh8MTU1LjEx-8">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="149.63"
+         id="rect4-24" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-5">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1-51" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-7"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath3-1">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect3-1" />
+    </clipPath>
+    <clipPath
+       id="clipPath6-2">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="149.63"
+         id="rect6-7" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-8">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-08" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8NDU1LjMyfDUuNDh8MTU1LjEx-7">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="149.63"
+         id="rect4-78" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-38">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1-3" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath5-7">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect5-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath7-5">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="149.63"
+         id="rect7-10" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8NDU1LjMyfDUuNDh8MTU1LjEx-6">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="149.63"
+         id="rect4-8" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-3">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-484" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-99"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath3-2">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect3-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath5-53">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="149.63"
+         id="rect5-33" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview54"
@@ -325,8 +505,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1.0048272"
-     inkscape:cx="340.35703"
-     inkscape:cy="217.45032"
+     inkscape:cx="326.92188"
+     inkscape:cy="271.19091"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -419,15 +599,34 @@
        stroke-miterlimit="2.25"
        stroke-width="0.5" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:452.913;display:inline;fill:#000000;stroke-width:0.75"
+     x="21.111296"
+     y="45.389286"
+     id="text18"
+     transform="translate(0,1.5833471)"><tspan
+       x="21.111296"
+       y="45.389286"
+       id="tspan8"><tspan
+         style="font-style:italic"
+         id="tspan7">Individuals who helped someone or their community living outside of their household, on </tspan></tspan><tspan
+       x="21.111296"
+       y="59.139286"
+       id="tspan11"><tspan
+         style="font-style:italic"
+         id="tspan9">their own and not on behalf of </tspan><tspan
+         style="font-style:italic"
+         id="tspan10">a group or organization. </tspan></tspan></text>
   <g
      class="svglite"
-     id="g29"
-     transform="translate(6.0001242,77.139201)">
+     id="g26"
+     transform="translate(2.2704884,79.184985)">
     <defs
        id="defs2">
       <style
          type="text/css"
-         id="style2"><![CDATA[
+         id="style13"><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
       fill: none;
       stroke: #000000;
@@ -445,43 +644,32 @@
   ]]></style>
     </defs>
     <defs
-       id="defs5">
+       id="defs3">
       <clipPath
-         id="clipPath8">
+         id="clipPath13">
         <rect
            x="0"
            y="0"
            width="460.79999"
            height="180"
-           id="rect8" />
+           id="rect13" />
       </clipPath>
     </defs>
-    <g
-       clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-0)"
-       id="g3">
-      <rect
-         x="0"
-         y="0"
-         width="460.79999"
-         height="180"
-         style="fill:#ffffff;stroke:none;stroke-width:1.07;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
-         id="rect6-7" />
-    </g>
     <defs
        id="defs4">
       <clipPath
-         id="clipPath9">
+         id="clipPath14">
         <rect
            x="29.299999"
            y="5.48"
            width="426.01999"
            height="149.63"
-           id="rect9" />
+           id="rect14" />
       </clipPath>
     </defs>
     <g
-       clip-path="url(#cpMjkuMzB8NDU1LjMyfDUuNDh8MTU1LjEx)"
-       id="g13">
+       clip-path="url(#cpMjkuMzB8NDU1LjMyfDUuNDh8MTU1LjEx-6)"
+       id="g14">
       <polyline
          points="29.30,155.11 455.32,155.11 "
          style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
@@ -502,157 +690,119 @@
          points="29.30,12.60 455.32,12.60 "
          style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="polyline8" />
-      <rect
-         x="64.800003"
-         y="36.830002"
-         width="58.09"
-         height="118.28"
-         style="fill:#1e3765;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         id="rect10" />
-      <rect
-         x="129.35001"
-         y="35.400002"
-         width="58.09"
-         height="119.7"
-         style="fill:#1e3765;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         id="rect11" />
-      <rect
-         x="193.89999"
-         y="36.830002"
-         width="58.09"
-         height="118.28"
-         style="fill:#1e3765;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         id="rect12" />
-      <rect
-         x="258.45001"
-         y="38.25"
-         width="58.09"
-         height="116.85"
-         style="fill:#1e3765;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         id="rect13" />
-      <rect
-         x="323"
-         y="49.66"
-         width="58.09"
-         height="105.45"
-         style="fill:#1e3765;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         id="rect14" />
-      <rect
-         x="387.54001"
-         y="61.060001"
-         width="58.09"
-         height="94.050003"
-         style="fill:#1e3765;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         id="rect15" />
+      <polyline
+         points="68.75,36.83 127.92,35.40 187.09,36.83 246.26,38.25 344.87,49.66 443.49,61.06 "
+         style="fill:none;stroke:#007fa3;stroke-width:3.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+         id="polyline9" />
+      <circle
+         cx="68.75"
+         cy="36.830002"
+         r="4.2600002"
+         style="fill:#ffffff;stroke:#007fa3;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="circle9" />
+      <circle
+         cx="127.92"
+         cy="35.400002"
+         r="4.2600002"
+         style="fill:#ffffff;stroke:#007fa3;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="circle10" />
+      <circle
+         cx="187.09"
+         cy="36.830002"
+         r="4.2600002"
+         style="fill:#ffffff;stroke:#007fa3;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="circle11" />
+      <circle
+         cx="246.25999"
+         cy="38.25"
+         r="4.2600002"
+         style="fill:#ffffff;stroke:#007fa3;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="circle12" />
+      <circle
+         cx="344.87"
+         cy="49.66"
+         r="4.2600002"
+         style="fill:#ffffff;stroke:#007fa3;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="circle13" />
+      <circle
+         cx="443.48999"
+         cy="61.060001"
+         r="4.2600002"
+         style="fill:#ffffff;stroke:#007fa3;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="circle14" />
     </g>
     <g
-       clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-0)"
-       id="g28">
+       clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-3)"
+       id="g25">
       <text
-         x="29.75799"
+         x="30.813553"
          y="151.17999"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text13">0%</text>
+         id="text14">0%</text>
       <text
-         x="29.75799"
+         x="30.813553"
          y="115.55"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text14">25%</text>
+         id="text15">25%</text>
       <text
-         x="29.75799"
+         x="30.813553"
          y="79.93"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text15">50%</text>
+         id="text16">50%</text>
       <text
-         x="29.75799"
+         x="30.813553"
          y="44.299999"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text16">75%</text>
+         id="text17">75%</text>
       <text
-         x="29.75799"
+         x="30.813553"
          y="8.6800003"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text17">100%</text>
+         id="text18-7">100%</text>
       <polyline
          points="29.30,155.11 455.32,155.11 "
          style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
-         id="polyline17" />
-      <polyline
-         points="93.85,159.09 93.85,155.11 "
-         style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="polyline18" />
       <polyline
-         points="158.40,159.09 158.40,155.11 "
+         points="88.47,159.09 88.47,155.11 "
          style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="polyline19" />
       <polyline
-         points="222.95,159.09 222.95,155.11 "
+         points="187.09,159.09 187.09,155.11 "
          style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="polyline20" />
       <polyline
-         points="287.49,159.09 287.49,155.11 "
+         points="285.70,159.09 285.70,155.11 "
          style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="polyline21" />
       <polyline
-         points="352.04,159.09 352.04,155.11 "
+         points="384.32,159.09 384.32,155.11 "
          style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="polyline22" />
-      <polyline
-         points="416.59,159.09 416.59,155.11 "
-         style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
-         id="polyline23" />
       <text
-         x="93.849998"
+         x="88.470001"
          y="171.88"
          text-anchor="middle"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text23">2004</text>
+         id="text22">2005</text>
       <text
-         x="158.39999"
+         x="187.09"
          y="171.88"
          text-anchor="middle"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text24">2007</text>
+         id="text23">2010</text>
       <text
-         x="222.95"
+         x="285.70001"
          y="171.88"
          text-anchor="middle"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text25">2010</text>
+         id="text24">2015</text>
       <text
-         x="287.48999"
+         x="384.32001"
          y="171.88"
          text-anchor="middle"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text26">2013</text>
-      <text
-         x="352.04001"
-         y="171.88"
-         text-anchor="middle"
-         style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text27">2018</text>
-      <text
-         x="416.59"
-         y="171.88"
-         text-anchor="middle"
-         style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text28">2023</text>
+         id="text25">2020</text>
     </g>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:408.9;display:inline;fill:#000000;stroke-width:0.75"
-     x="21.111296"
-     y="45.389286"
-     id="text18"><tspan
-       x="21.111296"
-       y="45.389286"
-       id="tspan4"><tspan
-         style="font-style:italic"
-         id="tspan3">Individuals who helped someone or their community on their own, not on behalf of </tspan></tspan><tspan
-       x="21.111296"
-       y="59.139286"
-       id="tspan6"><tspan
-         style="font-style:italic"
-         id="tspan5">a group or organization</tspan></tspan></text>
 </svg>
