@@ -20,31 +20,38 @@
     class="toggle-wrapper"
     onmouseenter={() => hoveredToggle = true}
     onmouseleave={() => hoveredToggle = false}
-    onclick={() => {
-        if (dropdown) {
-            clickedToggle = !clickedToggle;
-            hoveredToggle = false;
-        }
-    }}
-    onkeyup={(key) => {
-        clickedToggle = !clickedToggle;
-    }}
     role="button"
     tabindex=0
 >
     {#if dropdown}
-        <button class="desktop-button" class:hovered={hoveredToggle || clickedToggle}>
+        <button class="desktop-button" class:hovered={hoveredToggle || clickedToggle} 
+            onclick={() => {
+                if (dropdown) {
+                    clickedToggle = !clickedToggle;
+                    hoveredToggle = false;
+                }
+            }}
+            onkeyup={(key) => {
+                clickedToggle = !clickedToggle;
+            }}
+            tabindex=0
+        >
             {content} 
             <div class="chevron {clickedToggle ? "rotated" : ""}">
                 <ChevronDown/>
             </div>
         </button>
         <ul class="dropdown-section" style:display={(clickedToggle || hoveredToggle) ? "grid" : "none"} style:right={rightOverflow ? "calc(max(-40px, -3dvw))" : "0"}
-            // onmouseenter={() => hoveredToggle = true}
-            // onmouseleave={() => hoveredToggle = false}
             >
             {#each dropdownValues as value}
-                <a href={value.link}>
+                <a href={value.link} 
+                    onclick={() => {
+                        clickedToggle = false;
+                    }}
+                    onkeyup={(key) => {
+                        clickedToggle = false;
+                    }}
+                >
                     <li>{value.label}</li>
                 </a>
             {/each}
