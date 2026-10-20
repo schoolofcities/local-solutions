@@ -13,6 +13,8 @@
         items.push({"label": key, "colour": chapterColours[key]})
     })
 
+    console.log("items", items);
+
     let angleStep = $derived(360 / items.length);
     const orbitRadius = 30; 
 </script>
@@ -28,19 +30,18 @@
             <img src={Logo} alt="School of Cities logo" class="logo"/>
         </a>
     </div>
-    <div class="orbit-container" class:circle={style == "circle"}>
+    <div class="orbit-container" class:circle={style == "circle"} style="--numCircles: {items.length};">
         {#if style == "circle"}
             <div class="instructions center">
                 <h2>A nation of place-based solutions</h2>
                 <h3>Click a category to learn more!</h3>
             </div>
             {#each items as item, i}
-            <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" target="_blank" class="node-link">
+            <a href="./category/{item.label.toLowerCase().replaceAll(" ", "-")}" target="_blank" class="node-link">
                 <div
                 class="node in-circle"
                 style="
                     --angle: {(i * angleStep) - 90}deg;
-                    --numCircles: {items.length};
                     background-color: {item.colour};
                 "
                 >
@@ -49,9 +50,9 @@
             </a>
             {/each}
         {:else if style == "grid"}
-            <div class="grid-circles" style="--numCircles: {items.length};">
+            <div class="grid-circles">
                 {#each items as item, i}
-                    <a href="./category/{item.label.toLowerCase().replace(" ", "-")}" class="node-link">
+                    <a href="./category/{item.label.toLowerCase().replaceAll(" ", "-")}" class="node-link">
                         <div class="node" style="background-color: {item.colour};">
                             {item.label}
                         </div>
@@ -116,6 +117,7 @@
     }
 
     .orbit-container {
+        --node-size: calc(2 * var(--circle-container) / var(--numCircles));
         position: relative;
         padding-top: 30px;
         width: var(--circle-container);
@@ -126,7 +128,8 @@
     }
 
     .instructions {
-        width: calc(var(--circle-container)/3); 
+        --node-size: calc(2 * var(--circle-container) / var(--numCircles) - 10px);
+        width: calc(var(--node-size) * 1.25); 
         border-radius: 50%;
         display: flex;
         flex-direction: column;
@@ -150,12 +153,12 @@
 
     .instructions h2 {
         font-family: TradeGothicBoldOblique;
-        font-size: 3dvh;
+        font-size: clamp(9px, calc(var(--node-size) * 0.18), 3dvh);
     }
 
     .instructions h3 {
         font-family: TradeGothicLTLightOblique;
-        font-size: 2.75dvh;
+        font-size: clamp(9px, calc(var(--node-size) * 0.16), 3dvh);
     }
 
     .grid-circles {
@@ -173,8 +176,10 @@
     }
 
     .node {
-        width: calc(2*var(--circle-container)/var(--numCircles) - 10px); 
-        height: calc(2*var(--circle-container)/var(--numCircles) - 10px);
+        --node-size: calc(2 * var(--circle-container) / var(--numCircles) - 10px);
+        width: var(--node-size);
+        height: var(--node-size);
+        font-size: clamp(9px, calc(var(--node-size) * 0.18), 3dvh);
         border-radius: 50%;
         display: flex;
         align-items: center;
@@ -184,12 +189,12 @@
         padding: 8px;
         box-sizing: border-box;
         font-family: TradeGothicBold;
-        font-size: 3dvh;
     }
 
     .node.in-circle {
-        width: calc(2*var(--circle-container)/var(--numCircles)); 
-        height: calc(2*var(--circle-container)/var(--numCircles));
+        --node-size: calc(2 * var(--circle-container) / var(--numCircles));
+        width: var(--node-size);
+        height: var(--node-size);
         position: absolute;
         top: 50%; left: 50%;
         transform:
@@ -237,17 +242,6 @@
             font-size: 4dvw;
         }
 
-        .node {
-            font-size: 2.5dvw;
-        }
-
-        .instructions h2 {
-            font-size: 2.5dvw;
-        }
-
-        .instructions h3 {
-            font-size: 2.25dvw;
-        }
 
         .left {
             width: calc(92dvw - var(--circle-container));
@@ -323,18 +317,6 @@
         .center h3 {
             font-family: TradeGothicLTLight;
             font-size: 4dvw;
-        }
-
-        .instructions h2 {
-            font-size: 3.5dvw;
-        }
-
-        .instructions h3 {
-            font-size: 3dvw;
-        }
-
-        .node {
-            font-size: 3.5dvw;
         }
 
         .orbit-container {
