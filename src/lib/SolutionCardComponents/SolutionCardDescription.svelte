@@ -30,16 +30,34 @@
         {@html parseMarkdown(Summary)}
     </div>
     <div id="buttons">
-        <button 
+        <!-- <button 
             class="show-more-less chevron {descriptionExpanded ? "rotated" : ""}"
             onclick={toggleExpanded}
             style:color="black">
             <ChevronDown/>
         </button>
         {#if Spotlighted}
-                <a href={spotlightedURL(Chapter[0], Project, ID_Num)} class="star-button">  
-                    <Star fill="var(--brandYellow)" width="40px"/>
-                </a>
+        {/if} -->
+        {#if Spotlighted}
+            <a href={spotlightedURL(Chapter[0], Project, ID_Num)}
+                aria-label="Read more about {Project}, opens new page"
+                class="show-more-less"
+                style:color="black"
+                style:padding-bottom="10px">
+                Read more
+            </a>
+            <div class="star-button">  
+                <Star fill="var(--brandYellow)" width="40px"/>
+            </div>
+        {:else}
+            <button 
+                class="show-more-less"
+                aria-label="Read more about {Project}, expands description"
+                onclick={toggleExpanded}
+                style:color="black"
+                style:padding-bottom="10px">
+                { descriptionExpanded ? "Show less" : "Read more" }
+            </button>
         {/if}
     </div>
 </div>
@@ -72,13 +90,6 @@
         position: absolute;
         right: 0;
         transition: transform 0.2s ease;
-    }
-
-    .star-button:hover {
-        opacity: 60%;
-        transform: 
-            scale(1.2);
-
     }
 
     :global(.summary p) {

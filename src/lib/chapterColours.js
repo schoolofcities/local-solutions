@@ -5,8 +5,8 @@ export const chapterColours = {
   "Health and well-being":            "#007FA3", // --brandMedBlue
   "Climate change":                   "#0D534D", // --brandDarkGreen
   "Civic engagement":                 "#DC4633", // --brandRed
-  "Youth":                            "#8DBF2E", // --brandLightGreen
-  "Abundant local food":              "#EBA00F", // --brandMedGreen
+  "Youth":                            "#1E3765", // --brandLightGreen
+  "Abundant local food":              "#8DBF2E", // --brandMedGreen
   "Local economies":                  "#00A189", // --brandMedGreen
 };
 
