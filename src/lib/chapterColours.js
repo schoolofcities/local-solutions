@@ -1,21 +1,27 @@
 export const chapterColours = {
   "Shared spaces":                    "#6D247A", // --brandPurple
   "Small businesses":                 "#6FC7EA", // --brandLightBlue
-  "Mental health":                    "#007FA3", // --brandMedBlue
   "Housing":                          "#AB1368", // --brandPink
+  "Health and well-being":            "#007FA3", // --brandMedBlue
   "Climate change":                   "#0D534D", // --brandDarkGreen
   "Civic engagement":                 "#DC4633", // --brandRed
+  "Youth":                            "#1E3765", // --brandLightGreen
+  "Abundant local food":              "#8DBF2E", // --brandMedGreen
+  "Local economies":                  "#00A189", // --brandMedGreen
+  "Mental health":                    "#007FA3", // PLACEHOLDER
   "Community prosperity":             "#00A189", // --brandMedGreen
 };
 
 export const pdfPaths = {
   "Shared spaces":                    "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-2-Shared-Spaces-Dec-2025.pdf", 
   "Small businesses":                 "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-3-Small-Businesses-Dec-2025.pdf", 
-  "Mental health":                    "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-4-Mental-Health-Dec-2025.pdf", 
+  "Health and well-being":            "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-4-Mental-Health-Dec-2025.pdf", 
   "Housing":                          "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-5-Housing-FINAL-Dec-2025.pdf", 
   "Climate change":                   "https://schoolofcities.utoronto.ca/wp-content/uploads/2026/02/print-ready-Learning-From-What-Works-6.-Climate-Change-FINAL-Dec-2025.pdf", 
   "Civic engagement":                 "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
-  "Community prosperity":             "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
+  "Youth":                            "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
+  "Abundant local food":              "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
+  "Local economies":                  "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
   "Scaling social innovation":        "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-1-Scaling-Social-Innovation-Dec-2025.pdf"
 };
 
@@ -52,7 +58,7 @@ export function slugify(text) {
 };
 
 export function unSlugify(text) {
-  let label = text.replace("-", " ");
+  let label = text.replaceAll("-", " ");
   return label.charAt(0).toUpperCase() + label.slice(1);
 };
 

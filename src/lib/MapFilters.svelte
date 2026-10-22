@@ -65,7 +65,6 @@
         selectedMunicipalities = [...pendingMunicipalities];
         selectedTags = [...pendingTags];
         selectedChapters = pendingChapters ? { ...pendingChapters } : {};
-        console.log(totalProvinceCounts);
         onApply();
     }
 

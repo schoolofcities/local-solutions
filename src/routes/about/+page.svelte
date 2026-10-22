@@ -12,6 +12,7 @@
     const contributors = [
         {name: "Karen Chapple", role: "Project Director"},
         {name: "Kathryn J. Exon Smith", role: "Series editor, Research and writing"},
+        {name: "Priya Perwani", role: "Series editor, Research and writing"},
         {name: "An Pham", role: "Research and writing"},
         {name: "Sarah A. Smith", role: "Research and writing"},
         {name: "Anika Reisha Taboy", role: "Research and writing"},
@@ -19,7 +20,7 @@
         {name: "Jeff Allen", role: "Data visuals"},
         {name: "Isabeaux Graham", role: "Data visuals"},
         {name: "Tony Chang", role: "Design"},
-        {name: "Mieko Yao", role: "Web design and development"},
+        {name: "Mieko Yao", role: "Web design and development, Data visuals"},
     ]
 
     const additionalContributors = [

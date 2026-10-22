@@ -22,3 +22,4 @@ vite.config.ts.timestamp-*
 
 .ipynb_checkpoints/
 __pycache__/
+static/web-assets/svg-convert

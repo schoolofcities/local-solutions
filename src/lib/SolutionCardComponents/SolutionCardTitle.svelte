@@ -27,9 +27,7 @@
 </script>
 
 <div class="title-container"
-    style={Card_Thumbnail ? 
-        "display: grid; grid-template-columns: 55% 45%" : 
-        ""}>
+    style={"display: grid; grid-template-columns: 55% 45%"}>
     <div class="card-title-section"> 
         <div style="width: 100%">
             {#if Spotlighted}
@@ -59,6 +57,8 @@
         }}>
             <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
         </button>
+    {:else}
+        <img src={`${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter[0]}.png`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
     {/if}
 
     {#if showImageViewer}

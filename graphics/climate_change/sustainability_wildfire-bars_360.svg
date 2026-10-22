@@ -6,7 +6,7 @@
    height="451.19998"
    viewBox="0 0 269.99999 338.4"
    version="1.1"
-   sodipodi:docname="sustainability_wildfire-bars_colors_reduced_360.svg"
+   sodipodi:docname="sustainability_wildfire-bars_360.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.7885639"
-     inkscape:cx="146.48624"
-     inkscape:cy="256.35092"
+     inkscape:cx="107.06914"
+     inkscape:cy="398.9234"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6" />
+     inkscape:current-layer="Layer_1" />
   <defs
      id="defs119" />
   <g
@@ -89,7 +89,7 @@
   </g>
   <g
      id="g3"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path109"
        d="m 408.69,293.08 h 13.53 v -23.34 h -13.53 z"
@@ -105,7 +105,7 @@
   </g>
   <g
      id="g4"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path110"
        d="m 392.44,293.08 h 13.53 V 230.4 h -13.53 z"
@@ -121,7 +121,7 @@
   </g>
   <g
      id="g5"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path110-2"
        d="m 441.2,293.08 h 13.53 V 208.26 H 441.2 Z"
@@ -137,7 +137,7 @@
   </g>
   <g
      id="g6"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path111"
        d="m 377.31,293.08 h 11.28 v -3.43 h -11.28 z"
@@ -152,7 +152,7 @@
   </g>
   <g
      id="g7"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path112"
        d="m 359.93,293.08 h 13.53 v -25.63 h -13.53 z"
@@ -168,7 +168,7 @@
   </g>
   <g
      id="g8"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path113"
        d="m 343.68,293.08 h 13.53 v -29.82 h -13.53 z"
@@ -184,7 +184,7 @@
   </g>
   <g
      id="g9"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path114"
        d="m 327.43,293.08 h 13.53 v -48.77 h -13.53 z"
@@ -200,7 +200,7 @@
   </g>
   <g
      id="g10"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path115"
        d="M 311.17,293.08 H 324.7 V 273.65 H 311.17 Z"
@@ -216,7 +216,7 @@
   </g>
   <g
      id="g11"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path116"
        d="m 294.92,293.08 h 13.53 v -53.63 h -13.53 z"
@@ -231,7 +231,7 @@
   </g>
   <g
      id="g12"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path117"
        d="M 278.67,293.08 H 292.2 V 231.35 H 278.67 Z"
@@ -247,7 +247,7 @@
   </g>
   <g
      id="g13"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path118"
        d="m 262.41,293.08 h 13.53 v -66.3 h -13.53 z"
@@ -263,7 +263,7 @@
   </g>
   <g
      id="g14"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path119"
        d="m 246.16,293.08 h 13.53 v -26.2 h -13.53 z"
@@ -279,7 +279,7 @@
   </g>
   <g
      id="g15"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path120"
        d="m 229.91,293.08 h 13.53 v -30.86 h -13.53 z"
@@ -295,7 +295,7 @@
   </g>
   <g
      id="g16"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path121"
        d="m 213.65,293.08 h 13.53 v -45.92 h -13.53 z"
@@ -370,7 +370,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-6"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-190.75302,0)">
     <g
        isolation="isolate"
        id="g66">
@@ -397,7 +397,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-7-4"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-191.46623,0)">
     <g
        isolation="isolate"
        id="g69">
@@ -424,7 +424,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-6-4"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-198.47598,0)">
     <g
        isolation="isolate"
        id="g72">
@@ -451,7 +451,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-7-4-7"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-199.87747,0)">
     <g
        isolation="isolate"
        id="g75">
@@ -478,7 +478,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-5-8"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-192.50743,0)">
     <g
        isolation="isolate"
        id="g81">
@@ -505,7 +505,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-7-6-9"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-193.33794,0)">
     <g
        isolation="isolate"
        id="g84">
@@ -532,7 +532,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-7-5-7"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-194.37608,0)">
     <g
        isolation="isolate"
        id="g87">
@@ -559,7 +559,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-5-4-4"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-195.10278,0)">
     <g
        isolation="isolate"
        id="g90">
@@ -586,7 +586,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-0"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-195.9333,0)">
     <g
        isolation="isolate"
        id="g93">
@@ -613,7 +613,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-5-4-3-9"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-196.76381,0)">
     <g
        isolation="isolate"
        id="g96">
@@ -640,7 +640,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-4-7-6-8-8-5"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-197.4386,0)">
     <g
        isolation="isolate"
        id="g99">
@@ -667,7 +667,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-1-6"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-189.43169,0)">
     <g
        isolation="isolate"
        id="g105">
@@ -693,7 +693,7 @@
   </g>
   <g
      id="text1-2-5-4-7-0-1-6-8-6-1-0"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-200.97858,0)">
     <g
        isolation="isolate"
        id="g108">
@@ -720,7 +720,7 @@
   <g
      id="text1-2-5-4-7-0-1-6-8-6-1-0-4"
      isolation="isolate"
-     transform="translate(-191.43558)">
+     transform="matrix(0.99028395,0,0,1,-198.03553,0)">
     <g
        isolation="isolate"
        id="g111">
@@ -745,33 +745,6 @@
     </g>
   </g>
   <g
-     id="text1-2-5-4-7-0-1-6-8-6-1-0-2"
-     isolation="isolate"
-     transform="translate(-191.43558)">
-    <g
-       isolation="isolate"
-       id="g114">
-      <g
-         isolation="isolate"
-         id="g113">
-        <g
-           isolation="isolate"
-           id="g112">
-          <text
-             transform="translate(441.43,299.18)"
-             fill="#231f20"
-             font-family="OpenSans, 'Open Sans'"
-             font-size="5.72px"
-             isolation="isolate"
-             id="text111"><tspan
-               x="0"
-               y="0"
-               id="tspan111">2024</tspan></text>
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
      isolation="isolate"
      id="g116">
     <g
@@ -788,10 +761,10 @@
          xml:space="preserve"><tspan
            x="0"
            y="0"
-           id="tspan1">Data source: Canadian Interagency Forest Fire Centre (2023), </tspan><tspan
+           id="tspan12">Data source: Canadian Interagency Forest Fire Centre (2023), </tspan><tspan
            x="0"
            y="10"
-           id="tspan2">Canadian National Fire Database (1999-2022), Wikipedia</tspan></text>
+           id="tspan13">Canadian National Fire Database (1999-2026), Wikipedia</tspan></text>
     </g>
   </g>
   <g
@@ -814,10 +787,10 @@
          xml:space="preserve"><tspan
            x="19.783804"
            y="163.62689"
-           id="tspan3">Total area burned by wildfires </tspan><tspan
+           id="tspan14">Total area burned by wildfires </tspan><tspan
            x="19.783804"
            y="181.12689"
-           id="tspan4">in Canada</tspan></text>
+           id="tspan15">in Canada</tspan></text>
     </g>
   </g>
   <path
@@ -844,7 +817,7 @@
   <g
      isolation="isolate"
      id="g119"
-     transform="translate(-191.43558)">
+     transform="translate(-204.55404,0.59302336)">
     <text
        transform="translate(335.26752,23.342677)"
        fill="#dc4533"
@@ -859,26 +832,26 @@
        xml:space="preserve"><tspan
          x="85.177002"
          y="0"
-         id="tspan5">17.2M<tspan
+         id="tspan16">17.2M<tspan
    y="0"
-   id="tspan6"> </tspan></tspan><tspan
+   id="tspan17"> </tspan></tspan><tspan
          x="85.177002"
          y="13.75"
-         id="tspan7">hectares<tspan
+         id="tspan18">hectares<tspan
    y="13.75"
-   id="tspan8"> </tspan></tspan><tspan
+   id="tspan19"> </tspan></tspan><tspan
          x="85.177002"
          y="27.5"
-         id="tspan9">burned in<tspan
+         id="tspan21">burned in<tspan
    y="27.5"
-   id="tspan10"> </tspan></tspan><tspan
+   id="tspan22"> </tspan></tspan><tspan
          x="85.177002"
          y="41.25"
-         id="tspan11">2023</tspan></text>
+         id="tspan23">2023</tspan></text>
   </g>
   <g
      id="g2"
-     transform="translate(-191.43558)">
+     transform="matrix(0.93912876,0,0,1,-178.50238,0)">
     <path
        id="path108"
        d="m 424.94,293.08 h 13.53 V 14.54 h -13.53 z"
@@ -886,6 +859,75 @@
     <path
        id="path200-2-0"
        d="m 424.94,14.54 h 13.53"
+       fill="none"
+       stroke="#241f31"
+       stroke-miterlimit="11.3"
+       stroke-width="0.7" />
+  </g>
+  <g
+     id="g24"
+     transform="matrix(0.99028395,0,0,1,-185.30265,0)">
+    <g
+       isolation="isolate"
+       id="g23">
+      <g
+         isolation="isolate"
+         id="g22">
+        <g
+           isolation="isolate"
+           id="g21">
+          <text
+             transform="translate(428.44,299.18)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72px"
+             isolation="isolate"
+             id="text20"><tspan
+               x="0"
+               y="0"
+               id="tspan20">24</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g34"
+     isolation="isolate"
+     transform="matrix(0.99028395,0,0,1,-185.99372,0)">
+    <g
+       isolation="isolate"
+       id="g27">
+      <g
+         isolation="isolate"
+         id="g26">
+        <g
+           isolation="isolate"
+           id="g25">
+          <text
+             transform="translate(441.43,299.18)"
+             fill="#231f20"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="5.72px"
+             isolation="isolate"
+             id="text24"><tspan
+               x="0"
+               y="0"
+               id="tspan24">2025</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g35"
+     transform="matrix(0.93912876,0,0,1.4525833,-163.13788,-132.64311)">
+    <path
+       id="path34"
+       d="m 441.2,293.08 h 13.53 V 208.26 H 441.2 Z"
+       fill="#e29823"
+       style="fill:#e28a23;fill-opacity:1" />
+    <path
+       id="path35"
+       d="m 441.2,208.26 h 13.53"
        fill="none"
        stroke="#241f31"
        stroke-miterlimit="11.3"
