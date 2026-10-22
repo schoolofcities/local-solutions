@@ -56,7 +56,7 @@ export function slugify(text) {
 };
 
 export function unSlugify(text) {
-  let label = text.replace("-", " ");
+  let label = text.replaceAll("-", " ");
   return label.charAt(0).toUpperCase() + label.slice(1);
 };
 

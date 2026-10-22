@@ -118,7 +118,7 @@
                 <ul class="mobile-dropdown" transition:slide>
                     {#each Object.keys(chapterColours) as Chapter}
                         <a
-                            href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`}
+                            href={`/local-solutions/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
                             onclick={closeMobileMenu}
                         >
                             <li>{Chapter}</li>

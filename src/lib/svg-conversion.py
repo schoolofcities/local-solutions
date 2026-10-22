@@ -2,6 +2,7 @@ import os
 import base64
 from lxml import etree
 import cairosvg
+import copy
 
 
 FONT_MAP = {
@@ -17,6 +18,8 @@ FONT_MAP = {
 	"OpenSans-Regular, Inter": "OpenSans",
 	"OpenSans-Regular": "OpenSans",
 	"OpenSans-Light": "OpenSans",
+	"Open Sans, Open Sans": "OpenSans",
+	"OpenSans, Open Sans": "OpenSans",
 
 	# Bold variants
 	"OpenSans 24pt, Bold": "OpenSansBold",
@@ -24,10 +27,12 @@ FONT_MAP = {
 	"OpenSans Bold": "OpenSansBold",
 	"OpenSans24pt-Bold": "OpenSansBold",
 	"OpenSans-Bold, Open Sans": "OpenSansBold",
+	"OpenSansBold": "OpenSansBold",
 	# "Bold": "InterBold",
 
 	# Italic variants
 	"Italic": "OpenSansItalic",
+	"OpenSansItalic": "OpenSansItalic",
 	"OpenSans 24pt, Italic": "OpenSansItalic",
 	"OpenSans 24pt Italic": "OpenSansItalic",
 	"OpenSans Italic": "OpenSansItalic",
@@ -304,63 +309,100 @@ def rasterize_non_text_elements(root, width, height, svg_ns, input_svg_path):
 
 
 
+# def keep_only_text_elements(root, svg_ns):
+# 	# if made with inkscape, all text is labelled
+# 	# NSMAP = {
+# 	# 	"svg": "http://www.w3.org/2000/svg",
+# 	# 	"inkscape": "http://www.inkscape.org/namespaces/inkscape"
+# 	# }
+
+# 	# text_elements = root.xpath('.//svg:g[@inkscape:label="text"]', namespaces=NSMAP)
+
+# 	# if len(text_elements) > 0:
+# 	# 	root.clear()
+# 	# 	for elem in text_elements:
+# 	# 		root.append(elem)
+# 	# 	return
+
+# 	# First, make a copy of the root to work with
+# 	new_root = etree.Element(root.tag, root.attrib)
+
+# 	# Find all text and tspan elements
+# 	text_elements = root.xpath(".//svg:text | .//svg:tspan", namespaces={"svg": svg_ns})
+
+# 	# For each text element, we need to preserve its entire ancestor chain
+# 	for text_elem in text_elements:
+# 		# Build the ancestor chain
+# 		ancestors = []
+# 		current = text_elem
+# 		while current is not None and current != root:
+# 			ancestors.append(current)
+# 			current = current.getparent()
+
+# 		# Now rebuild the hierarchy in our new root
+# 		current_parent = new_root
+# 		for ancestor in reversed(ancestors):
+# 			# Check if this ancestor already exists in our new tree
+# 			existing = None
+# 			if 'id' in ancestor.attrib:
+# 				existing = current_parent.xpath(f"./*[@id='{ancestor.attrib['id']}']")
+
+# 			if existing:
+# 				current_parent = existing[0]
+# 			else:
+# 				# Create a new element with all original attributes
+# 				new_elem = etree.Element(ancestor.tag, ancestor.attrib)
+# 				current_parent.append(new_elem)
+# 				current_parent = new_elem
+
+# 		# Finally, add the text element itself with all its attributes
+# 		current_parent.append(etree.Element(text_elem.tag, text_elem.attrib))
+# 		if text_elem.text:
+# 			current_parent[-1].text = text_elem.text
+
+# 	# Replace the original root's content with our new content
+# 	root.clear()
+# 	for attr, value in new_root.attrib.items():
+# 		root.set(attr, value)
+# 	for child in new_root:
+# 		root.append(child)
+
+
 def keep_only_text_elements(root, svg_ns):
-	# if made with inkscape, all text is labelled
-	# NSMAP = {
-	# 	"svg": "http://www.w3.org/2000/svg",
-	# 	"inkscape": "http://www.inkscape.org/namespaces/inkscape"
-	# }
+    ns = {"svg": svg_ns}
+    new_root = etree.Element(root.tag, root.attrib, nsmap=root.nsmap)
 
-	# text_elements = root.xpath('.//svg:g[@inkscape:label="text"]', namespaces=NSMAP)
+    # Only top-level text elements; their tspans are copied along with them
+    text_elements = [
+        t for t in root.xpath(".//svg:text", namespaces=ns)
+        if not any(a.tag == f"{{{svg_ns}}}text" for a in t.iterancestors())
+    ]
 
-	# if len(text_elements) > 0:
-	# 	root.clear()
-	# 	for elem in text_elements:
-	# 		root.append(elem)
-	# 	return
+    for text_elem in text_elements:
+        # Ancestors only (exclude the text element itself), root excluded
+        ancestors = []
+        cur = text_elem.getparent()
+        while cur is not None and cur is not root:
+            ancestors.append(cur)
+            cur = cur.getparent()
 
-	# First, make a copy of the root to work with
-	new_root = etree.Element(root.tag, root.attrib)
+        parent = new_root
+        for anc in reversed(ancestors):
+            existing = None
+            if "id" in anc.attrib:
+                found = parent.xpath(f"./*[@id='{anc.attrib['id']}']")
+                existing = found[0] if found else None
+            if existing is None:
+                existing = etree.SubElement(parent, anc.tag, anc.attrib)
+            parent = existing
 
-	# Find all text and tspan elements
-	text_elements = root.xpath(".//svg:text | .//svg:tspan", namespaces={"svg": svg_ns})
+        parent.append(copy.deepcopy(text_elem))
 
-	# For each text element, we need to preserve its entire ancestor chain
-	for text_elem in text_elements:
-		# Build the ancestor chain
-		ancestors = []
-		current = text_elem
-		while current is not None and current != root:
-			ancestors.append(current)
-			current = current.getparent()
-
-		# Now rebuild the hierarchy in our new root
-		current_parent = new_root
-		for ancestor in reversed(ancestors):
-			# Check if this ancestor already exists in our new tree
-			existing = None
-			if 'id' in ancestor.attrib:
-				existing = current_parent.xpath(f"./*[@id='{ancestor.attrib['id']}']")
-
-			if existing:
-				current_parent = existing[0]
-			else:
-				# Create a new element with all original attributes
-				new_elem = etree.Element(ancestor.tag, ancestor.attrib)
-				current_parent.append(new_elem)
-				current_parent = new_elem
-
-		# Finally, add the text element itself with all its attributes
-		current_parent.append(etree.Element(text_elem.tag, text_elem.attrib))
-		if text_elem.text:
-			current_parent[-1].text = text_elem.text
-
-	# Replace the original root's content with our new content
-	root.clear()
-	for attr, value in new_root.attrib.items():
-		root.set(attr, value)
-	for child in new_root:
-		root.append(child)
+    root.clear()
+    for k, v in new_root.attrib.items():
+        root.set(k, v)
+    for child in new_root:
+        root.append(child)
 
 def embed_png_as_background(root, png_bytes, width, height, svg_ns):
     png_base64 = base64.b64encode(png_bytes).decode("utf-8")

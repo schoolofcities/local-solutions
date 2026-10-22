@@ -44,7 +44,7 @@
         <TextTitle title="The Challenge" chapter={Chapter}/>
         <div class="inline-images">
             <GraphicSingle standalone={false}
-                svg720={`${base}/web-assets/civic-engagement/civic_engagement_youths.svg`}
+                svg720={`${base}/web-assets/youth/civic_engagement_youths.svg`}
             />
             <p>
                 Canada’s future resides in its young people, and that future looks bright. Youth – generally defined as those between the ages of 15 and 29 – are better educated, live more sustainably, and are more connected to technology than older populations today.<Footnote id={addFootnote(fns[0])}/> The most diverse generation in Canadian history, this group has more exposure to those who have different backgrounds and experiences, and as a result is more likely than previous generations to value inclusivity and participation from a range of voices.<Footnote id={addFootnote(fns[1])}/> Yet this is a challenging time for young people. The societal and educational disruptions of the COVID-19 pandemic fell disproportionately on youth, many of whom had their education interrupted for extended periods. More recent economic uncertainty and the rising use of artificial intelligence in the workplace mean this generation is entering the workforce at a time of profound uncertainty that will affect their early career paths. For many young people, particularly those from racialized communities, unpaid internships and volunteer opportunities for career development are out of reach because they must find paid employment to support their education, and programs that offer a stipend or compensation are particularly valuable.<Footnote id={addFootnote(fns[2])}/>
@@ -57,8 +57,8 @@
             The unfolding realities of the climate crisis have contributed to rising levels of anxiety, as young people face the prospect of a more chaotic and unpredictable future. In the realm of mental health, youth have emerged as a distinct group, with new government programs to address access to care, in places of all sizes, including in rural, remote, and Indigenous areas.
         </p>
         <GraphicSingle
-            svg720={`${base}/web-assets/civic-engagement/civic_engagement_youth-urban.svg`}
-            svg360={`${base}/web-assets/civic-engagement/civic_engagement_youth-urban_360.svg`}
+            svg720={`${base}/web-assets/youth/civic_engagement_youth-urban.svg`}
+            svg360={`${base}/web-assets/youth/civic_engagement_youth-urban_360.svg`}
         />
         <p>
             As the networks and spaces that used to underpin communities have shifted and changed, young people have shown lower levels of social engagement and experienced higher rates of loneliness than adults.<Footnote id={addFootnote(fns[5])}/> With fewer opportunities to participate in forms of civic activity that cut across divisions such as class, race, income, and age, youth today are missing out on opportunities to build a sense of belonging, explore their identities, and better understand their rights, obligations, and responsibilities as citizens.<Footnote id={addFootnote(fns[6])}/>

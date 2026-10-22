@@ -49,9 +49,21 @@
                 Participation in civic life is the strongest driver of trust in government and democratic resilience, and is essential for creating strong, inclusive communities.<Footnote id={addFootnote(fns[0])}/> Yet in Canada, many of the core markers of democratic participation are in decline. Voter turnout in federal elections has been below 70% for decades, and at the municipal level – where government policies often have significant impacts on people’s day-to-day lives – turnout plunges to below 40% across the country.<Footnote id={addFootnote(fns[1])}/> Between 2018 and 2023, rates of informal volunteering fell from 74% to 66%, driven largely by a drop in community improvement activities such as maintaining public spaces, participating in public meetings, and organizing events.<Footnote id={addFootnote(fns[2])}/> The trend goes beyond Canada; in some other democracies as well, membership in community groups from bowling leagues to churches to volunteer associations is declining, decreasing opportunities to build trust and strong social ties with others from different backgrounds.<Footnote id={addFootnote(fns[3])}/> The weakening of these traditional forms of social and democratic engagement can, in turn, erode people’s sense of civic agency and individual fulfilment. In a 2025 survey, less than 56% of the population reported a high sense of meaning and purpose, and 13% of people over 15 reported feeling lonely “often” or “always.”<Footnote id={addFootnote(fns[4])}/> At a time when Canadian cities and towns are changing quickly, it seems that residents are becoming more detached from the important decisions and actions that shape their communities – putting the legitimacy and quality of our democracy at risk. 
             </p>
         </div>
+        <GraphicSingle
+            svg720={`${base}/web-assets/civic-engagement/civic_engagement_municipal_comparison.svg`}
+            svg360={`${base}/web-assets/civic-engagement/civic_engagement_municipal_comparison_360.svg`}
+        />
+        <GraphicSingle
+            svg720={`${base}/web-assets/civic-engagement/civic_engagement_informal_volunteering.svg`}
+            svg360={`${base}/web-assets/civic-engagement/civic_engagement_informal_volunteering_360.svg`}
+        />
         <p>
             One way to address this disengagement is through making local connections with others, whether through arts and culture, social activity, or shared experiences in the natural world. Engagement at the community level can range in formality and complexity from official advisory processes led by municipalities to pop-up spaces that act as gathering points for neighbours. Community media infrastructures play a particularly important role in a climate of growing mis- and dis-information, as they build public consciousness and raise awareness of changes at the local level. <Footnote id={addFootnote(fns[5])}/>
         </p>
+        <GraphicSingle
+            svg720={`${base}/web-assets/civic-engagement/civic_engagement_misinformation.svg`}
+            svg360={`${base}/web-assets/civic-engagement/civic_engagement_misinformation_360.svg`}
+        />
         <p>
             The Civic Engagement and Democracy category features ideas that fill gaps in existing public engagement models, offering new pathways for participation through collaboration, civic dialogue, and cultural activity. Together, they advance community empowerment by expanding who participates, how they participate, and what tools are available to shape change.<Footnote id={addFootnote(fns[6])}/> In a time of declining trust in institutions and traditional media, the kinds of connections fostered by municipal initiatives can provide a link to local realities and an opportunity to contribute to making positive change.
         </p>

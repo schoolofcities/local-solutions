@@ -19,7 +19,7 @@
             {Chapter}
         </button>
     {:else}
-        <a href={`/local-solutions/category/${Chapter.toLowerCase().replace(" ", "-")}`}
+        <a href={`/local-solutions/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
             class="chip {large ? "large" : ""}" style:background-color={chapterColours[Chapter]} style:color="white">
             {Chapter}
         </a>
