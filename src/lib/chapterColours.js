@@ -8,6 +8,8 @@ export const chapterColours = {
   "Youth":                            "#1E3765", // --brandLightGreen
   "Abundant local food":              "#8DBF2E", // --brandMedGreen
   "Local economies":                  "#00A189", // --brandMedGreen
+  "Mental health":                    "#007FA3", // PLACEHOLDER
+  "Community prosperity":             "#00A189", // --brandMedGreen
 };
 
 export const pdfPaths = {
@@ -17,9 +19,9 @@ export const pdfPaths = {
   "Housing":                          "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-5-Housing-FINAL-Dec-2025.pdf", 
   "Climate change":                   "https://schoolofcities.utoronto.ca/wp-content/uploads/2026/02/print-ready-Learning-From-What-Works-6.-Climate-Change-FINAL-Dec-2025.pdf", 
   "Civic engagement":                 "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
-  "Youth":                 "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
-  "Abundant local food":             "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
-  "Local economies":             "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
+  "Youth":                            "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
+  "Abundant local food":              "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
+  "Local economies":                  "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
   "Scaling social innovation":        "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-1-Scaling-Social-Innovation-Dec-2025.pdf"
 };
 

@@ -13,8 +13,6 @@
         items.push({"label": key, "colour": chapterColours[key]})
     })
 
-    console.log("items", items);
-
     let angleStep = $derived(360 / items.length);
     const orbitRadius = 30; 
 </script>

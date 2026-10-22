@@ -32,8 +32,6 @@
             description: !formDescription?.trim() ? "Please enter a description." : ""
         };
 
-        console.log(Object.values(errors).every(error => error === ""));
-
         return Object.values(errors).every(error => error === "");
     }
 
