@@ -9,6 +9,7 @@
     import SofCLogo from "../assets/sofc-uoft-logo-blue-colour.svg";
     import SofCDotsLogo from "../assets/sofc-dots-logo-dark.svg";
     import HeaderBarButton from './HeaderBarButton.svelte';
+    import { base } from '$app/paths';
 
     let spotlightedHovered = $state(false);
     let mobileMenuOpen = $state(false);
@@ -20,13 +21,13 @@
     
     categoriesDropdownValues.push({
         label: "All categories",
-        link: `/local-solutions/categories`
+        link: `${base}/categories`
     });
 
     Object.keys(chapterColours).forEach((key) => {
         categoriesDropdownValues.push({
             label: key,
-            link: `/local-solutions/category/${slugify(key)}`
+            link: `${base}/category/${slugify(key)}`
         })
     });
 
@@ -52,16 +53,16 @@
 <nav>
 
     <div class="container" role="navigation">
-        <a href="/local-solutions" class="logo-link">
+        <a href="{base}/" class="logo-link">
             <img src={Logo} alt="Local Solutions logo" class="logo-top"/>
         </a>
         <div class="right-side">
             <div class="nav-buttons">
-                <HeaderBarButton link="/local-solutions/about" content="About"/>
-                <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="Scaling Social Innovation"/>
-                <HeaderBarButton link="/local-solutions/2026-solutions" content="2026 Cohort"/>
-                <HeaderBarButton link="/local-solutions/featured-solutions" content="Featured Solutions"/>
-                <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true} link="/local-solutions/categories"/>
+                <HeaderBarButton link="{base}/about" content="About"/>
+                <HeaderBarButton link="{base}/scaling-social-innovation" content="Scaling Social Innovation"/>
+                <HeaderBarButton link="{base}/2026-solutions" content="2026 Cohort"/>
+                <HeaderBarButton link="{base}/featured-solutions" content="Featured Solutions"/>
+                <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true} link="{base}/categories"/>
 
                 <a href="https://www.schoolofcities.utoronto.ca" target="_blank" id="sofc-logo">
                     <img src={SofCLogo} alt="School of Cities logo" class="logo-top"/>
@@ -88,19 +89,19 @@
     <!-- Mobile menu panel -->
     {#if mobileMenuOpen}
         <div class="mobile-menu" transition:slide>
-            <a class="mobile-link" href="/local-solutions/about">
+            <a class="mobile-link" href="{base}/about">
                 About
             </a>
 
-            <a class="mobile-link" href="/local-solutions/scaling-social-innovation">
+            <a class="mobile-link" href="{base}/scaling-social-innovation">
                 Scaling Social Innovation
             </a>
 
-            <a class="mobile-link" href="/local-solutions/2026-solutions">
+            <a class="mobile-link" href="{base}/2026-solutions">
                 2026 Cohort
             </a>
 
-            <a class="mobile-link" href="/local-solutions/featured-solutions">
+            <a class="mobile-link" href="{base}/featured-solutions">
                 Featured Solutions
             </a>
 
@@ -115,12 +116,12 @@
 
             {#if mobileCategoriesOpen}
                 <ul class="mobile-dropdown" transition:slide>
-                    <a href="/local-solutions/categories" onclick={closeMobileMenu}>
+                    <a href="{base}/categories" onclick={closeMobileMenu}>
                         <li>All categories</li>
                     </a>
                     {#each Object.keys(chapterColours) as Chapter}
                         <a
-                            href={`/local-solutions/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
+                            href={`${base}/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
                             onclick={closeMobileMenu}
                         >
                             <li>{Chapter}</li>

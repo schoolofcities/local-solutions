@@ -1,3 +1,5 @@
+import { base } from "$app/paths";
+
 export const chapterColours = {
   "Shared spaces":                    "#6D247A", // --brandPurple
   "Small businesses":                 "#6FC7EA", // --brandLightBlue
@@ -74,5 +76,5 @@ export function unSlugify(text) {
 };
 
 export function spotlightedURL(chapter, project, id) {
- return `/local-solutions/category/${slugify(chapter)}/${id}-${slugify(project)}`
+ return `${base}/category/${slugify(chapter)}/${id}-${slugify(project)}`
 }

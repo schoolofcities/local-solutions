@@ -2,6 +2,7 @@
     import "../assets/global-styles.css";
     import { chapterColours } from "./chapterColours";
     import Logo from '../assets/sofc-uoft-logo-blue-colour.svg';
+    import { base } from "$app/paths";
 
     let {
         style = "grid" // "circle" or "grid"
@@ -35,7 +36,7 @@
                 <h3>Click a category to learn more!</h3>
             </div>
             {#each items as item, i}
-            <a href="./category/{item.label.toLowerCase().replaceAll(" ", "-")}" target="_blank" class="node-link">
+            <a href="{base}/category/{item.label.toLowerCase().replaceAll(" ", "-")}" target="_blank" class="node-link">
                 <div
                 class="node in-circle"
                 style="
@@ -50,7 +51,7 @@
         {:else if style == "grid"}
             <div class="grid-circles {items.length % 3 == 0 ? "x3" : ""}">
                 {#each items as item, i}
-                    <a href="./category/{item.label.toLowerCase().replaceAll(" ", "-")}" class="node-link">
+                    <a href="{base}/category/{item.label.toLowerCase().replaceAll(" ", "-")}" class="node-link">
                         <div class="node" style="background-color: {item.colour};">
                             {item.label}
                         </div>

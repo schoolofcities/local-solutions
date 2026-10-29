@@ -25,7 +25,7 @@
                 <p>{chapterDescription}</p>
 
                 <a
-                    href={`../category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
+                    href={`${base}/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
                     class="link-button"
                 >
                     Read the chapter on {Chapter.toLowerCase()}

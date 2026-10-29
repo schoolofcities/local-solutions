@@ -3,6 +3,7 @@
     import Password from "$lib/Password.svelte";
     import TitleSection from "$lib/TitleSection.svelte";
     import SolutionsGrid from "$lib/SolutionsGrid.svelte";
+    import { base } from "$app/paths";
 
     let { data } = $props();
 
@@ -10,7 +11,7 @@
 
     const tagClicked = (tag) => {
         const params = new URLSearchParams({ tags: tag });
-        window.open(`/local-solutions/?${params.toString()}#solutions-map`, '_blank')
+        window.open(`${base}/?${params.toString()}#solutions-map`, '_blank')
     }
 </script>
 
