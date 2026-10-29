@@ -2,6 +2,7 @@
     import "../assets/global-styles.css";
     import { chapterColours } from "./chapterColours";
     import Logo from '../assets/sofc-uoft-logo-blue-colour.svg';
+    import { base } from "$app/paths";
 
     let {
         style = "grid" // "circle" or "grid"
@@ -35,7 +36,7 @@
                 <h3>Click a category to learn more!</h3>
             </div>
             {#each items as item, i}
-            <a href="./category/{item.label.toLowerCase().replaceAll(" ", "-")}" target="_blank" class="node-link">
+            <a href="{base}/category/{item.label.toLowerCase().replaceAll(" ", "-")}" target="_blank" class="node-link">
                 <div
                 class="node in-circle"
                 style="
@@ -48,19 +49,28 @@
             </a>
             {/each}
         {:else if style == "grid"}
-            <div class="grid-circles">
+            <div class="grid-circles {items.length % 3 == 0 ? "x3" : ""}">
                 {#each items as item, i}
-                    <a href="./category/{item.label.toLowerCase().replaceAll(" ", "-")}" class="node-link">
+                    <a href="{base}/category/{item.label.toLowerCase().replaceAll(" ", "-")}" class="node-link">
                         <div class="node" style="background-color: {item.colour};">
                             {item.label}
                         </div>
                     </a>
                 {/each}
+
+                {#if items.length % 3 != 0}
+                    <div class="instructions circle">
+                        <h2>A nation of place-based solutions</h2>
+                        <h3>Click a category to learn more!</h3>
+                    </div>
+                {/if}
+            </div>
+            {#if items.length % 3 == 0}
                 <div class="instructions">
                     <h2>A nation of place-based solutions</h2>
                     <h3>Click a category to learn more!</h3>
                 </div>
-            </div>
+            {/if}
         {/if}
     </div>
 </div>
@@ -126,14 +136,19 @@
     }
 
     .instructions {
-        --node-size: calc(2 * var(--circle-container) / var(--numCircles) - 10px);
-        width: calc(var(--node-size) * 1.25); 
         border-radius: 50%;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         font-weight: 600;
+        margin-top: 15px;
+    }
+
+    .instructions.circle {
+        --node-size: calc(2 * var(--circle-container) / var(--numCircles) - 10px);
+        width: calc(var(--node-size) * 1.25); 
+        margin-top: 0;
     }
 
     .center { 
@@ -151,17 +166,26 @@
 
     .instructions h2 {
         font-family: TradeGothicBoldOblique;
-        font-size: clamp(9px, calc(var(--node-size) * 0.18), 3dvh);
+        font-size: clamp(9px, calc(var(--node-size) * 0.16), 3dvh);
     }
 
     .instructions h3 {
         font-family: TradeGothicLTLightOblique;
-        font-size: clamp(9px, calc(var(--node-size) * 0.16), 3dvh);
+        font-size: clamp(9px, calc(var(--node-size) * 0.13), 3dvh);
     }
 
     .grid-circles {
         display: grid;
         grid-template-columns: repeat(auto-fill, calc(2*var(--circle-container)/var(--numCircles) - 10px));
+        justify-content: center;
+        width: var(--circle-container);
+        gap: 10px;
+    }
+
+    .grid-circles.x3 {
+       --grid-node-size: calc((var(--circle-container) - (2 * 75px)) / 3);
+        display: grid;
+        grid-template-columns: repeat(3, var(--grid-node-size));
         justify-content: center;
         width: var(--circle-container);
         gap: 10px;
@@ -174,7 +198,7 @@
     }
 
     .node {
-        --node-size: calc(2 * var(--circle-container) / var(--numCircles) - 10px);
+        --node-size: var(--grid-node-size, calc(2 * var(--circle-container) / var(--numCircles) - 10px));
         width: var(--node-size);
         height: var(--node-size);
         font-size: clamp(9px, calc(var(--node-size) * 0.18), 3dvh);
@@ -187,6 +211,7 @@
         padding: 8px;
         box-sizing: border-box;
         font-family: TradeGothicBold;
+        transition: transform 0.2s ease;
     }
 
     .node.in-circle {
@@ -275,7 +300,7 @@
 
     @media (max-width: 800px) {
         :root {
-            --circle-container: 85dvw;
+            --circle-container: min(85dvw, 60dvh);
             --orbit: 30dvw;
         }
 
@@ -319,6 +344,10 @@
 
         .orbit-container {
             left: calc((100dvw - var(--circle-container)) / 2);
+        }
+
+        .grid-circles.x3 {
+            --grid-node-size: calc((var(--circle-container) - (2 * 50px)) / 3);
         }
     }
 </style>

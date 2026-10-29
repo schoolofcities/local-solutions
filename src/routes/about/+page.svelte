@@ -10,23 +10,23 @@
     import AboutTeamCard from "$lib/AboutTeamCard.svelte";
 
     const contributors = [
-        {name: "Karen Chapple", role: "Project Director"},
-        {name: "Kathryn J. Exon Smith", role: "Series editor, Research and writing"},
-        {name: "Priya Perwani", role: "Series editor, Research and writing"},
+        [{name: "Karen Chapple", role: "Project director"},
+        {name: "Kathryn J. Exon Smith", role: "Series editor, research, and writing"},],
+        [{name: "Priya Perwani", role: "Research and writing"},
         {name: "An Pham", role: "Research and writing"},
         {name: "Sarah A. Smith", role: "Research and writing"},
         {name: "Anika Reisha Taboy", role: "Research and writing"},
-        {name: "Michelle Yong Yi Zhang", role: "Series editor, Research and writing"},
-        {name: "Jeff Allen", role: "Data visuals"},
+        {name: "Michelle Yong Yi Zhang", role: "Research and writing"},],
+        [{name: "Jeff Allen", role: "Data visuals"},
         {name: "Isabeaux Graham", role: "Data visuals"},
         {name: "Tony Chang", role: "Design"},
-        {name: "Mieko Yao", role: "Web design and development, Data visuals"},
+        {name: "Mieko Yao", role: "Web design, development, and data visuals"},
+        {name: "Elizabeth d’Anjou", role: "Copy editing"},]
     ]
 
     const additionalContributors = [
         {name: "Kumsa Baker", role: "", part: "Scaling social innovation"},
         {name: "Sylvia Cheuy", role: "", part: "Scaling social innovation"},
-        {name: "Elizabeth d’Anjou", role: "", part: "Scaling social innovation, Shared spaces, Small businesses, Mental health, Housing, Climate change, Civic engagement and Democracy, Community prosperity and Dignity"},
         {name: "Gabriel Eidelman", role: "", part: "Scaling social innovation"},
         {name: "Alexandra Flynn", role: "", part: "Scaling social innovation"},
         {name: "Kohbod Khandan-Barani", role: "", part: "Scaling social innovation"},
@@ -62,6 +62,8 @@
         {name: "Robin Sokoloski", role: "", part: "Civic engagement and Democracy"},
         {name: "Emma Renaerts", role: "", part: "Community prosperity and Dignity"},
     ]
+
+    additionalContributors.sort((a, b) => a.name.split(" ")[1].localeCompare(b.name.split(" ")[1]));
 </script>
 
 <svelte:head>
@@ -72,21 +74,30 @@
 <div>
     <Password/>
 
-    <TitleSection Title="About the team" 
+    <TitleSection Title="About the project" 
         Chapter=""/>
 
     <div class="body-text">
-        <TextTitle title="Contributors"/>
-        <div class="cards">
-            {#each contributors as contributor}
-                <AboutTeamCard {...contributor}/>
+
+        <p style="margin-bottom: 50px;">
+            <i>Learning from What Works</i> is led by the University of Toronto’s <a href="https://schoolofcities.utoronto.ca/" target="_blank">School of Cities</a>, with support from the Canadian Urban Institute and RBC.
+        </p>
+
+        <TextTitle title="Project team"/>
+        <div style="padding-bottom: 50px;">
+            {#each contributors as group}
+                <div class="cards group">
+                    {#each group as contributor}
+                        <AboutTeamCard {...contributor}/>
+                    {/each}
+                </div>
             {/each}
         </div>
 
         <TextTitle title="Additional Contributors"/>
-        <div class="cards">
-            {#each additionalContributors as contributor}
-                <AboutTeamCard {...contributor}/>
+        <div class="cards additional">
+            {#each additionalContributors as contributor, index}
+                <p>{contributor.name}</p>
             {/each}
         </div>
         
@@ -112,6 +123,35 @@
         justify-content: center;
         gap: 15px;
         padding-bottom: 50px;
+    }
+
+    .cards.group {
+        padding-bottom: 0;
+    }
+
+    .cards.additional {
+        display: block;         
+        column-count: 3;
+        column-gap: 10px;
+        justify-content: normal;
+        padding-bottom: 50px;
+    }
+
+    .cards.additional p {
+        margin: 0;
+        break-inside: avoid;     /* keeps a name from splitting across columns */
+    }
+
+    @media (max-width: 790px) {
+        .cards.additional {
+            column-count: 2;
+        }
+    }
+
+    @media (max-width: 400px) {
+        .cards.additional {
+            column-count: 1;
+        }
     }
 
     .logo-container {

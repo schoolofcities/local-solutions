@@ -559,15 +559,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="354.96759"
-     inkscape:cy="176.42314"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-1"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg59"
+     inkscape:zoom="1"
+     inkscape:cx="467.99999"
+     inkscape:cy="70.999998"
+     inkscape:window-width="1150"
+     inkscape:window-height="1032"
+     inkscape:window-x="879"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_6"
      showgrid="false"
      showguides="false">
     <inkscape:grid
@@ -603,21 +603,23 @@
          id="g1"
          isolation="isolate">
         <text
-           transform="rotate(0.17,-9329.0122,7111.7863)"
+           transform="rotate(0.17,-8823.4616,7111.0363)"
            font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
            font-size="17px"
            font-weight="700"
            isolation="isolate"
-           id="text1"><tspan
+           id="text1"
+           style="font-size:15px;white-space:pre;inline-size:465.732;display:inline"
+           xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan1">Federal and municipal election voter turnout in 2025</tspan></text>
+             id="tspan3">Selected federal versus municipal election voter turnout rates in 2025</tspan></text>
       </g>
     </g>
     <g
        id="text51"
        isolation="isolate"
-       transform="translate(0,9.5705191)">
+       transform="translate(0,5.8205192)">
       <g
          id="g2"
          isolation="isolate">
@@ -632,13 +634,19 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan7">Data source: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
+             id="tspan8">Data sources: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
              x="0"
              y="10"
-             id="tspan19">CBC News (2026); Élections Québec (2025); Elections Calgary (2025). **Federal election voter turnout was calculated as the </tspan><tspan
+             id="tspan15"><tspan
+   style="font-style:italic"
+   id="tspan11">CBC News </tspan>(2026); Élections Québec (2025); Elections Calgary (2025). 
+</tspan><tspan
              x="0"
              y="19.999999"
-             id="tspan20">weighted average voter turnout for all federal electoral districts within the municipality.</tspan></text>
+             id="tspan16">*Federal election voter turnout was calculated as the weighted average voter turnout for all federal electoral districts within </tspan><tspan
+             x="0"
+             y="29.999999"
+             id="tspan17">the municipality.</tspan></text>
       </g>
     </g>
     <rect
@@ -781,25 +789,25 @@
            y="107.19"
            text-anchor="middle"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';white-space:pre;fill:#ffffff"
-           id="text13-1">70.4%</text>
+           id="text13-1">70%</text>
         <text
            x="171.31"
            y="150"
            text-anchor="middle"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';white-space:pre;fill:#ffffff"
-           id="text14">39.7%</text>
+           id="text14">40%</text>
         <text
            x="242.31"
            y="115.97"
            text-anchor="middle"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';white-space:pre;fill:#ffffff"
-           id="text15-4">64.1%</text>
+           id="text15-4">64%</text>
         <text
            x="289.64999"
            y="153.62"
            text-anchor="middle"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';white-space:pre;fill:#ffffff"
-           id="text16-6">37.1%</text>
+           id="text16-6">37%</text>
         <text
            x="360.64999"
            y="107.74"
@@ -846,28 +854,28 @@
            style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
            id="polyline23-7" />
         <rect
-           x="115.50842"
+           x="121.65918"
            y="16.973301"
            width="15.86"
            height="15.86"
-           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;fill-opacity:1"
+           style="fill:#dc4633;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
            id="rect28-3" />
         <rect
-           x="271.30881"
+           x="256.45956"
            y="16.973301"
            width="15.86"
            height="15.86"
            style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
            id="rect29-3" />
         <text
-           x="137.55844"
+           x="143.7092"
            y="28.043301"
            style="font-size:10px;font-family:'Open Sans';white-space:pre;fill:#dc4633;fill-opacity:1"
            id="text29"><tspan
              style="font-weight:bold;font-size:10px;fill:#dc4633;fill-opacity:1"
-             id="tspan32">Federal general election</tspan></text>
+             id="tspan32">Federal election</tspan></text>
         <text
-           x="293.3588"
+           x="278.50955"
            y="28.043301"
            style="font-size:10px;font-family:'Open Sans';white-space:pre;fill:#6d247a;fill-opacity:1"
            id="text30"><tspan
@@ -1320,10 +1328,10 @@
                xml:space="preserve"><tspan
                  x="0"
                  y="0"
-                 id="tspan26">80% of eligible </tspan><tspan
+                 id="tspan19">80% of eligible </tspan><tspan
                  x="0"
                  y="12.5"
-                 id="tspan27">voters</tspan></text>
+                 id="tspan20">voters</tspan></text>
             <text
                transform="translate(251.923,97.956)"
                fill="#6d6e71"
@@ -1415,12 +1423,12 @@
      transform="translate(201.6541,-107.657)"><tspan
        x="63.428215"
        y="341.39227"
-       id="tspan28">Montreal,<tspan
+       id="tspan21">Montreal,<tspan
    y="341.39227"
-   id="tspan29"> </tspan></tspan><tspan
+   id="tspan22"> </tspan></tspan><tspan
        x="63.428215"
        y="357.64226"
-       id="tspan30">Quebec</tspan></text>
+       id="tspan23">Que</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:73.8234;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.75"
@@ -1430,11 +1438,11 @@
      transform="translate(173.28925,-107.92217)"><tspan
        x="210.23029"
        y="341.8446"
-       id="tspan31">Calgary,
+       id="tspan24">Calgary,
 </tspan><tspan
        x="210.23029"
        y="358.0946"
-       id="tspan34">Alberta</tspan></text>
+       id="tspan25">Alta.</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:180.837;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.75"
@@ -1444,9 +1452,9 @@
      transform="translate(25.054193,-2.03033)"><tspan
        x="121.08715"
        y="236.08363"
-       id="tspan35">St. John's, 
+       id="tspan26">St. John's, 
 </tspan><tspan
        x="121.08715"
        y="252.33364"
-       id="tspan36">New Brunswick</tspan></text>
+       id="tspan27">Nfld.</tspan></text>
 </svg>

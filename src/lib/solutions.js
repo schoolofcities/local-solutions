@@ -33,6 +33,7 @@ export async function getSolutions(fetch) {
 
         let categorySolutions = {};
         let spotlighted = [];
+        let cohort2026 = [];
         
         let unsortedSolutions = arr.map(item => {
                 item.Tags = item.Tags.split("; ");
@@ -47,6 +48,10 @@ export async function getSolutions(fetch) {
                 item.Card_Thumbnail = (item.Card_Thumbnail == 'true' || item.Card_Thumbnail == 'TRUE');
                 item.Tags.push(item.Cohort)
 
+                if (item.Cohort == "2026") {
+                    cohort2026.push(item);
+                }
+
                 if (item.Spotlighted) {
                     item.Tags.unshift("Featured");
                     spotlighted.push(item);
@@ -54,6 +59,8 @@ export async function getSolutions(fetch) {
 
                 return item;
             });
+
+        cohort2026 = cohort2026.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
         
         let solutions = unsortedSolutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
         solutions.forEach(item => {
@@ -84,7 +91,8 @@ export async function getSolutions(fetch) {
                 provinceCounts, 
                 categorySolutions, 
                 unsortedSolutions,
-                spotlighted
+                spotlighted,
+                cohort2026
             };
     }
 
@@ -92,13 +100,15 @@ export async function getSolutions(fetch) {
             provinceCounts, 
             categorySolutions, 
             unsortedSolutions,
-            spotlighted
+            spotlighted,
+            cohort2026
     } = cleanData(parsedContent.data);
 
     return { solutions, 
             provinceCounts, 
             categorySolutions, 
             unsortedSolutions, 
-            spotlighted
+            spotlighted,
+            cohort2026
              };
 }

@@ -23,7 +23,7 @@
     role="button"
     tabindex=0
 >
-    {#if dropdown}
+    {#if dropdown && link == ""}
         <button class="desktop-button" class:hovered={hoveredToggle || clickedToggle} 
             onclick={() => {
                 if (dropdown) {
@@ -56,6 +56,28 @@
                 </a>
             {/each}
         </ul>
+    {:else if dropdown}
+        <a class="desktop-button" class:hovered={hoveredToggle} href={link}>
+            {content}
+            <div class="chevron">
+                <ChevronDown/>
+            </div>
+        </a>
+        <ul class="dropdown-section" style:display={(hoveredToggle) ? "grid" : "none"} style:right={rightOverflow ? "calc(max(-40px, -3dvw))" : "0"}
+            >
+            {#each dropdownValues as value}
+                <a href={value.link} 
+                    onclick={() => {
+                        hoveredToggle = false;
+                    }}
+                    onkeyup={(key) => {
+                        hoveredToggle = false;
+                    }}
+                >
+                    <li>{value.label}</li>
+                </a>
+            {/each}
+        </ul>
     {:else}
         <a class="desktop-button" class:hovered={hoveredToggle} href={link}>
             {content}
@@ -68,6 +90,7 @@
         position: relative;
         display: inline-block;
         height: 100%;
+        flex-shrink: 0; 
     }
 
     .desktop-button {
@@ -80,9 +103,10 @@
         fill: var(--LoSoNavyBlue);
         display: flex;
         align-items: center;
-        /* margin-top: 5px;  */
         padding: 0 15px 0 15px;
         text-decoration: none;
+        white-space: nowrap;     
+        flex-shrink: 0;
     }
     
     .desktop-button:hover {
@@ -134,13 +158,13 @@
         rotate: 180deg;
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 1200px) {
         .desktop-button {
             font-size: 17px;
         }
     }
 
-    @media (max-width: 650px) {
+    @media (max-width: 950px) {
         .desktop-button {
             display: none;
         }

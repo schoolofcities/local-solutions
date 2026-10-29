@@ -14,7 +14,8 @@ const config = {
 		    assets: "docs"
 		}),
 		paths: {
-		    base: dev ? "" : "/local-solutions",
+		    // base: dev ? "" : "/local-solutions",
+			base: "",
 		}
 	}
 };

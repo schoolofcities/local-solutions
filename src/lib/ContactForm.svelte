@@ -17,6 +17,8 @@
     let loading = false;
     let succeeded = false;
     let failed = false;
+
+    const url = "https://script.google.com/macros/s/AKfycbz-TYH5-STeVcrHH5QQ9uJu0Q1KkFazoGMJRjBMLcyFLFPjizLhfyZNtqQn8BsLVqqWJQ/exec";
     
     function validate() {
         errors = {
@@ -56,26 +58,24 @@
         formData.append("Location", formLocation);
         formData.append("Brief description of the solution", formDescription);
 
-        const response = await fetch(
-            "https://script.google.com/macros/s/AKfycbyYLU7g3U5a5lTJZZqBsSzSqx1_TGqC6wcCNDnzg9wQzRPGUf8opGZOLvfAgtLqR30Ung/exec",
-            {
-                method: "POST",
-                body: formData
+        try {
+            const response = await fetch(url, { method: "POST", body: formData });
+            if (response.ok) {
+                formFirstName = undefined;
+                formLastName = undefined;
+                formEmail = undefined;
+                formOrg = undefined;
+                formLocation = undefined;
+                formDescription = undefined;
+                loading = false;
+                succeeded = true;
+            } else {
+                failed = true;
             }
-        );
-
-        if (response.ok) {
-            formFirstName = undefined;
-            formLastName = undefined;
-            formEmail = undefined;
-            formOrg = undefined;
-            formLocation = undefined;
-            formDescription = undefined;
-            loading = false;
-            succeeded = true;
-        } else {
-            loading = false;
+        } catch {
             failed = true;
+        } finally {
+            loading = false;
         }
     }
 

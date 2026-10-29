@@ -1,6 +1,7 @@
 <script>
     import { chapterColours } from "./chapterColours";
     import "../assets/global-styles.css";
+    import { base } from "$app/paths";
     export let Chapter;
     export let toggle = false;
     export let clicked = false;
@@ -19,7 +20,7 @@
             {Chapter}
         </button>
     {:else}
-        <a href={`/local-solutions/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
+        <a href={`${base}/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
             class="chip {large ? "large" : ""}" style:background-color={chapterColours[Chapter]} style:color="white">
             {Chapter}
         </a>

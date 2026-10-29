@@ -1,5 +1,6 @@
 <script>
     import Close from "./assets/icons/close.svelte";
+    import { fade } from "svelte/transition";
     let {
         imageUrl,
         Thumbnail_Alt,
@@ -21,12 +22,13 @@
 </script>
 
 
-<div class="viewer-container" onclick={handleOutsideClick}>
+<div class="viewer-container" onclick={handleOutsideClick}
+    transition:fade={{ duration: 150 }}>
     <div class="viewer-close-button">
         <button onclick={closeImageViewer}><Close/></button>
     </div>
     <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
-    <p class="viewer-caption"><span class="caption-text">{Thumbnail_Caption}</span> Photo credits: {Thumbnail_Source}</p>
+    <p class="viewer-caption"><span class="caption-text">{Thumbnail_Caption}</span> Image credit: {Thumbnail_Source}</p>
 </div>
 
 <style>
@@ -52,7 +54,7 @@
         max-width: 1050px;
         width: var(--photo-viewer-width);
         height: var(--photo-viewer-width);
-        object-fit: cover;
+        object-fit: contain;
     }
 
     .viewer-close-button {

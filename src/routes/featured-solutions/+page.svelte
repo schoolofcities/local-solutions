@@ -2,6 +2,8 @@
     import FeaturedSolution from "$lib/FeaturedSolution.svelte";
     import Password from "$lib/Password.svelte";
     import TitleSection from "$lib/TitleSection.svelte";
+    import SolutionsGrid from "$lib/SolutionsGrid.svelte";
+    import { base } from "$app/paths";
 
     let { data } = $props();
 
@@ -9,7 +11,7 @@
 
     const tagClicked = (tag) => {
         const params = new URLSearchParams({ tags: tag });
-        window.open(`/local-solutions/?${params.toString()}#solutions-map`, '_blank')
+        window.open(`${base}/?${params.toString()}#solutions-map`, '_blank')
     }
 </script>
 
@@ -26,15 +28,16 @@
 
     <div class="body-text">
         <p>
-            Each of the following featured solutions is covered in depth. In the main solutions repository, these featured solutions are indicated with a star icon. Click on solution to learn more!
+            Each of the following featured solutions is covered in depth. In the main solutions repository, these featured solutions are indicated with a star icon and yellow "Featured" tag. Click on a solution to learn more!
         </p>
     </div>
 
-    <div class="solutions">
+    <SolutionsGrid Chapter="" solutionsList={featured} provinceCounts={{}} hasFilters={false}/>
+    <!-- <div class="solutions">
         {#each featured as solution}
             <FeaturedSolution {...solution} {tagClicked}/>
         {/each}
-    </div>
+    </div> -->
     
 </div>
 

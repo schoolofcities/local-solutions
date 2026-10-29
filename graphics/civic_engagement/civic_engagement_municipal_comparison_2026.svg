@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg59"
+   width="652.80005"
+   height="450.60001"
+   viewBox="0 0 489.60002 337.95001"
+   version="1.1"
+   sodipodi:docname="civic_engagement_municipal_comparison_2026.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="mental-health_opioid-charts.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs54">
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       message=""
+       id="path-effect27"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="6"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect24"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.4999999,0,1 @ F,0,0,1,0,1.4999999,0,1 @ F,0,0,1,0,1.4999999,0,1 @ F,0,0,1,0,1.4999999,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.4999999,0,1 @ F,0,0,1,0,1.4999999,0,1 @ F,0,0,1,0,1.4999999,0,1 @ F,0,0,1,0,1.4999999,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       id="cpMzMuMTN8NDU1LjMyfDUuNDh8MTQ4LjUw">
+      <rect
+         x="33.130001"
+         y="5.48"
+         width="422.19"
+         height="143.02"
+         id="rect4" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-7">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-3" />
+    </clipPath>
+    <clipPath
+       id="cpMzYuMjR8NDU1LjMyfDUuNDh8MTQxLjg3">
+      <rect
+         x="36.240002"
+         y="5.48"
+         width="419.07999"
+         height="136.39"
+         id="rect4-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath1">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath5">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="clipPath7">
+      <rect
+         x="36.240002"
+         y="5.48"
+         width="419.07999"
+         height="136.39"
+         id="rect7" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-75">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-4" />
+    </clipPath>
+    <clipPath
+       id="cpMzYuMjR8NDU1LjMyfDUuNDh8MTQxLjg3-1">
+      <rect
+         x="36.240002"
+         y="5.48"
+         width="419.07999"
+         height="136.39"
+         id="rect4-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-0">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1-0" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-77">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-7" />
+    </clipPath>
+    <clipPath
+       id="cpMjMuMDB8NDU1LjMyfDUuNDh8MTU1LjEx">
+      <rect
+         x="23"
+         y="5.48"
+         width="432.32001"
+         height="149.63"
+         id="rect4-73" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-3">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1-5" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-9"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath5-9">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect5-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath7-8">
+      <rect
+         x="23"
+         y="5.48"
+         width="432.32001"
+         height="149.63"
+         id="rect7-2" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-5">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-0" />
+    </clipPath>
+    <clipPath
+       id="cpMjMuMDB8NDU1LjMyfDUuNDh8MTU1LjEx-9">
+      <rect
+         x="23"
+         y="5.48"
+         width="432.32001"
+         height="149.63"
+         id="rect4-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-7">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1-8" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-3"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath3">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect3" />
+    </clipPath>
+    <clipPath
+       id="clipPath6">
+      <rect
+         x="23"
+         y="5.48"
+         width="432.32001"
+         height="149.63"
+         id="rect6" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect2-6" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8MzcwLjc3fDUuNDh8MTkxLjEx">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="341.47"
+         height="185.63"
+         id="rect4-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-5">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect1-7" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath5-92">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect5-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath7-4">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="341.47"
+         height="185.63"
+         id="rect7-3" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwxODAuMDA=-9">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect2-34" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8NDU1LjMyfDUuNDh8MTE1Ljkx">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="110.43"
+         id="rect4-46" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-06">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect1-6" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-18"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath5-96">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="180"
+         id="rect5-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath7-82">
+      <rect
+         x="29.299999"
+         y="5.48"
+         width="426.01999"
+         height="110.43"
+         id="rect7-9" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=-6">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect2-36" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-54">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect1-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect26"
+         style="stroke-width:0.999997" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect27"
+         style="stroke-width:0.999997" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect28"
+         style="stroke-width:0.999997" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect29"
+         style="stroke-width:0.999997" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect30"
+         style="stroke-width:0.999997" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8NDU1LjMyfDQ0LjY4fDE5MS4xMQ==">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect4-5" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=-7">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect2-5" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-4"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath3-1">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect3-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath5-0">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect5-0" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=-0">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect2-9" />
+    </clipPath>
+    <clipPath
+       id="cpMjkuMzB8NDU1LjMyfDQ0LjY4fDE5MS4xMQ==-4">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect4-88" />
+    </clipPath>
+    <clipPath
+       id="clipPath1-2">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect1-4" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style1-5"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    <clipPath
+       id="clipPath5-1">
+      <rect
+         x="0"
+         y="0"
+         width="460.79999"
+         height="216"
+         id="rect5-71" />
+    </clipPath>
+    <clipPath
+       id="clipPath7-2">
+      <rect
+         x="29.299999"
+         y="44.68"
+         width="426.01999"
+         height="146.42999"
+         id="rect7-7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview54"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="1"
+     inkscape:cx="338"
+     inkscape:cy="218.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59"
+     showgrid="false"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="0.74999994"
+       spacingy="0.75000005"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#ffffff;stroke-width:0.75"
+     id="rect14"
+     width="512.82916"
+     height="331.98663"
+     x="-9.0156107"
+     y="-15.379573" />
+  <text
+     x="109.28906"
+     y="207.88"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;white-space:pre;fill:#333333"
+     id="text36"
+     transform="translate(4.5000004,49.5)"><tspan
+       sodipodi:role="line"
+       id="tspan32"
+       x="109.28906"
+       y="207.88">Ottawa,</tspan><tspan
+       sodipodi:role="line"
+       id="tspan33"
+       x="109.28906"
+       y="221.63">Ont.</tspan></text>
+  <text
+     x="183.63725"
+     y="207.88"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;white-space:pre;fill:#333333"
+     id="text37"
+     transform="translate(4.5000004,49.5)"><tspan
+       sodipodi:role="line"
+       id="tspan34"
+       x="183.63725"
+       y="207.88">Toronto,</tspan><tspan
+       sodipodi:role="line"
+       id="tspan35"
+       x="183.63725"
+       y="221.63">Ont.</tspan></text>
+  <text
+     x="257.18466"
+     y="207.88"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;white-space:pre;fill:#333333"
+     id="text38"
+     transform="translate(4.5000004,49.5)"><tspan
+       sodipodi:role="line"
+       id="tspan36"
+       x="257.18466"
+       y="207.88">Vancouver,</tspan><tspan
+       sodipodi:role="line"
+       id="tspan37"
+       x="257.18466"
+       y="221.63">B.C.</tspan></text>
+  <text
+     x="329.71033"
+     y="207.88"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;white-space:pre;fill:#333333"
+     id="text39"
+     transform="translate(4.5000004,49.5)"><tspan
+       sodipodi:role="line"
+       id="tspan38"
+       x="329.71033"
+       y="207.88">Winnipeg,</tspan><tspan
+       sodipodi:role="line"
+       id="tspan39"
+       x="329.71033"
+       y="221.63">Man.</tspan></text>
+  <text
+     x="404.37323"
+     y="207.88"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;white-space:pre;fill:#333333"
+     id="text40"
+     transform="translate(4.5000004,49.5)"><tspan
+       sodipodi:role="line"
+       id="tspan40"
+       x="404.37323"
+       y="207.88">Yellowknife,</tspan><tspan
+       sodipodi:role="line"
+       id="tspan41"
+       x="404.37323"
+       y="221.63">N.W.T.</tspan></text>
+  <g
+     id="Layer_6"
+     data-name="Layer 6">
+    <g
+       id="text49"
+       isolation="isolate">
+      <g
+         id="g1"
+         isolation="isolate">
+        <text
+           transform="rotate(0.17,-8823.4616,7111.0363)"
+           font-family="TradeGothicLT-Bold, 'TradeGothic LT Bold'"
+           font-size="17px"
+           font-weight="700"
+           isolation="isolate"
+           id="text1"
+           style="font-size:16px;white-space:pre;inline-size:418.464;display:inline"
+           xml:space="preserve"><tspan
+             x="0"
+             y="0"
+             id="tspan1">Selected federal versus municipal election voter turnout rates</tspan></text>
+      </g>
+    </g>
+    <g
+       id="text51"
+       isolation="isolate"
+       transform="translate(0,35.070519)">
+      <g
+         id="g2"
+         isolation="isolate">
+        <text
+           transform="translate(12.099918,260.47356)"
+           fill="#999999"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="8px"
+           isolation="isolate"
+           id="text2"
+           style="white-space:pre;inline-size:467.358;display:inline"
+           xml:space="preserve"><tspan
+             x="0"
+             y="0"
+             id="tspan2">Data sources: Elections Canada (2025); Association of Municipalities of Ontario, 2026 Ontario Municipal Elections (unofficial); </tspan><tspan
+             x="0"
+             y="10"
+             id="tspan3">City of Vancouver (2026); City of Winnipeg (2026); City of Yellowknife (2026).
+</tspan><tspan
+             x="0"
+             y="19.999999"
+             id="tspan7">*Federal election voter turnout was calculated as the weighted average voter turnout for all federal electoral districts within </tspan><tspan
+             x="0"
+             y="29.999999"
+             id="tspan11">the municipality.</tspan></text>
+      </g>
+    </g>
+    <rect
+       id="rect72"
+       x="0"
+       y="14.4"
+       width="14.4"
+       height="14.4"
+       fill="#f1c500" />
+    <path
+       id="path37"
+       d="M 0,335.82921 H 489.6"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width="0.5" />
+    <path
+       id="path37-2"
+       d="M 0,0.5 H 489.6"
+       fill="none"
+       stroke="#f1c500"
+       stroke-miterlimit="2.25"
+       stroke-width="0.5" />
+    <g
+       class="svglite"
+       id="g43"
+       transform="translate(4.5000004,49.5)">
+      <defs
+         id="defs2">
+        <style
+           type="text/css"
+           id="style2"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+      </defs>
+      <defs
+         id="defs5">
+        <clipPath
+           id="clipPath8">
+          <rect
+             x="0"
+             y="0"
+             width="460.79999"
+             height="216"
+             id="rect8" />
+        </clipPath>
+      </defs>
+      <defs
+         id="defs4">
+        <clipPath
+           id="clipPath9">
+          <rect
+             x="29.299999"
+             y="44.68"
+             width="426.01999"
+             height="146.42999"
+             id="rect9" />
+        </clipPath>
+      </defs>
+      <g
+         clip-path="url(#cpMjkuMzB8NDU1LjMyfDQ0LjY4fDE5MS4xMQ==-4)"
+         id="g26-6">
+        <polyline
+           points="29.30,191.11 455.32,191.11 "
+           style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+           id="polyline4" />
+        <polyline
+           points="29.30,156.24 455.32,156.24 "
+           style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+           id="polyline5" />
+        <polyline
+           points="29.30,121.38 455.32,121.38 "
+           style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+           id="polyline6" />
+        <polyline
+           points="29.30,86.51 455.32,86.51 "
+           style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+           id="polyline7" />
+        <polyline
+           points="29.30,51.65 455.32,51.65 "
+           style="fill:none;stroke:#999999;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+           id="polyline8" />
+        <rect
+           x="81.959999"
+           y="84.699997"
+           width="25.709999"
+           height="106.41"
+           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect10" />
+        <rect
+           x="111.34"
+           y="140.62"
+           width="25.709999"
+           height="50.48"
+           style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect11" />
+        <rect
+           x="155.41"
+           y="99.760002"
+           width="25.709999"
+           height="91.339996"
+           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect12" />
+        <rect
+           x="184.78999"
+           y="127.24"
+           width="25.709999"
+           height="63.869999"
+           style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect13" />
+        <rect
+           x="228.86"
+           y="97.389999"
+           width="25.709999"
+           height="93.709999"
+           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect15" />
+        <rect
+           x="258.23999"
+           y="130.58"
+           width="25.709999"
+           height="60.52"
+           style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect16" />
+        <rect
+           x="302.31"
+           y="94.739998"
+           width="25.709999"
+           height="96.360001"
+           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect14-1" />
+        <rect
+           x="331.69"
+           y="138.53"
+           width="25.709999"
+           height="52.580002"
+           style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect17" />
+        <rect
+           x="375.76001"
+           y="114.54"
+           width="25.709999"
+           height="76.559998"
+           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect18" />
+        <rect
+           x="405.14999"
+           y="138.81"
+           width="25.709999"
+           height="52.299999"
+           style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect19" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0"
+           id="rect20"
+           width="29.424175"
+           height="8.25"
+           x="231"
+           y="137.0625"
+           transform="translate(-4.5000004,-55.5)" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0"
+           id="rect21"
+           width="29.424175"
+           height="8.25"
+           x="299.625"
+           y="81.5625" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           id="rect21-1"
+           width="30.75"
+           height="8.25"
+           x="182.67508"
+           y="116.09277" />
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           id="rect21-7"
+           width="30.484835"
+           height="8.25"
+           x="256.13873"
+           y="117.77341" />
+        <text
+           x="95.559998"
+           y="80.209999"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text17-4">76.3%</text>
+        <text
+           x="124.94"
+           y="136.13"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text18-2">36.2%</text>
+        <text
+           x="169.00999"
+           y="95.269997"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text19">65.5%</text>
+        <text
+           x="198.39"
+           y="122.74001"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text20-3">45.8%</text>
+        <text
+           x="242.47"
+           y="92.900002"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text21-2">67.2%</text>
+        <text
+           x="271.85001"
+           y="126.09"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text22">43.4%</text>
+        <text
+           x="315.92001"
+           y="90.25"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text23-2">69.1%</text>
+        <text
+           x="345.29999"
+           y="134.03999"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text24-1">37.7%</text>
+        <text
+           x="389.37"
+           y="110.05"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text25-6">54.9%</text>
+        <text
+           x="418.75"
+           y="134.32001"
+           text-anchor="middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.96px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Bold';white-space:pre;fill:#000000"
+           id="text26-8">37.5%</text>
+      </g>
+      <g
+         clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=-0)"
+         id="g42">
+        <text
+           x="30.23"
+           y="188.28"
+           style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
+           id="text27">0%</text>
+        <text
+           x="30.23"
+           y="153.42"
+           style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
+           id="text28">25%</text>
+        <text
+           x="30.23"
+           y="118.56"
+           style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
+           id="text29">50%</text>
+        <text
+           x="30.23"
+           y="83.690002"
+           style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
+           id="text30">75%</text>
+        <text
+           x="30.23"
+           y="48.830002"
+           style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
+           id="text31">100%</text>
+        <polyline
+           points="29.30,191.11 455.32,191.11 "
+           style="fill:none;stroke:#999999;stroke-width:0.53;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+           id="polyline31" />
+        <rect
+           x="150.08"
+           y="11.67"
+           width="15.86"
+           height="15.86"
+           style="fill:#dc4633;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect40" />
+        <rect
+           x="258.32999"
+           y="11.67"
+           width="15.86"
+           height="15.86"
+           style="fill:#6d247a;stroke:none;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+           id="rect41" />
+        <text
+           x="172.13"
+           y="22.74"
+           style="font-size:8.8px;font-family:'Open Sans';white-space:pre;fill:#dc4633;fill-opacity:1"
+           id="text41"><tspan
+             style="font-weight:bold;fill:#dc4633;fill-opacity:1"
+             id="tspan43">Federal election</tspan></text>
+        <text
+           x="280.38"
+           y="22.74"
+           style="font-size:8.8px;font-family:'Open Sans';white-space:pre;fill:#6d247a;fill-opacity:1"
+           id="text42"><tspan
+             style="font-weight:bold;fill:#6d247a;fill-opacity:1"
+             id="tspan42">Municipal election</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g4"
+     style="display:none"
+     sodipodi:insensitive="true"
+     inkscape:label="old chart">
+    <polyline
+       points="53.19,133.86 72.30,133.86 72.30,112.21 110.51,112.21 110.51,143.92 158.28,143.92 158.28,133.86 225.16,133.86 225.16,95.59 301.59,95.59 301.59,91.06 358.92,91.06 358.92,115.23 416.24,115.23 416.24,86.03 454.46,86.03 "
+       style="fill:none;stroke:#007fa3;stroke-width:4.27;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+       id="polyline23"
+       transform="matrix(0.66185859,0,0,0.66185859,32.018516,42.071321)" />
+    <circle
+       cx="67.222771"
+       cy="130.66771"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle23"
+       r="4.2292762" />
+    <circle
+       cx="92.519012"
+       cy="116.33848"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle24"
+       r="4.2292762" />
+    <circle
+       cx="117.80862"
+       cy="137.326"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle25"
+       r="4.2292762" />
+    <circle
+       cx="155.75298"
+       cy="130.66771"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle26"
+       r="4.2292762" />
+    <circle
+       cx="206.33884"
+       cy="105.33838"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle27"
+       r="4.2292762" />
+    <circle
+       cx="256.92468"
+       cy="102.34016"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle28"
+       r="4.2292762" />
+    <circle
+       cx="282.22092"
+       cy="118.33729"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle29"
+       r="4.2292762" />
+    <circle
+       cx="332.80676"
+       cy="99.011017"
+       style="fill:#ffffff;stroke:#007fa3;stroke-width:2.8129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="circle30"
+       r="4.2292762" />
+    <g
+       id="Layer_1"
+       data-name="Layer 1">
+      <g
+         id="g14"
+         opacity="0.8">
+        <line
+           id="line11"
+           x1="21.112"
+           y1="205.689"
+           x2="481.992"
+           y2="205.689"
+           fill="none"
+           stroke="#deddda"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line12"
+           x1="21.112"
+           y1="166.461"
+           x2="481.992"
+           y2="166.461"
+           fill="none"
+           stroke="#deddda"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line13"
+           x1="21.112"
+           y1="127.234"
+           x2="481.992"
+           y2="127.234"
+           fill="none"
+           stroke="#deddda"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line14"
+           x1="21.112"
+           y1="88.005997"
+           x2="481.992"
+           y2="88.005997"
+           fill="none"
+           stroke="#deddda"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+      </g>
+      <g
+         id="g10">
+        <line
+           id="line2"
+           x1="64.841003"
+           y1="247.369"
+           x2="64.841003"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line4"
+           x1="101.46"
+           y1="247.369"
+           x2="101.46"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line6"
+           x1="138.07899"
+           y1="247.369"
+           x2="138.07899"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line8"
+           x1="174.698"
+           y1="247.369"
+           x2="174.698"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line10"
+           x1="211.317"
+           y1="247.369"
+           x2="211.317"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+      </g>
+      <g
+         id="text15"
+         isolation="isolate">
+        <text
+           transform="translate(53.405,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text4"><tspan
+             x="0"
+             y="0"
+             id="tspan4">2004</tspan></text>
+      </g>
+      <g
+         id="text16"
+         isolation="isolate">
+        <text
+           transform="translate(90.024,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text5"><tspan
+             x="0"
+             y="0"
+             id="tspan5">2006</tspan></text>
+      </g>
+      <g
+         id="text17"
+         isolation="isolate">
+        <text
+           transform="translate(126.644,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text6"><tspan
+             x="0"
+             y="0"
+             id="tspan6">2008</tspan></text>
+      </g>
+      <g
+         id="text20"
+         isolation="isolate">
+        <text
+           transform="translate(163.263,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text9"><tspan
+             x="0"
+             y="0"
+             id="tspan9">2011</tspan></text>
+      </g>
+      <g
+         id="text21"
+         isolation="isolate">
+        <text
+           transform="translate(199.882,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text10"><tspan
+             x="0"
+             y="0"
+             id="tspan10">2015</tspan></text>
+      </g>
+      <g
+         id="g10-1"
+         transform="translate(146.47966,-0.00317129)">
+        <line
+           id="line2-3"
+           x1="64.841003"
+           y1="247.369"
+           x2="64.841003"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line4-8"
+           x1="101.46"
+           y1="247.369"
+           x2="101.46"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line6-7"
+           x1="138.07899"
+           y1="247.369"
+           x2="138.07899"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+      </g>
+      <g
+         id="text16-3"
+         isolation="isolate"
+         transform="translate(146.47966,-0.00317129)">
+        <text
+           transform="translate(90.024,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text5-1"><tspan
+             x="0"
+             y="0"
+             id="tspan5-9">2019</tspan></text>
+      </g>
+      <g
+         id="text17-8"
+         isolation="isolate"
+         transform="translate(146.47966,-0.00317129)">
+        <text
+           transform="translate(126.644,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text6-6"><tspan
+             x="0"
+             y="0"
+             id="tspan6-5">2021</tspan></text>
+      </g>
+      <g
+         id="g10-1-9"
+         transform="translate(183.10189,-0.0103786)">
+        <line
+           id="line2-3-1"
+           x1="64.841003"
+           y1="247.369"
+           x2="64.841003"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line4-8-3"
+           x1="101.46"
+           y1="247.369"
+           x2="101.46"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+        <line
+           id="line6-7-5"
+           x1="138.07899"
+           y1="247.369"
+           x2="138.07899"
+           y2="242.465"
+           fill="none"
+           stroke="#000000"
+           stroke-miterlimit="10"
+           stroke-width="0.75" />
+      </g>
+      <g
+         id="text17-8-9"
+         isolation="isolate"
+         transform="translate(183.10189,-0.0103786)">
+        <text
+           transform="translate(126.644,260.499)"
+           fill="#6d6e71"
+           font-family="OpenSans, 'Open Sans'"
+           font-size="10px"
+           isolation="isolate"
+           id="text6-6-8"><tspan
+             x="0"
+             y="0"
+             id="tspan6-5-4">2025</tspan></text>
+      </g>
+      <g
+         id="g27">
+        <g
+           id="text23"
+           isolation="isolate">
+          <text
+             transform="translate(21.112,125.284)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="10px"
+             isolation="isolate"
+             id="text12"><tspan
+               x="0"
+               y="0"
+               id="tspan12">60</tspan></text>
+        </g>
+        <g
+           id="text24"
+           isolation="isolate">
+          <text
+             transform="translate(21.112,164.512)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="10px"
+             isolation="isolate"
+             id="text13"><tspan
+               x="0"
+               y="0"
+               id="tspan13">40</tspan></text>
+        </g>
+        <g
+           id="text25"
+           isolation="isolate">
+          <text
+             transform="translate(21.112,203.741)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="10px"
+             isolation="isolate"
+             id="text18"><tspan
+               x="0"
+               y="0"
+               id="tspan14">20</tspan></text>
+        </g>
+        <g
+           id="g26"
+           isolation="isolate">
+          <text
+             transform="translate(21.112,242.968)"
+             fill="#6d6e71"
+             font-family="OpenSans, 'Open Sans'"
+             font-size="10px"
+             isolation="isolate"
+             id="text26"><tspan
+               x="0"
+               y="0"
+               id="tspan18">0</tspan></text>
+        </g>
+      </g>
+      <line
+         id="line41"
+         x1="21.112"
+         y1="244.91701"
+         x2="481.992"
+         y2="244.91701"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         stroke-width="0.75" />
+    </g>
+    <g
+       id="g3"
+       inkscape:label="LINE">
+      <g
+         id="g54"
+         style="stroke-width:1.5;stroke-dasharray:none"
+         transform="translate(7.9499764,7.520911)">
+        <g
+           id="g26-8"
+           transform="translate(-7.9499764,-7.520911)">
+          <g
+             id="text22-5-9"
+             isolation="isolate"
+             transform="translate(-230.14691,-0.60834049)">
+            <polyline
+               id="polyline42"
+               points="55.686 115.465 73.996 115.465 73.996 102.912 92.305 102.912 92.305 107.62 110.615 107.62 110.615 123.311 128.925 123.311 128.925 106.051 147.234 106.051 147.234 79.376 165.544 79.376 165.544 104.482 183.853 104.482 183.853 82.514 202.163 82.514 202.163 107.62 220.473 107.62"
+               fill="none"
+               stroke="#067fa3"
+               stroke-miterlimit="10"
+               style="stroke-width:1.5;stroke-dasharray:none"
+               transform="translate(238.09689,18.157116)" />
+            <text
+               transform="translate(251.923,85.456)"
+               fill="#6d6e71"
+               font-family="OpenSans, 'Open Sans'"
+               font-size="10px"
+               isolation="isolate"
+               id="text27-4"
+               style="white-space:pre;inline-size:74.0916;display:inline"
+               xml:space="preserve"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan15">80% of eligible </tspan><tspan
+                 x="0"
+                 y="12.5"
+                 id="tspan16">voters</tspan></text>
+            <text
+               transform="translate(251.923,97.956)"
+               fill="#6d6e71"
+               font-family="OpenSans, 'Open Sans'"
+               font-size="10px"
+               isolation="isolate"
+               id="text28-8"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan28-2" /></text>
+          </g>
+          <g
+             id="text25-7"
+             isolation="isolate" />
+        </g>
+        <path
+           id="rect48"
+           d="m 56.876699,122.69514 h 0.002 c 1.57,0 2.843,1.273 2.843,2.843 v 0 c 0,1.57 -1.273,2.843 -2.843,2.843 h -0.002 c -1.57,0 -2.843,-1.273 -2.843,-2.843 v 0 c 0,-1.57 1.273,-2.843 2.843,-2.843 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2004" />
+        <path
+           id="rect48-8"
+           d="m 93.491001,109.19957 h 0.002 c 1.57,0 2.843,1.273 2.843,2.843 v 0 c 0,1.57 -1.273,2.843 -2.843,2.843 h -0.002 c -1.57,0 -2.843,-1.273 -2.843,-2.843 v 0 c 0,-1.57 1.273,-2.843 2.843,-2.843 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2006" />
+        <path
+           id="path48"
+           d="m 130.12636,128.05889 h 0.002 c 1.569,0 2.842,1.273 2.842,2.842 v 0 c 0,1.57 -1.274,2.844 -2.844,2.844 h -0.002 c -1.569,0 -2.842,-1.273 -2.842,-2.842 v 0 c 0,-1.57 1.274,-2.844 2.844,-2.844 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2008" />
+        <path
+           id="rect49"
+           d="m 166.74118,122.46903 h 0.002 c 1.57,0 2.843,1.273 2.843,2.843 v 0 c 0,1.57 -1.273,2.843 -2.843,2.843 h -0.002 c -1.57,0 -2.843,-1.273 -2.843,-2.843 v 0 c 0,-1.57 1.273,-2.843 2.843,-2.843 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2011" />
+        <path
+           id="path49"
+           d="m 203.36871,106.99723 h 0.002 c 1.569,0 2.842,1.273 2.842,2.842 v 0 c 0,1.57 -1.274,2.844 -2.844,2.844 h -0.002 c -1.569,0 -2.842,-1.273 -2.842,-2.842 v 0 c 0,-1.57 1.274,-2.844 2.844,-2.844 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2015" />
+        <path
+           id="rect50"
+           d="m 239.94,106.11081 h 0.002 c 1.57,0 2.843,1.273 2.843,2.843 v 0 c 0,1.57 -1.273,2.843 -2.843,2.843 h -0.002 c -1.57,0 -2.843,-1.273 -2.843,-2.843 v 0 c 0,-1.57 1.273,-2.843 2.843,-2.843 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2019" />
+        <path
+           id="rect51"
+           d="m 276.65642,111.43261 h 0.002 c 1.57,0 2.843,1.273 2.843,2.843 v 0 c 0,1.57 -1.273,2.843 -2.843,2.843 h -0.002 c -1.57,0 -2.843,-1.273 -2.843,-2.843 v 0 c 0,-1.57 1.273,-2.843 2.843,-2.843 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2021" />
+        <path
+           id="rect51-8"
+           d="m 313.17976,103.3289 h 0.002 c 1.57,0 2.843,1.273 2.843,2.843 v 0 c 0,1.57 -1.273,2.843 -2.843,2.843 h -0.002 c -1.57,0 -2.843,-1.273 -2.843,-2.843 v 0 c 0,-1.57 1.273,-2.843 2.843,-2.843 z"
+           fill="#ffffff"
+           stroke="#067fa3"
+           stroke-miterlimit="10"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           inkscape:label="2021" />
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans Italic';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0"
+     x="21.75"
+     y="46.5"
+     id="text32"><tspan
+       sodipodi:role="line"
+       id="tspan28"
+       style="font-size:12px;fill:#000000;stroke-width:0"
+       x="21.75"
+       y="46.5">Results from the 2025 federal election and 2026 municipal elections</tspan></text>
+</svg>

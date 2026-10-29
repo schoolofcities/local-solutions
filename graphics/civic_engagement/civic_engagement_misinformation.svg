@@ -514,12 +514,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1"
-     inkscape:cx="408.99999"
-     inkscape:cy="151"
+     inkscape:cx="250"
+     inkscape:cy="222"
      inkscape:window-width="1150"
      inkscape:window-height="880"
-     inkscape:window-x="7"
-     inkscape:window-y="0"
+     inkscape:window-x="732"
+     inkscape:window-y="101"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg59"
      showgrid="false"
@@ -821,7 +821,7 @@
          x="5.48"
          y="112.68"
          style="font-size:11px;font-family:'Open Sans';white-space:pre;fill:#333333"
-         id="text33">Provincial, territorial or</text>
+         id="text33">Provincial/territorial or</text>
       <text
          x="5.48"
          y="124.56"
@@ -841,7 +841,7 @@
          xml:space="preserve"><tspan
            x="5.48"
            y="57.950001"
-           id="tspan6">Close contacts (e.g., family, friends, </tspan></text>
+           id="tspan5">Close contacts (e.g., family, friends, </tspan></text>
       <text
          x="5.48"
          y="21.67"

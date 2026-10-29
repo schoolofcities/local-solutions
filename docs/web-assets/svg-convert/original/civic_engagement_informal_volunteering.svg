@@ -504,15 +504,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="1.4210403"
-     inkscape:cx="356.07718"
-     inkscape:cy="169.24221"
-     inkscape:window-width="1536"
-     inkscape:window-height="889"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="text51"
+     inkscape:zoom="1.0048272"
+     inkscape:cx="338.36664"
+     inkscape:cy="145.29861"
+     inkscape:window-width="1150"
+     inkscape:window-height="1032"
+     inkscape:window-x="754"
+     inkscape:window-y="7"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg59"
      showgrid="false"
      showguides="false">
     <inkscape:grid
@@ -546,7 +546,7 @@
      y="0" />
   <g
      id="g58"
-     transform="matrix(-1.4738731,0,0,1.4738731,805.40492,-12.938352)">
+     transform="matrix(-1.4738731,0,0,1.4738731,805.40492,-0.9960006)">
     <path
        id="path57"
        d="m 241.934,70.122 c 0,0 -9.343,-3.091 -8.555,10.996"
@@ -567,13 +567,13 @@
      width="17.348236"
      height="1.6327434"
      x="452.83243"
-     y="139.5719" />
+     y="151.51425" />
   <rect
      style="fill:#000000;stroke-width:1.48867"
      id="rect9-4-7"
      width="23.945517"
      height="1.6327434"
-     x="116.10326"
+     x="128.04561"
      y="-462.3316"
      transform="rotate(90)" />
   <g
@@ -594,7 +594,7 @@
            id="text1"><tspan
              x="0"
              y="0"
-             id="tspan1">Informal volunteering rates in Canada</tspan></text>
+             id="tspan1">Rate of informal volunteering in Canada</tspan></text>
       </g>
     </g>
     <g
@@ -613,7 +613,7 @@
            id="text2"><tspan
              x="0"
              y="0"
-             id="tspan2">Data source: Statistics Canada (2004, 2007, 2010, 2013, 2018, 2023) General Social Survey.</tspan></text>
+             id="tspan2">Data source: Statistics Canada General Social Survey (2004, 2007, 2010, 2013, 2018, 2023.</tspan></text>
       </g>
       <path
          style="fill:#dc4633;stroke-width:0.75"
@@ -644,27 +644,32 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:452.913;display:inline;fill:#000000;stroke-width:0.75"
+     style="font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:444.703;display:inline;fill:#000000;stroke-width:0.75"
      x="21.111296"
      y="45.389286"
      id="text18"
      transform="translate(0,1.5833471)"><tspan
        x="21.111296"
        y="45.389286"
-       id="tspan8"><tspan
-         style="font-style:italic"
-         id="tspan7">Individuals who helped someone or their community living outside of their household, on </tspan></tspan><tspan
-       x="21.111296"
-       y="59.139286"
        id="tspan13"><tspan
          style="font-style:italic"
-         id="tspan9">their own and not on behalf of </tspan><tspan
+         id="tspan8">Percentage of individuals who gave direct help to someone living outside of their household </tspan></tspan><tspan
+       x="21.111296"
+       y="59.139286"
+       id="tspan15"><tspan
          style="font-style:italic"
-         id="tspan10">a group or organization. </tspan></tspan></text>
+         id="tspan14">or improved their community, on their own and not as part of a group or organization, in </tspan></tspan><tspan
+       x="21.111296"
+       y="72.889286"
+       id="tspan18"><tspan
+         style="font-style:italic"
+         id="tspan16">the </tspan><tspan
+         style="font-style:italic"
+         id="tspan17">past 12 months.</tspan></tspan></text>
   <g
      class="svglite"
      id="g26"
-     transform="translate(2.2704884,79.184985)">
+     transform="translate(2.2704884,91.127336)">
     <defs
        id="defs2">
       <style
@@ -854,20 +859,20 @@
      width="17.348236"
      height="1.6327434"
      x="452.83243"
-     y="115.40936" />
+     y="127.35172" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;inline-size:87.5247;fill:#000000;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;inline-size:87.5247;display:inline;fill:#000000;stroke-width:0.75"
      x="507.74615"
      y="96.28521"
      id="text11"
-     transform="translate(-60.995039,-8.6851046)"><tspan
+     transform="translate(-60.995039,3.2572468)"><tspan
        x="507.74615"
        y="96.28521"
-       id="tspan14">17% decrease<tspan
+       id="tspan19">17% decrease<tspan
    y="96.28521"
-   id="tspan15"> </tspan></tspan><tspan
+   id="tspan20"> </tspan></tspan><tspan
        x="507.74615"
        y="110.03521"
-       id="tspan16">from 2004</tspan></text>
+       id="tspan21">from 2004</tspan></text>
 </svg>

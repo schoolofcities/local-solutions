@@ -1,6 +1,6 @@
 
 export const tags = [
-        {value: 'Finalist', label:'Finalist'},
+        {value: 'Featured', label:'Featured'},
         {value: 'Financing', label: 'Financing', group: 'Approaches'},
         {value: 'Capacity Building', label: 'Capacity Building', group: 'Approaches'},
         {value: 'Data & Technology', label: 'Data & Technology', group: 'Approaches'},
@@ -13,9 +13,12 @@ export const tags = [
         {value: 'Networks & Coalitions', label: 'Networks & Coalitions', group: 'Actors'},
         {value: 'Academic & Research Institutions', label: 'Academic & Research Institutions', group: 'Actors'},
         {value: 'Youth', label: 'Youth', group: 'Actors'},
+        {value: '2025', label: '2025', group: 'Cohorts'},
+        {value: '2026', label: '2026', group: 'Cohorts'},
     ];
 
 export const locations = [
+        {value: 'Across Canada', label: 'Across Canada'},
         {value: 'AB', label: 'Alberta', group: 'Provinces & Territories'},
         {value: 'BC', label: 'British Columbia', group: 'Provinces & Territories'},
         {value: 'MB', label: 'Manitoba', group: 'Provinces & Territories'},
@@ -29,5 +32,4 @@ export const locations = [
         {value: 'QC', label: 'Quebec', group: 'Provinces & Territories'},
         {value: 'SK', label: 'Saskatchewan', group: 'Provinces & Territories'},
         {value: 'YT', label: 'Yukon Territories', group: 'Provinces & Territories'},
-        {value: 'Across Canada', label: 'Across Canada'},
     ];
