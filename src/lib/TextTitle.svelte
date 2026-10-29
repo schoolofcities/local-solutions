@@ -16,7 +16,7 @@
     </div>
     {#if chapter && pdfPaths[chapter]}
         <a href={pdfPaths[chapter]} target="_blank" class="pdf-link">
-            Download this chapter as a PDF <DownloadIcon fill="var(--brandYellow)"/>
+            Download as a PDF <DownloadIcon fill="var(--brandYellow)"/>
         </a>
     {/if}
 </div>

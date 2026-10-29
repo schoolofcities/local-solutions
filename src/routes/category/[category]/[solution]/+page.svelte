@@ -43,7 +43,7 @@
         <div class="caption-container">
             <p>
                 <span class="caption-text">{@html solution.Title_Caption}</span>
-                <span class="caption-source">{"Photo credit: "}{@html solution.Title_Source}</span>
+                <span class="caption-source">{"Image credit: "}{@html solution.Title_Source}</span>
             </p>
         </div>
         <div class="title">

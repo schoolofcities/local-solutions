@@ -17,6 +17,12 @@
     let spotlighted = $page.data.spotlighted;
 
     let categoriesDropdownValues = [];
+    
+    categoriesDropdownValues.push({
+        label: "All categories",
+        link: `/local-solutions/categories`
+    });
+
     Object.keys(chapterColours).forEach((key) => {
         categoriesDropdownValues.push({
             label: key,
@@ -52,9 +58,10 @@
         <div class="right-side">
             <div class="nav-buttons">
                 <HeaderBarButton link="/local-solutions/about" content="About"/>
-                <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="How to Scale"/>
+                <HeaderBarButton link="/local-solutions/scaling-social-innovation" content="Scaling Social Innovation"/>
+                <HeaderBarButton link="/local-solutions/2026-solutions" content="2026 Cohort"/>
                 <HeaderBarButton link="/local-solutions/featured-solutions" content="Featured Solutions"/>
-                <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true}/>
+                <HeaderBarButton content="Categories" dropdown={true} dropdownValues={categoriesDropdownValues} rightOverflow={true} link="/local-solutions/categories"/>
 
                 <a href="https://www.schoolofcities.utoronto.ca" target="_blank" id="sofc-logo">
                     <img src={SofCLogo} alt="School of Cities logo" class="logo-top"/>
@@ -81,27 +88,19 @@
     <!-- Mobile menu panel -->
     {#if mobileMenuOpen}
         <div class="mobile-menu" transition:slide>
-            <a
-                class="mobile-link"
-                href="/local-solutions/about"
-                target="_blank"
-            >
+            <a class="mobile-link" href="/local-solutions/about">
                 About
             </a>
 
-            <a
-                class="mobile-link"
-                href="/local-solutions/scaling-social-innovation"
-                target="_blank"
-            >
-                How to Scale
+            <a class="mobile-link" href="/local-solutions/scaling-social-innovation">
+                Scaling Social Innovation
             </a>
 
-            <a
-                class="mobile-link"
-                href="/local-solutions/featured-solutions"
-                target="_blank"
-            >
+            <a class="mobile-link" href="/local-solutions/2026-solutions">
+                2026 Cohort
+            </a>
+
+            <a class="mobile-link" href="/local-solutions/featured-solutions">
                 Featured Solutions
             </a>
 
@@ -116,6 +115,9 @@
 
             {#if mobileCategoriesOpen}
                 <ul class="mobile-dropdown" transition:slide>
+                    <a href="/local-solutions/categories" onclick={closeMobileMenu}>
+                        <li>All categories</li>
+                    </a>
                     {#each Object.keys(chapterColours) as Chapter}
                         <a
                             href={`/local-solutions/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
@@ -149,7 +151,6 @@
     }
 
     .nav-buttons {
-        max-width: 500px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -207,16 +208,6 @@
 
     @media (max-width: 1080px) {
         .desktop-button {
-            height: 40px;
-        }
-
-        .logo-top {
-            height: 40px;
-        }
-    }
-
-    @media (max-width: 800px) {
-        .desktop-button {
             height: 35px;
             font-size: 17px;
         }
@@ -230,7 +221,7 @@
         }
     }
 
-    @media (max-width: 650px) {
+    @media (max-width: 950px) {
         .desktop-button {
             display: none;
         }

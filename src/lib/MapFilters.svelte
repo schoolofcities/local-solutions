@@ -230,7 +230,10 @@
             <Select items={municipalities} multiple showChevron bind:value={pendingMunicipalities}
                 containerStyles="font-family: Roboto !important;"
                 inputStyles="font-family: Roboto !important;"
-                groupBy={item => item.group}
+                groupBy={(item) => {
+                    if (item.label === "Across Canada") return "";
+                    return "Municipalities";
+                }}
                 placeholder="Municipality" />
         </div>
         <div class="select-box">

@@ -221,27 +221,26 @@ p {
 }
 
 b {
-	font-family: SourceSerifBold;
+	font-family: RobotoBold;
 	font-weight: normal;
 }
 
 strong {
-	font-family: SourceSerifBold;
+	font-family: RobotoBold;
 	font-weight: normal;
 }
 
 i {
-	font-family: SourceSerifItalic;
+	font-family: RobotoItalic;
 	font-weight: normal;
 }
 
 em {
-	font-family: SourceSerifItalic;
+	font-family: RobotoItalic;
 	font-weight: normal;
 }
 
 a {
-	color: var(--brandWhite);
 	text-decoration: underline;
 	font-family: Roboto;
 	font-weight: normal;
@@ -259,7 +258,7 @@ ul {
 }
 
 li {
-	font-family: SourceSerif;
+	font-family: Roboto;
 	font-weight: normal;
 	color: var(--brandGray90);
 	text-align: left;
@@ -287,7 +286,7 @@ li {
 }
 
 .details p {
-	font-family: SourceSerif;
+	font-family: Roboto;
 	font-weight: normal;
 	color: var(--brandGray90);
 	text-align: left;
@@ -352,7 +351,7 @@ li {
 }
 
 .callout p {
-	font-family: SourceSerif;
+	font-family: Roboto;
 	font-weight: normal;
 	color: var(--brandGray90);
 	text-align: left;

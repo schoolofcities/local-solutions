@@ -10,7 +10,7 @@ renderer.image = ({ href, text, title }) => {
     if (!href) return '';
     const titleAttr = title ? ` title="${title}"` : '';
     let photoCredit;
-    let index = title.indexOf("Photo credit:"); 
+    let index = title.indexOf("Image credit:"); 
     if (index !== -1) {
         photoCredit = title.slice(index, title.length);
         title = title.slice(0, index);

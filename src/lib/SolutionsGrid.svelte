@@ -12,36 +12,35 @@
         solutionsList,
         Chapter = "",
         home = false,
+        hasFilters = true,
     } = $props();
 
-    let municipalitiesSet = new Set();
-    
-    solutionsList.forEach((solution) => {
-        solution.Municipalities_List.forEach((municipality) => {
-            municipalitiesSet.add(municipality);
-        });
-    })
-    let municipalities = Array.from(municipalitiesSet, (item) => {
-        return {value: item, label: item};
-    });
+    const emptyChapters = () =>
+    Object.fromEntries(Object.keys(chapterColours).map(c => [c, false]));
+
+    const municipalities = hasFilters
+        ? [...new Set(solutionsList.flatMap(s => s.Municipalities_List ?? []))]
+            .map(m => ({ value: m, label: m }))
+        : [];
+
 
     const fromUrl = (list, param) => {
-        if (!browser) {
-            if (param === "category") return Object.fromEntries(Object.keys(chapterColours).map(c => [c, false]));
+        // Not filtering, or on the server: use empty defaults
+        if (!hasFilters || !browser) {
+            if (param === "category") return emptyChapters();
             if (param === "search") return "";
             if (param === "province") return undefined;
             return [];
         }
-        let active;
+        const params = $page.url.searchParams;
         if (param === "category") {
-            active = $page.url.searchParams.get(param)?.split('|') ?? [];
+            const active = params.get(param)?.split('|') ?? [];
             return Object.fromEntries(Object.keys(chapterColours).map(c => [c, active.includes(c)]));
         }
-        if (param === "search") return $page.url.searchParams.get(param) ?? "";
-        if (param === "province") return list.find(item => item.value == $page.url.searchParams.get(param));
-        return list.filter(item =>
-            $page.url.searchParams.get(param)?.split('|').filter(Boolean).includes(item.value)
-        );
+        if (param === "search") return params.get(param) ?? "";
+        if (param === "province") return list.find(item => item.value == params.get(param));
+        const vals = params.get(param)?.split('|').filter(Boolean) ?? [];
+        return list.filter(item => vals.includes(item.value));
     };
 
     let searchText = $state(fromUrl(null, 'search'));
@@ -50,6 +49,7 @@
     let selectedTags = $state(fromUrl(tags, 'tags'));
     let selectedChapters = $state(fromUrl(null, 'category'));
     let activeProvinceFilter = $state(null); 
+    let addTag = $state();
 
     let availableMunicipalities = $derived.by(() => {
         const set = new Set();
@@ -118,54 +118,38 @@
         if (active.length === 0) return true;
         return s.Chapter?.some(c => active.includes(c));
     }
+
     let filteredSolutionsList = $derived.by(() => {
-        let filtered = solutionsList.filter(s => {
+        if (!hasFilters) return solutionsList;
+
+        const filtered = solutionsList.filter(s => {
             const hasProvince = selectedProvince !== undefined;
             const hasMunicipality = selectedMunicipalities.length > 0;
-            
+
             const locationMatch =
                 (!hasProvince && !hasMunicipality) ||
                 (hasProvince && !hasMunicipality && matchesProvinces(s)) ||
                 (!hasProvince && hasMunicipality && matchesMunicipalities(s)) ||
-                (hasProvince && hasMunicipality &&
-                    (matchesProvinces(s) || matchesMunicipalities(s)));
+                (hasProvince && hasMunicipality && (matchesProvinces(s) || matchesMunicipalities(s)));
 
-            return (
-                locationMatch &&
-                matchesTags(s) &&
-                matchesChapters(s)
-            );
-        })
+            return locationMatch && matchesTags(s) && matchesChapters(s);
+        });
 
         return searchText ? matchSearchText(filtered) : filtered;
     });
 
 
+    const countProvinces = (list) => list.reduce((acc, s) => {
+        s.Provinces_List.forEach(p => { acc[p] = (acc[p] ?? 0) + 1; });
+        return acc;
+    }, {});
+
     const provinceCounts = $derived.by(() => {
-        const counts = filteredSolutionsList.reduce((acc, s) => {
-            s.Provinces_List.forEach(p => { acc[p] = (acc[p] ?? 0) + 1; });
-            return acc;
-        }, {});
-
-        const key = "Across Canada";
-        if (key in counts) {
-            const value = counts[key];
-            delete counts[key];
-            counts[key] = value;
-        }
-
-        return counts;
+        const { "Across Canada": across, ...rest } = countProvinces(filteredSolutionsList);
+        return across === undefined ? rest : { ...rest, "Across Canada": across };
     });
 
-    const totalProvinceCounts = $derived.by(() => {
-        const counts = solutionsList.reduce((acc, s) => {
-            s.Provinces_List.forEach(p => { acc[p] = (acc[p] ?? 0) + 1; });
-            return acc;
-        }, {});
-        return counts;
-    });
-    
-    let addTag = $state();
+    const totalProvinceCounts = $derived(countProvinces(solutionsList));
 
     function tagClicked(label) {
         const tagInfo = tags.find(t => t.value === label);
@@ -225,25 +209,28 @@
 </script>
 
 <div class="body" id="solutions-grid">
-    <MapFilters
-        {Chapter}
-        {provinceCounts}
-        {totalProvinceCounts}
-        {home}
-        municipalities={availableMunicipalities}
-        provinces={availableProvinces}
-        tags={availableTags}
-        {activeProvinceFilter}
-        onFilterProvince={filterProvince}
-        onClear={clearFilters}
-        onApply={applyFiltersToURL}
-        bind:searchText
-        bind:selectedProvince
-        bind:selectedMunicipalities
-        bind:selectedTags
-        bind:selectedChapters
-        bind:addTag
-    />
+
+    {#if hasFilters}
+        <MapFilters
+            {Chapter}
+            {provinceCounts}
+            {totalProvinceCounts}
+            {home}
+            municipalities={availableMunicipalities}
+            provinces={availableProvinces}
+            tags={availableTags}
+            {activeProvinceFilter}
+            onFilterProvince={filterProvince}
+            onClear={clearFilters}
+            onApply={applyFiltersToURL}
+            bind:searchText
+            bind:selectedProvince
+            bind:selectedMunicipalities
+            bind:selectedTags
+            bind:selectedChapters
+            bind:addTag
+        />
+    {/if}
     {#if filteredSolutionsList.length !== 0}
         <div class="solutions-count">
             <p>Showing {filteredSolutionsList.length} solution{filteredSolutionsList.length > 1 ? "s" : ""}</p>
@@ -254,9 +241,11 @@
             <SolutionCard {...solution} {tagClicked}/>
         {/each}
     </div>
-    {#if filteredSolutionsList.length === 0}
-        <p style="color: var(--brandGray70); text-align: center; margin:15px 0 5px 0; font-family:RobotoBold;">No results found.</p>
-        <p style="color: var(--brandGray70); text-align: center; margin:0; margin-bottom: 15px;">Try adjusting your search criteria.</p>
+    {#if hasFilters}
+        {#if filteredSolutionsList.length === 0}
+            <p style="color: var(--brandGray70); text-align: center; margin:15px 0 5px 0; font-family:RobotoBold;">No results found.</p>
+            <p style="color: var(--brandGray70); text-align: center; margin:0; margin-bottom: 15px;">Try adjusting your search criteria.</p>
+        {/if}
     {/if}
 </div>
 

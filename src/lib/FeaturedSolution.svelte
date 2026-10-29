@@ -56,6 +56,8 @@
         }}>
             <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
         </button>
+    {:else}
+        <img src={`${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter[0]}.png`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
     {/if}
 
     {#if showImageViewer}

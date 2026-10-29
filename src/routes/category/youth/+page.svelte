@@ -53,16 +53,21 @@
         <p>
             Youth also bear the brunt of a lack of affordable housing. The 2021 census showed that fewer than 20% of those under 25 own their own homes – a figure that has fallen by over 5% since 2011<Footnote id={addFootnote(fns[3])}/> – and that Millennials are less likely to be homeowners than were previous generations at the same age.<Footnote id={addFootnote(fns[4])}/> Rising rents and displacement therefore have a particularly significant impact on this population, and many are creating or turning to innovative housing models such as shared ownership, land trusts, and co-living. 
         </p>
-        <p>
-            The unfolding realities of the climate crisis have contributed to rising levels of anxiety, as young people face the prospect of a more chaotic and unpredictable future. In the realm of mental health, youth have emerged as a distinct group, with new government programs to address access to care, in places of all sizes, including in rural, remote, and Indigenous areas.
-        </p>
         <GraphicSingle
             svg720={`${base}/web-assets/youth/civic_engagement_youth-urban.svg`}
             svg360={`${base}/web-assets/youth/civic_engagement_youth-urban_360.svg`}
         />
         <p>
-            As the networks and spaces that used to underpin communities have shifted and changed, young people have shown lower levels of social engagement and experienced higher rates of loneliness than adults.<Footnote id={addFootnote(fns[5])}/> With fewer opportunities to participate in forms of civic activity that cut across divisions such as class, race, income, and age, youth today are missing out on opportunities to build a sense of belonging, explore their identities, and better understand their rights, obligations, and responsibilities as citizens.<Footnote id={addFootnote(fns[6])}/>
+            The unfolding realities of the climate crisis have contributed to rising levels of anxiety, as young people face the prospect of a more chaotic and unpredictable future. In the realm of mental health, youth have emerged as a distinct group, with new government programs to address access to care, in places of all sizes, including in rural, remote, and Indigenous areas.
         </p>
+        <div class="inline-images">
+            <GraphicSingle standalone={false}
+                svg720={`${base}/web-assets/youth/civic_engagement_metric-purpose.svg`}
+            />
+            <p>
+                As the networks and spaces that used to underpin communities have shifted and changed, young people have shown lower levels of social engagement and experienced higher rates of loneliness than adults.<Footnote id={addFootnote(fns[5])}/> With fewer opportunities to participate in forms of civic activity that cut across divisions such as class, race, income, and age, youth today are missing out on opportunities to build a sense of belonging, explore their identities, and better understand their rights, obligations, and responsibilities as citizens.<Footnote id={addFootnote(fns[6])}/>
+            </p>
+        </div>
         <p>
             In particular, youth of colour and young people living in economically marginalized communities are even less likely to be engaged in civic processes, a phenomenon that some scholars have referred to as a “civic engagement gap” or “empowerment gap.”<Footnote id={addFootnote(fns[7])}/> In part, these demographic disparities are structural: youth below the age of 18 are often excluded from formal decision-making due to legal voting ages, and few public engagement processes have formal channels for youth participation. The decline in the number of third spaces available has also hit young people hard, as they have fewer places of their own to gather.
         </p>

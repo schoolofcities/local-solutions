@@ -103,6 +103,7 @@
         width: 95%;
         height: 150px;
         object-fit: cover;
+        object-position: 50% 0px;
     }
 
     .location {
