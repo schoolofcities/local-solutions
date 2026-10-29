@@ -1,4 +1,476 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg59" width="652.80005" height="410.60001" viewBox="0 0 489.60002 307.95001" version="1.1" sodipodi:docname="civic_engagement_municipal_comparison.svg" inkscape:version="1.4.3 (0d15f75, 2025-12-25)" inkscape:export-filename="mental-health_opioid-charts.png" inkscape:export-xdpi="300" inkscape:export-ydpi="300"><g id="background"><image x="0.0" y="0.0" width="489.60002" height="307.95001" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/></g><g id="foreground"><g id="Layer_6" data-name="Layer 6"><g id="text49" isolation="isolate"><g id="g1" isolation="isolate"><text transform="rotate(0.17,-9329.0122,7111.7863)" font-size="17px" isolation="isolate" id="text1" style="font-family: TradeGothicBold; font-style: normal;"><tspan x="0" y="0" id="tspan1" style="font-weight: normal; font-style: normal;">Federal and municipal election voter turnout in 2025</tspan></text></g></g><g id="text51" isolation="isolate" transform="translate(0,9.5705191)"><g id="g2" isolation="isolate"><text transform="translate(12.099918,260.47356)" fill="#999999" font-size="8px" isolation="isolate" id="text2" style="white-space: pre; inline-size: 464.358; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;" xml:space="preserve"><tspan x="0" y="0" id="tspan7" style="font-weight: normal; font-style: normal;">Data source: Elections Canada (2025); "After a low-turnout election with a postal disruption, St. John's eyes election reform", </tspan><tspan x="0" y="10" id="tspan19" style="font-weight: normal; font-style: normal;">CBC News (2026); Élections Québec (2025); Elections Calgary (2025). **Federal election voter turnout was calculated as the </tspan><tspan x="0" y="19.999999" id="tspan20" style="font-weight: normal; font-style: normal;">weighted average voter turnout for all federal electoral districts within the municipality.</tspan></text></g></g><g class="svglite" id="g31" transform="translate(-0.96322827,28.016442)"><g clip-path="url(#cpMjkuMzB8NDU1LjMyfDQ0LjY4fDE5MS4xMQ==)" id="g18"><text x="123.97" y="107.19" text-anchor="middle" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;" id="text13-1">70.4%</text><text x="171.31" y="150" text-anchor="middle" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;" id="text14">39.7%</text><text x="242.31" y="115.97" text-anchor="middle" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;" id="text15-4">64.1%</text><text x="289.64999" y="153.62" text-anchor="middle" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;" id="text16-6">37.1%</text><text x="360.64999" y="107.74" text-anchor="middle" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;" id="text17-0">70%</text><text x="407.98999" y="150.97" text-anchor="middle" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;" id="text18-7">39%</text></g><g clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=-7)" id="g30"><text x="30.935843" y="187.17999" style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;" id="text19">0%</text><text x="30.935843" y="152.31" style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;" id="text20-1">25%</text><text x="30.935843" y="117.45" style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;" id="text21-7">50%</text><text x="30.935843" y="82.589996" style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;" id="text22">75%</text><text x="30.935843" y="47.720001" style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;" id="text23-7">100%</text><text x="137.55844" y="28.043301" style="font-size: 10px; font-family: Open Sans; white-space: pre; fill: #dc4633; fill-opacity: 1; font-weight: normal; font-style: normal;" id="text29"><tspan style="font-weight: normal; font-size: 10px; fill: #dc4633; fill-opacity: 1; font-style: normal;" id="tspan32">Federal general election</tspan></text><text x="293.3588" y="28.043301" style="font-size: 10px; font-family: Open Sans; white-space: pre; fill: #6d247a; fill-opacity: 1; font-weight: normal; font-style: normal;" id="text30"><tspan style="font-weight: normal; font-size: 10px; fill: #6d247a; fill-opacity: 1; font-style: normal;" id="tspan33">Municipal election</tspan></text></g></g></g><g id="g4" style="display:none" sodipodi:insensitive="true" inkscape:label="old chart"><g id="Layer_1" data-name="Layer 1"><g id="text15" isolation="isolate"><text transform="translate(53.405,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text4" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan4" style="font-weight: normal; font-style: normal;">2004</tspan></text></g><g id="text16" isolation="isolate"><text transform="translate(90.024,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text5" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan5" style="font-weight: normal; font-style: normal;">2006</tspan></text></g><g id="text17" isolation="isolate"><text transform="translate(126.644,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text6" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan6" style="font-weight: normal; font-style: normal;">2008</tspan></text></g><g id="text20" isolation="isolate"><text transform="translate(163.263,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text9" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan9" style="font-weight: normal; font-style: normal;">2011</tspan></text></g><g id="text21" isolation="isolate"><text transform="translate(199.882,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text10" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan10" style="font-weight: normal; font-style: normal;">2015</tspan></text></g><g id="text16-3" isolation="isolate" transform="translate(146.47966,-0.00317129)"><text transform="translate(90.024,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text5-1" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan5-9" style="font-weight: normal; font-style: normal;">2019</tspan></text></g><g id="text17-8" isolation="isolate" transform="translate(146.47966,-0.00317129)"><text transform="translate(126.644,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text6-6" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan6-5" style="font-weight: normal; font-style: normal;">2021</tspan></text></g><g id="text17-8-9" isolation="isolate" transform="translate(183.10189,-0.0103786)"><text transform="translate(126.644,260.499)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text6-6-8" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan6-5-4" style="font-weight: normal; font-style: normal;">2025</tspan></text></g><g id="g27"><g id="text23" isolation="isolate"><text transform="translate(21.112,125.284)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text12" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan12" style="font-weight: normal; font-style: normal;">60</tspan></text></g><g id="text24" isolation="isolate"><text transform="translate(21.112,164.512)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text13" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan13" style="font-weight: normal; font-style: normal;">40</tspan></text></g><g id="text25" isolation="isolate"><text transform="translate(21.112,203.741)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text18" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan14" style="font-weight: normal; font-style: normal;">20</tspan></text></g><g id="g26" isolation="isolate"><text transform="translate(21.112,242.968)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text26" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan18" style="font-weight: normal; font-style: normal;">0</tspan></text></g></g></g><g id="g3" inkscape:label="LINE"><g id="g54" style="stroke-width:1.5;stroke-dasharray:none" transform="translate(7.9499764,7.520911)"><g id="g26-8" transform="translate(-7.9499764,-7.520911)"><g id="text22-5-9" isolation="isolate" transform="translate(-230.14691,-0.60834049)"><text transform="translate(251.923,85.456)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text27-4" style="white-space: pre; inline-size: 74.0916; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;" xml:space="preserve"><tspan x="0" y="0" id="tspan26" style="font-weight: normal; font-style: normal;">80% of eligible </tspan><tspan x="0" y="12.5" id="tspan27" style="font-weight: normal; font-style: normal;">voters</tspan></text><text transform="translate(251.923,97.956)" fill="#6d6e71" font-size="10px" isolation="isolate" id="text28-8" style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan x="0" y="0" id="tspan28-2" style="font-weight: normal; font-style: normal;"/></text></g></g></g></g></g><text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 13px; font-family: OpenSansBold; text-align: center; writing-mode: lr-tb; direction: ltr; text-anchor: middle; white-space: pre; inline-size: 77.4457; display: inline; fill: #000000; fill-opacity: 1; stroke-width: 0.75;" x="63.428215" y="341.39227" id="text8" transform="translate(201.6541,-107.657)"><tspan x="63.428215" y="341.39227" id="tspan28" style="font-weight: normal; font-style: normal;">Montreal,<tspan y="341.39227" id="tspan29" style="font-weight: normal; font-style: normal;"> </tspan></tspan><tspan x="63.428215" y="357.64226" id="tspan30" style="font-weight: normal; font-style: normal;">Quebec</tspan></text><text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 13px; font-family: OpenSansBold; text-align: center; writing-mode: lr-tb; direction: ltr; text-anchor: middle; white-space: pre; inline-size: 73.8234; display: inline; fill: #000000; fill-opacity: 1; stroke-width: 0.75;" x="210.23029" y="341.8446" id="text8-1" transform="translate(173.28925,-107.92217)"><tspan x="210.23029" y="341.8446" id="tspan31" style="font-weight: normal; font-style: normal;">Calgary,
-</tspan><tspan x="210.23029" y="358.0946" id="tspan34" style="font-weight: normal; font-style: normal;">Alberta</tspan></text><text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 13px; font-family: OpenSansBold; text-align: center; writing-mode: lr-tb; direction: ltr; text-anchor: middle; white-space: pre; inline-size: 180.837; display: inline; fill: #000000; fill-opacity: 1; stroke-width: 0.75;" x="121.08715" y="236.08363" id="text8-1-0" transform="translate(25.054193,-2.03033)"><tspan x="121.08715" y="236.08363" id="tspan35" style="font-weight: normal; font-style: normal;">St. John's, 
-</tspan><tspan x="121.08715" y="252.33364" id="tspan36" style="font-weight: normal; font-style: normal;">New Brunswick</tspan></text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg59"
+   width="652.80005"
+   height="410.60001"
+   viewBox="0 0 489.60002 307.95001"
+   version="1.1"
+   sodipodi:docname="civic_engagement_municipal_comparison.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="mental-health_opioid-charts.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.9654164"
+     inkscape:cx="326.39393"
+     inkscape:cy="205.3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <g
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
+       width="489.60002"
+       height="307.95001"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,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"
+       id="image1" />
+  </g>
+  <g
+     id="foreground">
+    <g
+       id="Layer_6"
+       data-name="Layer 6">
+      <g
+         id="text49"
+         isolation="isolate">
+        <g
+           id="g1"
+           isolation="isolate">
+          <text
+             transform="rotate(0.17,-8823.4616,7111.0363)"
+             font-size="17px"
+             isolation="isolate"
+             id="text1"
+             style="font-size: 15px; white-space: pre; inline-size: 465.732; display: inline; font-family: TradeGothicBold; font-style: normal;"
+             xml:space="preserve"><tspan
+               x="0"
+               y="0"
+               id="tspan1">Selected federal versus municipal election voter turnout rates in </tspan><tspan
+               x="0"
+               y="18.75"
+               id="tspan2">2025</tspan></text>
+        </g>
+      </g>
+      <g
+         id="text51"
+         isolation="isolate"
+         transform="translate(0,5.8205192)">
+        <g
+           id="g2"
+           isolation="isolate">
+          <text
+             transform="translate(12.099918,260.47356)"
+             fill="#999999"
+             font-size="8px"
+             isolation="isolate"
+             id="text2"
+             style="white-space: pre; inline-size: 464.358; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;"
+             xml:space="preserve"><tspan
+               x="0"
+               y="0"
+               id="tspan3">Data sources: Elections Canada (2025); &quot;After a low-turnout election with a postal disruption, St. John's eyes election reform&quot;, </tspan><tspan
+               x="0"
+               y="10"
+               id="tspan7">CBC News (2026); Élections Québec (2025); Elections Calgary (2025). 
+</tspan><tspan
+               x="0"
+               y="19.999999"
+               id="tspan28">*Federal election voter turnout was calculated as the weighted average voter turnout for all federal electoral districts within </tspan><tspan
+               x="0"
+               y="29.999999"
+               id="tspan29">the municipality.</tspan></text>
+        </g>
+      </g>
+      <g
+         class="svglite"
+         id="g31"
+         transform="translate(-0.96322827,28.016442)">
+        <g
+           clip-path="url(#cpMjkuMzB8NDU1LjMyfDQ0LjY4fDE5MS4xMQ==)"
+           id="g18">
+          <text
+             x="123.97"
+             y="107.19"
+             text-anchor="middle"
+             style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;"
+             id="text13-1">70%</text>
+          <text
+             x="171.31"
+             y="150"
+             text-anchor="middle"
+             style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;"
+             id="text14">40%</text>
+          <text
+             x="242.31"
+             y="115.97"
+             text-anchor="middle"
+             style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;"
+             id="text15-4">64%</text>
+          <text
+             x="289.64999"
+             y="153.62"
+             text-anchor="middle"
+             style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;"
+             id="text16-6">37%</text>
+          <text
+             x="360.64999"
+             y="107.74"
+             text-anchor="middle"
+             style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;"
+             id="text17-0">70%</text>
+          <text
+             x="407.98999"
+             y="150.97"
+             text-anchor="middle"
+             style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 9.96px; font-family: OpenSansBold; white-space: pre; fill: #ffffff;"
+             id="text18-7">39%</text>
+        </g>
+        <g
+           clip-path="url(#cpMC4wMHw0NjAuODB8MC4wMHwyMTYuMDA=-7)"
+           id="g30">
+          <text
+             x="30.935843"
+             y="187.17999"
+             style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+             id="text19">0%</text>
+          <text
+             x="30.935843"
+             y="152.31"
+             style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+             id="text20-1">25%</text>
+          <text
+             x="30.935843"
+             y="117.45"
+             style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+             id="text21-7">50%</text>
+          <text
+             x="30.935843"
+             y="82.589996"
+             style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+             id="text22">75%</text>
+          <text
+             x="30.935843"
+             y="47.720001"
+             style="font-size: 11px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+             id="text23-7">100%</text>
+          <text
+             x="143.7092"
+             y="28.043301"
+             style="font-size:10px;font-family:OpenSansBold;white-space:pre;fill:#dc4633;fill-opacity:1;font-weight:normal;font-style:normal;-inkscape-font-specification:OpenSansBold;font-stretch:normal;font-variant:normal"
+             id="text29"><tspan
+               style="font-weight:normal;font-size:10px;fill:#dc4633;fill-opacity:1;font-style:normal;-inkscape-font-specification:OpenSansBold;font-family:OpenSansBold;font-stretch:normal;font-variant:normal"
+               id="tspan32">Federal election</tspan></text>
+          <text
+             x="278.50955"
+             y="28.043301"
+             style="font-size:10px;font-family:OpenSansBold;white-space:pre;fill:#6d247a;fill-opacity:1;font-weight:normal;font-style:normal;-inkscape-font-specification:OpenSansBold;font-stretch:normal;font-variant:normal"
+             id="text30"><tspan
+               style="font-weight:normal;font-size:10px;fill:#6d247a;fill-opacity:1;font-style:normal;-inkscape-font-specification:OpenSansBold;font-family:OpenSansBold;font-stretch:normal;font-variant:normal"
+               id="tspan33">Municipal election</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4"
+       style="display:none"
+       sodipodi:insensitive="true"
+       inkscape:label="old chart">
+      <g
+         id="Layer_1"
+         data-name="Layer 1">
+        <g
+           id="text15"
+           isolation="isolate">
+          <text
+             transform="translate(53.405,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text4"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan4"
+               style="font-weight: normal; font-style: normal;">2004</tspan></text>
+        </g>
+        <g
+           id="text16"
+           isolation="isolate">
+          <text
+             transform="translate(90.024,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text5"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan5"
+               style="font-weight: normal; font-style: normal;">2006</tspan></text>
+        </g>
+        <g
+           id="text17"
+           isolation="isolate">
+          <text
+             transform="translate(126.644,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text6"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan6"
+               style="font-weight: normal; font-style: normal;">2008</tspan></text>
+        </g>
+        <g
+           id="text20"
+           isolation="isolate">
+          <text
+             transform="translate(163.263,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text9"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan9"
+               style="font-weight: normal; font-style: normal;">2011</tspan></text>
+        </g>
+        <g
+           id="text21"
+           isolation="isolate">
+          <text
+             transform="translate(199.882,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text10"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan10"
+               style="font-weight: normal; font-style: normal;">2015</tspan></text>
+        </g>
+        <g
+           id="text16-3"
+           isolation="isolate"
+           transform="translate(146.47966,-0.00317129)">
+          <text
+             transform="translate(90.024,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text5-1"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan5-9"
+               style="font-weight: normal; font-style: normal;">2019</tspan></text>
+        </g>
+        <g
+           id="text17-8"
+           isolation="isolate"
+           transform="translate(146.47966,-0.00317129)">
+          <text
+             transform="translate(126.644,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text6-6"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan6-5"
+               style="font-weight: normal; font-style: normal;">2021</tspan></text>
+        </g>
+        <g
+           id="text17-8-9"
+           isolation="isolate"
+           transform="translate(183.10189,-0.0103786)">
+          <text
+             transform="translate(126.644,260.499)"
+             fill="#6d6e71"
+             font-size="10px"
+             isolation="isolate"
+             id="text6-6-8"
+             style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+               x="0"
+               y="0"
+               id="tspan6-5-4"
+               style="font-weight: normal; font-style: normal;">2025</tspan></text>
+        </g>
+        <g
+           id="g27">
+          <g
+             id="text23"
+             isolation="isolate">
+            <text
+               transform="translate(21.112,125.284)"
+               fill="#6d6e71"
+               font-size="10px"
+               isolation="isolate"
+               id="text12"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan12"
+                 style="font-weight: normal; font-style: normal;">60</tspan></text>
+          </g>
+          <g
+             id="text24"
+             isolation="isolate">
+            <text
+               transform="translate(21.112,164.512)"
+               fill="#6d6e71"
+               font-size="10px"
+               isolation="isolate"
+               id="text13"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan13"
+                 style="font-weight: normal; font-style: normal;">40</tspan></text>
+          </g>
+          <g
+             id="text25"
+             isolation="isolate">
+            <text
+               transform="translate(21.112,203.741)"
+               fill="#6d6e71"
+               font-size="10px"
+               isolation="isolate"
+               id="text18"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan14"
+                 style="font-weight: normal; font-style: normal;">20</tspan></text>
+          </g>
+          <g
+             id="g26"
+             isolation="isolate">
+            <text
+               transform="translate(21.112,242.968)"
+               fill="#6d6e71"
+               font-size="10px"
+               isolation="isolate"
+               id="text26"
+               style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan18"
+                 style="font-weight: normal; font-style: normal;">0</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3"
+         inkscape:label="LINE">
+        <g
+           id="g54"
+           style="stroke-width:1.5;stroke-dasharray:none"
+           transform="translate(7.9499764,7.520911)">
+          <g
+             id="g26-8"
+             transform="translate(-7.9499764,-7.520911)">
+            <g
+               id="text22-5-9"
+               isolation="isolate"
+               transform="translate(-230.14691,-0.60834049)">
+              <text
+                 transform="translate(251.923,85.456)"
+                 fill="#6d6e71"
+                 font-size="10px"
+                 isolation="isolate"
+                 id="text27-4"
+                 style="white-space: pre; inline-size: 74.0916; display: inline; font-family: OpenSans; font-weight: normal; font-style: normal;"
+                 xml:space="preserve"><tspan
+                   x="0"
+                   y="0"
+                   id="tspan30">80% of eligible </tspan><tspan
+                   x="0"
+                   y="12.5"
+                   id="tspan31">voters</tspan></text>
+              <text
+                 transform="translate(251.923,97.956)"
+                 fill="#6d6e71"
+                 font-size="10px"
+                 isolation="isolate"
+                 id="text28-8"
+                 style="font-family: OpenSans; font-weight: normal; font-style: normal;"><tspan
+                   x="0"
+                   y="0"
+                   id="tspan28-2"
+                   style="font-weight: normal; font-style: normal;" /></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 13px; font-family: OpenSansBold; text-align: center; writing-mode: lr-tb; direction: ltr; text-anchor: middle; white-space: pre; inline-size: 77.4457; display: inline; fill: #000000; fill-opacity: 1; stroke-width: 0.75;"
+       x="63.428215"
+       y="341.39227"
+       id="text8"
+       transform="translate(201.6541,-107.657)"><tspan
+         x="63.428215"
+         y="341.39227"
+         id="tspan34">Montreal,<tspan
+   y="341.39227"
+   id="tspan35"> </tspan></tspan><tspan
+         x="63.428215"
+         y="357.64226"
+         id="tspan36">Que</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 13px; font-family: OpenSansBold; text-align: center; writing-mode: lr-tb; direction: ltr; text-anchor: middle; white-space: pre; inline-size: 73.8234; display: inline; fill: #000000; fill-opacity: 1; stroke-width: 0.75;"
+       x="210.23029"
+       y="341.8446"
+       id="text8-1"
+       transform="translate(173.28925,-107.92217)"><tspan
+         x="210.23029"
+         y="341.8446"
+         id="tspan37">Calgary,
+</tspan><tspan
+         x="210.23029"
+         y="358.0946"
+         id="tspan38">Alta.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 13px; font-family: OpenSansBold; text-align: center; writing-mode: lr-tb; direction: ltr; text-anchor: middle; white-space: pre; inline-size: 180.837; display: inline; fill: #000000; fill-opacity: 1; stroke-width: 0.75;"
+       x="121.08715"
+       y="236.08363"
+       id="text8-1-0"
+       transform="translate(25.054193,-2.03033)"><tspan
+         x="121.08715"
+         y="236.08363"
+         id="tspan39">St. John's, 
+</tspan><tspan
+         x="121.08715"
+         y="252.33364"
+         id="tspan40">Nfld.</tspan></text>
+  </g>
+</svg>
