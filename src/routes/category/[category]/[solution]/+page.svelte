@@ -16,7 +16,6 @@
      } = $props();
 
     let solution = $derived(data.solution);
-     
 </script>
 
 <svelte:head>

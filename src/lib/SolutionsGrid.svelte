@@ -109,13 +109,21 @@
     function matchSearchText(filtered) {
         const fuse = new Fuse(filtered, {
             keys: ['Project', 'Organization', 'Summary', 'Tags', 'Chapter', 'Municipalities_List'],
-            threshold: 0.35,
+            threshold: 0.2,
             ignoreLocation: true,
+            includeScore: true,
+            includeMatches: true,
         });
-
+        
+        let results = searchText ? fuse.search(searchText).map(result => result.item) : filtered;
         console.log(fuse.search(searchText));
 
-        return searchText ? fuse.search(searchText).map(result => result.item) : filtered;
+        if (searchText.length) {
+            results = results.toSorted((a, b) => b.Cohort - a.Cohort);
+            results = results.toSorted((a, b) => b.Spotlighted - a.Spotlighted);
+        } 
+
+        return results;
     }
     function matchesProvinces(s) {
         if (!selectedProvince) return true;

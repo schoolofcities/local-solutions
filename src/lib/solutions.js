@@ -63,6 +63,7 @@ export async function getSolutions(fetch) {
             });
 
         cohort2026 = cohort2026.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
+        spotlighted = spotlighted.toSorted((a, b) => b.Cohort - a.Cohort);
         
         let solutions = unsortedSolutions.toSorted((a, b) => b.Cohort - a.Cohort);
         solutions = solutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted);
