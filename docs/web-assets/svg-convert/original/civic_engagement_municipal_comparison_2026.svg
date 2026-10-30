@@ -623,7 +623,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1"
-     inkscape:cx="338"
+     inkscape:cx="338.5"
      inkscape:cy="218.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -649,10 +649,10 @@
        visible="false" />
   </sodipodi:namedview>
   <rect
-     style="fill:#ffffff;stroke-width:0.75"
+     style="fill:#ffffff;stroke-width:0.779902"
      id="rect14"
      width="512.82916"
-     height="331.98663"
+     height="358.98663"
      x="-9.0156107"
      y="-15.379573" />
   <text
@@ -750,7 +750,7 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan1">Selected federal versus municipal election voter turnout rates</tspan></text>
+             id="tspan8">Selected federal versus municipal election voter turnout rates</tspan></text>
       </g>
     </g>
     <g
@@ -771,17 +771,17 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan2">Data sources: Elections Canada (2025); Association of Municipalities of Ontario, 2026 Ontario Municipal Elections (unofficial); </tspan><tspan
+             id="tspan17">Data sources: Elections Canada (2025); Association of Municipalities of Ontario, 2026 Ontario Municipal Elections (unofficial); </tspan><tspan
              x="0"
              y="10"
-             id="tspan3">City of Vancouver (2026); City of Winnipeg (2026); City of Yellowknife (2026).
+             id="tspan19">City of Vancouver (2026); City of Winnipeg (2026); City of Yellowknife (2026).
 </tspan><tspan
              x="0"
              y="19.999999"
-             id="tspan7">*Federal election voter turnout was calculated as the weighted average voter turnout for all federal electoral districts within </tspan><tspan
+             id="tspan20">*Federal election voter turnout was calculated as the weighted average voter turnout for all federal electoral districts within </tspan><tspan
              x="0"
              y="29.999999"
-             id="tspan11">the municipality.</tspan></text>
+             id="tspan21">the municipality.</tspan></text>
       </g>
     </g>
     <rect
@@ -1544,10 +1544,10 @@
                xml:space="preserve"><tspan
                  x="0"
                  y="0"
-                 id="tspan15">80% of eligible </tspan><tspan
+                 id="tspan22">80% of eligible </tspan><tspan
                  x="0"
                  y="12.5"
-                 id="tspan16">voters</tspan></text>
+                 id="tspan23">voters</tspan></text>
             <text
                transform="translate(251.923,97.956)"
                fill="#6d6e71"
