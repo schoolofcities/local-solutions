@@ -8,6 +8,7 @@
 	export let maxWidth = '';
 	export let link = 'Yes'; // Yes or No open link in new tab
 	export let indicatorCorner = false;
+	export let position = 'middle'
 
 </script>
 
@@ -20,10 +21,10 @@
 
 	{#if link === 'Yes'}
 		<a href={imageURL} target="_blank">
-			<img src={imageURL} alt={altText} loading="lazy" />
+			<img src={imageURL} alt={altText} loading="lazy" style={position === 'top' ? 'object-position: 50% 0px;' : ''}/>
 		</a>
 	{:else}
-		<img src={imageURL} alt={altText} loading="lazy" />
+		<img src={imageURL} alt={altText} loading="lazy" style={position === 'top' ? 'object-position: 50% 0px;' : ''}/>
 	{/if}
 
 	<div class="caption-container">

@@ -32,7 +32,7 @@
 </script>
 
 <svelte:head>
-    <title>Abundant local food - Local Solutions | School of Cities</title>
+    <title>Abundant local food - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

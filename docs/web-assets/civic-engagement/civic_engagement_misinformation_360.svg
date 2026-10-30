@@ -75,12 +75,12 @@
     <text
        x="17.553812"
        y="354.79016"
-       style="font-size: 9px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+       style="font-size: 9px; font-family: OpenSans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
        id="text30">Social media posts by other users</text>
     <text
        x="17.553812"
        y="299.21887"
-       style="font-style:normal;font-weight:normal;font-size:9px;font-family:'Open Sans';white-space:pre;inline-size:238.867;display:inline;fill:#333333"
+       style="font-style:normal;font-weight:normal;font-size:9px;font-family:'OpenSans';white-space:pre;inline-size:238.867;display:inline;fill:#333333"
        id="text31"
        transform="translate(0,1.5)"
        xml:space="preserve"><tspan
@@ -93,12 +93,12 @@
     <text
        x="17.553812"
        y="261.52368"
-       style="font-size: 9px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+       style="font-size: 9px; font-family: OpenSans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
        id="text32">News organizations</text>
     <text
        x="17.553812"
        y="209.55992"
-       style="font-style:normal;font-weight:normal;font-size:9px;font-family:'Open Sans';white-space:pre;inline-size:210.094;display:inline;fill:#333333"
+       style="font-style:normal;font-weight:normal;font-size:9px;font-family:'OpenSans';white-space:pre;inline-size:210.094;display:inline;fill:#333333"
        id="text33"
        transform="translate(0,-1.5)"
        xml:space="preserve"><tspan
@@ -111,17 +111,17 @@
     <text
        x="17.553812"
        y="174.84435"
-       style="font-size: 9px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+       style="font-size: 9px; font-family: OpenSans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
        id="text34" />
     <text
        x="17.553812"
        y="166.40991"
-       style="font-size: 9px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+       style="font-size: 9px; font-family: OpenSans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
        id="text35">Federal government communications</text>
     <text
        x="5.48"
        y="57.950001"
-       style="font-style:normal;font-weight:normal;font-size:9px;font-family:'Open Sans';white-space:pre;inline-size:225.452;display:inline;fill:#333333"
+       style="font-style:normal;font-weight:normal;font-size:9px;font-family:'OpenSans';white-space:pre;inline-size:225.452;display:inline;fill:#333333"
        id="text36"
        transform="translate(12.073812,65.771131)"
        xml:space="preserve"><tspan
@@ -131,7 +131,7 @@
     <text
        x="17.553812"
        y="80.204353"
-       style="font-size: 9px; font-family: Open Sans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
+       style="font-size: 9px; font-family: OpenSans; white-space: pre; fill: #333333; font-weight: normal; font-style: normal;"
        id="text37">Scientific experts or peer-reviewed journals</text>
     <text
        xml:space="preserve"

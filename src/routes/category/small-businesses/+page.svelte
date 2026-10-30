@@ -34,7 +34,7 @@
 </script>
 
 <svelte:head>
-    <title>Small Businesses - Local Solutions | School of Cities</title>
+    <title>Small Businesses - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

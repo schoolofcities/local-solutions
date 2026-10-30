@@ -244,10 +244,11 @@ a {
 	text-decoration: underline;
 	font-family: Roboto;
 	font-weight: normal;
+	color: var(--brandMedBlue);
 }
 
 a:hover {
-	color: var(--brandYellow);
+	color: var(--brandMedGreen);
 }
 
 ul {

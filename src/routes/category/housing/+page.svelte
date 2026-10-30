@@ -39,7 +39,7 @@
 </script>
 
 <svelte:head>
-    <title>Housing - Local Solutions | School of Cities</title>
+    <title>Housing - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 
@@ -76,7 +76,7 @@
             Recent government initiatives aim to expand the supply of affordable homes. The <a href="https://housing-infrastructure.canada.ca/bch-mc/index-eng.html" target="_blank">Canada Homes</a> federal agency, for example, plans to leverage public lands, provide flexible financial incentives for builders, attract complementary private capital, and support modern manufacturing methods to increase efficiency.<Footnote id={addFootnote(fns[14])}/> Policies supporting middle housing – multi-unit or clustered housing types compatible with single-family homes – have also helped diversify housing stock, supporting more walkable and inclusive communities.<Footnote id={addFootnote(fns[15])}/> 
         </p>
         <p>
-            Community-led housing initiatives play an increasingly important role. Often led by non-profit organizations, co-operatives, and community land trusts (CLTs), these projects prioritize long-term affordability and community control over development, ownership, and operation. The solutions featured in this chapter illustrate how policy, design, and finance models can work together to improve housing outcomes, grouped into the following categories: 
+            Community-led housing initiatives play an increasingly important role. Often led by non-profit organizations, co-operatives, and community land trusts (CLTs), these projects prioritize long-term affordability and community control over development, ownership, and operation. The solutions featured in this category illustrate how policy, design, and finance models can work together to improve housing outcomes, grouped into the following categories: 
         </p>
         <ul>
             <li>

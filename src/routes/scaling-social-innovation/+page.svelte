@@ -71,7 +71,7 @@
 </script>
 
 <svelte:head>
-    <title>Scaling Social Innovation - Local Solutions | School of Cities</title>
+    <title>Scaling Social Innovation - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

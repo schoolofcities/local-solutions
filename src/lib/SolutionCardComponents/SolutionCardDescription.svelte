@@ -101,13 +101,13 @@
 
     
     :global(.summary a) {
-        color: var(--brandBlack);
+        color: var(--brandMedBlue);
         font-size: 14px !important; 
     }
 
     
     :global(.summary a:hover) {
-        opacity: 60%;
+        color: var(--brandMedGreen);
     }
 
     .summary::after {

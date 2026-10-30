@@ -1,6 +1,5 @@
 
 export const tags = [
-        {value: 'Featured', label:'Featured'},
         {value: 'Financing', label: 'Financing', group: 'Approaches'},
         {value: 'Capacity Building', label: 'Capacity Building', group: 'Approaches'},
         {value: 'Data & Technology', label: 'Data & Technology', group: 'Approaches'},
@@ -13,8 +12,9 @@ export const tags = [
         {value: 'Networks & Coalitions', label: 'Networks & Coalitions', group: 'Actors'},
         {value: 'Academic & Research Institutions', label: 'Academic & Research Institutions', group: 'Actors'},
         {value: 'Youth', label: 'Youth', group: 'Actors'},
-        {value: '2025', label: '2025', group: 'Cohorts'},
-        {value: '2026', label: '2026', group: 'Cohorts'},
+        {value: '2025', label: '2025 Cohort'},
+        {value: '2026', label: '2026 Cohort'},
+        {value: 'Featured', label:'Featured'},
     ];
 
 export const locations = [

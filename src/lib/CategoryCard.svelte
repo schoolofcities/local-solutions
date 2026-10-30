@@ -4,7 +4,7 @@
     import '../assets/global-styles.css';
     import Arrow from './assets/icons/arrow.svelte';
 
-    let { Chapter } = $props();
+    let { Chapter, textColour } = $props();
 
     const imageUrl = `${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter}.png`;
     const chapterDescription =
@@ -26,9 +26,9 @@
 
                 <a
                     href={`${base}/category/${Chapter.toLowerCase().replaceAll(" ", "-")}`}
-                    class="link-button"
+                    class="link-button" style:color={textColour}
                 >
-                    Read the chapter on {Chapter.toLowerCase()}
+                    Learn more about {Chapter.toLowerCase()}
                     <span class="arrow"><Arrow height={13} /></span>
                 </a>
             </div>
@@ -106,7 +106,6 @@
         padding: 18px 30px;
         border-radius: 50px;
         background-color: var(--chapterColour);
-        color: var(--brandBlack, #000);   /* dark text, as in the screenshot */
         font-family: Roboto, sans-serif;
         font-size: 16px;
         text-decoration: none;

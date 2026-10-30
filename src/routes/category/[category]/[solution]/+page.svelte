@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-    <title>{solution.Project + " - "} Local Solutions | School of Cities</title>
+    <title>{solution.Project + " - "} Learning from What Works | School of Cities</title>
 </svelte:head>
 
 
@@ -36,7 +36,7 @@
                 />
             </div>
             <ImageSingle imageURL={`${base}/web-assets/spotlighted-solutions/${solution.ID_Num}/${solution.Title_Photo}`}
-                link="No" indicatorCorner="200"/>
+                link="No" indicatorCorner="200" position="top"/>
         </div>
     </div>
     <div class="body-text">
@@ -69,7 +69,7 @@
             </div>
         </div>
 
-        <a href="{base}" class="back-link"><Arrow back={true} height={15}/> Back to main page</a>
+        <a href="{base}/" class="back-link"><Arrow back={true} height={15}/> Back to main page</a>
     </div>
 </div>
 
@@ -118,9 +118,17 @@
     }
 
     :global(.description-text p, a) {
-        color: black;
         font-size: 17px;
     }
+
+    :global(.description-text a) {
+        color: var(--brandMedBlue);
+    }
+    
+    :global(.description-text a:hover) {
+        color: var(--brandMedGreen);
+    }
+    
 
     :global(.caption-container p, .caption-container a) {
         color: var(--brandGray80);

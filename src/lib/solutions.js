@@ -46,7 +46,9 @@ export async function getSolutions(fetch) {
                 item.ID_Num = parseInt(item.ID_Num, 10);
                 item.Spotlighted = (item.Spotlighted == 'true' || item.Spotlighted == 'TRUE');
                 item.Card_Thumbnail = (item.Card_Thumbnail == 'true' || item.Card_Thumbnail == 'TRUE');
+                item.Display = (item.Display == 'true' || item.Display == 'TRUE');
                 item.Tags.push(item.Cohort)
+
 
                 if (item.Cohort == "2026") {
                     cohort2026.push(item);
@@ -62,7 +64,9 @@ export async function getSolutions(fetch) {
 
         cohort2026 = cohort2026.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
         
-        let solutions = unsortedSolutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted)
+        let solutions = unsortedSolutions.toSorted((a, b) => b.Cohort - a.Cohort);
+        solutions = solutions.toSorted((a, b) => b.Spotlighted - a.Spotlighted);
+
         solutions.forEach(item => {
             item.Provinces_List.forEach(province => {
                 provinceCounts[province] += 1;
