@@ -33,7 +33,7 @@
 </script>
 
 <svelte:head>
-    <title>Civic Engagement and Democracy - Learning from What Works | School of Cities</title>
+    <title>Youth - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

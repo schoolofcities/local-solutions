@@ -9,20 +9,20 @@ export const chapterColours = {
   "Civic engagement":                 "#DC4633", // --brandRed
   "Youth":                            "#1E3765", // --brandLightGreen
   "Abundant local food":              "#8DBF2E", // --brandMedGreen
-  "Community prosperity":                  "#00A189", // --brandMedGreen
+  "Community prosperity":             "#00A189", // --brandMedGreen
 };
 
 export const pdfPaths = {
-  "Shared spaces":                    "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-2-Shared-Spaces-Dec-2025.pdf", 
-  "Small businesses":                 "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-3-Small-Businesses-Dec-2025.pdf", 
-  "Health and well-being":            "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-4-Mental-Health-Dec-2025.pdf", 
-  "Housing":                          "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-5-Housing-FINAL-Dec-2025.pdf", 
-  "Climate change":                   "https://schoolofcities.utoronto.ca/wp-content/uploads/2026/02/print-ready-Learning-From-What-Works-6.-Climate-Change-FINAL-Dec-2025.pdf", 
-  "Civic engagement":                 "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
-  "Youth":                            "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-7-Civic-Engagement-and-Democracy-Dec-2025.pdf", 
-  "Abundant local food":              "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
-  "Community prosperity":                  "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/12/Learning-From-What-Works-8-Community-Prosperity-and-Dignity-FINAL-Dec-2025.pdf", 
-  "Scaling social innovation":        "https://schoolofcities.utoronto.ca/wp-content/uploads/2025/11/Learning-From-What-Works-1-Scaling-Social-Innovation-Dec-2025.pdf"
+  "Shared spaces":                    "https://utoronto.scholaris.ca/items/04fd313f-493b-4b87-a07c-8c087233f77b", 
+  "Small businesses":                 "https://utoronto.scholaris.ca/items/52e625df-ed9a-4675-8c6b-22e4401a3327", 
+  "Health and well-being":            "https://utoronto.scholaris.ca/items/85a0d4e4-c39f-4ff3-bf1d-967adf7789e5", 
+  "Housing":                          "https://utoronto.scholaris.ca/items/3434038a-46d0-47e5-8dae-139a6b56fd2e", 
+  "Climate change":                   "https://utoronto.scholaris.ca/items/e4e5f912-9896-4496-974f-7881bf83d990", 
+  "Civic engagement":                 "https://utoronto.scholaris.ca/items/89aec3a1-3bc7-447a-8aaf-e72372c35a61", 
+  "Youth":                            "https://utoronto.scholaris.ca/items/89aec3a1-3bc7-447a-8aaf-e72372c35a61", 
+  "Abundant local food":              "https://utoronto.scholaris.ca/items/6420df36-c83f-4801-9fee-c970f3f6d4fb", 
+  "Community prosperity":             "https://utoronto.scholaris.ca/items/6420df36-c83f-4801-9fee-c970f3f6d4fb", 
+  "Scaling social innovation":        "https://utoronto.scholaris.ca/items/799a9d5b-2345-4a55-85a4-514ab89273b9"
 };
 
 export const chapterDescriptions = {

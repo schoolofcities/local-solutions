@@ -20,45 +20,56 @@
     ]
 
     const additionalContributors = [
-        {name: "Kumsa Baker", role: "", part: "Scaling social innovation"},
-        {name: "Sylvia Cheuy", role: "", part: "Scaling social innovation"},
-        {name: "Gabriel Eidelman", role: "", part: "Scaling social innovation"},
-        {name: "Alexandra Flynn", role: "", part: "Scaling social innovation"},
-        {name: "Kohbod Khandan-Barani", role: "", part: "Scaling social innovation"},
-        {name: "Serena Peruzzo", role: "", part: "Scaling social innovation"},
-        {name: "Enid Slack", role: "", part: "Scaling social innovation"},
-        {name: "Andre Sorensen", role: "", part: "Scaling social innovation"},
-        {name: "Felicity Heyworth", role: "", part: "Shared spaces, Small businesses, Mental health, Housing, Climate change, Civic engagement and Democracy, Community prosperity and Dignity"},
-        {name: "Marty Levesque", role: "", part: "Shared spaces"},
-        {name: "Mariana Jiménez Ojeda", role: "", part: "Small businesses"},
-        {name: "Andre LeBlanc", role: "", part: "Small businesses"},
-        {name: "George Alvarez", role: "", part: "Mental health"},
-        {name: "Francesca Dobbyn", role: "", part: "Mental health"},
-        {name: "Faiz Abhuani", role: "", part: "Housing"},
-        {name: "Rionel Comia", role: "", part: "Housing"},
-        {name: "Heather Curtis", role: "", part: "Housing"},
-        {name: "Alkarim Devani", role: "", part: "Housing"},
-        {name: "Sabrina Grover", role: "", part: "Housing"},
-        {name: "Darlene Jehn", role: "", part: "Housing"},
-        {name: "Hillary King", role: "", part: "Housing"},
-        {name: "Christel Kjenner", role: "", part: "Housing"},
-        {name: "Wendy Reid Fairhurst", role: "", part: "Housing"},
-        {name: "Nicole Thomas", role: "", part: "Housing"},
-        {name: "Melinda Zytaruk", role: "", part: "Housing"},
-        {name: "Michelle Molnar", role: "", part: "Climate change"},
-        {name: "Emily Sharma", role: "", part: "Climate change"},
-        {name: "Jennifer Taves", role: "", part: "Climate change"},
-        {name: "Lanrick Bennett Jr.", role: "", part: "Civic engagement and Democracy"},
-        {name: "Monica Cheema", role: "", part: "Civic engagement and Democracy"},
-        {name: "Mike Des Jardins", role: "", part: "Civic engagement and Democracy"},
-        {name: "Rowan Gentleman-Sylvester", role: "", part: "Civic engagement and Democracy"},
-        {name: "Claire Lewis", role: "", part: "Civic engagement and Democracy"},
-        {name: "Eli Neptune", role: "", part: "Civic engagement and Democracy"},
-        {name: "Robin Sokoloski", role: "", part: "Civic engagement and Democracy"},
-        {name: "Emma Renaerts", role: "", part: "Community prosperity and Dignity"},
+        "George Alvarez",
+        "Kumsa Baker",
+        "Lanrick Bennett Jr.",
+        "Jay Carter",
+        "Melissa Cernigoy",
+        "Monica Cheema",
+        "Sylvia Cheuy",
+        "Steven Collyer",
+        "Rionel Comia",
+        "Heather Curtis",
+        "Mike Des Jardins",
+        "Alkarim Devani",
+        "Francesca Dobbyn",
+        "Luke Dufour",
+        "Gabriel Eidelman",
+        "Alexandra Flynn",
+        "Rowan Gentleman-Sylvester",
+        "Karen Gomez",
+        "Sabrina Grover",
+        "Felicity Heyworth",
+        "Darlene Jehn",
+        "Mariana Jiménez Ojeda",
+        "Kohbod Khandan-Barani",
+        "Amina Khote",
+        "Hillary King",
+        "Christel Kjenner",
+        "Nya Lazarus-Munnick",
+        "Andre LeBlanc",
+        "Marty Levesque",
+        "Claire Lewis",
+        "Kristy MacLean",
+        "Michelle Molnar",
+        "Raffaella Morello",
+        "Kate Mulligan",
+        "Eli Neptune",
+        "Serena Peruzzo",
+        "Wendy Reid Fairhurst",
+        "Emma Renaerts",
+        "Emily Sharma",
+        "Micheal Shier",
+        "Enid Slack",
+        "Robin Sokoloski",
+        "Andre Sorensen",
+        "Jennifer Taves",
+        "Franz Thomas",
+        "Nicole Thomas",
+        "Melinda Zytaruk",
     ]
 
-    additionalContributors.sort((a, b) => a.name.split(" ")[1].localeCompare(b.name.split(" ")[1]));
+    additionalContributors.sort((a, b) => a.split(" ")[1].localeCompare(b.split(" ")[1]));
 </script>
 
 <svelte:head>
@@ -93,7 +104,7 @@
         <TextTitle title="Additional Contributors"/>
         <div class="cards additional">
             {#each additionalContributors as contributor, index}
-                <p>{contributor.name}</p>
+                <p>{contributor}</p>
             {/each}
         </div>
         
