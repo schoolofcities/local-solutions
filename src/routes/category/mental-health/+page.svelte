@@ -34,7 +34,7 @@
 </script>
 
 <svelte:head>
-    <title>Mental Health - Local Solutions | School of Cities</title>
+    <title>Mental Health - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 
@@ -66,10 +66,10 @@
             svg360={`${base}/web-assets/mental-health/mental-health_opioid-charts_360.svg`}
         />
         <p>
-            Mental health needs are often deeply intertwined with issues that go beyond the scope of one provider’s services, making collaboration across a continuum of care essential. Some initiatives covered in this chapter demonstrate how sharing information and working in partnership can make better use of existing resources, improve the quality of care, and reach more patients. Others offer a range of dispatch models to bring services directly to community members, such as mobile health teams and non-police emergency lines. These can help (re)build trust with vulnerable populations, delivering trauma-informed and culturally appropriate care through community health providers. Many of these providers work alongside local government agencies and community members, providing education and demonstrating the positive impacts of their services. 
+            Mental health needs are often deeply intertwined with issues that go beyond the scope of one provider’s services, making collaboration across a continuum of care essential. Some initiatives covered in this category demonstrate how sharing information and working in partnership can make better use of existing resources, improve the quality of care, and reach more patients. Others offer a range of dispatch models to bring services directly to community members, such as mobile health teams and non-police emergency lines. These can help (re)build trust with vulnerable populations, delivering trauma-informed and culturally appropriate care through community health providers. Many of these providers work alongside local government agencies and community members, providing education and demonstrating the positive impacts of their services. 
         </p>
         <p>
-            The initiatives in this chapter represent just a slice of the evidence-based approaches that are working across Canada. COVID-19 encouraged the adoption of virtual care, such as long-distance sessions with patients, app-based delivery, and online resources.<Footnote id={addFootnote(fns[9])}/> Many jurisdictions are prioritizing reducing the harms of substance use, without judgement or the expectation that substance use will immediately cease. Policies like safe consumption sites, needle exchange programs, referral to housing-first programs that don’t require abstinence, and educational outreach all address substance use through the lens of public health rather than criminalization.<Footnote id={addFootnote(fns[10])}/> 
+            The initiatives in this category represent just a slice of the evidence-based approaches that are working across Canada. COVID-19 encouraged the adoption of virtual care, such as long-distance sessions with patients, app-based delivery, and online resources.<Footnote id={addFootnote(fns[9])}/> Many jurisdictions are prioritizing reducing the harms of substance use, without judgement or the expectation that substance use will immediately cease. Policies like safe consumption sites, needle exchange programs, referral to housing-first programs that don’t require abstinence, and educational outreach all address substance use through the lens of public health rather than criminalization.<Footnote id={addFootnote(fns[10])}/> 
         </p>
         <p>
             The overlapping economic and public health disruptions of the past decade have raised the profile of mental health challenges in Canada, sometimes making them seem insurmountable. These solutions demonstrate what some communities are already doing successfully – and hint at what a healthier Canada can look like if we expand and continue their work. 

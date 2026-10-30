@@ -15,6 +15,8 @@
         hasFilters = true,
     } = $props();
 
+    
+
     const emptyChapters = () =>
     Object.fromEntries(Object.keys(chapterColours).map(c => [c, false]));
 
@@ -43,6 +45,7 @@
         return list.filter(item => vals.includes(item.value));
     };
 
+
     let searchText = $state(fromUrl(null, 'search'));
     let selectedProvince = $state(fromUrl(locations, 'province'));
     let selectedMunicipalities = $state(fromUrl(municipalities, 'municipality'));
@@ -50,6 +53,19 @@
     let selectedChapters = $state(fromUrl(null, 'category'));
     let activeProvinceFilter = $state(null); 
     let addTag = $state();
+    let lastSearch = browser ? $page.url.search : '';
+
+    $effect(() => {
+        if (!hasFilters || !browser) return;
+        const search = $page.url.search;
+        if (search === lastSearch) return;
+        lastSearch = search;
+        searchText = fromUrl(null, 'search');
+        selectedProvince = fromUrl(locations, 'province');
+        selectedMunicipalities = fromUrl(municipalities, 'municipality');
+        selectedTags = fromUrl(tags, 'tags');
+        selectedChapters = fromUrl(null, 'category');
+    });
 
     let availableMunicipalities = $derived.by(() => {
         const set = new Set();
@@ -69,8 +85,7 @@
             filtered = matchSearchText(filtered);
         }
         filtered.forEach(s => s.Tags?.forEach(t => {
-                if (isNaN(parseInt(t)))
-                    set.add(t)
+                set.add(t)
             }));
         selectedTags.forEach(t => set.add(t.value));
         return Array.from(set).sort().map(t => {
@@ -93,9 +108,12 @@
 
     function matchSearchText(filtered) {
         const fuse = new Fuse(filtered, {
-            keys: ['Project', 'Organization', 'Description', 'Tags', 'Chapter', 'Municipalities_List'],
+            keys: ['Project', 'Organization', 'Summary', 'Tags', 'Chapter', 'Municipalities_List'],
             threshold: 0.35,
+            ignoreLocation: true,
         });
+
+        console.log(fuse.search(searchText));
 
         return searchText ? fuse.search(searchText).map(result => result.item) : filtered;
     }
@@ -185,9 +203,9 @@
 
         // syncToUrl(searchParams, selectedProvinces, 'province');
         syncToUrl(searchParams, selectedProvince, 'province');
+        syncToUrl(searchParams, selectedMunicipalities, 'municipality');
         syncToUrl(searchParams, selectedTags, 'tags');
         syncToUrl(searchParams, selectedChapters, 'category');
-        syncToUrl(searchParams, selectedMunicipalities, 'municipality');
 
         const query = searchParams.toString();
         goto(`${$page.url.pathname}?${query}#solutions-map`);
@@ -238,7 +256,9 @@
      {/if}
     <div class="solutions">
         {#each filteredSolutionsList as solution (solution.ID_Num)}
-            <SolutionCard {...solution} {tagClicked}/>
+            {#if solution.Display}
+                <SolutionCard {...solution} {tagClicked}/>
+            {/if}
         {/each}
     </div>
     {#if hasFilters}
@@ -247,6 +267,7 @@
             <p style="color: var(--brandGray70); text-align: center; margin:0; margin-bottom: 15px;">Try adjusting your search criteria.</p>
         {/if}
     {/if}
+    
 </div>
 
 <style>

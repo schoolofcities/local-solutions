@@ -34,7 +34,7 @@
 </script>
 
 <svelte:head>
-    <title>Climate Change - Local Solutions | School of Cities</title>
+    <title>Climate Change - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 
@@ -68,7 +68,7 @@
             Canada’s cities have a strong record of international leadership in climate action: Toronto hosted one of the first global climate conferences in 1988, and Canadian cities were foundational partners in knowledge sharing initiatives like the C40 Cities Climate Leadership Group.<Footnote id={addFootnote(fns[7])}/> The Federation of Canadian Municipalities has played a key role in supporting local resilience through the Green Municipal Fund, channelling federal funding to over 2,500 projects since its inception in 2000.<Footnote id={addFootnote(fns[8])}/> Across the country, cities have adopted ambitious plans to lower emissions in an equitable and locally responsive way.<Footnote id={addFootnote(fns[9])}/>  
         </p>
         <p>
-            The many inspiring ideas in this chapter show that municipal governments are thinking creatively about how to help ensure their most vulnerable residents can access clean air and water and have safe ways to get around. Some are bringing ideas from other countries like Japan and the U.K; others have developed pioneering frameworks to value natural assets or consider planetary boundaries to understand context-based sustainability.  
+            The many inspiring ideas in this category show that municipal governments are thinking creatively about how to help ensure their most vulnerable residents can access clean air and water and have safe ways to get around. Some are bringing ideas from other countries like Japan and the U.K; others have developed pioneering frameworks to value natural assets or consider planetary boundaries to understand context-based sustainability.  
         </p>
         <GraphicSingle
             svg720={`${base}/web-assets/climate-change/sustainability_watersheds-map.svg`}
@@ -81,7 +81,7 @@
             The intelligent use of data is at the core of many solutions, with emerging technologies enabling holistic analyses that combine information about ecological threats with socio-economic vulnerabilities to map priority areas for interventions. While climate phenomena tend to affect geographic regions, socio-economic data tend to follow jurisdictional boundaries, making it difficult to map one onto the other. Obtaining specific enough information to plan for climate impacts at a municipal level can be especially difficult, particularly in smaller places.<Footnote id={addFootnote(fns[10])}/> These tools represent a significant step forward in understanding where – and who – is most at risk. 
         </p>
         <p>
-            While the dangers of a changing climate are grave and widespread, this chapter presents a range of responses that can be implemented in our neighbourhoods and municipalities – actions that are hopeful, practical, and asset-focused. The organizations featured here work with communities to make them stronger, more resilient, and more connected to each other and to the environment. 
+            While the dangers of a changing climate are grave and widespread, this category presents a range of responses that can be implemented in our neighbourhoods and municipalities – actions that are hopeful, practical, and asset-focused. The organizations featured here work with communities to make them stronger, more resilient, and more connected to each other and to the environment. 
         </p>
     </div>
     <SolutionsGrid {Chapter} {solutionsList} {provinceCounts}/>

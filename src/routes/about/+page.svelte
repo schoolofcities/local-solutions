@@ -10,18 +10,13 @@
     import AboutTeamCard from "$lib/AboutTeamCard.svelte";
 
     const contributors = [
-        [{name: "Karen Chapple", role: "Project director"},
-        {name: "Kathryn J. Exon Smith", role: "Series editor, research, and writing"},],
-        [{name: "Priya Perwani", role: "Research and writing"},
-        {name: "An Pham", role: "Research and writing"},
-        {name: "Sarah A. Smith", role: "Research and writing"},
-        {name: "Anika Reisha Taboy", role: "Research and writing"},
-        {name: "Michelle Yong Yi Zhang", role: "Research and writing"},],
-        [{name: "Jeff Allen", role: "Data visuals"},
-        {name: "Isabeaux Graham", role: "Data visuals"},
-        {name: "Tony Chang", role: "Design"},
-        {name: "Mieko Yao", role: "Web design, development, and data visuals"},
-        {name: "Elizabeth d’Anjou", role: "Copy editing"},]
+        {role: "Project director", people: ["Karen Chapple"]},
+        {role: "Series editor", people: ["Kathryn J. Exon Smith"]},
+        {role: "Research and writing", people: ["Kathryn J. Exon Smith", "Priya Perwani", "An Pham", "Sarah A. Smith", "Anika Reisha Taboy", "Michelle Yong Yi Zhang"]},
+        {role: "Data visuals", people: ["Jeff Allen", "Isabeaux Graham", "Mieko Yao"]},
+        {role: "Design", people: ["Tony Chang"]},  
+        {role: "Web design and development", people: ["Mieko Yao"]},
+        {role: "Copy editing", people: ["Elizabeth d’Anjou", "Felicity Heyworth"]},
     ]
 
     const additionalContributors = [
@@ -67,7 +62,7 @@
 </script>
 
 <svelte:head>
-    <title>About the Team - Local Solutions | School of Cities</title>
+    <title>About the Team - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 
@@ -84,11 +79,12 @@
         </p>
 
         <TextTitle title="Project team"/>
-        <div style="padding-bottom: 50px;">
-            {#each contributors as group}
-                <div class="cards group">
-                    {#each group as contributor}
-                        <AboutTeamCard {...contributor}/>
+        <div class="cards project-team">
+            {#each contributors as section}
+                <div class="section">
+                    <h3>{section.role}</h3>
+                    {#each section.people as person}
+                        <p>{person}</p>
                     {/each}
                 </div>
             {/each}
@@ -127,6 +123,26 @@
 
     .cards.group {
         padding-bottom: 0;
+    }
+
+    .project-team {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: left;
+    }
+
+    .project-team .section {
+        width: 400px;
+    }
+
+    .project-team .section p {
+        margin: 0;
+    }
+
+    .project-team .section h3 {
+        color: var(--LoSoNavyBlue);
+        margin: 20px 0 10px 0;
     }
 
     .cards.additional {

@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-    <title>Shared Spaces - Local Solutions | School of Cities</title>
+    <title>Shared Spaces - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

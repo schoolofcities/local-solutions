@@ -28,7 +28,7 @@
 </script>
 
 <svelte:head>
-    <title>Community Prosperity - Local Solutions | School of Cities</title>
+    <title>Community Prosperity - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

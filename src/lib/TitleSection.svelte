@@ -64,6 +64,7 @@
         text-wrap: wrap;
         margin: 0;
         text-align: left;
+        color: var(--LoSoNavyBlue);
     }
 
     .title.long {

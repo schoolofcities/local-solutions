@@ -34,7 +34,7 @@
 </script>
 
 <svelte:head>
-    <title>Health and well-being - Local Solutions | School of Cities</title>
+    <title>Health and well-being - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 

@@ -14,7 +14,7 @@
 </script>
 
 <svelte:head>
-    <title>Local Solutions | School of Cities</title>
+    <title>Learning from What Works | School of Cities</title>
 </svelte:head>
 
 <div>
@@ -22,7 +22,7 @@
     <HomePageTitle/>
     <div class="body-text title-text">
         <p>
-            Learning From What Works is an initiative led by the School of Cities and the Canadian Urban Institute to identify effective, locally driven solutions to the complex challenges communities are facing across Canada. Through two national competitions, we've heard from organizations across the country who are leading community-based solutions that are showing success.
+            Learning From What Works is an initiative led by the <a href="https://schoolofcities.utoronto.ca/" target="_blank">School of Cities</a> and the <a href="https://canurb.org/" target="_blank">Canadian Urban Institute</a> to identify effective, locally driven solutions to the complex challenges communities are facing across Canada. Through two national competitions, we've heard from organizations across the country who are leading community-based solutions that are showing success.
         </p>
         <p>
             This website features over 100 of the most promising submissions we received, including 23 <a href="{base}/featured-solutions">finalists</a> whose inspiring initiatives are covered in depth. The transformative local solutions are from a range of organizations and address housing, mental health, climate change, and more. 

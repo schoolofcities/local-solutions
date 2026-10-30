@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-    <title>Featured Solutions - Local Solutions | School of Cities</title>
+    <title>Featured Solutions - Learning from What Works | School of Cities</title>
 </svelte:head>
 
 
