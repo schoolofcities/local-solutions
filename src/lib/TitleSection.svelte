@@ -297,6 +297,7 @@
 
         .project-banner .text {
             width: 350px;
+            padding-right: 0;
         }
 
         .project-banner h2 {
