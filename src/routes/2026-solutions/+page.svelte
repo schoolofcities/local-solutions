@@ -21,7 +21,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
 
     <TitleSection Title="2026 Cohort" 
         Chapter=""/>

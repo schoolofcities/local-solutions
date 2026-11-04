@@ -24,7 +24,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <div id="header-section" class="body-text-with-background" style:background-color={hexToRgba(chapterColours[solution.Chapter[0]], 0.3)}>
         <div class="image-container">
             <div class="province-indicator">

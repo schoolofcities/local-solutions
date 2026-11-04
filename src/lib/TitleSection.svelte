@@ -1,6 +1,7 @@
 <script>
     import { chapterColours, pdfPaths } from "./chapterColours";
     import "../assets/global-styles.css";
+    import { base } from '$app/paths';
 
     export let Chapter;
     export let Title;
@@ -10,6 +11,9 @@
 <div class="container {Subtitle ? "has-subtitle" : ""}">
     <div class="content">
         <div class="title-section">
+            {#if chapterColours[Chapter]}
+                <img src={`${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter}.png`} alt={Chapter} class="chapter-icon"/>
+            {/if}
             <h2 class="title {Title.length > 25 ? "long" : ""} {Title.split(' ').some((word) => word.length >= 10) ? "med" : ""}">
                 {Title.toUpperCase()}
             </h2>

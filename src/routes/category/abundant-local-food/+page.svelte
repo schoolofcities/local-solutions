@@ -37,7 +37,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <TitleSection Title="Abundant local food" {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>

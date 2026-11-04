@@ -18,7 +18,7 @@
 </svelte:head>
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <HomePageTitle/>
     <div class="body-text title-text">
         <p>
