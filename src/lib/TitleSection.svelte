@@ -322,7 +322,7 @@
 
     @media (max-width: 700px) {
         .container {
-            padding-bottom: calc(150px + 15px);
+            padding-bottom: calc(175px);
         }
 
         .background {
@@ -346,6 +346,10 @@
             font-size: 40px;
             text-align: left;
             align-self: flex-start;
+        }
+
+        .title.med {
+            font-size: 30px;
         }
 
         .title.long {
@@ -385,9 +389,14 @@
             font-size: 35px;
         }
 
+        .title.med {
+            font-size: 28px;
+        }
+
         .title.long {
             font-size: 23px;
         }
+
 
         .subtitle {
             font-size: 19px;

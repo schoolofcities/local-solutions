@@ -96,6 +96,7 @@
             right: auto;
             align-self: center;
             margin-bottom: 15px;
+            margin-top: 15px;
         }
     }
 </style>
