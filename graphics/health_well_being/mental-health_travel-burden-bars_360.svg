@@ -5,7 +5,7 @@
    height="366.60001"
    viewBox="0 0 269.99999 274.95002"
    version="1.1"
-   sodipodi:docname="mental-health_travel-burden-bars_changed_colours_360.svg"
+   sodipodi:docname="mental-health_travel-burden-bars_360.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="mental-health_travel-burden-bars.png"
    inkscape:export-xdpi="300"
@@ -35,14 +35,14 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="186.32263"
-     inkscape:cy="233.69878"
+     inkscape:cx="185.96908"
+     inkscape:cy="233.34523"
      inkscape:window-width="1198"
-     inkscape:window-height="1251"
-     inkscape:window-x="1192"
-     inkscape:window-y="9"
+     inkscape:window-height="1048"
+     inkscape:window-x="706"
+     inkscape:window-y="7"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="Layer_1">
     <inkscape:grid
        id="grid29"
        units="in"
@@ -164,10 +164,10 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan1">Hospital travel burden for urban </tspan><tspan
+             id="tspan16">Hospital travel burden for urban </tspan><tspan
              x="0"
              y="17.5"
-             id="tspan2">and rural residents</tspan></text>
+             id="tspan17">and rural residents</tspan></text>
       </g>
     </g>
     <g
@@ -188,10 +188,10 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan3">Data source: Hospital Morbidity Database (CIHI, 2018-2023), </tspan><tspan
+             id="tspan18">Data source: Hospital Morbidity Database (CIHI, 2018-2023), </tspan><tspan
              x="0"
              y="10"
-             id="tspan11">Statistics Canada (2024)</tspan></text>
+             id="tspan19">Statistics Canada (2024)</tspan></text>
       </g>
     </g>
     <rect
@@ -227,16 +227,16 @@
            xml:space="preserve"><tspan
              x="0"
              y="0"
-             id="tspan13">Factors that impact travel burden include patient living in a different </tspan><tspan
+             id="tspan30">Factors that impact travel burden include patient living in a different </tspan><tspan
              x="0"
              y="10"
-             id="tspan14">census subdivision than the hospital, greater travel distance required, </tspan><tspan
+             id="tspan31">census subdivision than the hospital, greater travel distance required, </tspan><tspan
              x="0"
              y="19.999999"
-             id="tspan15">no road available, patient is a senior or child, and hospitalization is </tspan><tspan
+             id="tspan32">no road available, patient is a senior or child, and hospitalization is </tspan><tspan
              x="0"
              y="29.999999"
-             id="tspan29">urgent or unscheduled.</tspan></text>
+             id="tspan33">urgent or unscheduled.</tspan></text>
         <text
            transform="translate(21.6,54)"
            font-family="OpenSans-Italic, 'Open Sans'"
@@ -325,7 +325,8 @@
       <g
          id="text16"
          isolation="isolate"
-         transform="translate(-32.167888,25.351136)">
+         transform="translate(-32.167888,25.351136)"
+         style="fill:#ffffff">
         <text
            transform="translate(52.789,154.737)"
            fill="#ffffff"
@@ -334,16 +335,17 @@
            font-weight="700"
            isolation="isolate"
            id="text7"
-           style="fill:#000000"><tspan
+           style="fill:#ffffff"><tspan
              x="0"
              y="0"
              id="tspan7"
-             style="fill:#000000">19%</tspan></text>
+             style="fill:#ffffff">19%</tspan></text>
       </g>
       <g
          id="text17"
          isolation="isolate"
-         transform="translate(-82.394941,31.715097)">
+         transform="translate(-82.394941,31.715097)"
+         style="fill:#ffffff">
         <text
            transform="translate(175.879,96.738)"
            fill="#ffffff"
@@ -352,11 +354,11 @@
            font-weight="700"
            isolation="isolate"
            id="text8"
-           style="fill:#000000"><tspan
+           style="fill:#ffffff"><tspan
              x="0"
              y="0"
              id="tspan8"
-             style="fill:#000000">75%</tspan></text>
+             style="fill:#ffffff">75%</tspan></text>
       </g>
       <g
          id="text18"
@@ -469,11 +471,11 @@
            font-weight="700"
            isolation="isolate"
            id="text24"
-           style="fill:#000000"><tspan
+           style="fill:#ffffff;fill-opacity:1"><tspan
              x="0"
              y="0"
              id="tspan23"
-             style="fill:#000000">11%</tspan></text>
+             style="fill:#ffffff;fill-opacity:1">11%</tspan></text>
       </g>
       <g
          id="g25"
