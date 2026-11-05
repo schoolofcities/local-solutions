@@ -86,7 +86,7 @@
     <div class="body-text">
 
         <p style="margin-bottom: 50px;">
-            <i>Learning from What Works</i> is led by the University of Toronto’s <a href="https://schoolofcities.utoronto.ca/" target="_blank">School of Cities</a>, with support from the Canadian Urban Institute and RBC.
+            <i>Learning from What Works</i> is led by the University of Toronto’s <a href="https://schoolofcities.utoronto.ca/" target="_blank">School of Cities</a>, with support from the Canadian Urban Institute.
         </p>
 
         <TextTitle title="Project team"/>
@@ -116,7 +116,7 @@
                     <img src={SofCLogo} alt="University of Toronto and School of Cities logos" class="logo"/>
                     <img src={CUILogo} alt="Canadian Urban Institute Logo" class="logo"/>
                 </div>
-                <img src={RBCLogo} alt="Royal Bank of Canada logos" class="rbc-logo"/>
+                <!-- <img src={RBCLogo} alt="Royal Bank of Canada logos" class="rbc-logo"/> -->
             </div>
         </div>
     </div>
@@ -188,7 +188,7 @@
         align-items: center;
         align-content: center;
         gap: 20px;
-        max-width: 500px;
+        max-width: 400px;
         width: 70dvw;
         box-sizing: border-box;
     }
@@ -205,10 +205,10 @@
         object-fit: contain;
     }
 
-    .rbc-logo {
+    /* .rbc-logo {
         max-width: 27%;
         height: auto;
-    }
+    } */
 
     @media (max-width: 475px) {
         

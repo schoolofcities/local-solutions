@@ -6,13 +6,16 @@
     export let chapter = "";
     export let title;
     export let background = "Yellow";
+    export let linkOnly = false;
 </script>
 
-<div class="container {chapter ? "has-link" : ""}">
+<div class="container {chapter ? "has-link" : ""} {linkOnly ? "link-only" : ""}">
     <div class="title-text"
         style:background-color={background == "Yellow" ? "var(--brandYellow)" : "var(--LoSoNavyBlue)"}>
-        <h2 style:color={background == "Yellow" ? "var(--LoSoNavyBlue)" : "var(--brandYellow)"}>
-        {title.toUpperCase()}</h2>
+        {#if !linkOnly}
+            <h2 style:color={background == "Yellow" ? "var(--LoSoNavyBlue)" : "var(--brandYellow)"}>
+            {title.toUpperCase()}</h2>
+        {/if}
     </div>
     {#if chapter && pdfPaths[chapter]}
         <a href={pdfPaths[chapter]} target="_blank" class="pdf-link">
@@ -60,6 +63,10 @@
         text-decoration: none;
         font-size: 16px;
     }
+
+    .link-only .title-text {
+        height: 30px;
+    } 
 
     @media (min-width: 1200px) {
         .title-text {

@@ -4,6 +4,7 @@
     import TitleSection from "$lib/TitleSection.svelte";
     import SolutionsGrid from "$lib/SolutionsGrid.svelte";
     import { base } from "$app/paths";
+    import TextTitle from "$lib/TextTitle.svelte";
 
     let { data } = $props();
 
@@ -27,6 +28,7 @@
         Chapter=""/>
 
     <div class="body-text">
+        <TextTitle title="" linkOnly={true} chapter="2026 Cohort"/>
         <p>
             Communities across Canada are navigating an uncertain political and economic environment in 2026, with technological disruption, trade wars, and tariffs compounding affordability challenges for many across the country. Yet the solutions in this year's cohort demonstrate how local action can mitigate against macro-level effects. They stood out in terms of demonstrated impact, creative approach, and potential to scale. 
         </p>

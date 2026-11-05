@@ -22,7 +22,8 @@ export const pdfPaths = {
   "Youth":                            "https://utoronto.scholaris.ca/items/89aec3a1-3bc7-447a-8aaf-e72372c35a61", 
   "Abundant local food":              "https://utoronto.scholaris.ca/items/6420df36-c83f-4801-9fee-c970f3f6d4fb", 
   "Community prosperity":             "https://utoronto.scholaris.ca/items/6420df36-c83f-4801-9fee-c970f3f6d4fb", 
-  "Scaling social innovation":        "https://utoronto.scholaris.ca/items/799a9d5b-2345-4a55-85a4-514ab89273b9"
+  "Scaling social innovation":        "https://utoronto.scholaris.ca/items/799a9d5b-2345-4a55-85a4-514ab89273b9",
+  "2026 Cohort":                      "https://utoronto.scholaris.ca/items/1062a762-5eb7-4bab-94fc-c8e2e4e970ca",
 };
 
 export const chapterDescriptions = {
