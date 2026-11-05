@@ -5,7 +5,7 @@
    height="3.1in"
    viewBox="0 0 489.6 223.2"
    version="1.1"
-   sodipodi:docname="mental-health_travel-burden-bars_changed_colours.svg"
+   sodipodi:docname="mental-health_travel-burden-bars.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="mental-health_travel-burden-bars.png"
    inkscape:export-xdpi="300"
@@ -28,14 +28,14 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="337.28993"
-     inkscape:cy="242.89117"
-     inkscape:window-width="1532"
-     inkscape:window-height="1251"
-     inkscape:window-x="0"
-     inkscape:window-y="9"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg29">
+     inkscape:cx="358.85668"
+     inkscape:cy="160.15968"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1-6">
     <inkscape:grid
        id="grid29"
        units="in"
@@ -281,7 +281,8 @@
       </g>
       <g
          id="text16-9"
-         isolation="isolate">
+         isolation="isolate"
+         style="fill:#ffffff">
         <text
            transform="translate(52.789,154.737)"
            fill="#fff"
@@ -290,15 +291,16 @@
            font-weight="700"
            isolation="isolate"
            id="text7-9"
-           style="fill:#000000"><tspan
+           style="fill:#ffffff"><tspan
              x="0"
              y="0"
              id="tspan7-2"
-             style="fill:#000000">19%</tspan></text>
+             style="fill:#ffffff">19%</tspan></text>
       </g>
       <g
          id="text17-5"
-         isolation="isolate">
+         isolation="isolate"
+         style="fill:#ffffff">
         <text
            transform="translate(175.879,96.738)"
            fill="#fff"
@@ -307,11 +309,11 @@
            font-weight="700"
            isolation="isolate"
            id="text8-5"
-           style="fill:#000000;stroke:#ffffff;stroke-width:0.072;stroke-dasharray:none"><tspan
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.072;stroke-dasharray:none"><tspan
              x="0"
              y="0"
              id="tspan8-3"
-             style="fill:#000000;stroke:#ffffff;stroke-width:0.072;stroke-dasharray:none">75%</tspan></text>
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.072;stroke-dasharray:none">75%</tspan></text>
       </g>
       <g
          id="text18-3"
@@ -408,7 +410,8 @@
       </g>
       <g
          id="g24-2"
-         isolation="isolate">
+         isolation="isolate"
+         style="fill:#ffffff">
         <text
            transform="translate(431.888,154.737)"
            fill="#fff"
@@ -417,11 +420,11 @@
            font-weight="700"
            isolation="isolate"
            id="text24-8"
-           style="fill:#000000"><tspan
+           style="fill:#ffffff"><tspan
              x="0"
              y="0"
              id="tspan23-2"
-             style="fill:#000000">11%</tspan></text>
+             style="fill:#ffffff">11%</tspan></text>
       </g>
       <g
          id="g25-8"

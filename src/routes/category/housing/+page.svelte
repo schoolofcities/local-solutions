@@ -44,7 +44,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <TitleSection Title={Chapter} {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>

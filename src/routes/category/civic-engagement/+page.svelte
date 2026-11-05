@@ -37,7 +37,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <TitleSection Title="Civic engagement and democracy" {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>

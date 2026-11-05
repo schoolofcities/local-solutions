@@ -141,7 +141,7 @@
 
 <div class="layout" id="solutions-map">
     {#if width}
-    <div>
+    <div class="map-container">
         <h2 class="header">Browse the {Chapter ? Chapter.toLowerCase() : " "} solutions:</h2>
         {#if mapData?.features && width}
             {#if Object.keys(totalProvinceCounts).length > 5}
@@ -279,38 +279,6 @@
         gap: 20px;
         padding-bottom: 15px;
         max-width: 90dvw;
-    }
-
-    @media (max-width: 1610px) {
-        .layout {
-            width: var(--grid-width);
-            margin-left: calc((100dvw - var(--grid-width))/2);
-        }
-    }
-
-    @media (max-width: 1100px) {
-        .layout {
-            width: calc(95dvw - 45px);
-            margin-left: calc((5dvw + 45px)/2);
-        }
-    }
-
-    @media (max-width: 750px) {
-        .layout {
-            width: 95dvw;
-            margin-left: calc(5dvw/2);
-            flex-direction: column;
-            align-items: center;
-        }
-        
-
-        .filters {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            gap: 20px;
-            width: 90dvw;
-        }
     }
 
     .header {
@@ -477,5 +445,51 @@
 
     .square .count {
         font-size: 30px;
+    }
+    
+
+    @media (max-width: 1610px) {
+        .layout {
+            width: var(--grid-width);
+            margin-left: calc((100dvw - var(--grid-width))/2);
+        }
+    }
+
+    @media (max-width: 1100px) {
+        .layout {
+            width: calc(95dvw - 45px);
+            margin-left: calc((5dvw + 45px)/2);
+        }
+    }
+
+    @media (max-width: 750px) {
+        .layout {
+            width: 95dvw;
+            margin-left: calc(5dvw/2);
+            flex-direction: column;
+            align-items: center;
+        }
+        
+
+        .filters {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 20px;
+            width: 90dvw;
+        }
+
+        h2.header {
+            font-size: 25px;
+        }
+        
+        .map-container {
+            width: 90dvw;
+        }
+
+        .condensed-map {
+            min-width: auto;
+            width: 100%;
+        }
     }
 </style>

@@ -1,6 +1,7 @@
 <script>
     import { chapterColours, pdfPaths } from "./chapterColours";
     import "../assets/global-styles.css";
+    import { base } from '$app/paths';
 
     export let Chapter;
     export let Title;
@@ -10,12 +11,17 @@
 <div class="container {Subtitle ? "has-subtitle" : ""}">
     <div class="content">
         <div class="title-section">
-            <h2 class="title {Title.length > 25 ? "long" : ""} {Title.split(' ').some((word) => word.length >= 10) ? "med" : ""}">
-                {Title.toUpperCase()}
-            </h2>
-            {#if Subtitle}
-                <h3 class="subtitle">{Subtitle}</h3>
+            {#if chapterColours[Chapter]}
+                <img src={`${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter}.png`} alt={Chapter} class="chapter-icon"/>
             {/if}
+            <div>
+                <h2 class="title {Title.length > 25 ? "long" : ""} {(chapterColours[Chapter] && (Title.split(' ').some((word) => word.length >= 10) || Title.length >= 15)) ? "med" : ""}">
+                    {Title.toUpperCase()}
+                </h2>
+                {#if Subtitle}
+                    <h3 class="subtitle">{Subtitle}</h3>
+                {/if}
+            </div>
         </div>
         <div class="project-banner">
             <div class="text">
@@ -56,30 +62,38 @@
     }
 
     .title-section {
-        max-width: calc(90dvw - 530px - 15dvw);
+        max-width: calc(90dvw - clamp(300px, 40vw, 530px) - 10dvw);
+        display: flex;
+        flex-direction: row;
+        align-items: center;
     }
 
     .title {
-        font-size: 80px;
+        font-size: clamp(35px, 5vw, 80px);
         text-wrap: wrap;
         margin: 0;
         text-align: left;
         color: var(--LoSoNavyBlue);
     }
 
+    .title.med {
+        font-size: clamp(30px, 4.25vw, 60px);
+    }
+
     .title.long {
-        font-size: 55px;
+        font-size: clamp(25px, 3vw, 55px);
         font-weight: bold;
     }
 
     .has-subtitle .title {
-        font-size: 45px;
+        font-size: clamp(24px, 3.25vw, 50px);
     }
 
     .subtitle {
         margin: 0;
-        font-size: 40px;
         font-family: TradeGothicLTLight;
+        font-size: clamp(22px, 3vw, 45px);
+        color: var(--LoSoNavyBlue);
     }
 
     .project-banner {
@@ -100,68 +114,27 @@
     }
 
     .project-banner .text {
-        max-width: 530px;
+        width: clamp(300px, 40vw, 530px);
     }
 
     .project-banner h2 {
-        font-size: 40px;
+        font-size: clamp(22px, 3vw, 40px);
         margin: 0;
         color: var(--LoSoNavyBlue);
     }
 
     .project-banner h3 {
         font-family: TradeGothicLTLight;
-        font-size: 40px;
+        /* font-size: 40px; */
+        font-size: clamp(20px, 2.75vw, 40px);
         color: var(--LoSoNavyBlue);
         margin: 0;
     }
 
-    @media (max-width: 1400px) {
-        .title.long {
-            font-size: 50px;
-        }
-
-        .title.med {
-            font-size: 55px;
-        }
-
-        .has-subtitle .title {
-            font-size: 40px;
-        }
-
-        .subtitle {
-            font-size: 35px;
-        }
+    .chapter-icon {
+        height: clamp(50px, 10vw, 150px);
     }
 
-    @media (max-width: 1250px) {
-        .title.long {
-            font-size: 45px;
-        }
-
-        .has-subtitle .title {
-            font-size: 40px;
-        }
-
-        .subtitle {
-            font-size: 35px;
-        }
-
-    }
-
-    @media (max-width: 1150px) {
-        .title.long {
-            font-size: 40px;
-        }
-
-        .has-subtitle .title {
-            font-size: 35px;
-        }
-
-        .subtitle {
-            font-size: 30px;
-        }
-    }
 
     @media (max-width: 1080px) {
         .container {
@@ -176,12 +149,9 @@
             height: 200px;
         }
 
-        .title {
-            font-size: 60px;
-        }
 
         .title-section {
-            max-width: calc(90dvw - 400px - 15dvw);
+            max-width: calc(90dvw - clamp(300px, 35vw, 530px) - 15dvw);
         }
 
         .project-banner {
@@ -189,43 +159,14 @@
         }
 
         .project-banner .text {
-            width: 400px;
-        }
-
-        .project-banner h2 {
-            font-size: 30px;
-        }
-
-        .project-banner h3 {
-            font-size: 30px;
+            width: clamp(300px, 35vw, 530px);
         }
     }
 
-    @media (max-width: 1000px) {
-        .title.long {
-            font-size: 35px;
-        }
-
-        .subtitle {
-            font-size: 30px;
-        }
-    }
 
     @media (max-width: 880px) {
-        .title.med {
-            font-size: 40px;
-        }
-
-        .title.long {
-            font-size: 30px;
-        }
-
-        .subtitle {
-            font-size: 25px;
-        }
-
         .has-subtitle.container {
-            padding-bottom: calc(175px + 15px);
+            padding-bottom: calc(175px);
         }
 
         .has-subtitle .background {
@@ -264,68 +205,15 @@
         .has-subtitle .project-banner .text {
             width: 100%;
         }
-
-        .has-subtitle .project-banner h2 {
-            font-size: 20px;
-        }
-
-        .has-subtitle .project-banner h3 {
-            font-size: 20px;
-        }
     }
-
-    @media (max-width: 800px) {
-        .container {
-            padding-bottom: calc(175px + 15px);
-        }
-
-        .background {
-            height: 175px;
-        }
-
-        .content {
-            height: 175px;
-        }
-
-        .title {
-            font-size: 50px;
-        }
-
-        .title-section {
-            max-width: calc(90dvw - 350px - 15dvw);
-        }
-
-        .project-banner .text {
-            width: 350px;
-        }
-
-        .project-banner h2 {
-            font-size: 25px;
-        }
-
-        .project-banner h3 {
-            font-size: 25px;
-        }
-    }
-
-    @media (max-width: 750px) {
-        .title.long {
-            font-size: 26px;
-        }
-
-        .subtitle {
-            font-size: 22px;
-        }
-    }
-
 
     @media (max-width: 700px) {
         .container {
-            padding-bottom: calc(150px + 15px);
+            padding-bottom: calc(160px);
         }
 
         .background {
-            height: 150px;
+            height: 160px;
         }
 
         .content {
@@ -339,20 +227,15 @@
 
         .title-section {
             max-width: 100%;
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
         }
 
         .title {
-            font-size: 40px;
+            /* font-size: 40px; */
             text-align: left;
             align-self: flex-start;
-        }
-
-        .title.long {
-            font-size: 24px;
-        }
-
-        .subtitle {
-            font-size: 20px;
         }
 
         .project-banner {
@@ -368,36 +251,6 @@
 
         .project-banner .text {
             width: 100%;
-        }
-
-        .project-banner h2 {
-            font-size: 20px;
-        }
-
-        .project-banner h3 {
-            font-size: 20px;
-        }
-    }
-
-    @media (max-width: 500px) {
-        .title {
-            font-size: 35px;
-        }
-
-        .title.long {
-            font-size: 23px;
-        }
-
-        .subtitle {
-            font-size: 19px;
-        }
-
-        .project-banner h2 {
-            font-size: 18px;
-        }
-
-        .project-banner h3 {
-            font-size: 18px;
         }
     }
 

@@ -33,7 +33,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <TitleSection Title="Community prosperity" {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>

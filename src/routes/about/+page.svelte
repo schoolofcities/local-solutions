@@ -78,7 +78,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
 
     <TitleSection Title="About the project" 
         Chapter=""/>

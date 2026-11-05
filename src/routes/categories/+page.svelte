@@ -11,7 +11,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
 
     <TitleSection Title="Categories" 
         Chapter=""/>
