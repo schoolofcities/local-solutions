@@ -28,6 +28,7 @@
         tagClicked,
         Thumbnail_Caption,
         Thumbnail_Source,
+        Thumbnail_Placement,
     } = $props();
 
     let containerEl = $state(null);
@@ -42,21 +43,19 @@
         const tagsH = tagsEl.getBoundingClientRect().height;
         const buttonH = 24;
         const padding = 40;
-        collapsedHeight = `${containerH - titleH - tagsH - buttonH - padding}px`;
+        const minH = 72; 
+        const available = containerH - titleH - tagsH - buttonH - padding;
+        collapsedHeight = `${Math.max(minH, available)}px`;
     }
     
     $effect(() => {
-        Summary;
-        Tags;
-        tick().then(() => recalcHeight());
-    });
+        if (!titleEl || !tagsEl) return;
 
-    onMount(async () => {
-        await tick();
-        recalcHeight();
+        const ro = new ResizeObserver(() => recalcHeight());
+        ro.observe(titleEl);
+        ro.observe(tagsEl);
 
-        window.addEventListener('resize', recalcHeight);
-        return () => window.removeEventListener('resize', recalcHeight);
+        return () => ro.disconnect();
     });
 </script>
 
@@ -72,7 +71,8 @@
             {Display_Location}
             {Spotlighted}
             {Thumbnail_Caption}
-            {Thumbnail_Source}/>
+            {Thumbnail_Source}
+            {Thumbnail_Placement}/>
     </div>
 
     <div class="description-wrapper">

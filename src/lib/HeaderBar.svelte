@@ -1,5 +1,5 @@
 <script>
-	import Logo from '../assets/loso-logo.svg';
+	import Logo from '../assets/loso-dots.svg';
     import ChevronDown from './assets/icons/chevron-down.svelte';
     import "../assets/global-styles.css";
     import { chapterColours } from './chapterColours';
