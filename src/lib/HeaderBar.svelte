@@ -1,5 +1,5 @@
 <script>
-	import Logo from '../assets/loso-logo.svg';
+	import Logo from '../assets/loso-dots.svg';
     import ChevronDown from './assets/icons/chevron-down.svelte';
     import "../assets/global-styles.css";
     import { chapterColours } from './chapterColours';
@@ -53,8 +53,8 @@
 <nav>
 
     <div class="container" role="navigation">
-        <a href="{base}/" class="logo-link">
-            <img src={Logo} alt="Local Solutions logo" class="logo-top"/>
+        <a href="{base}/" class="logo-link" aria-label="Return to the Learning from What Works homepage">
+            <img src={Logo} alt="Learning from What Works logo" class="logo-top"/>
         </a>
         <div class="right-side">
             <div class="nav-buttons">

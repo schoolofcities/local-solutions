@@ -16,6 +16,7 @@
         Spotlighted,
         Thumbnail_Caption,
         Thumbnail_Source,
+        Thumbnail_Placement,
     } = $props();
     
     let showImageViewer = $state(false);
@@ -55,10 +56,10 @@
         <button style="border: none; background-color: #ffffff00; display: flex;" onclick={() => {
             showImageViewer = true;
         }}>
-            <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
+            <img src={imageUrl} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" style:object-position={`center ${Thumbnail_Placement ? Thumbnail_Placement : 'center'}`}/>
         </button>
     {:else}
-        <img src={`${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter[0]}.png`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail" />
+        <img src={`${base}/web-assets/card_thumbnails/LOSO Icon_${Chapter[0]}.png`} alt={Thumbnail_Alt} loading="lazy" class="thumbnail icon" />
     {/if}
 
     {#if showImageViewer}
@@ -103,7 +104,11 @@
         width: 95%;
         height: 150px;
         object-fit: cover;
-        object-position: 50% 0px;
+    }
+
+    .thumbnail.icon {
+        object-fit: contain;
+        object-position: 50% 50%;
     }
 
     .location {

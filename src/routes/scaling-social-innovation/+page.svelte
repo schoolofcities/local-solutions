@@ -88,6 +88,9 @@
         <p>
             The programs and initiatives explored in this volume are creative, local approaches to solving some of Canada’s most pressing problems. They provide evidence that people across the country can come together and make their communities more vibrant, welcoming, and livable. The purpose of this chapter is to ask two important questions: what made these solutions work? And how can this kind of progress be encouraged in more places? 
         </p>
+
+        <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/local.png`} source="Image credit: Kathryn Exon Smith"
+            link="No"/>
         <p>
             To answer these questions, a research team at the School of Cities analyzed the common factors that drove success across all the solutions submitted to the competition, and interviewed a select group of 16 finalists. We complemented this primary research with a review of the literature on scaling, replication, and policy transfer in the social sector. We then convened a multidisciplinary group of experts working in fields as diverse as geography, law, social work, and engineering – in both academia and community practice – to understand how these ideas play out in Canadian organizations today.  
         </p>

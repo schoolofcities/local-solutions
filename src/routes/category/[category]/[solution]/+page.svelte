@@ -35,7 +35,7 @@
                 />
             </div>
             <ImageSingle imageURL={`${base}/web-assets/spotlighted-solutions/${solution.ID_Num}/${solution.Title_Photo}`}
-                link="No" indicatorCorner="200" position="top"/>
+                link="No" indicatorCorner="200" position={solution.Thumbnail_Placement}/>
         </div>
     </div>
     <div class="body-text">
