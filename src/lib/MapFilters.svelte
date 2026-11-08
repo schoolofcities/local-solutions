@@ -92,7 +92,7 @@
         if (windowWidth > 750) {
             return Math.min(layoutWidth * 0.6, 600);
         } else {
-            return layoutWidth;
+            return layoutWidth * .95;
         }
     });
     let height = $derived(width * .8);
@@ -145,7 +145,7 @@
         <h2 class="header">Browse the {Chapter ? Chapter.toLowerCase() : " "} solutions:</h2>
         {#if mapData?.features && width}
             {#if Object.keys(totalProvinceCounts).length > 5}
-                <div style="height: {height + 15}px; width: {windowWidth > 750 ? width + 15 : width}px">
+                <div style="height: {height + 15}px; width: {windowWidth > 750 ? width + 15 : width}px;">
                     <svg {width} {height} class="map"
                         style="--chapterColour: {Chapter ? chapterColours[Chapter] : '#001D4E'}">
                         {#each mapData.features as province (province.properties.name)}
