@@ -106,4 +106,10 @@
             margin-top: 15px;
         }
     }
+
+    @media (max-width: 425px) {
+        .pdf-link {
+            margin-top: 30px;
+        }
+    }
 </style>

@@ -89,19 +89,19 @@
     <!-- Mobile menu panel -->
     {#if mobileMenuOpen}
         <div class="mobile-menu" transition:slide>
-            <a class="mobile-link" href="{base}/about">
+            <a class="mobile-link" href="{base}/about" onclick={closeMobileMenu}>
                 About
             </a>
 
-            <a class="mobile-link" href="{base}/scaling-social-innovation">
+            <a class="mobile-link" href="{base}/scaling-social-innovation" onclick={closeMobileMenu}>
                 Scaling Social Innovation
             </a>
 
-            <a class="mobile-link" href="{base}/2026-solutions">
+            <a class="mobile-link" href="{base}/2026-solutions" onclick={closeMobileMenu}>
                 2026 Cohort
             </a>
 
-            <a class="mobile-link" href="{base}/featured-solutions">
+            <a class="mobile-link" href="{base}/featured-solutions" onclick={closeMobileMenu}>
                 Featured Solutions
             </a>
 

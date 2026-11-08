@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="project-banner">
-            <div class="text">
+            <div class="banner-text">
                 <h2>LEARNING FROM WHAT WORKS:</h2>
                 <h3>Leveraging local solutions to make better places</h3>
             </div>
@@ -113,7 +113,7 @@
         background-color: var(--brandYellow);
     }
 
-    .project-banner .text {
+    .project-banner .banner-text {
         width: clamp(300px, 40vw, 530px);
     }
 
@@ -158,7 +158,7 @@
             padding: 10px;
         }
 
-        .project-banner .text {
+        .project-banner .banner-text {
             width: clamp(300px, 35vw, 530px);
         }
     }
@@ -202,7 +202,7 @@
             display: none;  
         }
 
-        .has-subtitle .project-banner .text {
+        .has-subtitle .project-banner .banner-text {
             width: 100%;
         }
     }
@@ -249,7 +249,7 @@
             display: none;  
         }
 
-        .project-banner .text {
+        .project-banner .banner-text {
             width: 100%;
         }
     }
