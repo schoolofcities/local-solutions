@@ -32,26 +32,6 @@
         </p>
     </div>
 
-    <SolutionsGrid Chapter="" solutionsList={featured} provinceCounts={{}} hasFilters={false}/>
-    <!-- <div class="solutions">
-        {#each featured as solution}
-            <FeaturedSolution {...solution} {tagClicked}/>
-        {/each}
-    </div> -->
+    <SolutionsGrid Chapter="" solutionsList={featured} provinceCounts={{}} hasMap={false}/>
     
 </div>
-
-<style>
-    .solutions {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        background-color: #D9D9D9;
-        align-items: center;
-        justify-content: center;
-        gap: 15px;
-        box-sizing: border-box;
-        max-width: 100dvw;
-        padding: 15px 0;
-    }
-</style>

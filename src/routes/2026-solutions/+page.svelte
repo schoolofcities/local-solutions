@@ -39,27 +39,5 @@
             Now in its second year, the Learning from What Works project continues to offer a hopeful, forward-looking change in perspective. This inspiring group of initiatives shows that great ideas, co-created with communities, are at the heart of creating positive change.
         </p>
     </div>
-    <SolutionsGrid Chapter="" solutionsList={featured} provinceCounts={{}} hasFilters={false}/>
-
-    <!-- <div class="solutions">
-        {#each featured as solution}
-            <FeaturedSolution {...solution} {tagClicked}/>
-        {/each}
-    </div> -->
-    
+    <SolutionsGrid Chapter="" solutionsList={featured} provinceCounts={{}} hasMap={false}/>
 </div>
-
-<style>
-    .solutions {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        background-color: #D9D9D9;
-        align-items: center;
-        justify-content: center;
-        gap: 15px;
-        box-sizing: border-box;
-        max-width: 100dvw;
-        padding: 15px 0;
-    }
-</style>

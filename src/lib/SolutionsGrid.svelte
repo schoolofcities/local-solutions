@@ -12,23 +12,23 @@
         solutionsList,
         Chapter = "",
         home = false,
-        hasFilters = true,
+        hasMap = true,
     } = $props();
 
-    
+
 
     const emptyChapters = () =>
     Object.fromEntries(Object.keys(chapterColours).map(c => [c, false]));
 
-    const municipalities = hasFilters
+    const municipalities = hasMap
         ? [...new Set(solutionsList.flatMap(s => s.Municipalities_List ?? []))]
             .map(m => ({ value: m, label: m }))
         : [];
 
 
     const fromUrl = (list, param) => {
-        // Not filtering, or on the server: use empty defaults
-        if (!hasFilters || !browser) {
+        // On the server, or a location filter without the map: use empty defaults
+        if (!browser || (!hasMap && (param === "province" || param === "municipality"))) {
             if (param === "category") return emptyChapters();
             if (param === "search") return "";
             if (param === "province") return undefined;
@@ -56,7 +56,7 @@
     let lastSearch = browser ? $page.url.search : '';
 
     $effect(() => {
-        if (!hasFilters || !browser) return;
+        if (!browser) return;
         const search = $page.url.search;
         if (search === lastSearch) return;
         lastSearch = search;
@@ -146,8 +146,6 @@
     }
 
     let filteredSolutionsList = $derived.by(() => {
-        if (!hasFilters) return solutionsList;
-
         const filtered = solutionsList.filter(s => {
             const hasProvince = selectedProvince !== undefined;
             const hasMunicipality = selectedMunicipalities.length > 0;
@@ -236,27 +234,26 @@
 
 <div class="body" id="solutions-grid">
 
-    {#if hasFilters}
-        <MapFilters
-            {Chapter}
-            {provinceCounts}
-            {totalProvinceCounts}
-            {home}
-            municipalities={availableMunicipalities}
-            provinces={availableProvinces}
-            tags={availableTags}
-            {activeProvinceFilter}
-            onFilterProvince={filterProvince}
-            onClear={clearFilters}
-            onApply={applyFiltersToURL}
-            bind:searchText
-            bind:selectedProvince
-            bind:selectedMunicipalities
-            bind:selectedTags
-            bind:selectedChapters
-            bind:addTag
-        />
-    {/if}
+    <MapFilters
+        {Chapter}
+        {provinceCounts}
+        {totalProvinceCounts}
+        {home}
+        {hasMap}
+        municipalities={availableMunicipalities}
+        provinces={availableProvinces}
+        tags={availableTags}
+        {activeProvinceFilter}
+        onFilterProvince={filterProvince}
+        onClear={clearFilters}
+        onApply={applyFiltersToURL}
+        bind:searchText
+        bind:selectedProvince
+        bind:selectedMunicipalities
+        bind:selectedTags
+        bind:selectedChapters
+        bind:addTag
+    />
     {#if filteredSolutionsList.length !== 0}
         <div class="solutions-count">
             <p>Showing {filteredSolutionsList.length} solution{filteredSolutionsList.length > 1 ? "s" : ""}</p>
@@ -265,15 +262,15 @@
     <div class="solutions">
         {#each filteredSolutionsList as solution (solution.ID_Num)}
             {#if solution.Display}
-                <SolutionCard {...solution} {tagClicked}/>
+                {#key solution.ID_Num}
+                    <SolutionCard {...solution} {tagClicked}/>
+                {/key}
             {/if}
         {/each}
     </div>
-    {#if hasFilters}
-        {#if filteredSolutionsList.length === 0}
-            <p style="color: var(--brandGray70); text-align: center; margin:15px 0 5px 0; font-family:RobotoBold;">No results found.</p>
-            <p style="color: var(--brandGray70); text-align: center; margin:0; margin-bottom: 15px;">Try adjusting your search criteria.</p>
-        {/if}
+    {#if filteredSolutionsList.length === 0}
+        <p style="color: var(--brandGray70); text-align: center; margin:15px 0 5px 0; font-family:RobotoBold;">No results found.</p>
+        <p style="color: var(--brandGray70); text-align: center; margin:0; margin-bottom: 15px;">Try adjusting your search criteria.</p>
     {/if}
     
 </div>
