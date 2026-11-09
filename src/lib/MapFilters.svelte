@@ -8,6 +8,7 @@
 
     let {
         home,
+        hasMap = true,
         Chapter,
         provinceCounts,
         totalProvinceCounts,
@@ -97,7 +98,7 @@
     });
     let height = $derived(width * .8);
     let filtersWidth = $derived.by(() => {
-        if (windowWidth > 750) {
+        if (hasMap && windowWidth > 750) {
             return layoutWidth * 0.4;
         } else {
             return layoutWidth;
@@ -107,6 +108,7 @@
     async function loadMapData() {
         layoutWidth = document.getElementById("solutions-map").clientWidth;
         windowWidth = window.innerWidth;
+        if (!hasMap) return;
         try {
             mapData = $page.data.mapGeo;
             projection = geoConicConformal()
@@ -122,6 +124,7 @@
     const projectMap = () => {
         layoutWidth = document.getElementById("solutions-map").clientWidth;
         windowWidth = window.innerWidth;
+        if (!hasMap) return;
         projection = geoConicConformal()
             .rotate([100, 0, 0])
             .parallels([49, 77])
@@ -141,6 +144,7 @@
 
 <div class="layout" id="solutions-map">
     {#if width}
+    {#if hasMap}
     <div class="map-container">
         <h2 class="header">Browse the {Chapter ? Chapter.toLowerCase() : " "} solutions:</h2>
         {#if mapData?.features && width}
@@ -213,51 +217,58 @@
             {/if}
         {/if}
     </div>
+    {/if}
 
-    <div class="filters" style="width: {filtersWidth}px">
+    <div class="filters {hasMap ? "" : "no-map"}" style="width: {filtersWidth}px">
+        <div class="filters">
         <h3 class="header">Filters</h3>
-        <div class="select-box">
-            <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch} onkeydown={(event) => {if (event.key === 'Enter') applyFilters()}}/>
-        </div>
-        <div class="select-box province-select">
-            <Select items={provinces} showChevron bind:value={pendingProvince}
-                containerStyles="font-family: Roboto !important;"
-                inputStyles="font-family: Roboto !important;"
-                groupBy={item => item.group}
-                placeholder="Province/Territory" />
-        </div>
-        <div class="select-box">
-            <Select items={municipalities} multiple showChevron bind:value={pendingMunicipalities}
-                containerStyles="font-family: Roboto !important;"
-                inputStyles="font-family: Roboto !important;"
-                groupBy={(item) => {
-                    if (item.label === "Across Canada") return "";
-                    return "Municipalities";
-                }}
-                placeholder="Municipality" />
-        </div>
-        <div class="select-box">
-            <Select items={tags} multiple showChevron bind:value={pendingTags}
-                containerStyles="font-family: Roboto !important;"
-                inputStyles="font-family: Roboto !important;"
-                groupBy={item => item.group}
-                placeholder="Tags" />
-        </div>
-
-        {#if home}
-            <div>
-                <p style="color: var(--brandGray70); margin:0; padding-bottom: 10px; font-size: 16px;">Category</p>
-                <div id="category-chips">
-                    {#each Object.keys(chapterColours) as cat}
-                        <ChapterChips toggle Chapter={cat} bind:clicked={pendingChapters[cat]} />
-                    {/each}
-                </div>
+            <div class="select-box">
+                <input type="search" placeholder="Search" id="search-box" bind:value={pendingSearch} onkeydown={(event) => {if (event.key === 'Enter') applyFilters()}}/>
             </div>
-        {/if}
+            {#if hasMap}
+                <div class="select-box province-select">
+                    <Select items={provinces} showChevron bind:value={pendingProvince}
+                        containerStyles="font-family: Roboto !important;"
+                        inputStyles="font-family: Roboto !important;"
+                        groupBy={item => item.group}
+                        placeholder="Province/Territory" />
+                </div>
+                <div class="select-box">
+                    <Select items={municipalities} multiple showChevron bind:value={pendingMunicipalities}
+                        containerStyles="font-family: Roboto !important;"
+                        inputStyles="font-family: Roboto !important;"
+                        groupBy={(item) => {
+                            if (item.label === "Across Canada") return "";
+                            return "Municipalities";
+                        }}
+                        placeholder="Municipality" />
+                </div>
+            {/if}
+            <div class="select-box">
+                <Select items={tags} multiple showChevron bind:value={pendingTags}
+                    containerStyles="font-family: Roboto !important;"
+                    inputStyles="font-family: Roboto !important;"
+                    groupBy={item => item.group}
+                    placeholder="Tags" />
+            </div>
+        </div>
 
-        <div>
-            <button class="filter-button" id="apply-filter" onclick={applyFilters}>Apply</button>
-            <button class="filter-button" id="clear-filter" onclick={clearFilters}>Clear</button>
+        <div class="filters">
+            {#if home || !hasMap}
+                <div>
+                    <p style="color: var(--brandGray70); margin:0; padding-bottom: 10px; font-size: 16px;">Category</p>
+                    <div id="category-chips">
+                        {#each Object.keys(chapterColours) as cat}
+                            <ChapterChips toggle Chapter={cat} bind:clicked={pendingChapters[cat]} />
+                        {/each}
+                    </div>
+                </div>
+            {/if}
+
+            <div>
+                <button class="filter-button" id="apply-filter" onclick={applyFilters}>Apply</button>
+                <button class="filter-button" id="clear-filter" onclick={clearFilters}>Clear</button>
+            </div>
         </div>
     </div>
     {/if}
@@ -279,6 +290,17 @@
         gap: 20px;
         padding-bottom: 15px;
         max-width: 90dvw;
+    }
+
+    .filters.no-map {
+        padding-bottom: 0;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .no-map .filters {
+        justify-content: start;
+        width: 50%;
     }
 
     .header {
@@ -490,6 +512,15 @@
         .condensed-map {
             min-width: auto;
             width: 100%;
+        }
+
+        .filters.no-map {
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .no-map .filters {
+            width: 90dvw;
         }
     }
 </style>
