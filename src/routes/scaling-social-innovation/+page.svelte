@@ -86,7 +86,7 @@
     <div class="body-text">
         <TextTitle title="SOCIAL INNOVATION: A LOCAL STRENGTH" chapter="Scaling social innovation"/>
         <p>
-            The programs and initiatives explored in this volume are creative, local approaches to solving some of Canada’s most pressing problems. They provide evidence that people across the country can come together and make their communities more vibrant, welcoming, and livable. The purpose of this chapter is to ask two important questions: what made these solutions work? And how can this kind of progress be encouraged in more places? 
+            The programs and initiatives explored in this volume are creative, local approaches to solving some of Canada’s most pressing problems. They provide evidence that people across the country can come together and make their communities more vibrant, welcoming, and livable. The purpose of this report is to ask two important questions: what made these solutions work? And how can this kind of progress be encouraged in more places? 
         </p>
 
         <ImageSingle imageURL={`${base}/web-assets/scaling-social-innovation/local.png`} source="Image credit: Kathryn Exon Smith"
