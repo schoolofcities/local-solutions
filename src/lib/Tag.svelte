@@ -45,7 +45,7 @@
     }
 
     .spotlighted {
-        color: var(--brandBlack);
+        color: var(--LoSoNavyBlue);
         background-color: var(--brandYellow);
     }
 </style>

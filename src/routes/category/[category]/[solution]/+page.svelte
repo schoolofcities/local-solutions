@@ -16,6 +16,7 @@
      } = $props();
 
     let solution = $derived(data.solution);
+    let cohortLink = $derived(`${base}/featured-solutions?tags=${solution.Cohort}#solutions-map`);
 </script>
 
 <svelte:head>
@@ -54,6 +55,9 @@
             {#each solution.Chapter as entry}
                 <ChapterChips Chapter={entry} large={true}/>
             {/each}
+            <a class="year-chip" href={cohortLink}>
+                {solution.Cohort}
+            </a>
         </div>
         <div class="description-text">
             {@html parseMarkdown(solution.Description)}
@@ -187,6 +191,27 @@
 
     .back-link:hover {
         text-decoration: underline;
+    }
+
+    .year-chip {
+        display: inline-block;
+        font-family: TradeGothicBold;
+        padding: 9px 12px;
+        background-color: var(--brandYellow);
+        color: var(--LoSoNavyBlue);
+        width: fit-content;
+        font-size: 20px;
+        border-radius: 10px;
+        text-transform: uppercase;
+        text-decoration: none;
+        border: none;
+        box-sizing: border-box;
+        white-space: nowrap;
+        margin: 0;
+    }
+    .year-chip:hover {
+        cursor: pointer;
+        opacity: 60%;
     }
 
     @media (max-width: 500px) {

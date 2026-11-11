@@ -6,7 +6,7 @@
 
 <div class="container">
     <p>
-        How can we expand the reach of great ideas – like the ones featured in  this volume – across the country? This chapter explores methods of scaling social innovations, using examples from Canada and around the world to highlight the importance of networks and funding, storytelling, and breaking down barriers to do more of “what works” and bring  promising local solutions to new places and sectors.
+        How can we expand the reach of great ideas – like the ones featured here – across the country? Our research report explores methods of scaling social innovations, using examples from Canada and around the world to highlight the importance of networks and funding, storytelling, and breaking down barriers to do more of “what works” and bring  promising local solutions to new places and sectors.
     </p>
     <a href="./scaling-social-innovation" class="link-button">
         Click here to read about scaling social innovation <div class="arrow"><Arrow height={15}/></div>
@@ -38,6 +38,7 @@
 
     .link-button {
         background-color: var(--brandYellow);
+        color: var(--LoSoNavyBlue);
         border-radius: 50px;
         border: 1px solid var(--brandBlack);
         box-sizing: border-box;
@@ -45,7 +46,6 @@
         font-family: TradeGothicBold;
         font-size: 18px;
         width: fit-content;
-        color: var(--brandBlack);
         text-decoration: none;
         display: flex;
         flex-direction: row;
