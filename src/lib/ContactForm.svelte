@@ -3,6 +3,7 @@
     import Success from "./assets/icons/success.svelte";
     import Loading from "./assets/icons/loading.svelte";
     import Warning from "./assets/icons/warning.svelte";
+    import {onMount} from "svelte";
 
     let form;
     let formFirstName, formLastName, formEmail, formOrg, formLocation, formDescription;
@@ -17,6 +18,13 @@
     let loading = false;
     let succeeded = false;
     let failed = false;
+
+    const SITE_KEY = "0x4AAAAAAGJApO3t0dCyDLWA"; // production key
+    // const SITE_KEY = "1x00000000000000000000AA"; // test key
+    let turnstileEl;
+    let turnstileWidgetId;
+    let turnstileToken = "";
+    let captchaError = "";
 
     const url = "https://script.google.com/macros/s/AKfycbz-TYH5-STeVcrHH5QQ9uJu0Q1KkFazoGMJRjBMLcyFLFPjizLhfyZNtqQn8BsLVqqWJQ/exec";
     
@@ -38,7 +46,7 @@
     }
 
     
-    async function submitForm(event) {
+        async function submitForm(event) {
         event.preventDefault();
         loading = true;
         succeeded = false;
@@ -49,25 +57,31 @@
             return;
         }
 
-        const formData = new FormData();
+        if (!turnstileToken) {
+            captchaError = "Please complete the captcha.";
+            loading = false;
+            return;
+        }
 
+        const formData = new FormData();
         formData.append("First Name", formFirstName);
         formData.append("Last Name", formLastName);
         formData.append("Email", formEmail);
         formData.append("Organization", formOrg);
         formData.append("Location", formLocation);
         formData.append("Brief description of the solution", formDescription);
+        formData.append("cf-turnstile-response", turnstileToken);
 
         try {
             const response = await fetch(url, { method: "POST", body: formData });
-            if (response.ok) {
+            const result = await response.json();
+            if (response.ok && result.result === "success") {
                 formFirstName = undefined;
                 formLastName = undefined;
                 formEmail = undefined;
                 formOrg = undefined;
                 formLocation = undefined;
                 formDescription = undefined;
-                loading = false;
                 succeeded = true;
             } else {
                 failed = true;
@@ -76,8 +90,36 @@
             failed = true;
         } finally {
             loading = false;
+            // tokens are single-use, so get a fresh one for the next attempt
+            turnstileToken = "";
+            window.turnstile?.reset(turnstileWidgetId);
         }
     }
+
+    onMount(() => {
+        const renderWidget = () => {
+            turnstileWidgetId = window.turnstile.render(turnstileEl, {
+                sitekey: SITE_KEY,
+                callback: (token) => { turnstileToken = token; captchaError = ""; },
+                "expired-callback": () => { turnstileToken = ""; },
+                "error-callback": () => { turnstileToken = ""; }
+            });
+        };
+
+        if (window.turnstile) {
+            renderWidget();
+        } else {
+            const s = document.createElement("script");
+            s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+            s.async = true;
+            s.onload = renderWidget;
+            document.head.appendChild(s);
+        }
+
+        return () => {
+            if (turnstileWidgetId !== undefined) window.turnstile?.remove(turnstileWidgetId);
+        };
+    });
 
 </script>
 
@@ -98,6 +140,10 @@
         <ContactFormInput id="org" label="Organization" type="text" required={true} bind:value={formOrg} error={errors.org}/>
         <ContactFormInput id="loc" label="Location" type="text" required={true} bind:value={formLocation} error={errors.location}/>
         <ContactFormInput id="desc" label="Brief description of the solution" type="textarea" required={true} bind:value={formDescription} error={errors.description}/>
+        <div bind:this={turnstileEl}></div>
+        {#if captchaError}
+            <span class="submission-status" style:color="var(--brandRed)"><Warning/> {captchaError}</span>
+        {/if}
 
         <div class="submit-area">
             <button type="submit" class="submit-button">
