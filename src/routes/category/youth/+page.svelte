@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = "Youth";
@@ -53,10 +55,12 @@
         <p>
             Youth also bear the brunt of a lack of affordable housing. The 2021 census showed that fewer than 20% of those under 25 own their own homes – a figure that has fallen by over 5% since 2011<Footnote id={addFootnote(fns[3])}/> – and that Millennials are less likely to be homeowners than were previous generations at the same age.<Footnote id={addFootnote(fns[4])}/> Rising rents and displacement therefore have a particularly significant impact on this population, and many are creating or turning to innovative housing models such as shared ownership, land trusts, and co-living. 
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/youth/civic_engagement_youth-urban.svg`}
-            svg360={`${base}/web-assets/youth/civic_engagement_youth-urban_360.svg`}
-        />
+        <ChartFrame meta={charts['civic_engagement_youth-urban']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/youth/civic_engagement_youth-urban-notitle.svg`}
+                svg360={`${base}/web-assets/youth/civic_engagement_youth-urban_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             The unfolding realities of the climate crisis have contributed to rising levels of anxiety, as young people face the prospect of a more chaotic and unpredictable future. In the realm of mental health, youth have emerged as a distinct group, with new government programs to address access to care, in places of all sizes, including in rural, remote, and Indigenous areas.
         </p>

@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = "Civic engagement";
@@ -44,24 +46,30 @@
         <p>
             Participation in civic life is the strongest driver of trust in government and democratic resilience, and is essential for creating strong, inclusive communities.<Footnote id={addFootnote(fns[0])}/> Yet in Canada, many of the core markers of democratic participation are in decline. Voter turnout in federal elections has been below 70% for decades, and at the municipal level – where government policies often have significant impacts on people’s day-to-day lives – turnout is even lower, in some places plunging to below 40%.<Footnote id={addFootnote(fns[1])}/> Between 2018 and 2023, rates of informal volunteering fell from 74% to 66%, driven largely by a drop in community improvement activities such as maintaining public spaces, participating in public meetings, and organizing events.<Footnote id={addFootnote(fns[2])}/> The trend goes beyond Canada; in some other democracies as well, membership in community groups from bowling leagues to churches to volunteer associations is declining, decreasing opportunities to build trust and strong social ties with others from different backgrounds.<Footnote id={addFootnote(fns[3])}/> The weakening of these traditional forms of social and democratic engagement can, in turn, erode people’s sense of civic agency and individual fulfilment. In a 2025 survey, less than 56% of the population reported a high sense of meaning and purpose, and 13% of people over 15 reported feeling lonely “often” or “always.”<Footnote id={addFootnote(fns[4])}/> At a time when Canadian cities and towns are changing quickly, it seems that residents are becoming more detached from the important decisions and actions that shape their communities – putting the legitimacy and quality of our democracy at risk. 
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/civic-engagement/civic_engagement_municipal_comparison_2026.svg`}
-            svg360={`${base}/web-assets/civic-engagement/civic_engagement_municipal_comparison_2026_360.svg`}
-        />
+        <ChartFrame meta={charts['civic_engagement_municipal_comparison_2026']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/civic-engagement/civic_engagement_municipal_comparison_2026-notitle.svg`}
+                svg360={`${base}/web-assets/civic-engagement/civic_engagement_municipal_comparison_2026_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             One way to address this disengagement is through making local connections with others, whether through arts and culture, social activity, or shared experiences in the natural world. Engagement at the community level can range in formality and complexity from official advisory processes led by municipalities to pop-up spaces that act as gathering points for neighbours. Community media infrastructures play a particularly important role in a climate of growing mis- and dis-information, as they build public consciousness and raise awareness of changes at the local level.<Footnote id={addFootnote(fns[5])}/>
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/civic-engagement/civic_engagement_informal_volunteering.svg`}
-            svg360={`${base}/web-assets/civic-engagement/civic_engagement_informal_volunteering_360.svg`}
-        />
+        <ChartFrame meta={charts['civic_engagement_informal_volunteering']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/civic-engagement/civic_engagement_informal_volunteering-notitle.svg`}
+                svg360={`${base}/web-assets/civic-engagement/civic_engagement_informal_volunteering_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             The Civic Engagement and Democracy category features ideas that fill gaps in existing public engagement models, offering new pathways for participation through collaboration, civic dialogue, and cultural activity. Together, they advance community empowerment by expanding who participates, how they participate, and what tools are available to shape change.<Footnote id={addFootnote(fns[6])}/> In a time of declining trust in institutions and traditional media, the kinds of connections fostered by municipal initiatives can provide a link to local realities and an opportunity to contribute to making positive change.
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/civic-engagement/civic_engagement_misinformation.svg`}
-            svg360={`${base}/web-assets/civic-engagement/civic_engagement_misinformation_360.svg`}
-        />
+        <ChartFrame meta={charts['civic_engagement_misinformation']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/civic-engagement/civic_engagement_misinformation-notitle.svg`}
+                svg360={`${base}/web-assets/civic-engagement/civic_engagement_misinformation_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             Collective action can make challenges less daunting, and reasoning together is an essential part of thinking through matters of public concern, as it enables us to listen to other perspectives, expand our opinions, and check biases.<Footnote id={addFootnote(fns[7])}/> Several programs in this collection specifically address loneliness, bringing people together to foster a greater sense of belonging, encourage deeper dialogue, and fight discrimination. Others aim to advance individual, collective, or sectoral capacity by sharing power, knowledge, and resources, to support common goals of poverty alleviation and reconciliation. Robust democratic engagement can also be reflected in a thriving arts and culture sector, as the arts provide a creative means of reflecting upon society's core values and can offer broad opportunities for participation, including groups that may be left out of more formal means of engagement.<Footnote id={addFootnote(fns[8])}/> Accordingly, initiatives that create space for arts organizations and strengthen their capacity are also featured here. 
         </p>

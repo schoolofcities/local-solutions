@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = 'Housing';
@@ -54,21 +56,27 @@
         <p>
             Decades of policy shifts have contributed to this reality. In the 1970s, governments viewed housing as a tool for income redistribution, but subsequent decades brought funding cuts, the devolution of responsibility for public construction to lower levels of government jurisdiction, and a growing reliance on market forces for delivering housing.<Footnote id={addFootnote(fns[1])}/> More recently, rising construction costs, development charges, and financing challenges have slowed new projects,<Footnote id={addFootnote(fns[2])}/> while pandemic-related pressures and high net immigration have intensified demand.<Footnote id={addFootnote(fns[3])}/> According to the Canada Mortgage and Housing Corporation (CMHC), Canada needs at least 430,000 and up to 480,000 housing starts each year until 2035 to meet projected demand.<Footnote id={addFootnote(fns[4])}/>  
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/housing/housing_starts-households-chart.svg`}
-            svg360={`${base}/web-assets/housing/housing_starts-households-chart_360.svg`}
-        />
-        <GraphicSingle
-            svg720={`${base}/web-assets/housing/housing_FAA-housing-units.svg`}
-            svg360={`${base}/web-assets/housing/housing_FAA-housing-units_360.svg`}
-        />
+        <ChartFrame meta={charts['housing_starts-households-chart']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/housing/housing_starts-households-chart-notitle.svg`}
+                svg360={`${base}/web-assets/housing/housing_starts-households-chart_360-notitle.svg`}
+            />
+        </ChartFrame>
+        <ChartFrame meta={charts['housing_FAA-housing-units']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/housing/housing_FAA-housing-units-notitle.svg`}
+                svg360={`${base}/web-assets/housing/housing_FAA-housing-units_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             With housing costs far outpacing wages,<Footnote id={addFootnote(fns[5])}/> a projected 2.6 million households will be in “core housing need” by 2027<Footnote id={addFootnote(fns[6])}/> – meaning their current housing is inadequate, unaffordable, or unsuitable, and that they would need to spend 30% or more of their income to access acceptable housing.<Footnote id={addFootnote(fns[7])}/> There is also a mismatch between housing types available and residents’ needs. With a persistent shortage of purpose-built rental units, any type of recently built dwelling that is available is being rented out; nearly half of the new housing built between 2016 and 2021 was rented rather than owned by the occupants, the highest proportion since the apartment boom in the 1960s.<Footnote id={addFootnote(fns[8])}/> Purpose-built rentals have historically comprised only a small share of new construction, and social housing accounted for just 3.5% of total dwellings in 2022.<Footnote id={addFootnote(fns[9])}/> With renting on the rise and home ownership declining in nearly all provinces and territories,<Footnote id={addFootnote(fns[10])}/> the mix of available housing needs to shift to reflect the current Canadian reality. 
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/housing/housing_typology-tree-map.svg`}
-            svg360={`${base}/web-assets/housing/housing_typology-tree-map_360.svg`}
-        />
+        <ChartFrame meta={charts['housing_typology-tree-map']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/housing/housing_typology-tree-map-notitle.svg`}
+                svg360={`${base}/web-assets/housing/housing_typology-tree-map_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             Over 300,000 households were on a waiting list for subsidized housing in 2024, and almost 60% had been waiting for two years or longer.<Footnote id={addFootnote(fns[11])}/> Nearly a quarter were living in unaffordable housing.<Footnote id={addFootnote(fns[12])}/> The 2024 Canadian Social Survey found that nearly half of respondents were “very concerned” about housing affordability, and that over a third of households struggled to cover essential expenses over the previous year.<Footnote id={addFootnote(fns[13])}/> These trends highlight both the strain that the housing crisis puts on households and the urgency of increasing the availability of housing options to align with Canadians’ needs. 
         </p>
