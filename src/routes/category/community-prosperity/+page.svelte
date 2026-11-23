@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = "Community prosperity";
@@ -43,10 +45,12 @@
         <p>
             Inclusive opportunities, meaningful work, and mutual aid all contribute to prosperity and support community members in leading dignified lives.<Footnote id={addFootnote(fns[1])}/> Community wealth-building initiatives help residents access more opportunities for participation and sharing in the economy. Expanding access to employment opportunities, skills development, and training can create a path to prosperity. Many people face barriers to employment, such as disability, homelessness, or addiction, which can make accessing these opportunities more difficult. The employment rate for people with disabilities in 2022 was 16% lower than for those without,<Footnote id={addFootnote(fns[2])}/> and over a third of those who are employed report feeling disadvantaged in finding work.<Footnote id={addFootnote(fns[3])}/> For those in the workforce, there are also large wage disparities corresponding to race, immigration status, disability, gender, and Indigeneity. For example, in 2023 Indigenous individuals earned $7,500 less than the national median after-tax income.<Footnote id={addFootnote(fns[4])}/>
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/community-prosperity/wealth_dignity_wages-map.svg`}
-            svg360={`${base}/web-assets/community-prosperity/wealth_dignity_wages-map_360.svg`}
-        />
+        <ChartFrame meta={charts['wealth_dignity_wages-map']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/community-prosperity/wealth_dignity_wages-map-notitle.svg`}
+                svg360={`${base}/web-assets/community-prosperity/wealth_dignity_wages-map_360-notitle.svg`}
+            />
+        </ChartFrame>
         <div class="inline-images">
             <GraphicSingle standalone={false}
                 svg720={`${base}/web-assets/community-prosperity/wealth_dignity_income.svg`}

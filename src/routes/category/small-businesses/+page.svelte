@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = "Small businesses";
@@ -61,20 +63,24 @@
         <p>
             Canadian small businesses are currently facing unique challenges. The country’s aging population is driving a “succession tsunami,” with 76% of business owners planning to exit their businesses within 10 years – a potential exchange of $2 trillion in business assets over the next decade. Yet according to a 2022 survey by the Canadian Federation of Independent Business, only 9% of business owners have a formal succession plan in place.<Footnote id={addFootnote(fns[6])}/> Poorly managed transitions could lead to widespread closures – a blow to any community and one with a disproportionate impact on smaller communities where businesses serve as both economic anchors and cultural hubs.  
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/small-businesses/small-businesses_rural-urban-map.svg`}
-            svg360={`${base}/web-assets/small-businesses/small-businesses_rural-urban-map_360.svg`}
-        />
+        <ChartFrame meta={charts['small-businesses_rural-urban-map']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/small-businesses/small-businesses_rural-urban-map-notitle.svg`}
+                svg360={`${base}/web-assets/small-businesses/small-businesses_rural-urban-map_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             Small businesses today are also still recovering from the effects of the COVID-19 pandemic. Over 60% of firms experienced revenue declines in 2020, and small businesses were twice as likely as larger ones to report significant losses.<Footnote id={addFootnote(fns[7])}/> Many are still working to rebuild in the face of inflationary pressures, tariffs, and supply chain disruptions.<Footnote id={addFootnote(fns[8])}/> These challenges are especially evident in downtown cores, where shifting consumer habits, hybrid work patterns, and major infrastructure projects have reduced foot traffic and disrupted local commerce.  
         </p>
         <p>
             New businesses are in a particularly difficult situation, especially in smaller municipalities that are more geographically dispersed. Small, rural, and remote communities often lack a permanent, centralized hub for business support and delivery, leaving entrepreneurs without access to mentorship, financing, and professional networks. Younger, innovative firms looking to expand also often struggle to access the needed financing because of their limited tangible assets and management experience.<Footnote id={addFootnote(fns[9])}/> 
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/small-businesses/small-businesses_births-chart.svg`}
-            svg360={`${base}/web-assets/small-businesses/small-businesses_births-chart_360.svg`}
-        />
+        <ChartFrame meta={charts['small-businesses_births-chart']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/small-businesses/small-businesses_births-chart-notitle.svg`}
+                svg360={`${base}/web-assets/small-businesses/small-businesses_births-chart_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             To address these challenges, communities and organizations across Canada are implementing a range of innovative strategies. This collection highlights several of these solutions: 
         </p>

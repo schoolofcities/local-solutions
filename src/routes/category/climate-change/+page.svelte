@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = "Climate change";
@@ -44,20 +46,24 @@
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>
         
-        <GraphicSingle shapeAround={true}
-            svg720={`${base}/web-assets/climate-change/sustainability_wildfire-bars.svg`}
-            svg360={`${base}/web-assets/climate-change/sustainability_wildfire-bars_360.svg`}
-        />
+        <ChartFrame meta={charts['sustainability_wildfire-bars']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/climate-change/sustainability_wildfire-bars-notitle.svg`}
+                svg360={`${base}/web-assets/climate-change/sustainability_wildfire-bars_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             Canada is blessed with natural riches, from vast forests to abundant fresh water and extensive coastlines. Yet these also make us uniquely vulnerable to the risks of a changing climate. Over the past 75 years, Canada’s average land temperature rose by 1.7°C – twice as quickly as the global rate – and the arctic region warmed faster still.<Footnote id={addFootnote(fns[0])}/> The changing climate creates environmental threats that put Canadian communities at risk. Extreme weather events such as heat waves, floods, high winds, and storms can damage buildings and critical infrastructure systems. Rising sea levels threaten coastal communities. Wildfires have become a perennial occurrence across the country, prompting mass evacuations and causing billions of dollars in damages.<Footnote id={addFootnote(fns[1])}/> 
         </p>
         <p>
             The resilience of the essential ecosystems that underpin key sectors of Canada's economy, including agriculture, tourism, and energy, is increasingly at risk. Added to the extensive costs of rebuilding in the wake of climate-related destruction – for individuals and institutions – is the rising cost of insurance, or gaps in coverage where insurers deem the region too risky.<Footnote id={addFootnote(fns[2])}/> The climate crisis is no longer a future threat for Canada’s communities: it is here and now, and it will be felt in our cities.<Footnote id={addFootnote(fns[3])}/> 
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/climate-change/sustainability_climate-risk-maps.svg`}
-            svg360={`${base}/web-assets/climate-change/sustainability_climate-risk-maps_360.svg`}
-        />
+        <ChartFrame meta={charts['sustainability_climate-risk-maps']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/climate-change/sustainability_climate-risk-maps-notitle.svg`}
+                svg360={`${base}/web-assets/climate-change/sustainability_climate-risk-maps_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             While federal commitments at the international level have led to some progress on decarbonization, Canada still ranks only in the middle of the pack among its peers in the OECD and G7.<Footnote id={addFootnote(fns[4])}/> Both rural and urban municipalities are on the front lines of climate adaptation. Local governments, with their responsibility for key infrastructure, land-use planning, and service delivery, are well positioned to implement place-based solutions that respond directly to community needs.<Footnote id={addFootnote(fns[5])}/> Legislation at the municipal level can lead the way to sustainable development by prioritizing transit and active transportation options and encouraging denser and more energy efficient construction.<Footnote id={addFootnote(fns[6])}/>  
         </p>
@@ -67,10 +73,12 @@
         <p>
             The many inspiring ideas in this category show that municipal governments are thinking creatively about how to help ensure their most vulnerable residents can access clean air and water and have safe ways to get around. Some are bringing ideas from other countries like Japan and the U.K; others have developed pioneering frameworks to value natural assets or consider planetary boundaries to understand context-based sustainability.  
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/climate-change/sustainability_watersheds-map.svg`}
-            svg360={`${base}/web-assets/climate-change/sustainability_watersheds-map_360.svg`}
-        />
+        <ChartFrame meta={charts['sustainability_watersheds-map']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/climate-change/sustainability_watersheds-map-notitle.svg`}
+                svg360={`${base}/web-assets/climate-change/sustainability_watersheds-map_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             A number of initiatives build capacity at the neighbourhood, block, or building level, encouraging community involvement in participatory mapping, micro-grants, and home retrofits. More formalized training programs develop skills for everyone from bike mechanics to architects. We were inspired by how these ideas create community bonds while building resilience, from neighbourhood action groups to corporate communities of practice. 
         </p>

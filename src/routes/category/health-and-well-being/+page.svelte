@@ -4,10 +4,12 @@
     import TitleSection from '$lib/TitleSection.svelte';
     import TextTitle from '$lib/TextTitle.svelte';
     import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import ChartFrame from '$lib/ChartFrame/ChartFrame.svelte';
     import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { base } from '$app/paths';
+    import charts from './charts.js';
     
     let { data } = $props();
     const Chapter = "Health and well-being";
@@ -39,7 +41,7 @@
 
 
 <div>
-    <Password/>
+    <!-- <Password/> -->
     <TitleSection Title={Chapter} {Chapter}/>
     <div class="body-text">
         <TextTitle title="The Challenge" chapter={Chapter}/>
@@ -57,17 +59,21 @@
         <p>
             Socioeconomic stressors can worsen both physical and mental health and create barriers to treatment for marginalized groups, since poor health and economic insecurity can reinforce one another.<Footnote id={addFootnote(fns[1])}/> The COVID-19 pandemic intensified these stressors, pushing individuals and entire health-care systems into precarity. Compared to pre-pandemic rates, three times as many Canadians reported having “poor or fair” mental health in 2021.<Footnote id={addFootnote(fns[2])}/> Opioid deaths and hospitalizations remain high today.<Footnote id={addFootnote(fns[3])}/> Indigenous communities both on and off reserves face disproportionately high rates of poor mental health, substance use disorders, and economic stressors,<Footnote id={addFootnote(fns[4])}/> as well as high turnover among non-Indigenous providers.  In rural and remote areas, the long distances to a highly limited number of hospitals and primary care providers can pose additional barriers to treatment. 
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/health-and-well-being/mental-health_travel-burden-bars.svg`}
-            svg360={`${base}/web-assets/health-and-well-being/mental-health_travel-burden-bars_360.svg`}
-        />
+        <ChartFrame meta={charts['mental-health_travel-burden-bars']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/health-and-well-being/mental-health_travel-burden-bars-notitle.svg`}
+                svg360={`${base}/web-assets/health-and-well-being/mental-health_travel-burden-bars_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             COVID-19 also had profound effects on the health-care workforce (which is composed predominantly of women<Footnote id={addFootnote(fns[6])}/>), exacerbating existing issues such as burnout, understaffing, long hours, and workplace safety concerns.<Footnote id={addFootnote(fns[7])}/> Immigrants play a key role in Canadian health care amid an aging workforce and the growing needs of the aging population.<Footnote id={addFootnote(fns[8])}/> One challenge of health policy is ensuring that providers and health-care workers themselves feel supported, even as patients’ complex needs outstrip what their services alone can address. Health care approaches that recognize the importance of interventions outside of clinical settings are an important way of providing a wider base of support for patients and those who care for them.
         </p>
-        <GraphicSingle
-            svg720={`${base}/web-assets/health-and-well-being/mental-health_opioid-charts.svg`}
-            svg360={`${base}/web-assets/health-and-well-being/mental-health_opioid-charts_360.svg`}
-        />
+        <ChartFrame meta={charts['mental-health_opioid-charts']}>
+            <GraphicSingle
+                svg720={`${base}/web-assets/health-and-well-being/mental-health_opioid-charts-notitle.svg`}
+                svg360={`${base}/web-assets/health-and-well-being/mental-health_opioid-charts_360-notitle.svg`}
+            />
+        </ChartFrame>
         <p>
             Health and well-being needs, particularly in the mental health sphere, are often deeply intertwined with issues that go beyond the scope of one provider’s services, making collaboration across a continuum of care essential. Some initiatives covered in this collection demonstrate how sharing information and working in partnership can make better use of existing resources, improve the quality of care, and reach more people in need. Others offer a range of dispatch models to bring services directly to community members, such as mobile health teams and non-police emergency lines. These can help (re)build trust with vulnerable populations, delivering trauma-informed and culturally appropriate care through community health providers. Many of these providers work alongside local government agencies and community members, providing education and demonstrating the positive impacts of their services.
         </p>
