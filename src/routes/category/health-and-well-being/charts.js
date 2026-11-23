@@ -21,7 +21,7 @@ const charts = {
 	'mental-health_travel-burden-bars': {
 		title: 'Hospital travel burden for urban and rural residents',
 		source: 'Hospital Morbidity Database (CIHI, 2018-2023), Statistics Canada (2024)',
-		note: 'Factors that impact travel burden include patient living in a different census subdivision than the hospital, greater travel distance required, no road available, patient is a senior or child, and hospitalization is urgent or unscheduled.',
+		subtitle: 'Factors that impact travel burden include patient living in a different census subdivision than the hospital, greater travel distance required, no road available, patient is a senior or child, and hospitalization is urgent or unscheduled.',
 		alt: 'Stacked bar chart comparing the share of urban and rural hospital patients with very low, low, moderate, high and very high travel burden.',
 		widths: [360, 720],
 		image: 'mental-health_travel-burden-bars'

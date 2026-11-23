@@ -15,7 +15,7 @@ const charts = {
 	'wealth_dignity_wages-map': {
 		title: 'Comparing provincial and territorial minimum wages to local living wages',
 		source: 'Government of Canada Minimum Wage Database (2025); Living Wage Canada (2025); Alternatives North (2022); Institut de recherche et d’informations socioéconomiques (2025); “Higher-than-ever minimum wage needed to make ends meet in Whitehorse: report”, Yukon News (2025).',
-		note: 'Living wage represents the hourly wage each parent must earn in a two-parent, two-children household. Montreal reflects a household with one adult only. No local living wage available in Nunavut. Largest cities/regions in each province and territory were chosen for local living wage data where data were available. Toronto represents data for the Greater Toronto Area. St. John’s represents data for Eastern Newfoundland.',
+		subtitle: 'Living wage represents the hourly wage each parent must earn in a two-parent, two-children household. Montreal reflects a household with one adult only. No local living wage available in Nunavut. Largest cities/regions in each province and territory were chosen for local living wage data where data were available. Toronto represents data for the Greater Toronto Area. St. John’s represents data for Eastern Newfoundland.',
 		alt: 'Map of Canada comparing each province and territory’s minimum wage with the local living wage in one of its cities. Minimum wages range from $15.00 to $19.75 per hour.',
 		widths: [360, 720],
 		image: 'wealth_dignity_wages-map'
