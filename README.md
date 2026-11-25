@@ -1,7 +1,9 @@
 # Learning From What Works: Leveraging local solutions to make better places
 Learning From What Works is an initiative led by the School of Cities and the Canadian Urban Institute to identify effective, locally driven solutions to the complex challenges communities are facing across Canada. In May 2025 and 2026, we issued national calls for innovative approaches to solving place-based challenges. 
 
-This website serves as a searchable repository of all the organizations featured in the Local Solutions project, including finalists whose inspiring initiatives are covered in depth. Browse the solutions yourself at [learningfromwhatworks.ca](learningfromwhatworks.ca)
+This website serves as a searchable repository of all the organizations featured in the Local Solutions project, including finalists whose inspiring initiatives are covered in depth. 
+
+Browse the solutions yourself at [learningfromwhatworks.ca](learningfromwhatworks.ca)
 
 
 # Documentation
